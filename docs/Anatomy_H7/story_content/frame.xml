@@ -1,0 +1,1374 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="npnxnanbnsnfns01001000011" textdirection="ltr" device="false" fontscale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="classic">
+  <layouts>
+    <layout name="npnxnanbsnfns01001000011" font="Calibri" controllayout="npnxnanbsnfns01001000011" colorscheme="npnxnanbnsnfns01001000011" string_table="npnxnanbnsnfns01001000011" />
+    <layout name="pxabnsnfns01001000011" font="Calibri" controllayout="pxabnsnfns01001000011" colorscheme="npnxnanbnsnfns01001000011" string_table="npnxnanbnsnfns01001000011" />
+    <layout name="npxnabnsnfns01001000011" font="Calibri" controllayout="npxnabnsnfns01001000011" colorscheme="npnxnanbnsnfns01001000011" string_table="npnxnanbnsnfns01001000011" />
+    <layout name="npnxnanbnsnfns01001000011" font="Calibri" controllayout="npnxnanbnsnfns01001000011" colorscheme="npnxnanbnsnfns01001000011" string_table="npnxnanbnsnfns01001000011" />
+    <layout name="pxabnsnfns01001000010" font="Calibri" controllayout="pxabnsnfns01001000010" colorscheme="npnxnanbnsnfns01001000011" string_table="npnxnanbnsnfns01001000011" />
+    <layout name="npnxabnsnfns01001000011" font="Calibri" controllayout="npnxabnsnfns01001000011" colorscheme="npnxnanbnsnfns01001000011" string_table="npnxnanbnsnfns01001000011" />
+    <layout name="npnxanbnsnfns01001000011" font="Calibri" controllayout="npnxanbnsnfns01001000011" colorscheme="npnxnanbnsnfns01001000011" string_table="npnxnanbnsnfns01001000011" />
+  </layouts>
+  <control_options>
+    <optiongroups>
+      <optiongroup name="sidebaroptions">
+        <options>
+          <option name="title_enabled" value="true">
+            <options>
+              <option name="title_text" value="H07 Lymphoid Tissue &amp; Organs 2019" />
+            </options>
+          </option>
+          <option name="logo_enabled" value="true">
+            <options>
+              <option name="logo_url" value="story_content/logo.swf">
+                <properties>
+                  <property name="width" value="1024" />
+                  <property name="height" value="229" />
+                </properties>
+              </option>
+              <option name="html5_logo_url" value="mobile/6ZrKkAfwgGE.jpg" />
+            </options>
+          </option>
+          <option name="sidebar_enabled" value="true">
+            <options>
+              <option name="sidebarpos" value="left" />
+            </options>
+          </option>
+          <optionlist name="tabs">
+            <listitems>
+              <listitem name="customlink" value="true" group="linkleft">
+                <properties>
+                  <property name="title" value="Acknowledgements" />
+                  <property name="data" value="62WilxHnbdW" />
+                  <property name="ignoreSlideLock" value="true" />
+                </properties>
+              </listitem>
+              <listitem name="resources" value="false" group="linkright" />
+              <listitem name="outline" value="true" group="sidebar" />
+              <listitem name="glossary" value="false" group="sidebar" />
+              <listitem name="transcript" value="false" group="sidebar" />
+            </listitems>
+          </optionlist>
+          <option name="time_enabled" value="false">
+            <options>
+              <option name="time_format" value="" />
+            </options>
+          </option>
+          <option name="video_enabled" value="false">
+            <options>
+              <option name="height" value="135" />
+            </options>
+          </option>
+        </options>
+      </optiongroup>
+      <optiongroup name="menuoptions">
+        <options>
+          <option name="flow" value="free" />
+          <option name="wraplistitems" value="false" />
+          <option name="tooltips" value="true" />
+          <option name="autocollapse" value="false" />
+          <option name="autonumber" value="false" />
+          <option name="enableresultsicons" value="true" />
+        </options>
+      </optiongroup>
+      <optiongroup name="controls">
+        <options>
+          <option name="volume" value="false" />
+          <option name="seekbar" value="false">
+            <options>
+              <option name="readonly" value="false" />
+              <option name="readonlyOnce" value="false" />
+            </options>
+          </option>
+          <option name="search" value="true" />
+          <option name="pauseplay" value="false" />
+          <option name="replay" value="false" />
+          <option name="closed_captions" value="false">
+            <options>
+              <option name="font" value="Calibri" />
+            </options>
+          </option>
+        </options>
+      </optiongroup>
+      <optiongroup name="bottombaroptions">
+        <options>
+          <option name="bottombar_enabled" value="true" />
+        </options>
+      </optiongroup>
+    </optiongroups>
+  </control_options>
+  <control_layouts>
+    <control_layout name="npnxnanbsnfns01001000011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="true" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns01001000011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npxnabnsnfns01001000011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npnxnanbnsnfns01001000011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns01001000010">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="false" />
+    </control_layout>
+    <control_layout name="npnxabnsnfns01001000011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npnxanbnsnfns01001000011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+  </control_layouts>
+  <colorschemes>
+    <colorscheme name="npnxnanbnsnfns01001000011">
+      <color_group name="infopanel">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x7C2280" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0000EE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC73013" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="title_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x999999" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="infopanelpopup">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFC4A2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xED5736" alpha="100" stop="0" />
+                <color rgb="0xD44120" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFC4A2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bio_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="timer">
+        <group_colors>
+          <color name="duration">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x00D7FF" alpha="100" stop="0" />
+                <color rgb="0x00ABFF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="elapsed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFEE347" alpha="100" stop="0" />
+                <color rgb="0xFCCC2A" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="stroke">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC7C7C7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="window">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xED5736" alpha="100" stop="0" />
+                <color rgb="0xD44120" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xEB8964" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF49277" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD63F21" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="20" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="editor">
+        <group_colors>
+          <color name="slide_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="html_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC23115" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC93518" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE15429" alpha="100" stop="0" />
+                <color rgb="0xC42D16" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD84121" alpha="100" stop="0" />
+                <color rgb="0xDE4C27" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE1512A" alpha="100" stop="0" />
+                <color rgb="0xD63A1D" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="listitem">
+        <group_colors>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x671B6B" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF98E6E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="viewed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFC4A2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF17D5E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="lines">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDA563A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="glossary">
+        <group_colors>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF98E6E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE85F39" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD96244" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD96244" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF98B6A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xEC7B59" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="resource">
+        <group_colors>
+          <color name="separator">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD35338" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="outline">
+        <group_colors>
+          <color name="search_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFC4A2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD35338" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xEB9471" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCF5336" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="transcript">
+        <group_colors>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="div">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD35338" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="tabs">
+        <group_colors>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC73013" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFC4A2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xED7254" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="seekcontrol">
+        <group_colors>
+          <color name="btn_icon_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFE1D0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_position">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE97D65" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD33F1F" alpha="100" stop="0" />
+                <color rgb="0xCA3416" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC32E13" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE65832" alpha="100" stop="0" />
+                <color rgb="0xDF3F23" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="searchinput">
+        <group_colors>
+          <color name="text_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2D2D2D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2D2D2D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xEB9471" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE76E52" alpha="100" stop="0" />
+                <color rgb="0xE2694D" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icon">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD7654B" alpha="100" stop="0" />
+                <color rgb="0xC42F13" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="scrollarea">
+        <group_colors>
+          <color name="detailb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCA3518" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="detaila">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xEA7C5D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCB3519" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icons">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCA3417" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE55D3B" alpha="100" stop="0" />
+                <color rgb="0xDB4D32" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE2522C" alpha="100" stop="0" />
+                <color rgb="0xD93E20" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF8795B" alpha="100" stop="0" />
+                <color rgb="0xF8795B" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="0">
+              <colors>
+                <color rgb="0xED6546" alpha="100" stop="0" />
+                <color rgb="0xEE6948" alpha="100" stop="128" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="menu">
+        <group_colors>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD35235" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xED7254" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="logo">
+        <group_colors>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC73013" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="checkbox">
+        <group_colors>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6BF8FF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="check">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2BC400" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD35338" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="button">
+        <group_colors>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC23115" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC93518" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE15429" alpha="100" stop="0" />
+                <color rgb="0xC42D16" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD84121" alpha="100" stop="0" />
+                <color rgb="0xDE4C27" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE1512A" alpha="100" stop="0" />
+                <color rgb="0xD63A1D" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="10" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="base">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD63F21" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF49277" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="menu_shade">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDD5233" alpha="100" stop="0" />
+                <color rgb="0xC53D1E" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF5674A" alpha="100" stop="0" />
+                <color rgb="0xF5674A" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xED5736" alpha="100" stop="0" />
+                <color rgb="0xD44120" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slide_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xED5736" alpha="100" stop="0" />
+                <color rgb="0xD44120" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="volume">
+        <group_colors>
+          <color name="thumb_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCB361A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE55E3B" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDB4524" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF26E50" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE75E36" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="HTML">
+        <group_colors>
+          <color name="htmlpage_bg_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x018CB0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+    </colorscheme>
+  </colorschemes>
+  <string_tables>
+    <string_table name="npnxnanbnsnfns01001000011">
+      <string id="acc_active">active</string>
+      <string id="check_include">Check to include</string>
+      <string id="clear">Clear and return to Menu</string>
+      <string id="close">Close</string>
+      <string id="acc_closed_captions">Closed captions. Press the spacebar to toggle captions on and off.</string>
+      <string id="continue">Continue</string>
+      <string id="continueresponsive">Continue</string>
+      <string id="exit">Exit</string>
+      <string id="filter">Filter</string>
+      <string id="finish">FINISH</string>
+      <string id="acc_finish">finish</string>
+      <string id="definition">Definition</string>
+      <string id="acc_definition">definition</string>
+      <string id="glossary">Glossary</string>
+      <string id="terms">Terms</string>
+      <string id="outline">Menu</string>
+      <string id="disabled_orientation">Please rotate your device</string>
+      <string id="next">NEXT</string>
+      <string id="acc_next">next</string>
+      <string id="transcript_chk">Notes</string>
+      <string id="transcript">Notes</string>
+      <string id="bio">Bio</string>
+      <string id="more_info">More info</string>
+      <string id="closed_captions">Captions</string>
+      <string id="acc_pause">pause</string>
+      <string id="acc_play">play</string>
+      <string id="send_an_email">Send an email</string>
+      <string id="prev">PREV</string>
+      <string id="acc_previous">previous</string>
+      <string id="question_list">Question List</string>
+      <string id="acc_replay">replay</string>
+      <string id="resources">Resources</string>
+      <string id="acc_resources">resources</string>
+      <string id="restart">Restart</string>
+      <string id="resume">Resume</string>
+      <string id="search">Search...</string>
+      <string id="acc_search_input">search</string>
+      <string id="search_in">Search in:</string>
+      <string id="search_results">Search Results</string>
+      <string id="acc_skipnavigation">Skip Navigation. Hit enter to return to the slide.</string>
+      <string id="slide_text_chk">Slide Text</string>
+      <string id="submitall">SUBMIT ALL</string>
+      <string id="acc_submitall">submit all</string>
+      <string id="submit">SUBMIT</string>
+      <string id="acc_submit">submit</string>
+      <string id="acc_volume">volume</string>
+    </string_table>
+  </string_tables>
+  <fonts>
+    <font name="Calibri">
+      <files>
+        <file bold="true" italic="false" />
+        <file bold="false" italic="false" />
+      </files>
+    </font>
+  </fonts>
+  <sounds enabled="true" />
+  <nav_data>
+    <outline>
+      <links>
+        <slidelink slideid="_player.6aorm6DVHdA" displaytext="Start" expand="false" type="slide">
+          <links>
+            <slidelink slideid="_player.6aorm6DVHdA.6KMOAvxC2nP" displaytext="Using the emodule" expand="false" type="slide" />
+            <slidelink slideid="_player.6aorm6DVHdA.5u2Xmu0SLdx" displaytext="Conventions used in the eModule" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.5wmdokIzrWe" displaytext="H7 Lymphoid Tissue" expand="false" type="slide">
+          <links>
+            <slidelink slideid="_player.5wmdokIzrWe.6oz4RtzLvoN" displaytext="1. References" expand="false" type="slide" />
+            <slidelink slideid="_player.5wmdokIzrWe.6PXK1teLGMy" displaytext="2. Objectives" expand="false" type="slide" />
+            <slidelink slideid="_player.5wmdokIzrWe.5rXWMWsxzuX" displaytext="3. Nonspecific Defenses Against Disease" expand="false" type="slide" />
+            <slidelink slideid="_player.5wmdokIzrWe.6iqMVvvfSTV" displaytext="4. Specific Defenses Against Disease" expand="false" type="slide" />
+            <slidelink slideid="_player.5wmdokIzrWe.6OO1L3YmgF3" displaytext="5. Other Functions of the Lymphatic System" expand="false" type="slide" />
+            <slidelink slideid="_player.5wmdokIzrWe.6YCKiyBGa88" displaytext="6. Lymphocytes: T cells" expand="false" type="slide" />
+            <slidelink slideid="_player.5wmdokIzrWe.6XkNcFOqpOC" displaytext="7. Lymphocytes: B Cells" expand="false" type="slide" />
+            <slidelink slideid="_player.5wmdokIzrWe.62547aFgq18" displaytext="8. During Development" expand="false" type="slide" />
+            <slidelink slideid="_player.5wmdokIzrWe.5tbc7NvjybV" displaytext="9. Lymphatic Organs / Tissues" expand="false" type="slide" />
+            <slidelink slideid="_player.5wmdokIzrWe.60l01ntt574" displaytext="10. Primary Lymphatic Organs: The Thymus" expand="false" type="slide" />
+            <slidelink slideid="_player.5wmdokIzrWe.6AdTxbvMSBB" displaytext="11. Thymic Cortex" expand="false" type="slide" />
+            <slidelink slideid="_player.5wmdokIzrWe.6CgSBWVUxO0" displaytext="12. The Thymic Medulla" expand="false" type="slide" />
+            <slidelink slideid="_player.5wmdokIzrWe.6I3CmKW7xbG" displaytext="13. Secondary Lymphatic Organs and Tissues" expand="false" type="slide" />
+            <slidelink slideid="_player.5wmdokIzrWe.6nre6JHXYRD" displaytext="14. Mucous Membranes" expand="false" type="slide" />
+            <slidelink slideid="_player.5wmdokIzrWe.5oR4ObJDlEB" displaytext="15. Diffuse Lymphoid Tissue" expand="false" type="slide" />
+            <slidelink slideid="_player.5wmdokIzrWe.6oegG4rcCu8" displaytext="16. Lymphatic Vessels" expand="false" type="slide" />
+            <slidelink slideid="_player.5wmdokIzrWe.6UKYjaYZBY0" displaytext="17. Lymph Returns to Blood" expand="false" type="slide" />
+            <slidelink slideid="_player.5wmdokIzrWe.5yjzTZ59MuL" displaytext="18. Lymph Nodes: an Overview" expand="false" type="slide" />
+            <slidelink slideid="_player.5wmdokIzrWe.6cKrP23mAKO" displaytext="19. Regions of the Lymph Node" expand="false" type="slide" />
+            <slidelink slideid="_player.5wmdokIzrWe.6YMjHwrMUQk" displaytext="20. The Spleen" expand="false" type="slide" />
+            <slidelink slideid="_player.5wmdokIzrWe.6hV5tivW0YP" displaytext="21. The Spleen: Histology" expand="false" type="slide" />
+            <slidelink slideid="_player.5wmdokIzrWe.6Fuga7XEvaD" displaytext="22. Summary" expand="false" type="slide" />
+            <slidelink slideid="_player.5wmdokIzrWe.646Dr32DlZZ" displaytext="23. Quiz Start" expand="false" type="slide">
+              <links>
+                <slidelink slideid="_player.5wmdokIzrWe.6gT5EymGStZ" displaytext="Question 1" expand="false" type="slide" />
+                <slidelink slideid="_player.5wmdokIzrWe.5XHyRz6raQX" displaytext="Question 2" expand="false" type="slide" />
+                <slidelink slideid="_player.5wmdokIzrWe.5wuGWcbk2Tc" displaytext="Question 3" expand="false" type="slide" />
+                <slidelink slideid="_player.5wmdokIzrWe.5llK7aIH2OF" displaytext="Question 4" expand="false" type="slide" />
+                <slidelink slideid="_player.5wmdokIzrWe.6i5gDFNeP07" displaytext="Question 5" expand="false" type="slide" />
+                <slidelink slideid="_player.5wmdokIzrWe.5qAN3tJnlc4" displaytext="Question 6" expand="false" type="slide" />
+                <slidelink slideid="_player.5wmdokIzrWe.5eKMd3zm9Zb" displaytext="Question 7" expand="false" type="slide" />
+                <slidelink slideid="_player.5wmdokIzrWe.5be59JdtIMl" displaytext="Question 8" expand="false" type="slide" />
+                <slidelink slideid="_player.5wmdokIzrWe.5rJarPbBdf9" displaytext="Question 9" expand="false" type="slide" />
+                <slidelink slideid="_player.5wmdokIzrWe.5uhNzLwwMBU" displaytext="Question 10" expand="false" type="slide" />
+                <slidelink slideid="_player.5wmdokIzrWe.62TjWMMsrkA" displaytext="Question 11" expand="false" type="slide" />
+                <slidelink slideid="_player.5wmdokIzrWe.5p3OGzPRUgP" displaytext="Question 12" expand="false" type="slide" />
+                <slidelink slideid="_player.5wmdokIzrWe.5o4u2dufeeF" displaytext="Question 13" expand="false" type="slide" />
+                <slidelink slideid="_player.5wmdokIzrWe.6fUpRscZkol" displaytext="Question 14" expand="false" type="slide" />
+                <slidelink slideid="_player.5wmdokIzrWe.6SJYUcguIzG" displaytext="Question 15" expand="false" type="slide" />
+                <slidelink slideid="_player.5wmdokIzrWe.6c8Qjkq2RyL" displaytext="Question 16" expand="false" type="slide" />
+                <slidelink slideid="_player.5wmdokIzrWe.64d5bdKpYTM" displaytext="Question 17" expand="false" type="slide" />
+                <slidelink slideid="_player.5wmdokIzrWe.6YKdsd6MEk8" displaytext="Question 18" expand="false" type="slide" />
+                <slidelink slideid="_player.5wmdokIzrWe.65JYqp43rUZ" displaytext="Question 19" expand="false" type="slide" />
+                <slidelink slideid="_player.5wmdokIzrWe.6oNiFI1m286" displaytext="Question 20" expand="false" type="slide" />
+                <slidelink slideid="_player.5wmdokIzrWe.6OU2DT3m0vH" displaytext="Question 21" expand="false" type="slide" />
+                <slidelink slideid="_player.5wmdokIzrWe.6hYF2qjJtNj" displaytext="Question 22" expand="false" type="slide" />
+                <slidelink slideid="_player.5wmdokIzrWe.5dKOeVkkO0q" displaytext="Question 23" expand="false" type="slide" />
+                <slidelink slideid="_player.5wmdokIzrWe.6Noa57gINxu" displaytext="Question 24" expand="false" type="slide" />
+                <slidelink slideid="_player.5wmdokIzrWe.5zPsNajf1ZJ" displaytext="Question 25" expand="false" type="slide" />
+                <slidelink slideid="_player.5wmdokIzrWe.6BEKrEmbiOw" displaytext="Question 26" expand="false" type="slide" />
+                <slidelink slideid="_player.5wmdokIzrWe.5yOAeK7BQ4s" displaytext="Question 27" expand="false" type="slide" />
+                <slidelink slideid="_player.5wmdokIzrWe.5dzAooOj1aX" displaytext="Question 28" expand="false" type="slide" />
+              </links>
+            </slidelink>
+            <slidelink slideid="_player.5wmdokIzrWe.6lviKVxa7kg" displaytext=" End of H7" expand="false" type="slide" />
+          </links>
+        </slidelink>
+      </links>
+    </outline>
+    <search>
+      <slidetext slideid="6aorm6DVHdA.6iJyEq8eiIe" slidebank="false" type="slide">lymphoid tissues click to begin click to begin click to begin  histology emodule tutorial emodule tutorial emodule tutorial </slidetext>
+      <slidetext slideid="6aorm6DVHdA.6KMOAvxC2nP" slidebank="false" type="slide">to complete each section, use the next button at the bottom of the pages or press the right arrow key to move forward one page at a time.  use the menu, available by clicking “menu” at the top, to navigate to specific slides. use search to quickly find instances of relevant terms. use the previous button at the bottom of the pages or press the left arrow key to move back one page at a time. note: you can also swipe right and left in order to navigate forward and backward, respectively. previous next using the emodule h7 lymphoid tissue  1. references  2. objectives  3. nonspecific… </slidetext>
+      <slidetext slideid="6aorm6DVHdA.5u2Xmu0SLdx" slidebank="false" type="slide">previous start with age, wear and tear,  info an intervertebral disc can herniate, such that the nucleus pulposus…. information that has implications for health and disease is introduced on a blue bar and continued below: conventions used in the emodule some slides contain the “slide talk” icon on the title bar. click this icon to hear me explain or elaborate on slide content.  some words are followed by this icon      ; click the icon to open related content in a separate layer. click the         icon to go back to the original layer. some words are followed by this icon      ; click the icon to see a definition or explanation.  words / phrases in purple denote concepts with which you should make a point of becoming familiar. </slidetext>
+      <slidetext slideid="5oOfyNDdaiT.5Zu8QGHoVGZ" slidebank="false" type="slide">acknowledgements previous © 2019 author and emodule developer: barbara ballyk, ph.d. associate professor, teaching stream division of anatomy, department of surgery faculty of medicine, university of toronto emodule production: kristy cheung, b.sc.h., m.sc. candidate, clinical anatomy, western university gianluca sampieri, m.sc.md candidate class of 2021faculty of medicine, university of toronto albert gheorghita, m.sc.md candidate class of 2020faculty of medicine, university of toronto julian manzone, m.sc. md candidate class of 2019 faculty of medicine, university of toronto </slidetext>
+      <slidetext slideid="5wmdokIzrWe.6oz4RtzLvoN" slidebank="false" type="slide">images from histology, a text and atlas 7th ed., © 2016 by ross and pawlina denoted by “rp”. images from grant’s atlas 13th ed., © 2013 by agur and dalley denoted by “ga”. images from junqueira’s basic histology, text &amp; atlas, 13th ed., © 2013 by mescher, denoted by “j”. recommended online resources:  next previous h7 lymphoid tissues and organs university of minnesota histology guide university of leeds histology guide university of michigan virtual microscopy western university virtual slide box university of illinois cell and tissue biology </slidetext>
+      <slidetext slideid="5wmdokIzrWe.6PXK1teLGMy" slidebank="false" type="slide">next previous h7   objectives when you have learned the material presented here, you will be able to: explain the difference between nonspecific and specific defenses against disease and infection. describe the difference between humoral and cytotoxic immune responses and the cells involved in each. explain, in general, the roles of the primary and secondary lymphatic organs. describe the structure and function of the thymus gland. describe mucous membranes and their relationship to diffuse lymphatic tissues. describe the roles and histological structure of diffuse lymphatic tissues. describe the structure and organization of lymphatic vessels. describe the structure and function of lymph nodes and the spleen. 2 </slidetext>
+      <slidetext slideid="5wmdokIzrWe.5rXWMWsxzuX" slidebank="false" type="slide">next previous h7   nonspecific defenses against disease the cells, tissues and organs of the immune system monitor body surfaces and internal fluid compartments.  they react to potentially harmful substances to protect us from infection and disease. some defenses are nonspecific or innate, meaning the defense is the same, regardless of what the harmful substance is.  these include: physical barriers, e.g. skin and mucous membranes, that limit the entry of pathogens to the body, chemical defenses, such as low ph in certain body fluids, including the female reproductive tract, secretory substances (e.g. lysozymes and interferons) that neutralize foreign cells,  phagocytic cells (macrophages, neutrophils, eosinophils, monocytes), and  natural killer (nk) cells. 3 </slidetext>
+      <slidetext slideid="5wmdokIzrWe.6iqMVvvfSTV" slidebank="false" type="slide">next previous h7   specific defenses against disease on the other hand, some defenses are specific or adaptive.  for example, people acquire resistance to a disease (e.g. chickenpox) either because:  they’ve received an immunization against that specific disease, or   because they’ve had that specific disease before.  in either case, they have been exposed to a specific pathogen that causes that disease. because disease resistance is specific, resistance to chicken pox does not provide resistance to mumps.  in specific / adaptive immunity, contact with a pathogen initiates a chain of events that involves cells of the immune system and often results in resistance, or a memory of the contact. there are two basic types of specific responses: a humoral response results in the production of antibodies that mark the invader for destruction by other immune cells. this is also known as antibody-mediated immunity. a cellular response targets transformed and virus-infected cells for destruction by specific “killer” cells. this is also known as cell-mediated immunity. 4 </slidetext>
+      <slidetext slideid="5wmdokIzrWe.6OO1L3YmgF3" slidebank="false" type="slide">next previous h7   other functions of the lymphatic system the lymphatic system also contributes to the control of interstitial fluid composition and volume, as described in the discussion of tissue fluid in the ordinary connective tissue emodule. in addition, as you will learn during the gastrointestinal block of cpc-2, the lymphatic system provides an alternate route for macromolecular transport, in particular for the transport of lipids from digestive surfaces. 5 </slidetext>
+      <slidetext slideid="5wmdokIzrWe.6YCKiyBGa88" slidebank="false" type="slide">next previous h7   lymphocytes: t cells lymphocytes respond to antigen and initiate an immune response. antigen may be a soluble peptide, polysaccharide or toxin; it may be present on the surface of an infectious organism, foreign tissue or transformed tissue. t cells (~ 80% of lymphocytes) cytotoxic t cells are responsible for cell-mediated immunity. they respond to virus-infected cells, transformed cells, foreign cells (transplants) and fungi in an antigen-specific manner. they kill target cells directly by the use of perforins or the induction of apoptosis. regulatory t cells (helper t cells &amp; suppressor t cells) modulate the immune response of both t cells and b cells. memory t cells ensure that the second exposure to a specific antigen elicits a more rapid &amp; severe response. t cell activation requires the antigen be presented on the surface of an antigen-presenting cell (apc), such as a macrophage. 6 </slidetext>
+      <slidetext slideid="5wmdokIzrWe.6XkNcFOqpOC" slidebank="false" type="slide">next previous h7   lymphocytes: b cells b-cells (10-15% of lymphocytes) can recognize antigen directly, i.e. without the help of apcs.  with antigen exposure, they differentiate into plasma cells, but this requires the presence of cytokines produced by activated helper t-cells. plasma cells produce and secrete antibodies, largely in response to bacteria, and thus are responsible for antibody-mediated or humoral immunity. antibodies are soluble proteins which bind their specific antigen and mark it for phagocytosis by other white blood cells. memory b cells ensure that a second exposure to the same antigen elicits a more rapid &amp; effective response. natural killer cells or nk cells (5 - 10% of lymphocytes) provide for a nonspecific attack of foreign, cancerous and virus-infected cells. 7 </slidetext>
+      <slidetext slideid="5wmdokIzrWe.62547aFgq18" slidebank="false" type="slide">next previous h7   during development primary lymphatic organs are the bone marrow and thymus. all lymphocytes develop, initially, in the bone marrow.  those destined to become b-lymphocytes or natural killer cells (nk cells) remain in the bone marrow to proliferate and differentiate further. those destined to become t-lymphocytes migrate to the thymus where they proliferate and differentiate further. in these primary lymphatic organs, a very large number of small clusters (clones) of lymphocytes are formed, and lymphocytes of each clone acquire the ability recognize one specific foreign molecule. this ability of the cell is called immunocompetence.  the diverse range of antigen recognition acquired occurs by random rearrangement of the gene segments encoding the antigen receptors. cells which fail to develop the ability to recognize antigen, and those that develop the ability to recognize host (self) molecules, are destroyed. this is 95% of cells. their debris is phagocytized by macrophages. the remaining cells migrate to secondary lymphatic tissues where they undergo self renewal through cell division, thus maintaining their populations throughout life. there, they monitor body fluid for their specific antigen. 8 </slidetext>
+      <slidetext slideid="5wmdokIzrWe.5tbc7NvjybV" slidebank="false" type="slide">next previous h7   lymphatic organs / tissues fxns of 1° lymphatic organs antigen-independent production of lymphocytes development of immunocompetence fxns of 2° lymphatic organs /tissues surveillance, detection and response to the presence of antigen antigen-dependent production of lymphocytes 9 </slidetext>
+      <slidetext slideid="5wmdokIzrWe.60l01ntt574" slidebank="false" type="slide">next previous h7   primary lymphatic organs: the thymus the thymus is a nodular organ posterior to the sternum in the anterior mediastinum. it is largest and most active in youth and decreases in size and activity with age. at the gross level, it consists of irregular left and right lobes surrounded by a ct capsule. septae or trabeculae of the capsule divide the parenchyma into lobules. vessels, nerves and efferent lymphatics run in the capsule and septae to reach the parenchyma. the thymus has no afferent lymphatics and is not involved in initiating immune responses. each lobule has a cortex and a medulla. the cortex is darker-staining, with numerous small lymphocytes (thymocytes), epithelioreticular cells and macrophages. the medulla is lighter-staining with fewer lymphocytes, but also with epithelioreticular cells.  nascent t-cells from the bone marrow enter the cortex and develop immunocompetence by expressing antigen-specific t cell receptors (tcr) on their cell membranes.  10 </slidetext>
+      <slidetext slideid="5wmdokIzrWe.6AdTxbvMSBB" slidebank="false" type="slide">next previous h7   thymic cortex the thymic stroma is composed of epithelioreticular cells joined by desmosomes, forming a cytoreticulum. this is unlike many other highly-cellular organs like the bone marrow, lymphoid nodules and spleen, the stroma of which are formed by reticular connective tissue. in the cortex, thymocytes &amp; macrophages occupy the spaces created by the epithelioreticular cells     .  cortical epithelioreticular cells envelop differentiating t cells and secrete hormones that regulate t cell differentiation and proliferation.  flattened epithelioreticular cells joined by tight junctions line the inside of the capsule &amp; trabeculae, and at the corticomedullary jxn help isolate the cortex. this contributes to the blood-thymus barrier     .   11 </slidetext>
+      <slidetext slideid="5wmdokIzrWe.6CgSBWVUxO0" slidebank="false" type="slide">next previous h7   the thymic medulla the thymic medulla is also supported by a cytoreticulum of epithelioreticular cells. t-lymphocytes dominate here as well, but are less densely-packed than the cortex, and thus the medulla appears paler. mature, immunocompetent t-lymphocytes, the 5% that escape destruction in the cortex, migrate to the medulla and ultimately leave the thymus through post-capillary venules and efferent lymphatic capillaries to colonize the secondary lymphatic tissues and organs. thymic (hassall’s) corpuscles are characteristic of the thymic medulla. they consist of concentrically-arranged epithelioreticular cells packed with keratin. they look like whirls of stratum corneum of skin. the function of hassall’s corpuscles are unknown, beyond helping students to identify the thymus in a micrograph! 12 </slidetext>
+      <slidetext slideid="5wmdokIzrWe.6I3CmKW7xbG" slidebank="false" type="slide">next previous h7   secondary lymphatic organs and tissues secondary lymphatic organs and tissues are populated by t-cells and b-cells that developed immunocompetence in the thymus and bone marrow, respectively.  in secondary lymphatic organs and tissues, these cells proliferate, and when they encounter their specific antigen, they mount a defense against it. secondary lymphatic organs and tissues are: diffuse lymphoid tissues beneath epithelial borders: i.e. the mucosa-associated lymphoid tissue (malt); we’ll start here, on the next slide, with a description of mucous membranes, aka mucosa lymph nodes, which are in line with the lymphatic circulation the spleen, which is in line with the blood circulation 13 </slidetext>
+      <slidetext slideid="5wmdokIzrWe.6nre6JHXYRD" slidebank="false" type="slide">next previous h7   mucous membranes in general, a membrane consists of two components: i) an epithelium, and ii) its underlying ct.  there are four types of membranes in the body: i) mucous, ii) serous, iii) cutaneous (skin), and iv) synovial membranes. mucous membranes (mucosa) line all passageways that open to exterior, such as the digestive, respiratory, reproductive, and urinary tracts.  mucous membranes form a physical barrier to pathogenic entry into the body, and are therefore a type of innate or nonspecific defense against disease.  they are moist, being lubricated by exocrine glands. mucous membranes are composed of: an epithelial component, which varies depending on the location and function of the mucous membrane. it may be simple, stratified, or transitional. an underlying lamina propria which consists of loose areolar ct and contains blood vessels, nerves, lymphatic vessels and varying numbers of white blood cells, including lymphocytes. mucosa-associated lymphoid tissue, when present, is located in the lamina propria. 14 </slidetext>
+      <slidetext slideid="5wmdokIzrWe.5oR4ObJDlEB" slidebank="false" type="slide">next previous h7   diffuse lymphoid tissue diffuse lymphoid tissue is loose ct dominated by lymphocytes, much in the way that adipose tissue is loose ct dominated by adipocytes. diffuse lymphoid tissue has no ct capsule, nor afferent lymphatics. it may form lymphoid nodules in the lamina propria of mucous membranes (mucosa), referred to as mucosa-associated lymphoid tissue, or malt. here it is positioned to intercept antigen as it enters the body across the epithelial lining. a lymphoid nodule that is not actively responding to antigen is called a primary lymphoid nodule.  once lymphocytes encounter antigen, they become activated and begin proliferating. the lymphoid nodule becomes a secondary lymphoid nodule, which has a paler germinal centre. the paler centre is the result of the increased volume of cytoplasm in activated cells that permits greater passage of light.  malt has different names in different systems. it is the gut-associated lymphoid tissue (galt) in the digestive tract, where it form the i) tonsils (which have a partial capsule) that guard the pharynx from air-borne and food/drink-borne antigen, and the ii) aggregate lymphoid nodules of the ileum (peyer’s patches     ) and the vermiform appendix. there is also the bronchial-associated lymphoid tissue (balt) of respiratory system and the malt of genitourinary system. 15 </slidetext>
+      <slidetext slideid="5wmdokIzrWe.6oegG4rcCu8" slidebank="false" type="slide">next previous h7   lymphatic vessels j11-24 a network of vessels is associated with the lymphatic system. the smallest of these, the lymphatic capillaries, collect excess interstitial fluid from peripheral tissues as lymph. recall that the creation and circulation of lymph, and its relevance to edema, was described in the emodule on ordinary ct. lymphatic capillaries originate in peripheral tissues as blind-ended tubes (see fig). they are very thin-walled, and consist only of a simple layer of endothelial cells, which lack tight junctions, supported by an incomplete basement membrane. the hydrostatic pressure within these vessels is lower than the surrounding isf, and the vessels are kept open by anchoring filaments connected to collagen fibres of the adjacent ct. the pressure differential drives the formation of lymph from the surrounding interstitial fluid (green arrows). in addition to excess tissue fluid, lymph contains lymphocytes, macrophages and other apcs, pathogens and transformed cells. lymph is a major means by which cancer metastasizes. lymph enters lymphatic capillaries by passing between adjacent endothelial cells. the overlapping endothelial cells act as valves to ensure the one-way movement of lymph from the tissue space into capillaries. 16 </slidetext>
+      <slidetext slideid="5wmdokIzrWe.6UKYjaYZBY0" slidebank="false" type="slide">next previous h7   lymph returns to blood convergence of lymphatic capillaries creates larger lymphatic vessels with well-formed valves that promote the one-way movement of lymph. lymph nodes function as in-line filters along lymph vessels that detect and clear antigen (including cancer cells) from afferent lymph, thereby limiting the spread of disease and infection. lymph nodes are normally 2-10 mm in diameter. they enlarge with activity to become palpable on physical exam. therefore, enlarged lymph nodes are a sign of disease or infection. lymph nodes are numerous in the axillae, groin, neck, mesenteries, and the mediastinum of the thorax.  lymph vessels unite to from lymph trunks, which ultimately converge to form two major lymphatic vessels, the thoracic duct and the right lymphatic duct, which join the venous system at the left and right venous angles, respectively. you learned about this in gross anatomy, lab 2.   all lymph passes through at least one lymph node before returning to venous blood at the venous angles. 17 </slidetext>
+      <slidetext slideid="5wmdokIzrWe.5yjzTZ59MuL" slidebank="false" type="slide">next previous h7   lymph nodes: an overview lymph nodes, unlike lymph nodules, have a dense fibrous ct capsule with trabeculae that extend into the node, incompletely subdividing its parenchyma. the parenchyma of lymph nodes is arranged around a reticular fibre stroma, and is organized into a cortex, paracortex (or deep cortex) and medulla. 18 j14.15 lymph nodes are bean-shaped, with a hilum in the concave surface that contains arteries, veins, nerves (not shown) and efferent lymphatics. afferent lymphatics enter the node at the convex surface, bringing lymph from peripheral tissues into the node for processing. lymph percolates through the spaces within the node, the subcapsular, trabecular and medullary sinuses, before leaving via efferent lymphatic vessels, having  been largely cleansed of antigen. the sinuses are criss-crossed by reticular fibres, which slow the migration of antigen and cells through the node. the sinuses are lined by a discontinuous endothelium which facilitates the interaction between antigen and the resident cell population of the node. in general, lymph nodes contain resident lymphocytes, plasma cells, reticular cells, macrophages and other antigen presenting cells (apcs) called dendritic cells.  </slidetext>
+      <slidetext slideid="5wmdokIzrWe.6cKrP23mAKO" slidebank="false" type="slide">next previous h7   regions of the lymph node in the cortex     , b cells form lymphoid nodules. with the arrival of antigen in afferent lymph, nodules develop germinal centres due to the proliferation and differentiation of stimulated b cells. the resultant plasma cells migrate to the medulla. the antibodies they produce leave via efferent lymph. in the paracortex     , t cells dominate and lymph nodules are absent. here, resident apcs process soluble antigen arriving in afferent lymph and present it to t cells for recognition. high endothelial venules, hevs, in the paracortex are the point of entry of lymphocytes arriving at the lymph node from the blood circulation. activated t cells leave via efferent lymph for distribution. in the medulla     , medullary cords are separated by medullary sinuses. the medullary cords contain b cells, plasma cells, and macrophages. antibodies produced by plasma cells of the medulla, leave via efferent lymph for systemic distribution. soluble antigen, micro-organisms, apcs bearing antigenic epitopes and lymphocytes arrive at the lymph node from peripheral tissues via afferent lymph. j14.15 19 </slidetext>
+      <slidetext slideid="5wmdokIzrWe.6YMjHwrMUQk" slidebank="false" type="slide">next previous h7   the spleen as you will recall from your exploration of the peritoneal cavity in gross anatomy, lab 3, the spleen is an intraperitoneal organ in the upper left quadrant of the peritoneal cavity. unless enlarged, it is roughly the size of a loose fist. it is kidney bean-shaped, with a hilum in its medially-facing concave surface that contains arteries, veins, nerves and efferent lymphatics. the spleen has no afferent lymphatics. the spleen has two primary functions: it functions for blood like lymph nodes function for lymph; i.e. immune responses to blood-bourne antigen occur in the spleen; the spleen releases antibodies and activated t cells into circulation. it also removes aged / abnormal rbcs from circulation through phagocytosis. the structure of the spleen: an overview the spleen is surrounded by a fibroelastic connective tissue capsule, richly endowed with afferent pain  fibres. ct septae (trabeculae) extend from the capsule into the parenchyma of the spleen to incompletely subdivide it. the parenchyma of the spleen is supported by a meshwork reticular fibres stroma that extends between the trabeculae.  the parenchyma of the spleen includes reticulocytes, lymphocytes and other blood cells, macrophages, and other apcs.  it is organized into two histologically and functionally distinct regions called white pulp     and red pulp     . 20 </slidetext>
+      <slidetext slideid="5wmdokIzrWe.6hV5tivW0YP" slidebank="false" type="slide">next previous h7   the spleen: histology 21 the spleen is enclosed in a dense, irregular connective tissue capsule (a). it is highly eosinophilic due to its complement of collagen type i fibres. trabeculae extend into the substance of the spleen and contain major blood vessels. the parenchyma of the spleen is divided into white pulp (b) and red pulp (c).   the splenic white pulp      consists of lymphoid tissue. its densely-packed nuclei give the splenic white pulp a basophilic appearance. splenic nodules (d) are adjacent to the central arterioles (e), and often contain a more pale-staining germinal centre (f) consisting of activated b-lymphocytes. the central arterioles branch from the trabecular arteries. periarteriolar lymphatic sheaths, pals (g), dominated by t-lymphocytes, surround the central arterioles.  the splenic red pulp     contains all blood elements and is therefore eosinophilic due to the predominance of red blood cells. it consists of splenic sinusoids (h), blood-filled spaces, separated by splenic cords (i), which consist of loose connective tissue dominated by macrophages, plasma cells and lymphocytes. the sheathed arterioles of the red pulp are surrounded by macrophages. </slidetext>
+      <slidetext slideid="5wmdokIzrWe.6Fuga7XEvaD" slidebank="false" type="slide">h7   summary in this module, we have learned about lymphoid tissues and organs. to test your understanding of the material, answer the questions below: what are the non-specific and specific defenses against disease/infection? how are they different from one another ( i.e components, defense mechanism)? compare humoral to cytotoxic immune responses and the cells involve in each type.  name the primary and secondary lymphoid organs. how are they different in terms of roles?  where are t cells initially produced and matured? describe the structures of the gland in which t cells mature. what is unique about the arrangement of the functional units? (hint: barrier) where can we find mucous membrane? how does it relate to diffuse lymphoid tissue?  describe the process of lymph production and circulation. what features allow lymph to maintain one way flow into/within lymphatic vessels? describe the structure and function of lymph node and spleen, and identify their similarity.  compare histological images of thymus, lymph nodes and spleen, what may help you differentiate between the three? next previous 22 </slidetext>
+      <slidetext slideid="5wmdokIzrWe.646Dr32DlZZ" slidebank="false" type="slide">next previous h7   quiz press next to start the quiz or skip to end h7. skip 23 welcome to the quiz for h7!  review h7 lymphoid tissues &amp; organs review h7 lymphoid tissues &amp; organs review h7 lymphoid tissues &amp; organs review h7 lymphoid tissues &amp; organs review h7 lymphoid tissues &amp; organs </slidetext>
+      <slidetext slideid="5wmdokIzrWe.6gT5EymGStZ" slidebank="false" type="slide">1. from the following options, choose all statements that correctly describe b cells. require the “presentation” of antigen by antigen-presenting cells require the “presentation” of antigen by antigen-presenting cells require the “presentation” of antigen by antigen-presenting cells require the “presentation” of antigen by antigen-presenting cells require the “presentation” of antigen by antigen-presenting cells require the “presentation” of antigen by antigen-presenting cells when activated, kill the target cell directly by cytotoxic means when activated, kill the target cell directly by cytotoxic means when activated, kill the target cell directly by cytotoxic means when activated, kill the target cell directly by cytotoxic means when activated, kill the target cell directly by cytotoxic means when activated, kill the target cell directly by cytotoxic means responsible for “humoral immunity” responsible for “humoral immunity” responsible for “humoral immunity” responsible for “humoral immunity” responsible for “humoral immunity” responsible for “humoral immunity” are “educated” in the bone marrow are “educated” in the bone marrow are “educated” in the bone marrow are “educated” in the bone marrow are “educated” in the bone marrow are “educated” in the bone marrow are the dominant type of lymphocyte in the cortex of lymph nodes are the dominant type of lymphocyte in the cortex of lymph nodes are the dominant type of lymphocyte in the cortex of lymph nodes are the dominant type of lymphocyte in the cortex of lymph nodes are the dominant type of lymphocyte in the cortex of lymph nodes are the dominant type of lymphocyte in the cortex of lymph nodes submit h7   quiz </slidetext>
+      <slidetext slideid="5wmdokIzrWe.5XHyRz6raQX" slidebank="false" type="slide">2. which of the following are secondary lymphoid tissues or organs? choose all that apply. lymph nodes lymph nodes lymph nodes lymph nodes lymph nodes lymph nodes thymus thymus thymus thymus thymus thymus bone marrow bone marrow bone marrow bone marrow bone marrow bone marrow spleen spleen spleen spleen spleen spleen lymph nodules lymph nodules lymph nodules lymph nodules lymph nodules lymph nodules tonsils tonsils tonsils tonsils tonsils tonsils submit h7   quiz </slidetext>
+      <slidetext slideid="5wmdokIzrWe.5wuGWcbk2Tc" slidebank="false" type="slide">3. which of the following have afferent lymphatics? choose all that apply. lymph nodes lymph nodes lymph nodes lymph nodes lymph nodes lymph nodes thymus thymus thymus thymus thymus thymus bone marrow bone marrow bone marrow bone marrow bone marrow bone marrow spleen spleen spleen spleen spleen spleen lymph nodules lymph nodules lymph nodules lymph nodules lymph nodules lymph nodules tonsils tonsils tonsils tonsils tonsils tonsils submit h7   quiz </slidetext>
+      <slidetext slideid="5wmdokIzrWe.5llK7aIH2OF" slidebank="false" type="slide">4. what occurs in the splenic red pulp? b cell activation in response to blood-bourne antigen occurs. b cell activation in response to blood-bourne antigen occurs. b cell activation in response to blood-bourne antigen occurs. b cell activation in response to blood-bourne antigen occurs. b cell activation in response to blood-bourne antigen occurs. b cell activation in response to blood-bourne antigen occurs. t cell activation in response to lymph-bourne antigen occurs. t cell activation in response to lymph-bourne antigen occurs. t cell activation in response to lymph-bourne antigen occurs. t cell activation in response to lymph-bourne antigen occurs. t cell activation in response to lymph-bourne antigen occurs. t cell activation in response to lymph-bourne antigen occurs. aged red blood cells are removed from circulation. aged red blood cells are removed from circulation. aged red blood cells are removed from circulation. aged red blood cells are removed from circulation. aged red blood cells are removed from circulation. aged red blood cells are removed from circulation. blood flows into the splenic white pulp after its processing in the splenic red pulp. blood flows into the splenic white pulp after its processing in the splenic red pulp. blood flows into the splenic white pulp after its processing in the splenic red pulp. blood flows into the splenic white pulp after its processing in the splenic red pulp. blood flows into the splenic white pulp after its processing in the splenic red pulp. blood flows into the splenic white pulp after its processing in the splenic red pulp. submit h7   quiz </slidetext>
+      <slidetext slideid="5wmdokIzrWe.6i5gDFNeP07" slidebank="false" type="slide">5. what anatomical region of the thymus is indicated by the letter a? cortex cortex cortex cortex cortex cortex medulla medulla medulla medulla medulla medulla paracortex paracortex paracortex paracortex paracortex paracortex capsule capsule capsule capsule capsule capsule submit h7   quiz </slidetext>
+      <slidetext slideid="5wmdokIzrWe.5qAN3tJnlc4" slidebank="false" type="slide">6. what anatomical region of the thymus is indicated by the letter b? cortex cortex cortex cortex cortex cortex paracortex paracortex paracortex paracortex paracortex paracortex medulla medulla medulla medulla medulla medulla capsule capsule capsule capsule capsule capsule submit h7   quiz </slidetext>
+      <slidetext slideid="5wmdokIzrWe.5eKMd3zm9Zb" slidebank="false" type="slide">7. what is the name for the connective tissue structures of the thymus, as indicated by the letter a, that divides its parenchyma into lobules? submit h7   quiz </slidetext>
+      <slidetext slideid="5wmdokIzrWe.5be59JdtIMl" slidebank="false" type="slide">8. this is an image of the thymus. identify the cells indicated by the letter a. submit h7   quiz </slidetext>
+      <slidetext slideid="5wmdokIzrWe.5rJarPbBdf9" slidebank="false" type="slide">9. identify structure a. submit h7   quiz </slidetext>
+      <slidetext slideid="5wmdokIzrWe.5uhNzLwwMBU" slidebank="false" type="slide">10. given the presence of structure a, what region of the thymus is shown on the right side of this image? submit h7   quiz </slidetext>
+      <slidetext slideid="5wmdokIzrWe.62TjWMMsrkA" slidebank="false" type="slide">11. what structure is indicated by the letter a? submit h7   quiz </slidetext>
+      <slidetext slideid="5wmdokIzrWe.5p3OGzPRUgP" slidebank="false" type="slide">12. in which subdivision of the digestive tract are structures a located?  submit stomach stomach stomach stomach stomach stomach duodenum duodenum duodenum duodenum duodenum duodenum ileum ileum ileum ileum ileum ileum jejunum jejunum jejunum jejunum jejunum jejunum h7   quiz </slidetext>
+      <slidetext slideid="5wmdokIzrWe.5o4u2dufeeF" slidebank="false" type="slide">13. which anatomical region of this lymph node is indicated by a? submit h7   quiz </slidetext>
+      <slidetext slideid="5wmdokIzrWe.6fUpRscZkol" slidebank="false" type="slide">14. identify the structure indicated by the arrow. be specific. submit h7   quiz </slidetext>
+      <slidetext slideid="5wmdokIzrWe.6SJYUcguIzG" slidebank="false" type="slide">15. which anatomical region of this lymph node is indicated by b? submit h7   quiz </slidetext>
+      <slidetext slideid="5wmdokIzrWe.6c8Qjkq2RyL" slidebank="false" type="slide">16. what cells dominate region b? (please provide one type) submit h7   quiz </slidetext>
+      <slidetext slideid="5wmdokIzrWe.64d5bdKpYTM" slidebank="false" type="slide">17. which anatomical region of this lymph node is indicated by c? submit h7   quiz </slidetext>
+      <slidetext slideid="5wmdokIzrWe.6YKdsd6MEk8" slidebank="false" type="slide">18. what cells dominate region c? submit h7   quiz </slidetext>
+      <slidetext slideid="5wmdokIzrWe.65JYqp43rUZ" slidebank="false" type="slide">19. identify the structure of the lymph node paracortex outlined in the image.  hint: t cells migrate through these structures into the lymph node. submit h7   quiz </slidetext>
+      <slidetext slideid="5wmdokIzrWe.6oNiFI1m286" slidebank="false" type="slide">20. in this image of the medulla of a lymph node, identify the spaces indicated. submit h7   quiz </slidetext>
+      <slidetext slideid="5wmdokIzrWe.6OU2DT3m0vH" slidebank="false" type="slide">21. in this image of the medulla of a lymph node, identify the structures between the spaces. submit h7   quiz </slidetext>
+      <slidetext slideid="5wmdokIzrWe.6hYF2qjJtNj" slidebank="false" type="slide">22. what region of this organ is indicated by the letters a? submit h7   quiz </slidetext>
+      <slidetext slideid="5wmdokIzrWe.5dKOeVkkO0q" slidebank="false" type="slide">23. what region of this organ is indicated by the letters b? submit h7   quiz </slidetext>
+      <slidetext slideid="5wmdokIzrWe.6Noa57gINxu" slidebank="false" type="slide">24. identify the structure indicated by the arrow. be specific. submit h7   quiz </slidetext>
+      <slidetext slideid="5wmdokIzrWe.5zPsNajf1ZJ" slidebank="false" type="slide">25. identify the structure indicated by the arrow. be specific. submit h7   quiz </slidetext>
+      <slidetext slideid="5wmdokIzrWe.6BEKrEmbiOw" slidebank="false" type="slide">26. identify the space in the red pulp indicated by the arrows. submit h7   quiz </slidetext>
+      <slidetext slideid="5wmdokIzrWe.5yOAeK7BQ4s" slidebank="false" type="slide">27. what specific cells line the spaces indicated by the arrows? submit h7   quiz </slidetext>
+      <slidetext slideid="5wmdokIzrWe.5dzAooOj1aX" slidebank="false" type="slide">28. identify the structures in the red pulp indicated by the arrows. submit h7   quiz </slidetext>
+      <slidetext slideid="5wmdokIzrWe.6lviKVxa7kg" slidebank="false" type="slide">congratulations on finishing h7 lymphoid tissue &amp; organs! review h7 review h7 review h7 previous h7   end of h7 </slidetext>
+    </search>
+  </nav_data>
+  <resource_data description="" />
+  <transcript_data>
+    <slidetranscripts>
+      <slidetranscript slideid="6aorm6DVHdA.6iJyEq8eiIe" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="0">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Calibri' size='12.5pt' style="font-size:12.5pt;" color='#ffffff'&gt;need to change title&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="6aorm6DVHdA.5u2Xmu0SLdx" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="1">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Calibri' size='12.5pt' style="font-size:12.5pt;" color='#ffffff'&gt;fix this slide&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+    </slidetranscripts>
+  </transcript_data>
+  <glossary_data />
+</bwFrame>

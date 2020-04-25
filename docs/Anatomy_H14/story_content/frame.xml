@@ -1,0 +1,1329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="npnxnanbnsnfns01001000011" textdirection="ltr" device="false" fontscale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="classic">
+  <layouts>
+    <layout name="npnxnanbsnfns01001000011" font="Calibri" controllayout="npnxnanbsnfns01001000011" colorscheme="npnxnanbnsnfns01001000011" string_table="npnxnanbnsnfns01001000011" />
+    <layout name="pxabnsnfns01001000011" font="Calibri" controllayout="pxabnsnfns01001000011" colorscheme="npnxnanbnsnfns01001000011" string_table="npnxnanbnsnfns01001000011" />
+    <layout name="npxnabnsnfns01001000011" font="Calibri" controllayout="npxnabnsnfns01001000011" colorscheme="npnxnanbnsnfns01001000011" string_table="npnxnanbnsnfns01001000011" />
+    <layout name="npnxnanbnsnfns01001000011" font="Calibri" controllayout="npnxnanbnsnfns01001000011" colorscheme="npnxnanbnsnfns01001000011" string_table="npnxnanbnsnfns01001000011" />
+    <layout name="pxabnsnfns01001000010" font="Calibri" controllayout="pxabnsnfns01001000010" colorscheme="npnxnanbnsnfns01001000011" string_table="npnxnanbnsnfns01001000011" />
+    <layout name="npnxabnsnfns01001000011" font="Calibri" controllayout="npnxabnsnfns01001000011" colorscheme="npnxnanbnsnfns01001000011" string_table="npnxnanbnsnfns01001000011" />
+    <layout name="npnxanbnsnfns01001000011" font="Calibri" controllayout="npnxanbnsnfns01001000011" colorscheme="npnxnanbnsnfns01001000011" string_table="npnxnanbnsnfns01001000011" />
+  </layouts>
+  <control_options>
+    <optiongroups>
+      <optiongroup name="sidebaroptions">
+        <options>
+          <option name="title_enabled" value="true">
+            <options>
+              <option name="title_text" value="H14 The Small and Large Intestine" />
+            </options>
+          </option>
+          <option name="logo_enabled" value="true">
+            <options>
+              <option name="logo_url" value="story_content/logo.swf">
+                <properties>
+                  <property name="width" value="1024" />
+                  <property name="height" value="245" />
+                </properties>
+              </option>
+              <option name="html5_logo_url" value="mobile/6W8o2TMY1Mf.png" />
+            </options>
+          </option>
+          <option name="sidebar_enabled" value="true">
+            <options>
+              <option name="sidebarpos" value="left" />
+            </options>
+          </option>
+          <optionlist name="tabs">
+            <listitems>
+              <listitem name="customlink" value="true" group="linkleft">
+                <properties>
+                  <property name="title" value="Acknowledgements" />
+                  <property name="data" value="62WilxHnbdW" />
+                  <property name="ignoreSlideLock" value="true" />
+                </properties>
+              </listitem>
+              <listitem name="resources" value="false" group="linkright" />
+              <listitem name="outline" value="true" group="sidebar" />
+              <listitem name="glossary" value="false" group="sidebar" />
+              <listitem name="transcript" value="false" group="sidebar" />
+            </listitems>
+          </optionlist>
+          <option name="time_enabled" value="false">
+            <options>
+              <option name="time_format" value="" />
+            </options>
+          </option>
+          <option name="video_enabled" value="false">
+            <options>
+              <option name="height" value="135" />
+            </options>
+          </option>
+        </options>
+      </optiongroup>
+      <optiongroup name="menuoptions">
+        <options>
+          <option name="flow" value="free" />
+          <option name="wraplistitems" value="true" />
+          <option name="tooltips" value="true" />
+          <option name="autocollapse" value="false" />
+          <option name="autonumber" value="false" />
+          <option name="enableresultsicons" value="true" />
+        </options>
+      </optiongroup>
+      <optiongroup name="controls">
+        <options>
+          <option name="volume" value="false" />
+          <option name="seekbar" value="false">
+            <options>
+              <option name="readonly" value="false" />
+            </options>
+          </option>
+          <option name="search" value="true" />
+          <option name="pauseplay" value="false" />
+          <option name="replay" value="false" />
+          <option name="closed_captions" value="false">
+            <options>
+              <option name="font" value="Calibri" />
+            </options>
+          </option>
+        </options>
+      </optiongroup>
+      <optiongroup name="bottombaroptions">
+        <options>
+          <option name="bottombar_enabled" value="false" />
+        </options>
+      </optiongroup>
+    </optiongroups>
+  </control_options>
+  <control_layouts>
+    <control_layout name="npnxnanbsnfns01001000011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="true" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns01001000011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npxnabnsnfns01001000011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npnxnanbnsnfns01001000011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns01001000010">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="false" />
+    </control_layout>
+    <control_layout name="npnxabnsnfns01001000011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npnxanbnsnfns01001000011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+  </control_layouts>
+  <colorschemes>
+    <colorscheme name="npnxnanbnsnfns01001000011">
+      <color_group name="infopanel">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x7C2280" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0000EE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC73013" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="title_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x999999" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="infopanelpopup">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFC4A2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xED5736" alpha="100" stop="0" />
+                <color rgb="0xD44120" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFC4A2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bio_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="timer">
+        <group_colors>
+          <color name="duration">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x00D7FF" alpha="100" stop="0" />
+                <color rgb="0x00ABFF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="elapsed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFEE347" alpha="100" stop="0" />
+                <color rgb="0xFCCC2A" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="stroke">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC7C7C7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="window">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xED5736" alpha="100" stop="0" />
+                <color rgb="0xD44120" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xEB8964" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF49277" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD63F21" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="20" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="editor">
+        <group_colors>
+          <color name="slide_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="html_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC23115" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC93518" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE15429" alpha="100" stop="0" />
+                <color rgb="0xC42D16" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD84121" alpha="100" stop="0" />
+                <color rgb="0xDE4C27" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE1512A" alpha="100" stop="0" />
+                <color rgb="0xD63A1D" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="listitem">
+        <group_colors>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x671B6B" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF98E6E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="viewed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFC4A2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF17D5E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="lines">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDA563A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="glossary">
+        <group_colors>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF98E6E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE85F39" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD96244" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD96244" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF98B6A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xEC7B59" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="resource">
+        <group_colors>
+          <color name="separator">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD35338" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="outline">
+        <group_colors>
+          <color name="search_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFC4A2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD35338" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xEB9471" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCF5336" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="transcript">
+        <group_colors>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="div">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD35338" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="tabs">
+        <group_colors>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC73013" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFC4A2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xED7254" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="seekcontrol">
+        <group_colors>
+          <color name="btn_icon_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFE1D0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_position">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE97D65" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD33F1F" alpha="100" stop="0" />
+                <color rgb="0xCA3416" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC32E13" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE65832" alpha="100" stop="0" />
+                <color rgb="0xDF3F23" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="searchinput">
+        <group_colors>
+          <color name="text_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2D2D2D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2D2D2D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xEB9471" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE76E52" alpha="100" stop="0" />
+                <color rgb="0xE2694D" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icon">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD7654B" alpha="100" stop="0" />
+                <color rgb="0xC42F13" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="scrollarea">
+        <group_colors>
+          <color name="detailb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCA3518" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="detaila">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xEA7C5D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCB3519" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icons">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCA3417" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE55D3B" alpha="100" stop="0" />
+                <color rgb="0xDB4D32" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE2522C" alpha="100" stop="0" />
+                <color rgb="0xD93E20" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF8795B" alpha="100" stop="0" />
+                <color rgb="0xF8795B" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="0">
+              <colors>
+                <color rgb="0xED6546" alpha="100" stop="0" />
+                <color rgb="0xEE6948" alpha="100" stop="128" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="menu">
+        <group_colors>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD35235" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xED7254" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="logo">
+        <group_colors>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC73013" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="checkbox">
+        <group_colors>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6BF8FF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="check">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2BC400" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD35338" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="button">
+        <group_colors>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC23115" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC93518" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE15429" alpha="100" stop="0" />
+                <color rgb="0xC42D16" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD84121" alpha="100" stop="0" />
+                <color rgb="0xDE4C27" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE1512A" alpha="100" stop="0" />
+                <color rgb="0xD63A1D" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="10" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="base">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD63F21" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF49277" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="menu_shade">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDD5233" alpha="100" stop="0" />
+                <color rgb="0xC53D1E" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF5674A" alpha="100" stop="0" />
+                <color rgb="0xF5674A" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xED5736" alpha="100" stop="0" />
+                <color rgb="0xD44120" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slide_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xED5736" alpha="100" stop="0" />
+                <color rgb="0xD44120" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="volume">
+        <group_colors>
+          <color name="thumb_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCB361A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE55E3B" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDB4524" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF26E50" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE75E36" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="HTML">
+        <group_colors>
+          <color name="htmlpage_bg_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x018CB0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+    </colorscheme>
+  </colorschemes>
+  <string_tables>
+    <string_table name="npnxnanbnsnfns01001000011">
+      <string id="acc_active">active</string>
+      <string id="check_include">Check to include</string>
+      <string id="clear">Clear and return to Menu</string>
+      <string id="close">Close</string>
+      <string id="acc_closed_captions">Closed captions. Press the spacebar to toggle captions on and off.</string>
+      <string id="continue">Continue</string>
+      <string id="continueresponsive">Continue</string>
+      <string id="exit">Exit</string>
+      <string id="filter">Filter</string>
+      <string id="finish">FINISH</string>
+      <string id="acc_finish">finish</string>
+      <string id="definition">Definition</string>
+      <string id="acc_definition">definition</string>
+      <string id="glossary">Glossary</string>
+      <string id="terms">Terms</string>
+      <string id="outline">Menu</string>
+      <string id="disabled_orientation">Please rotate your device</string>
+      <string id="next">NEXT</string>
+      <string id="acc_next">next</string>
+      <string id="transcript_chk">Notes</string>
+      <string id="transcript">Notes</string>
+      <string id="bio">Bio</string>
+      <string id="more_info">More info</string>
+      <string id="closed_captions">Captions</string>
+      <string id="acc_pause">pause</string>
+      <string id="acc_play">play</string>
+      <string id="send_an_email">Send an email</string>
+      <string id="prev">PREV</string>
+      <string id="acc_previous">previous</string>
+      <string id="question_list">Question List</string>
+      <string id="acc_replay">replay</string>
+      <string id="resources">Resources</string>
+      <string id="acc_resources">resources</string>
+      <string id="restart">Restart</string>
+      <string id="resume">Resume</string>
+      <string id="search">Search...</string>
+      <string id="acc_search_input">search</string>
+      <string id="search_in">Search in:</string>
+      <string id="search_results">Search Results</string>
+      <string id="acc_skipnavigation">Skip Navigation. Hit enter to return to the slide.</string>
+      <string id="slide_text_chk">Slide Text</string>
+      <string id="submitall">SUBMIT ALL</string>
+      <string id="acc_submitall">submit all</string>
+      <string id="submit">SUBMIT</string>
+      <string id="acc_submit">submit</string>
+      <string id="acc_volume">volume</string>
+    </string_table>
+  </string_tables>
+  <fonts>
+    <font name="Calibri">
+      <files>
+        <file bold="true" italic="false" />
+        <file bold="false" italic="false" />
+      </files>
+    </font>
+  </fonts>
+  <sounds enabled="true" />
+  <nav_data>
+    <outline>
+      <links>
+        <slidelink slideid="_player.6aorm6DVHdA" displaytext="Start" expand="false" type="slide">
+          <links>
+            <slidelink slideid="_player.6aorm6DVHdA.6KMOAvxC2nP" displaytext="Using the emodule" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.5wkCBkLKozz" displaytext="H14 The Small and Large Intestine" expand="false" type="slide">
+          <links>
+            <slidelink slideid="_player.5wkCBkLKozz.5gi2o4aF5CC" displaytext="The Digestive Tract" expand="false" type="slide" />
+            <slidelink slideid="_player.5wkCBkLKozz.5i4Rghs6bdn" displaytext="2. Objectives" expand="false" type="slide" />
+            <slidelink slideid="_player.5wkCBkLKozz.6B24r95QZoq" displaytext="3. Components of the Digestive System" expand="false" type="slide" />
+            <slidelink slideid="_player.5wkCBkLKozz.6b4AF6SEvVf" displaytext="4. Structural Organization of the Digestive Tract" expand="false" type="slide" />
+            <slidelink slideid="_player.5wkCBkLKozz.5nxYnbqmjxi" displaytext="5. The Enteric Nervous System" expand="false" type="slide" />
+            <slidelink slideid="_player.5wkCBkLKozz.62SD9woV7fQ" displaytext="6. The Histology of the Small Intestine" expand="false" type="slide" />
+            <slidelink slideid="_player.5wkCBkLKozz.62jmWu2KG63" displaytext="7. An Overview of the Small Intestine" expand="false" type="slide" />
+            <slidelink slideid="_player.5wkCBkLKozz.6UTsHBhdrh3" displaytext="8. The Mucosa of the Small Intestine" expand="false" type="slide" />
+            <slidelink slideid="_player.5wkCBkLKozz.5keXH2Uo8VR" displaytext="9. Enterocytes and Goblet Cells Cover the Villi" expand="false" type="slide" />
+            <slidelink slideid="_player.5wkCBkLKozz.65HU0Rdxvwg" displaytext="10. Cells of the Intestinal Glands" expand="false" type="slide" />
+            <slidelink slideid="_player.5wkCBkLKozz.6n8WS3hg1QL" displaytext="11. Pathology of the Small Intestine" expand="false" type="slide" />
+            <slidelink slideid="_player.5wkCBkLKozz.6Zl6UMcowbW" displaytext="12. The Histology of the Large Intestine" expand="false" type="slide" />
+            <slidelink slideid="_player.5wkCBkLKozz.6Clxa0TkJ2v" displaytext="13. An Overview of the Large Intestine" expand="false" type="slide" />
+            <slidelink slideid="_player.5wkCBkLKozz.5eqWGS4uwyP" displaytext="14. The Submucosa and Mucosa of the Large Intestine" expand="false" type="slide" />
+            <slidelink slideid="_player.5wkCBkLKozz.5heVhMnrMvD" displaytext="15. Pathology of the Large Intestine" expand="false" type="slide" />
+            <slidelink slideid="_player.5wkCBkLKozz.5l0Q6gS1YSz" displaytext="16. Pathology of the Rectum and Anal Canal" expand="false" type="slide" />
+            <slidelink slideid="_player.5wkCBkLKozz.68fiWuL1tUU" displaytext="17. Quiz Start" expand="false" type="slide">
+              <links>
+                <slidelink slideid="_player.5wkCBkLKozz.6hLLJ28YxJd" displaytext="Question 1" expand="false" type="slide" />
+                <slidelink slideid="_player.5wkCBkLKozz.5Wumii8Qlw8" displaytext="Question 2" expand="false" type="slide" />
+                <slidelink slideid="_player.5wkCBkLKozz.6KbXt8PcNhz" displaytext="Question 3" expand="false" type="slide" />
+                <slidelink slideid="_player.5wkCBkLKozz.6UQorMw7TQh" displaytext="Question 4" expand="false" type="slide" />
+                <slidelink slideid="_player.5wkCBkLKozz.6kg4FeT3Bfz" displaytext="Question 5" expand="false" type="slide" />
+                <slidelink slideid="_player.5wkCBkLKozz.5tle9oOsVcr" displaytext="Question 6" expand="false" type="slide" />
+                <slidelink slideid="_player.5wkCBkLKozz.5cee5PwTm8r" displaytext="Question 7" expand="false" type="slide" />
+                <slidelink slideid="_player.5wkCBkLKozz.5XG0U6nUwKy" displaytext="Question 8" expand="false" type="slide" />
+                <slidelink slideid="_player.5wkCBkLKozz.5sPNhyuQkB3" displaytext="Question 9" expand="false" type="slide" />
+                <slidelink slideid="_player.5wkCBkLKozz.6NR3a82n5cT" displaytext="Question 10" expand="false" type="slide" />
+                <slidelink slideid="_player.5wkCBkLKozz.6PiNhdobvSZ" displaytext="Question 11" expand="false" type="slide" />
+                <slidelink slideid="_player.5wkCBkLKozz.60QjOzkOmlm" displaytext="Question 12" expand="false" type="slide" />
+              </links>
+            </slidelink>
+            <slidelink slideid="_player.5wkCBkLKozz.6k2xAmOMgtC" displaytext="1.5: End" expand="false" type="slide" />
+          </links>
+        </slidelink>
+      </links>
+    </outline>
+    <search>
+      <slidetext slideid="6aorm6DVHdA.6iJyEq8eiIe" slidebank="false" type="slide">the small and large intestine click to begin click to begin click to begin  histology emodule tutorial emodule tutorial emodule tutorial </slidetext>
+      <slidetext slideid="6aorm6DVHdA.6KMOAvxC2nP" slidebank="false" type="slide">to complete each section, use the next button at the bottom of the pages or press the right arrow key to move forward one page at a time.  use the menu, available by clicking “menu” on the right, to navigate to specific slides. use search to quickly find instances of relevant terms. use the previous button at the bottom of the pages or press the left arrow key to move back one page at a time. note: you can also swipe right and left in order to navigate forward and backward, respectively. previous next using the emodule h14 small and large intestine    1. resources    2. objectives    3. introduction </slidetext>
+      <slidetext slideid="6aorm6DVHdA.5u2Xmu0SLdx" slidebank="false" type="slide">previous start with age, wear and tear,  info an intervertebral disc can herniate, such that the nucleus pulposus…. information that has implications for health and disease is introduced on a blue bar and continued below: conventions used in the emodule some slides contain the “slide talk” icon on the title bar. click this icon to hear me explain or elaborate on slide content.  some words are followed by this icon      ; click the icon to open related content in a separate layer. click the         icon to go back to the original layer. some words are followed by this icon      ; click the icon to see a definition or explanation.  words / phrases in purple denote concepts with which you should make a point of becoming familiar. </slidetext>
+      <slidetext slideid="5oOfyNDdaiT.5Zu8QGHoVGZ" slidebank="false" type="slide">acknowledgements previous © 2018 author and emodule development: barbara ballyk, ph.d. associate professor, teaching stream division of anatomy, department of surgery faculty of medicine, university of toronto brand design: janet koecher, discovery commons university of toronto emodule production: gianluca sampieri, m.sc. md candidate class of 2021 faculty of medicine, university of toronto albert gheorghita, m.sc. md candidate class of 2020 faculty of medicine, university of toronto julian manzone, m.sc. md candidate class of 2019 faculty of medicine, university of toronto </slidetext>
+      <slidetext slideid="6ITgT0pLqit.5na92eEcibs" slidebank="false" type="slide">  next previous 2.1  </slidetext>
+      <slidetext slideid="5wkCBkLKozz.5gi2o4aF5CC" slidebank="false" type="slide">next previous h14 the histology of thesmall and large intestine all images are from junqueira’s basic histology, 14th ed., © 2016 by mescher, denoted by “j”, a recommended resource, unless otherwise noted. recommended online resources:  university of minnesota histology guide university of leeds histology guide university of michigan virtual microscopy western university virtual slide box university of illinois cell and tissue biology </slidetext>
+      <slidetext slideid="5wkCBkLKozz.5i4Rghs6bdn" slidebank="false" type="slide">next previous h14   objectives when you have learned the material presented here, you will be able to: describe the basic structural organization of the walls of the gastrointestinal tract. this overview is repeated from h13, in order to remind you of the basic pattern of the digestive tract, on which the histology of each organ is based. describe the histological features that distinguish the duodenum, jejunum, ileum and large intestine. describe the structure of intestinal villi and the crypts of lieberkuhn. describe the functional significance of the cells that make up the epithelium lining the small and large intestines. 2 </slidetext>
+      <slidetext slideid="5wkCBkLKozz.6B24r95QZoq" slidebank="false" type="slide">next previous h13   components of the digestive system the digestive system can be subdivided into the digestive tract and accessory organs.  the digestive tract consist of: the oral cavity pharynx esophagus stomach small intestine large intestine h13 &amp; h14 will discuss the esophagus, stomach, small and large intestine. the accessory digestive organs are the: salivary glands, teeth and tongue liver gall bladder pancreas h15 will discuss the liver, gall bladder and pancreas. 3 j15-1 </slidetext>
+      <slidetext slideid="5wkCBkLKozz.6b4AF6SEvVf" slidebank="false" type="slide">next previous h13   structural organization of the digestive tract the basic histological structure of the esophagus, stomach, small and large intestine is the same. each consists of four layers. from the lumen outward, these are the: mucosa or mucous membrane submucosa muscularis externa serosa or adventitia 4 j15-2 </slidetext>
+      <slidetext slideid="5wkCBkLKozz.5nxYnbqmjxi" slidebank="false" type="slide">next previous h13   the enteric nervous system because it functions autonomously, the enteric nervous system can be considered a third division of the nervous system, separate from the somatic and autonomic systems. it is located in the walls of the digestive tract. the enteric nervous system is derived from neural crest cells, as are sympathetic ganglia and the adrenal medulla.  5 g1.049 the enteric nervous system consists of the myenteric and submucosal plexuses, the fibres that connect them and the fibres that innervate the tissues of the gut wall. it controls gut motility, secretion, and vascular tone. the enteric nervous system functions autonomously to control activity within and between regions of the gut. it does, however, receive input from, and is modulated by, the autonomic nervous system. gut motility and secretion are increased and decreased, respectively, by parasympathetic and sympathetic input. sensory information from the gut wall feeds back to the cns. along most of the length of the gut, visceral pain is conducted centrally with sympathetic efferents. homeostatic feedback travels with parasympathetic efferents. </slidetext>
+      <slidetext slideid="5wkCBkLKozz.62SD9woV7fQ" slidebank="false" type="slide">next previous h14   the histology of the small intestine the histology of the small intestine 6 </slidetext>
+      <slidetext slideid="5wkCBkLKozz.62jmWu2KG63" slidebank="false" type="slide">next previous h14   an overview of the small intestine 7 the small intestine is the site of terminal food digestion and nutrient absorption. by means of its endocrine products, it controls the function of other portions of the digestive tract and, indeed, accessory digestive organs such as the pancreas and gall bladder. the small intestine is 5 m in length and from proximal to distal, it is divided into the duodenum, jejunum and ileum. the serosa and muscularis of the small intestine is typical, as described     . the submucosa and mucosa are folded transversely      to form plicae circulares. these permanent features increase luminal surface area for nutrient absorption by 3-fold. they are best developed in the jejunum, where the majority of nutrient absorption takes place. in the duodenum, the submucosa contains numerous mucous-secreting duodenal (brunner’s) glands         . the alkaline mucous buffers the chyme arriving from the stomach, which 1) protects the duodenal mucosa from corrosion and 2) brings the ph of the chyme up to a level at which pancreatic enzymes can function. in the ileum, the submucosa contains mucosa-associated lymphoid tissue (malt), called peyer’s patches     . these accumulations of lymphocytes in the ileum protect against systemic infection by the bacterial flora of the large intestine. j15-22 </slidetext>
+      <slidetext slideid="5wkCBkLKozz.6UTsHBhdrh3" slidebank="false" type="slide">next previous h14   the mucosa of the small intestine 8 j15-22 the mucosa of the small intestine forms villi, 0.5-1.5 mm tall finger-like projections into the intestinal lumen consisting of a core of lp covered by a simple columnar epithelium     . at the base of the villi, the epithelium invaginates forming intestinal glands (crypts of lieberkuhn).  the lp, including the core of the villus, contains fibroblasts, lymphocytes, plasma cells and bands of smooth muscle cells. extending into the core of the villus are fenestrated capillary plexuses and blind-ended lymphatic capillaries called lacteals. in the lamina propria, and extending into the underlying submucosa are malt, called peyer’s patches, which are most prominent in the ileum.  villi increase luminal surface area another 10-fold, and are again tallest in the jejunum, where the majority of nutrient absorption takes place. the epithelium lining the small intestine again consists of a heterogeneous population of cells, some of which absorb nutrients, some of which are exocrine, and some of which are endocrine. </slidetext>
+      <slidetext slideid="5wkCBkLKozz.5keXH2Uo8VR" slidebank="false" type="slide">next previous h14   enterocytes and goblet cells cover the villi 9 j15-22 the simple columnar epithelium of the villus consists of enterocytes and goblet cells. enterocytes (surface absorptive cells) have the most well-developed microvilli      in the body. each enterocyte has ~3000 densely-packed microvilli     . these ~1 μm tall, finger-like extensions from the apical surface of the cell increase luminal surface area by another 20-fold     . because microvilli are at the limits of resolution with the light microscope, they appear as a fuzzy apical cell surface, termed a “brush border”. the glycocalyx     covering the microvilli includes enzymes that aid in the terminal digestion of dipeptides and disaccharides, and the subsequent absorption of amino acids and monosaccharides. once in the interstitial fluid of the underlying lp, these molecules enter the fenestrated capillaries of the villus.  goblet cells are interspersed amongst the enterocytes on the villi. they produce mucins, which combine with water to form mucous. it forms a protective and lubricating coat on the luminal surface of the small intestine. ingested fats are emulsified by bile salts, and digested by the action of pancreatic and gastric lipases. lipid subunits, thus produced, cross the apical surface of enterocytes, where they are reassembled into triglycerides, and complexed with proteins, thus forming chylomicrons. these are secreted into the interstitial fluid of the sub-adjacent lp. most enter the lacteals, and thus leave digestive surfaces via lymph. </slidetext>
+      <slidetext slideid="5wkCBkLKozz.65HU0Rdxvwg" slidebank="false" type="slide">next previous h14   cells of the intestinal glands 10 j15-22 a variety of cell types line the intestinal glands. paneth cells play a role in innate immunity. they are exocrine, producing antimicrobial peptides, such as lysozyme, which they secrete into the intestinal lumen to destroy pathogens present in chyme     . enteroendocrine cells are present in the intestinal glands, the specific population and their number varying in the different regions of the small intestine. many sample luminal contents via endocytosis at their apical aspect, using this to regulate hormonal release from their basal aspect into the underlying lp. major hormonal products of the small intestine are cholecystokinin, which promotes gall bladder contraction and the secretion of pancreatic enzymes, secretin, which promotes the secretion of bicarbonate and water from the pancreas and bile ducts, and motilin, which promotes gut motility. m (microfold) cells are present in the ileum where they form an epithelial covering overlying peyer’s patches. they endocytose antigens and transport them to the lymphocytes and dendritic cells (apcs) in the underlying lp, which then migrate to lymph nodes to initiate an immune response. this wide variety of cell types is replenished by the division of stem cells present in the bases of the intestinal glands. the transit time from “birth” to being shed from the tip of a villus is 3 - 5 days. </slidetext>
+      <slidetext slideid="5wkCBkLKozz.6n8WS3hg1QL" slidebank="false" type="slide">next previous h14   pathology of the small intestine 11 celiac disease info in celiac disease, an immune reaction to proteins in wheat and other grains causes inflammation and atrophy of the small intestinal mucosa (predominantly duodenal mucosa) and a loss of villus height, leading to malabsorption. crohn’s disease info in crohn’s disease, there is chronic inflammation that can involve any portion of the gi tract, although most commonly affects the terminal ileum and/or colon, classically presenting with chronic non-bloody diarrhea, abdominal pain and weight loss. the inflammation may penetrate deep into the gut wall. the cause is not clear; it may involve a combination of immune and genetic factors. </slidetext>
+      <slidetext slideid="5wkCBkLKozz.6Zl6UMcowbW" slidebank="false" type="slide">next previous h14   the histology of the large intestine the histology of the large intestine 12 </slidetext>
+      <slidetext slideid="5wkCBkLKozz.6Clxa0TkJ2v" slidebank="false" type="slide">next previous h14   an overview of the large intestine 13 the cecum, ascending and descending colon are secondarily retroperitoneal; only their anterior surfaces are covered by serosa. the transverse and sigmoid colons are intraperitoneal, and therefore suspended by mesenteries. the serosae covering them is continuous with that of their mesenteries. epiploic (omental) appendages are accumulations of fat, covered by serosa that are characteristic of the large intestine. the large intestine absorbs water, electrolytes, and some vitamins. it forms indigestible material into feces. it includes the cecum, the ascending, transverse, descending and sigmoid colon, and  the rectum. while it is shorter in length than the small intestine, it is larger in diameter. the muscularis externa of the cecum and colon is remarkable in that while its circular layer is complete, its longitudinal layer is reduced to three strips, the teniae coli. tension in the teniae coli forms haustra, the sacculations characteristic of the bowel wall. this muscle layer is complete in the appendix and rectum. the inner circular layer of muscle is thickened at each end of the large intestine to form the ileocecal valve and the internal anal sphincter. in the rectum, it also forms the rectal “valves” of houston. </slidetext>
+      <slidetext slideid="5wkCBkLKozz.5eqWGS4uwyP" slidebank="false" type="slide">next previous h14   the submucosa and mucosa of the large intestine 14 goblet cells increase in number along the length of the large intestine, as the feces are dried out through the absorption of water, and lubrication of the intestinal wall becomes more necessary. stem cells in the bases of the intestinal gland divide to replace cells lost into the luminal contents. there is an abrupt transition to stratified squamous epithelium at the rectoanal junction, and the mucosa is raised into longitudinal folds, the anal columns. the stratified squamous epithelium of the anal canal becomes keratinized at the anus     . lymphatic nodules of the lp may extend into the submucosa. otherwise, the submucosa of the large intestine is typical, and therefore unremarkable. the large bacterial population in the large bowel necessitates the presence of this malt. the mucosa of the large intestine is distinctly different from that of the small intestine in that it lacks villi. it does form deep tubular invaginations into the lp, the intestinal glands. the epithelium is dominated by absorptive cells and goblet cells, and includes a small population of enteroendocrine cells     .  </slidetext>
+      <slidetext slideid="5wkCBkLKozz.5heVhMnrMvD" slidebank="false" type="slide">next previous h14   pathology of the large intestine 15 inflammatory bowel disease in the colon info in ulcerative colitis, chronic active inflammation of the mucosa of the large intestine causes the formation of ulcers, which results in chronic bloody diarrhea. it typically starts at the rectum and proceeds proximally. the inflammation in crohn’s disease can involve all layers of the intestinal wall, from mucosa to serosa. it is present as discontinuous patches throughout the gi tract, although commonly in the terminal ileum and large intestine (thus, it is mentioned here, as well as in the section on the small intestine). crohn’s disease presents with chronic, non-bloody diarrhea, abdominal pain and weight loss.    </slidetext>
+      <slidetext slideid="5wkCBkLKozz.5l0Q6gS1YSz" slidebank="false" type="slide">next previous h14   pathology of the rectum and anal canal 16 rectal varices info as described earlier, portal-systemic anastomoses connect veins of the hepatic portal system, which drains blood from the digestive tract to the liver, to systemic veins, which drain blood directly to the ivc or svc. recall that such a portal-systemic anastomosis occurs in the esophagus, and can lead to esophageal varices. a portal-systemic anastomosis also occurs in the submucosa of the rectum. the superior rectal veins drain into the portal system. the middle and inferior rectal veins drain into the systemic system (the internal iliac veins, and from there into the ivc). these veins are connected by a portal-systemic anastomosis. with hepatic portal hypertension, as may occur in cirrhosis of the liver secondary to alcoholic liver disease or viral hepatitis, veinous blood is diverted from the superior rectal vein to the tributaries of the middle and inferior rectal veins, located in the submucosa of the rectoanal junction. in response to the increased venous pressure, veins in the submucosa of the rectum dilate (rectal varices). these are distinct from hemorrhoids, which are dilated vessels at the anorectal junction in the venous plexus associated with mucosa overlying the internal anal sphincter (internal hemorrhoids) and at the anus in the venous plexus associated with the skin overlying the external anal sphincter (external hemorrhoids). hemorrhoids are not associated with portal hypertension, but, for instance, with a low fibre diet and the resultant straining associated with defecation. </slidetext>
+      <slidetext slideid="5wkCBkLKozz.68fiWuL1tUU" slidebank="false" type="slide">next previous h14   quiz press next to start the quiz or skip to end h14   skip 17 </slidetext>
+      <slidetext slideid="5wkCBkLKozz.6hLLJ28YxJd" slidebank="false" type="slide">which of the following regions of the digestive tract include an adventitia? the esophagus the esophagus the esophagus the esophagus the esophagus the esophagus the stomach the stomach the stomach the stomach the stomach the stomach the ileum the ileum the ileum the ileum the ileum the ileum the sigmoid colon the sigmoid colon the sigmoid colon the sigmoid colon the sigmoid colon the sigmoid colon submit h14   question 1 </slidetext>
+      <slidetext slideid="5wkCBkLKozz.5Wumii8Qlw8" slidebank="false" type="slide">which of the following regions of the digestive tract has the largest accumulation of mucosa-associated lymphoid tissue (malt)? stomach stomach stomach stomach stomach stomach duodenum duodenum duodenum duodenum duodenum duodenum jejunum jejunum jejunum jejunum jejunum jejunum ileum ileum ileum ileum ileum ileum submit h14   question 2 </slidetext>
+      <slidetext slideid="5wkCBkLKozz.6KbXt8PcNhz" slidebank="false" type="slide">in the large intestine, the teniae coli are a specialization of which layer? mucosa mucosa mucosa mucosa mucosa mucosa submucosa submucosa submucosa submucosa submucosa submucosa muscularis externa muscularis externa muscularis externa muscularis externa muscularis externa muscularis externa serosa serosa serosa serosa serosa serosa submit h14   question 3 </slidetext>
+      <slidetext slideid="5wkCBkLKozz.6UQorMw7TQh" slidebank="false" type="slide">identify cell type a. h14   question 4 submit </slidetext>
+      <slidetext slideid="5wkCBkLKozz.6kg4FeT3Bfz" slidebank="false" type="slide">identify structure b. h14   question 5 submit </slidetext>
+      <slidetext slideid="5wkCBkLKozz.5tle9oOsVcr" slidebank="false" type="slide">identify cell type c. h14   question 6 submit </slidetext>
+      <slidetext slideid="5wkCBkLKozz.5cee5PwTm8r" slidebank="false" type="slide">identify structures a. h14   question 7 submit </slidetext>
+      <slidetext slideid="5wkCBkLKozz.5XG0U6nUwKy" slidebank="false" type="slide">in what subdivision of the small intestine are these glands found? h14   question 8 submit </slidetext>
+      <slidetext slideid="5wkCBkLKozz.5sPNhyuQkB3" slidebank="false" type="slide">identify cell type a. h14   question 9 submit </slidetext>
+      <slidetext slideid="5wkCBkLKozz.6NR3a82n5cT" slidebank="false" type="slide">identify structures a. h14   question 10 submit </slidetext>
+      <slidetext slideid="5wkCBkLKozz.6PiNhdobvSZ" slidebank="false" type="slide">identify a. h14   question 11 submit </slidetext>
+      <slidetext slideid="5wkCBkLKozz.60QjOzkOmlm" slidebank="false" type="slide">identify the class of epithelium b. h14   question 12 submit </slidetext>
+      <slidetext slideid="5wkCBkLKozz.6k2xAmOMgtC" slidebank="false" type="slide">congratulations on finishing h14 the small and large intestine! review h14 review h14 review h14 previous </slidetext>
+    </search>
+  </nav_data>
+  <resource_data description="" />
+  <transcript_data>
+    <slidetranscripts>
+      <slidetranscript slideid="6aorm6DVHdA.6iJyEq8eiIe" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="0">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Calibri' size='12.5pt' style="font-size:12.5pt;" color='#ffffff'&gt;need to change title&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="6aorm6DVHdA.5u2Xmu0SLdx" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="1">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Calibri' size='12.5pt' style="font-size:12.5pt;" color='#ffffff'&gt;fix this slide&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+    </slidetranscripts>
+  </transcript_data>
+  <glossary_data />
+</bwFrame>

@@ -1,0 +1,1325 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="npnxnanbnsnfns01001000011" textdirection="ltr" device="false" fontscale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="classic">
+  <layouts>
+    <layout name="npnxnanbsnfns01001000011" font="Calibri" controllayout="npnxnanbsnfns01001000011" colorscheme="npnxnanbnsnfns01001000011" string_table="npnxnanbnsnfns01001000011" />
+    <layout name="pxabnsnfns01001000011" font="Calibri" controllayout="pxabnsnfns01001000011" colorscheme="npnxnanbnsnfns01001000011" string_table="npnxnanbnsnfns01001000011" />
+    <layout name="npxnabnsnfns01001000011" font="Calibri" controllayout="npxnabnsnfns01001000011" colorscheme="npnxnanbnsnfns01001000011" string_table="npnxnanbnsnfns01001000011" />
+    <layout name="npnxnanbnsnfns01001000011" font="Calibri" controllayout="npnxnanbnsnfns01001000011" colorscheme="npnxnanbnsnfns01001000011" string_table="npnxnanbnsnfns01001000011" />
+    <layout name="pxabnsnfns01001000010" font="Calibri" controllayout="pxabnsnfns01001000010" colorscheme="npnxnanbnsnfns01001000011" string_table="npnxnanbnsnfns01001000011" />
+    <layout name="npnxabnsnfns01001000011" font="Calibri" controllayout="npnxabnsnfns01001000011" colorscheme="npnxnanbnsnfns01001000011" string_table="npnxnanbnsnfns01001000011" />
+  </layouts>
+  <control_options>
+    <optiongroups>
+      <optiongroup name="sidebaroptions">
+        <options>
+          <option name="title_enabled" value="true">
+            <options>
+              <option name="title_text" value="H09 The Histology of the Respiratory System" />
+            </options>
+          </option>
+          <option name="logo_enabled" value="true">
+            <options>
+              <option name="logo_url" value="story_content/logo.swf">
+                <properties>
+                  <property name="width" value="1024" />
+                  <property name="height" value="347" />
+                </properties>
+              </option>
+              <option name="html5_logo_url" value="mobile/6FSkdYSkHvl.png" />
+            </options>
+          </option>
+          <option name="sidebar_enabled" value="true">
+            <options>
+              <option name="sidebarpos" value="left" />
+            </options>
+          </option>
+          <optionlist name="tabs">
+            <listitems>
+              <listitem name="customlink" value="true" group="linkleft">
+                <properties>
+                  <property name="title" value="Acknowledgements" />
+                  <property name="data" value="62WilxHnbdW" />
+                  <property name="ignoreSlideLock" value="true" />
+                </properties>
+              </listitem>
+              <listitem name="resources" value="false" group="linkright" />
+              <listitem name="outline" value="true" group="sidebar" />
+              <listitem name="glossary" value="false" group="sidebar" />
+              <listitem name="transcript" value="false" group="sidebar" />
+            </listitems>
+          </optionlist>
+          <option name="time_enabled" value="false">
+            <options>
+              <option name="time_format" value="" />
+            </options>
+          </option>
+          <option name="video_enabled" value="false">
+            <options>
+              <option name="height" value="135" />
+            </options>
+          </option>
+        </options>
+      </optiongroup>
+      <optiongroup name="menuoptions">
+        <options>
+          <option name="flow" value="free" />
+          <option name="wraplistitems" value="true" />
+          <option name="tooltips" value="true" />
+          <option name="autocollapse" value="false" />
+          <option name="autonumber" value="false" />
+          <option name="enableresultsicons" value="true" />
+        </options>
+      </optiongroup>
+      <optiongroup name="controls">
+        <options>
+          <option name="volume" value="false" />
+          <option name="seekbar" value="false">
+            <options>
+              <option name="readonly" value="false" />
+            </options>
+          </option>
+          <option name="search" value="true" />
+          <option name="pauseplay" value="false" />
+          <option name="replay" value="false" />
+          <option name="closed_captions" value="false">
+            <options>
+              <option name="font" value="Calibri" />
+            </options>
+          </option>
+        </options>
+      </optiongroup>
+      <optiongroup name="bottombaroptions">
+        <options>
+          <option name="bottombar_enabled" value="false" />
+        </options>
+      </optiongroup>
+    </optiongroups>
+  </control_options>
+  <control_layouts>
+    <control_layout name="npnxnanbsnfns01001000011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="true" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns01001000011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npxnabnsnfns01001000011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npnxnanbnsnfns01001000011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns01001000010">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="false" />
+    </control_layout>
+    <control_layout name="npnxabnsnfns01001000011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+  </control_layouts>
+  <colorschemes>
+    <colorscheme name="npnxnanbnsnfns01001000011">
+      <color_group name="infopanel">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x7C2280" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0000EE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC73013" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="title_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x999999" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="infopanelpopup">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFC4A2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xED5736" alpha="100" stop="0" />
+                <color rgb="0xD44120" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFC4A2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bio_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="timer">
+        <group_colors>
+          <color name="duration">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x00D7FF" alpha="100" stop="0" />
+                <color rgb="0x00ABFF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="elapsed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFEE347" alpha="100" stop="0" />
+                <color rgb="0xFCCC2A" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="stroke">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC7C7C7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="window">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xED5736" alpha="100" stop="0" />
+                <color rgb="0xD44120" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xEB8964" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF49277" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD63F21" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="20" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="editor">
+        <group_colors>
+          <color name="slide_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="html_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC23115" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC93518" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE15429" alpha="100" stop="0" />
+                <color rgb="0xC42D16" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD84121" alpha="100" stop="0" />
+                <color rgb="0xDE4C27" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE1512A" alpha="100" stop="0" />
+                <color rgb="0xD63A1D" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="listitem">
+        <group_colors>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x671B6B" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF98E6E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="viewed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFC4A2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF17D5E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="lines">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDA563A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="glossary">
+        <group_colors>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF98E6E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE85F39" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD96244" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD96244" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF98B6A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xEC7B59" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="resource">
+        <group_colors>
+          <color name="separator">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD35338" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="outline">
+        <group_colors>
+          <color name="search_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFC4A2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD35338" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xEB9471" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCF5336" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="transcript">
+        <group_colors>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="div">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD35338" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="tabs">
+        <group_colors>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC73013" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFC4A2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xED7254" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="seekcontrol">
+        <group_colors>
+          <color name="btn_icon_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFE1D0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_position">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE97D65" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD33F1F" alpha="100" stop="0" />
+                <color rgb="0xCA3416" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC32E13" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE65832" alpha="100" stop="0" />
+                <color rgb="0xDF3F23" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="searchinput">
+        <group_colors>
+          <color name="text_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2D2D2D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2D2D2D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xEB9471" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE76E52" alpha="100" stop="0" />
+                <color rgb="0xE2694D" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icon">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD7654B" alpha="100" stop="0" />
+                <color rgb="0xC42F13" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="scrollarea">
+        <group_colors>
+          <color name="detailb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCA3518" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="detaila">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xEA7C5D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCB3519" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icons">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCA3417" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE55D3B" alpha="100" stop="0" />
+                <color rgb="0xDB4D32" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE2522C" alpha="100" stop="0" />
+                <color rgb="0xD93E20" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF8795B" alpha="100" stop="0" />
+                <color rgb="0xF8795B" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="0">
+              <colors>
+                <color rgb="0xED6546" alpha="100" stop="0" />
+                <color rgb="0xEE6948" alpha="100" stop="128" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="menu">
+        <group_colors>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD35235" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xED7254" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="logo">
+        <group_colors>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC73013" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="checkbox">
+        <group_colors>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6BF8FF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="check">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2BC400" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD35338" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="button">
+        <group_colors>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC23115" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC93518" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE15429" alpha="100" stop="0" />
+                <color rgb="0xC42D16" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD84121" alpha="100" stop="0" />
+                <color rgb="0xDE4C27" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE1512A" alpha="100" stop="0" />
+                <color rgb="0xD63A1D" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="10" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="base">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD63F21" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF49277" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="menu_shade">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDD5233" alpha="100" stop="0" />
+                <color rgb="0xC53D1E" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF5674A" alpha="100" stop="0" />
+                <color rgb="0xF5674A" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xED5736" alpha="100" stop="0" />
+                <color rgb="0xD44120" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slide_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xED5736" alpha="100" stop="0" />
+                <color rgb="0xD44120" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="volume">
+        <group_colors>
+          <color name="thumb_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCB361A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE55E3B" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDB4524" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF26E50" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE75E36" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="HTML">
+        <group_colors>
+          <color name="htmlpage_bg_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x018CB0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+    </colorscheme>
+  </colorschemes>
+  <string_tables>
+    <string_table name="npnxnanbnsnfns01001000011">
+      <string id="acc_active">active</string>
+      <string id="check_include">Check to include</string>
+      <string id="clear">Clear and return to Menu</string>
+      <string id="close">Close</string>
+      <string id="acc_closed_captions">Closed captions. Press the spacebar to toggle captions on and off.</string>
+      <string id="continue">Continue</string>
+      <string id="continueresponsive">Continue</string>
+      <string id="exit">Exit</string>
+      <string id="filter">Filter</string>
+      <string id="finish">FINISH</string>
+      <string id="acc_finish">finish</string>
+      <string id="definition">Definition</string>
+      <string id="acc_definition">definition</string>
+      <string id="glossary">Glossary</string>
+      <string id="terms">Terms</string>
+      <string id="outline">Menu</string>
+      <string id="disabled_orientation">Please rotate your device</string>
+      <string id="next">NEXT</string>
+      <string id="acc_next">next</string>
+      <string id="transcript_chk">Notes</string>
+      <string id="transcript">Notes</string>
+      <string id="bio">Bio</string>
+      <string id="more_info">More info</string>
+      <string id="closed_captions">Captions</string>
+      <string id="acc_pause">pause</string>
+      <string id="acc_play">play</string>
+      <string id="send_an_email">Send an email</string>
+      <string id="prev">PREV</string>
+      <string id="acc_previous">previous</string>
+      <string id="question_list">Question List</string>
+      <string id="acc_replay">replay</string>
+      <string id="resources">Resources</string>
+      <string id="acc_resources">resources</string>
+      <string id="restart">Restart</string>
+      <string id="resume">Resume</string>
+      <string id="search">Search...</string>
+      <string id="acc_search_input">search</string>
+      <string id="search_in">Search in:</string>
+      <string id="search_results">Search Results</string>
+      <string id="acc_skipnavigation">Skip Navigation. Hit enter to return to the slide.</string>
+      <string id="slide_text_chk">Slide Text</string>
+      <string id="submitall">SUBMIT ALL</string>
+      <string id="acc_submitall">submit all</string>
+      <string id="submit">SUBMIT</string>
+      <string id="acc_submit">submit</string>
+      <string id="acc_volume">volume</string>
+    </string_table>
+  </string_tables>
+  <fonts>
+    <font name="Calibri">
+      <files>
+        <file bold="true" italic="false" />
+        <file bold="false" italic="false" />
+      </files>
+    </font>
+  </fonts>
+  <sounds enabled="true" />
+  <nav_data>
+    <outline>
+      <links>
+        <slidelink slideid="_player.6aorm6DVHdA" displaytext="Start" expand="false" type="slide">
+          <links>
+            <slidelink slideid="_player.6aorm6DVHdA.6KMOAvxC2nP" displaytext="Using the emodule" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6YNcztTZ3DT" displaytext="H9 The Histology of the Respiratory System" expand="false" type="slide">
+          <links>
+            <slidelink slideid="_player.6YNcztTZ3DT.5rvIKoBtHdG" displaytext="1. Resources" expand="false" type="slide" />
+            <slidelink slideid="_player.6YNcztTZ3DT.5rR0iGHtuOo" displaytext="2. Objectives" expand="false" type="slide" />
+            <slidelink slideid="_player.6YNcztTZ3DT.5ufQOilWP1U" displaytext="3. Introduction" expand="false" type="slide" />
+            <slidelink slideid="_player.6YNcztTZ3DT.6QjuY43vJyF" displaytext="4. Part I: The Conducting Portion" expand="false" type="slide" />
+            <slidelink slideid="_player.6YNcztTZ3DT.6eUuSVQEPBg" displaytext="5. Respiratory Mucosa" expand="false" type="slide" />
+            <slidelink slideid="_player.6YNcztTZ3DT.6d5hYsFqjnp" displaytext="6. Respiratory Epithelium" expand="false" type="slide" />
+            <slidelink slideid="_player.6YNcztTZ3DT.5WEu4mgIfvF" displaytext="7. The Nasal Cavity" expand="false" type="slide" />
+            <slidelink slideid="_player.6YNcztTZ3DT.6USXKT9Yqm9" displaytext="8. The Trachea" expand="false" type="slide" />
+            <slidelink slideid="_player.6YNcztTZ3DT.5gf97CmH1e7" displaytext="9. The Bronchial Tree " expand="false" type="slide" />
+            <slidelink slideid="_player.6YNcztTZ3DT.653kI2KjmpL" displaytext="10. Bronchi" expand="false" type="slide" />
+            <slidelink slideid="_player.6YNcztTZ3DT.6An95zuV9lY" displaytext="11. Bronchioles" expand="false" type="slide" />
+            <slidelink slideid="_player.6YNcztTZ3DT.6bdEwreL1vA" displaytext="12. Terminal Bronchioles" expand="false" type="slide" />
+            <slidelink slideid="_player.6YNcztTZ3DT.6l3ooFuZETc" displaytext="13. Part II: The Respiratory Portion" expand="false" type="slide" />
+            <slidelink slideid="_player.6YNcztTZ3DT.5ulgWtpQGZX" displaytext="14. The Components of the Respiratory Portion of the Respiratory System" expand="false" type="slide" />
+            <slidelink slideid="_player.6YNcztTZ3DT.5b2wWjfe76Q" displaytext="15. Lung Tissue is like an Aero Bar" expand="false" type="slide" />
+            <slidelink slideid="_player.6YNcztTZ3DT.5dVFFK5nJtb" displaytext="16. The Alveolus" expand="false" type="slide" />
+            <slidelink slideid="_player.6YNcztTZ3DT.6Yc2slBmywj" displaytext="17. The Respiratory Membrane" expand="false" type="slide" />
+            <slidelink slideid="_player.6YNcztTZ3DT.6Dud7P4K7HV" displaytext="18. Dust Cells" expand="false" type="slide" />
+            <slidelink slideid="_player.6YNcztTZ3DT.5fTdxfcKLtE" displaytext="19. Quiz Start" expand="false" type="slide">
+              <links>
+                <slidelink slideid="_player.6YNcztTZ3DT.6iLn83MvmNq" displaytext="Question 1" expand="false" type="slide" />
+                <slidelink slideid="_player.6YNcztTZ3DT.6KfSwF3NYxb" displaytext="Question 2" expand="false" type="slide" />
+                <slidelink slideid="_player.6YNcztTZ3DT.6HgsceNhmhH" displaytext="Question 3" expand="false" type="slide" />
+                <slidelink slideid="_player.6YNcztTZ3DT.6N8XtgKinZD" displaytext="Question 4" expand="false" type="slide" />
+                <slidelink slideid="_player.6YNcztTZ3DT.5kgvhEDYYmN" displaytext="Question 5" expand="false" type="slide" />
+                <slidelink slideid="_player.6YNcztTZ3DT.5lTjamRljLL" displaytext="Question 6" expand="false" type="slide" />
+                <slidelink slideid="_player.6YNcztTZ3DT.6e0LrWlzrNw" displaytext="Question 7" expand="false" type="slide" />
+                <slidelink slideid="_player.6YNcztTZ3DT.6pUZZieHLur" displaytext="Question 8" expand="false" type="slide" />
+                <slidelink slideid="_player.6YNcztTZ3DT.5gk0Pe9XTsY" displaytext="Question 9" expand="false" type="slide" />
+                <slidelink slideid="_player.6YNcztTZ3DT.5wFAkUmcC25" displaytext="Question 10" expand="false" type="slide" />
+                <slidelink slideid="_player.6YNcztTZ3DT.6H7smEJlzTD" displaytext="Question 11" expand="false" type="slide" />
+                <slidelink slideid="_player.6YNcztTZ3DT.6SOblPTdtif" displaytext="Question 12" expand="false" type="slide" />
+                <slidelink slideid="_player.6YNcztTZ3DT.6eeCplHemtB" displaytext="Question 13" expand="false" type="slide" />
+                <slidelink slideid="_player.6YNcztTZ3DT.643QQnNcPA2" displaytext="Question 14" expand="false" type="slide" />
+                <slidelink slideid="_player.6YNcztTZ3DT.6cIQ2FRTSUb" displaytext="Question 15" expand="false" type="slide" />
+                <slidelink slideid="_player.6YNcztTZ3DT.6HoZEG0KFRk" displaytext="Question 16" expand="false" type="slide" />
+                <slidelink slideid="_player.6YNcztTZ3DT.5b5qRtNnh7c" displaytext="Question 17" expand="false" type="slide" />
+                <slidelink slideid="_player.6YNcztTZ3DT.5V5URQgcKyE" displaytext="Question 18" expand="false" type="slide" />
+                <slidelink slideid="_player.6YNcztTZ3DT.6JpcVvHUk30" displaytext="Question 19" expand="false" type="slide" />
+                <slidelink slideid="_player.6YNcztTZ3DT.67dUiuMtxI8" displaytext="Question 20" expand="false" type="slide" />
+              </links>
+            </slidelink>
+            <slidelink slideid="_player.6YNcztTZ3DT.6AQkSMYhZEe" displaytext="1.5: End" expand="false" type="slide" />
+          </links>
+        </slidelink>
+      </links>
+    </outline>
+    <search>
+      <slidetext slideid="6aorm6DVHdA.6iJyEq8eiIe" slidebank="false" type="slide">the respiratory system click to begin click to begin click to begin  histology emodule tutorial emodule tutorial emodule tutorial </slidetext>
+      <slidetext slideid="6aorm6DVHdA.6KMOAvxC2nP" slidebank="false" type="slide">to complete each section, use the next button at the bottom of the pages or press the right arrow key to move forward one page at a time.  use the menu, available by clicking “menu” at the top, to navigate to specific slides. use search to quickly find instances of relevant terms. use the previous button at the bottom of the pages or press the left arrow key to move back one page at a time. note: you can also swipe right and left in order to navigate forward and backward, respectively. previous next using the emodule case 1      introduction      approach      diagnosis </slidetext>
+      <slidetext slideid="6aorm6DVHdA.5u2Xmu0SLdx" slidebank="false" type="slide">some slides contain the “slide talk” icon on the title bar. click this icon to hear me explain or elaborate on slide content.  some words are followed by this icon      ; click the icon to open related content in a separate layer. click the         icon to go back to the original layer. some words are followed by this icon      ; click the icon to see a definition or explanation.  words / phrases in purple denote concepts with which you should make a point of becoming familiar. previous start with age, wear and tear,  info an intervertebral disc can herniate, such that the nucleus pulposus…. information that has implications for health and disease is introduced on a blue bar and continued below: conventions used in the emodule </slidetext>
+      <slidetext slideid="5oOfyNDdaiT.5Zu8QGHoVGZ" slidebank="false" type="slide">acknowledgements previous © 2018 author and emodule development: barbara ballyk, ph.d. associate professor, teaching stream division of anatomy, department of surgery faculty of medicine, university of toronto brand design: janet koecher, discovery commons university of toronto emodule production: gianluca sampieri, m.sc. md candidate class of 2021 faculty of medicine, university of toronto albert gheorghita, m.sc. md candidate class of 2020 faculty of medicine, university of toronto julian manzone, m.sc. md candidate class of 2019 faculty of medicine, university of toronto </slidetext>
+      <slidetext slideid="6ITgT0pLqit.5na92eEcibs" slidebank="false" type="slide">  next previous 2.1  </slidetext>
+      <slidetext slideid="6YNcztTZ3DT.5rvIKoBtHdG" slidebank="false" type="slide">next previous h9 the histology of the respiratory system all images are from junqueira’s basic histology, 13th ed., © 2013 by mescher, denoted by “j”, a recommended resource, unless otherwise noted. recommended online resources:  university of minnesota histology guide university of leeds histology guide university of michigan virtual microscopy western university virtual slide box university of illinois cell and tissue biology </slidetext>
+      <slidetext slideid="6YNcztTZ3DT.5rR0iGHtuOo" slidebank="false" type="slide">next previous h9   objectives when you have learned the material presented here, you will be able to: describe the histological features of the upper respiratory tract, including the nose, paranasal sinuses and nasopharynx. compare and contrast the histological features of the lower respiratory tract, including the trachea, bronchi and bronchioles. describe the function of the various tissue layers that make up the walls of these passages. list the epithelial cell types that contribute to the lining of the airways and describe their function. describe the structure of the alveolus, including the function its epithelial cell types. describe the structure of the interalveolar septum. describe the blood-air barrier, or respiratory membrane. 2 </slidetext>
+      <slidetext slideid="6YNcztTZ3DT.5ufQOilWP1U" slidebank="false" type="slide">next previous h9   the respiratory system: an introduction the respiratory system functions to facilitate the exchange of oxygen (o2) and carbon dioxide (co2) between air and blood. it can be divided a conducting portion and a respiratory portion.  the conducting portion moves air into and out of the lungs, bringing it to and from those surfaces specialized for gas exchange, which constitute the respiratory portion. the conducting portion of the respiratory system includes all structures that conduct air into and out of the lungs. this includes the nose, pharynx, larynx, trachea, bronchi, bronchioles and terminal bronchioles. it is subdivided into the upper respiratory tract and the lower respiratory tract at the opening into the larynx, which is the point of bifurcation of the digestive and respiratory systems. the respiratory portion of the respiratory system includes all structures in which gas exchange between air and blood takes place. this includes the respiratory bronchioles, alveolar ducts and alveoli. alveoli make up most of the volume of the lungs. 3 </slidetext>
+      <slidetext slideid="6YNcztTZ3DT.6QjuY43vJyF" slidebank="false" type="slide">next previous h9   part i part i:the histology of the conducting portion of the respiratory system 4 </slidetext>
+      <slidetext slideid="6YNcztTZ3DT.6eUuSVQEPBg" slidebank="false" type="slide">next previous h9   respiratory mucosa the conducting portion of the respiratory system includes the nose, pharynx, larynx, trachea, bronchi, bronchioles and terminal bronchioles.  all surfaces that open to the outside of the body are lined by a mucus membrane or mucosa. this includes the respiratory system, digestive system and the genitourinary system. mucus membranes consist of an epithelial component and an underlying connective tissue component, the lamina propria. the epithelial component of a mucus membrane varies, depending on the function of the surface it lines. for instance, the epithelial component of the mucosa of the small intestine is structurally specialized for nutrient absorption, while that of the seminiferous tubules is structurally specialized to produce spermatozoa. in addition to moving air into and out of the lungs, the conducting portion of the respiratory system is structurally specialized to condition inspired air, which includes warming, humidifying and filtering air as it is drawn into the lungs toward the respiratory portion for gas exchange. it is the mucosa of the conducting portion that is responsible for this function, as it is well-vascularized (to warm), wet (to humidify) and sticky with secreted mucus (to filter). 5 </slidetext>
+      <slidetext slideid="6YNcztTZ3DT.6d5hYsFqjnp" slidebank="false" type="slide">next previous h9   respiratory epithelium respiratory epithelium consists of a pseudostratified, ciliated, columnar epithelium with goblet cells, as described in the emodule on epithelia     .  the majority of the cells are ciliated columnar cells, with goblet cells interspersed. the goblet cells generate a sticky film of mucus that overlies the free surface of the respiratory epithelium. particulate matter in inspired air becomes stuck in the mucus and the cilia beat toward the pharynx, propelling the mucus and particulate matter toward the upper esophageal sphincter, where it is swallowed. this is how respiratory epithelium cleans inspired air. a small proportion of cells in respiratory epithelium are small granule cells or kulchitsky cells. as part of the diffuse neuroendocrine system (dnes), small granule cells secrete their products across their basal aspect into the underlying interstitial fluid. their cell products act in a paracrine manner to coordinate the function of adjacent cells and tissues. dendritic cells present in the respiratory mucosa are antigen-presenting cells, similar to the langerhan’s cells of the skin. they are capable of migrating from the epithelium to the sub-adjacent lamina propria to present processed antigen to local lymphocytes. basal cells present in the respiratory epithelium are mitotically-active stem cells; they give rise to the various cells types present in the epithelium. 6 </slidetext>
+      <slidetext slideid="6YNcztTZ3DT.5WEu4mgIfvF" slidebank="false" type="slide">next previous h9   the nasal cavity a well-vascularized respiratory mucosa lines most of the nasal cavity. the rich vascularity promotes the warming of inspired air, and permits the rapid absorption of intranasally-administered drugs. the nasal conchae promote turbulence in the inspired air, thereby enhancing the interaction between air and the moist, sticky, warm mucosal surfaces.  in the roof of the nasal cavity, including the superior conchae, the epithelium is specialized to detect odorant molecules in inspired air. this olfactory epithelium contains chemosensitive olfactory neurons, support cells and basal cells.  as you know from your study of the gross anatomy of the head and neck, the paranasal sinuses open into the nasal cavity. mucus produced by the respiratory mucosa lining the paranasal sinuses is propelled by cilia through these openings, and thus drains into the nasal cavity. the nasal cavities open posteriorly into the nasopharynx. this is the only portion of the pharynx that is lined by respiratory mucosa; the oropharynx and laryngopharynx, spaces shared by the respiratory and digestive system, are lined by typical oral mucosa, which includes a stratified squamous nonkeratinized epithelium. 7 </slidetext>
+      <slidetext slideid="6YNcztTZ3DT.6USXKT9Yqm9" slidebank="false" type="slide">next previous h9   the trachea the larynx opens into the trachea, a 10-12 cm long tube. from the lumen outward, the wall of the trachea consists of a mucosa, a submucosa and an adventitia.  the respiratory mucosa lining the trachea includes a tall respiratory epithelium (re) and lamina propria (lp).  seromucous glands (g) in the submucosa produce watery mucus.  the trachea is kept patent (open) by a series of c-shaped cartilage rings (c) along its length, located between the submucosa and adventitia. perichondrium (p) attaches these cartilaginous plates to the submucosa and adventitia.  the opening in the “c” faces the esophagus, posteriorly. the two ends of the c-shaped cartilage are joined by a smooth muscle, the trachealis, the tone of which is under autonomic control. it relaxes during swallowing to allow the esophagus to bulge into the trachea with the passage of a bolus of food.  it contracts during the cough reflex, narrowing the tracheal lumen and thereby increasing the velocity of expelled air. the adventitia is loose ct that attaches the trachea to adjacent structures, such as the esophagus, posteriorly, and the thyroid gland, anteriorly and laterally. 8 </slidetext>
+      <slidetext slideid="6YNcztTZ3DT.5gf97CmH1e7" slidebank="false" type="slide">next previous h9   the bronchial tree  9 as you know from gross anatomy, the trachea bifurcates into the right and left primary bronchi, each dedicated to a lung.  these enter the hilum of the lung with their blood vessels, lymphatics and nerves. the primary bronchi branch into secondary (lobar) bronchi, each of which is dedicated to a lung lobe. thus, the right primary bronchus gives rise to three secondary bronchi which serve the superior, middle and inferior lobes of the right lung. the left primary bronchus gives rise to two secondary bronchi which serve the superior and inferior lobes of the left lung. secondary bronchi branch to form tertiary (segmental) bronchi, each dedicated to a bronchopulmonary segment. bronchopulmonary segments are independent subunits of lung tissue surrounded by a ct capsule, each having their own air, nerve and blood supply and lymphatic drainage.  tertiary bronchi branch repeatedly, forming ever smaller bronchi, and ultimately forming bronchioles. the conducting portion of the respiratory system ends with the formation of terminal bronchioles. </slidetext>
+      <slidetext slideid="6YNcztTZ3DT.653kI2KjmpL" slidebank="false" type="slide">next previous h9   bronchi unlike the trachea, the cartilaginous support of primary bronchi includes complete cartilaginous rings. as the bronchi branch and luminal diameter decreases, the cartilage transitions to a series of plates. seromucous glands remain abundant. bundles of smooth muscle and elastic fibres appear in the lamina propria and increase in prominence as the bronchi branch and the cartilage decreases. lymphocytes are present in the mucosa, as are lymphatic nodules of the mucosa-associated lymphoid tissue (malt); these also increase with the branching of bronchi.  10 e – respiratory epithelium sm – smooth muscle (increases as bronchi branch) g – seromucous glands c – hyaline cartilage lp – lamina propria n – nerve lt – lung tissue recall that as bronchi branch cartilage begins to disappear and sm becomes more prominent! </slidetext>
+      <slidetext slideid="6YNcztTZ3DT.6An95zuV9lY" slidebank="false" type="slide">next previous h9   bronchioles  bronchioles lack both cartilage and seromucous glands, and a continuous layer of smooth muscle is their most prominent feature. the submucosa and adventitia merge, and elastic fibres in this layer apply traction to the walls of these airways, helping to maintain their patency. in the largest bronchioles, the mucosa includes a typical respiratory epithelium, as previously described. as the bronchioles branch and their diameter decreases, the epithelium transitions to columnar ciliated cells, then cuboidal ciliated cells. goblet cells decrease in number, and cilia eventually disappear. this is thus where the mucociliary apparatus begins, which functions to clear airways of inspired particulate matter by propelling it toward the pharynx, adhered to the mucus covering the luminal surface.  11 a large bronchiole, seen here     , has a typical respiratory epithelium (e) and prominent smooth muscle (sm). the walls are supported by fibrous ct. a b in bronchioles, cartilage and glands are absent.  a large bronchiole has a typical respiratory epithelium (e) and prominent smooth muscle (arrows). the walls are supported by fibrous ct.  a small bronchiole has a ciliated cuboidal epithelium (e). the walls are dominated by several layers of smooth muscle. </slidetext>
+      <slidetext slideid="6YNcztTZ3DT.6bdEwreL1vA" slidebank="false" type="slide">next previous h9   terminal bronchioles the conducting portion of the respiratory system ends with the terminal bronchioles. here, the epithelium is cuboidal and includes bronchiolar exocrine cells (club cells, clara cells) which secrete a surfactant-like substance that helps maintain alveolar patency and antimicrobial peptides and cytokines for local immune responses. 12 a terminal bronchiole is lined by a cuboidal to columnar epithelium that lacks cilia (e). it is surrounded by a thin but continuous layer of smooth muscle (sm) embedded in connective tissue (ct). alveoli (a) surround the terminal bronchiole. the epithelium is dominated by bronchiolar exocrine cells or club cells (c). they function to produce surfactant, as well as other molecules that function to defend against toxins and pathogens.  </slidetext>
+      <slidetext slideid="6YNcztTZ3DT.6l3ooFuZETc" slidebank="false" type="slide">previous h9   part ii 13 next part ii:the histology of the respiratoryportion of the respiratory system </slidetext>
+      <slidetext slideid="6YNcztTZ3DT.5ulgWtpQGZX" slidebank="false" type="slide">previous h9   the components of the respiratory portion of the respiratory system 14 next the respiratory portion of the respiratory system includes all structures in which gas exchange between air and blood takes place. this includes the respiratory bronchioles, alveolar ducts and alveoli.  respiratory bronchioles are structurally similar to terminal bronchioles with the addition of occasional sac-like alveoli extending from their walls. gas exchange occurs between air and blood across the walls of alveoli, and therefore respiratory bronchioles are the first part of the respiratory portion of the respiratory system.  as respiratory bronchioles branch, alveoli increase in number and begin to dominate the walls of the tubes. when the walls of the tubes consist entirely of openings into alveoli, they are then called alveolar ducts. alveolar ducts open into expanded spaces called alveolar sacs, from which individual alveoli radiate in all directions.  alveoli make up most of the volume of the lungs     . tb terminal bronchiole rb respiratory bronchiole ad alveolar duct as alveolar sac a alveoli </slidetext>
+      <slidetext slideid="6YNcztTZ3DT.5b2wWjfe76Q" slidebank="false" type="slide">previous h9   lung tissue is like an aero bar 15 next lung tissue is often described as having the appearance of a sponge. it reminds me of an aero bar. (mmmm…chocolate….) the air-filled spaces within the aero bar represent the air-filled alveoli. the chocolate “septae” that separate the air-filled spaces represents the walls, or interalveolar septae, of the alveoli. the interalveolar septae consist of ct with elastic and reticular fibres in a small amount of extracellular matrix, all produced by fibroblasts. the elastic fibres allow the alveoli to stretch on inspiration and to recoil on exhalation. the reticular fibres limit the amount of stretch that occurs on inhalation and help to prevent alveolar collapse on exhalation. the ct of the interalveolar septae is riddled with pulmonary capillary beds, which are very thin-walled, but continuous, rather than fenestrated. in my aero bar analogy, they would be running within the chocolate septae, around the air-filled spaces. from these blood vessels, macrophages and other leukocytes gain access to the ct of the interalveolar septae. the alveoli are lined by squamous epithelial cells called pneumocytes. </slidetext>
+      <slidetext slideid="6YNcztTZ3DT.5dVFFK5nJtb" slidebank="false" type="slide">previous h9   the alveolus 16 next type ii pneumocytes produce surfactant, which they secrete onto the luminal surface. surfactant decreases alveolar surface tension which helps maintain alveolar patency. they also proliferate to produce new type i or type ii pneumocytes to repair or maintain the alveolar lining, as needed.  pneumocytes are joined by desmosomes and tight junctions, the latter functioning to prevent interstitial fluid from passing into the alveolar space via the paracellular route. alveolar macrophages (dust cells) patrol for antigen that has eluded the defenses of the conducting portion of the respiratory system.  adjacent alveoli are connected by interalveolar pores which provide collateral air flow between different bronchioles. alveoli are lined by a simple squamous epithelium. it includes type i pneumocytes (type i alveolar cells) that comprise 40% of the epithelial cells but cover 95% of the surface area. the remaining cells, type ii pneumocytes (type ii alveolar cells), comprise 60% of the epithelial cells but only 5% of the surface area.  </slidetext>
+      <slidetext slideid="6YNcztTZ3DT.6Yc2slBmywj" slidebank="false" type="slide">previous h9   the respiratory membrane 17 next the respiratory membrane consists of the simple squamous alveolar epithelium, the simple squamous capillary endothelium, and an intervening fused basement membrane.  o2 diffuses from air in the alveolar lumen, across the respiratory membrane to the capillary lumen. here it bind hemoglobin within erythrocytes for transport throughout the body. co2 diffuses from blood within the capillary lumen, across the respiratory membrane and into the alveolar lumen. </slidetext>
+      <slidetext slideid="6YNcztTZ3DT.6Dud7P4K7HV" slidebank="false" type="slide">previous h9   dust cells 18 next every day, tens of millions of blood monocytes migrate out of pulmonary capillaries into the ct of the interalveolar septum. there they differentiate into alveolar macrophages, or dust cells.  dust cells may phagocytose detritus in the interalveolar septum, or might migrate further, between the pneumocytes lining the alveolus, onto the luminal surface of the air sac. there they may phagocytose particulate matter and antigen that has eluded the defenses of the conducting portion of the respiratory system. macrophages are removed by three major means:  1) they might migrate up the airways to the bronchioles where they become trapped in the mucociliary apparatus and transported to the pharynx for elimination;  2) they might be carried from the lungs via lymphatics;  3) others die and remain as within the ct of the interalveolar septum for years.  you have seen evidence of 3) in the dissecting lab, in the form of the black material within the ct components of the lungs of your cadavers. this is dead macrophages filled with ingested particulate matter. </slidetext>
+      <slidetext slideid="6YNcztTZ3DT.5fTdxfcKLtE" slidebank="false" type="slide">next previous h9   quiz press next to start the quiz or skip to end h9   skip 19 </slidetext>
+      <slidetext slideid="6YNcztTZ3DT.6iLn83MvmNq" slidebank="false" type="slide">which of the following are components of the interalveolar septum?  choose all that apply. smooth muscle smooth muscle smooth muscle smooth muscle smooth muscle smooth muscle reticular fibres reticular fibres reticular fibres reticular fibres reticular fibres reticular fibres cartilage cartilage cartilage cartilage cartilage cartilage seromucous glands seromucous glands seromucous glands seromucous glands seromucous glands seromucous glands elastic fibres elastic fibres elastic fibres elastic fibres elastic fibres elastic fibres submit h9   question 1 </slidetext>
+      <slidetext slideid="6YNcztTZ3DT.6KfSwF3NYxb" slidebank="false" type="slide">which of the following cell types are present in the respiratory portion of the respiratory tract? choose all that apply. type i pneumocytes. type i pneumocytes. type i pneumocytes. type i pneumocytes. type i pneumocytes. type i pneumocytes. goblet cells goblet cells goblet cells goblet cells goblet cells goblet cells ciliated epithelial cells ciliated epithelial cells ciliated epithelial cells ciliated epithelial cells ciliated epithelial cells ciliated epithelial cells type ii pneumocytes type ii pneumocytes type ii pneumocytes type ii pneumocytes type ii pneumocytes type ii pneumocytes dust cells dust cells dust cells dust cells dust cells dust cells submit h9   question 2 </slidetext>
+      <slidetext slideid="6YNcztTZ3DT.6HgsceNhmhH" slidebank="false" type="slide">false false false false false false true true true true true true conditioning of inspired air occurs in the lower respiratory tract but not the upper respiratory tract. submit h9   question 3 </slidetext>
+      <slidetext slideid="6YNcztTZ3DT.6N8XtgKinZD" slidebank="false" type="slide">the presence of which structural feature distinguishes between terminal and respiratory bronchioles? alveoli alveoli alveoli alveoli alveoli alveoli cilia cilia cilia cilia cilia cilia exocrine bronchiolar cells exocrine bronchiolar cells exocrine bronchiolar cells exocrine bronchiolar cells exocrine bronchiolar cells exocrine bronchiolar cells mucus glands in lamina propria mucus glands in lamina propria mucus glands in lamina propria mucus glands in lamina propria mucus glands in lamina propria mucus glands in lamina propria smooth muscle smooth muscle smooth muscle smooth muscle smooth muscle smooth muscle submit h9   question 4 </slidetext>
+      <slidetext slideid="6YNcztTZ3DT.5kgvhEDYYmN" slidebank="false" type="slide">which parts of the pharynx are lined by respiratory epithelium?  choose all that apply. nasopharynx nasopharynx nasopharynx nasopharynx nasopharynx nasopharynx oropharynx oropharynx oropharynx oropharynx oropharynx oropharynx laryngopharynx laryngopharynx laryngopharynx laryngopharynx laryngopharynx laryngopharynx none none none none none none submit h9   question 5 </slidetext>
+      <slidetext slideid="6YNcztTZ3DT.5lTjamRljLL" slidebank="false" type="slide">what type of epithelium is depicted in this image? h9   question 6 submit </slidetext>
+      <slidetext slideid="6YNcztTZ3DT.6e0LrWlzrNw" slidebank="false" type="slide">identify cell type a. be specific. h9   question 7 submit </slidetext>
+      <slidetext slideid="6YNcztTZ3DT.6pUZZieHLur" slidebank="false" type="slide">what structure is depicted in the image? h9   question 8 submit </slidetext>
+      <slidetext slideid="6YNcztTZ3DT.5gk0Pe9XTsY" slidebank="false" type="slide">identify structure a. be specific. h9   question 9 submit </slidetext>
+      <slidetext slideid="6YNcztTZ3DT.5wFAkUmcC25" slidebank="false" type="slide">identify structure a. be specific. h9   question 10 submit </slidetext>
+      <slidetext slideid="6YNcztTZ3DT.6H7smEJlzTD" slidebank="false" type="slide">identify structure a. be specific. h9   question 11 submit </slidetext>
+      <slidetext slideid="6YNcztTZ3DT.6SOblPTdtif" slidebank="false" type="slide">identify layer a. be specific. h9   question 12 submit </slidetext>
+      <slidetext slideid="6YNcztTZ3DT.6eeCplHemtB" slidebank="false" type="slide">what structure is seen in this image? h9   question 13 submit </slidetext>
+      <slidetext slideid="6YNcztTZ3DT.643QQnNcPA2" slidebank="false" type="slide">what structure is seen in this image? h9   question 14 submit </slidetext>
+      <slidetext slideid="6YNcztTZ3DT.6cIQ2FRTSUb" slidebank="false" type="slide">what structure is seen in this image? h9   question 15 submit </slidetext>
+      <slidetext slideid="6YNcztTZ3DT.6HoZEG0KFRk" slidebank="false" type="slide">identify the cell type indicated by the arrow. h9   question 16 submit </slidetext>
+      <slidetext slideid="6YNcztTZ3DT.5b5qRtNnh7c" slidebank="false" type="slide">identify structure a. be specific. h9   question 17 submit </slidetext>
+      <slidetext slideid="6YNcztTZ3DT.5V5URQgcKyE" slidebank="false" type="slide">identify structures a. h9   question 18 submit </slidetext>
+      <slidetext slideid="6YNcztTZ3DT.6JpcVvHUk30" slidebank="false" type="slide">what structures are indicated by the arrows? h9   question 19 submit </slidetext>
+      <slidetext slideid="6YNcztTZ3DT.67dUiuMtxI8" slidebank="false" type="slide">what cell dominates in this tissue, in terms of surface area? be specific. h9   question 20 submit </slidetext>
+      <slidetext slideid="6YNcztTZ3DT.6AQkSMYhZEe" slidebank="false" type="slide">congratulations on finishing h9 the histology of the respiratory system! review h9 review h9 review h9 previous </slidetext>
+    </search>
+  </nav_data>
+  <resource_data description="" />
+  <transcript_data>
+    <slidetranscripts>
+      <slidetranscript slideid="6aorm6DVHdA.6iJyEq8eiIe" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="0">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Calibri' size='12.5pt' style="font-size:12.5pt;" color='#ffffff'&gt;need to change title&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="6aorm6DVHdA.5u2Xmu0SLdx" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="1">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Calibri' size='12.5pt' style="font-size:12.5pt;" color='#ffffff'&gt;fix this slide&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+    </slidetranscripts>
+  </transcript_data>
+  <glossary_data />
+</bwFrame>

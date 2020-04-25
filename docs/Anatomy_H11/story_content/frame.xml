@@ -1,0 +1,1322 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="npnxabnsnfns01001000011" textdirection="ltr" device="false" fontscale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="classic">
+  <layouts>
+    <layout name="npnxnanbsnfns01001000011" font="Calibri" controllayout="npnxnanbsnfns01001000011" colorscheme="npnxabnsnfns01001000011" string_table="npnxabnsnfns01001000011" />
+    <layout name="pxabnsnfns01001000011" font="Calibri" controllayout="pxabnsnfns01001000011" colorscheme="npnxabnsnfns01001000011" string_table="npnxabnsnfns01001000011" />
+    <layout name="npxnabnsnfns01001000011" font="Calibri" controllayout="npxnabnsnfns01001000011" colorscheme="npnxabnsnfns01001000011" string_table="npnxabnsnfns01001000011" />
+    <layout name="npnxnanbnsnfns01001000011" font="Calibri" controllayout="npnxnanbnsnfns01001000011" colorscheme="npnxabnsnfns01001000011" string_table="npnxabnsnfns01001000011" />
+    <layout name="pxabnsnfns01001000010" font="Calibri" controllayout="pxabnsnfns01001000010" colorscheme="npnxabnsnfns01001000011" string_table="npnxabnsnfns01001000011" />
+    <layout name="npnxabnsnfns01001000011" font="Calibri" controllayout="npnxabnsnfns01001000011" colorscheme="npnxabnsnfns01001000011" string_table="npnxabnsnfns01001000011" />
+    <layout name="npnxanbnsnfns01001000011" font="Calibri" controllayout="npnxanbnsnfns01001000011" colorscheme="npnxabnsnfns01001000011" string_table="npnxabnsnfns01001000011" />
+  </layouts>
+  <control_options>
+    <optiongroups>
+      <optiongroup name="sidebaroptions">
+        <options>
+          <option name="title_enabled" value="true">
+            <options>
+              <option name="title_text" value="H11 Histology of the Male Reproductive System_Endocrine" />
+            </options>
+          </option>
+          <option name="logo_enabled" value="true">
+            <options>
+              <option name="logo_url" value="story_content/logo.swf">
+                <properties>
+                  <property name="width" value="1024" />
+                  <property name="height" value="245" />
+                </properties>
+              </option>
+              <option name="html5_logo_url" value="mobile/5i4ybXkWPJa.png" />
+            </options>
+          </option>
+          <option name="sidebar_enabled" value="true">
+            <options>
+              <option name="sidebarpos" value="left" />
+            </options>
+          </option>
+          <optionlist name="tabs">
+            <listitems>
+              <listitem name="customlink" value="true" group="linkleft">
+                <properties>
+                  <property name="title" value="Acknowledgements" />
+                  <property name="data" value="62WilxHnbdW" />
+                  <property name="ignoreSlideLock" value="true" />
+                </properties>
+              </listitem>
+              <listitem name="resources" value="false" group="linkright" />
+              <listitem name="outline" value="true" group="sidebar" />
+              <listitem name="glossary" value="false" group="sidebar" />
+              <listitem name="transcript" value="false" group="sidebar" />
+            </listitems>
+          </optionlist>
+          <option name="time_enabled" value="false">
+            <options>
+              <option name="time_format" value="" />
+            </options>
+          </option>
+          <option name="video_enabled" value="false">
+            <options>
+              <option name="height" value="135" />
+            </options>
+          </option>
+        </options>
+      </optiongroup>
+      <optiongroup name="menuoptions">
+        <options>
+          <option name="flow" value="free" />
+          <option name="wraplistitems" value="true" />
+          <option name="tooltips" value="true" />
+          <option name="autocollapse" value="false" />
+          <option name="autonumber" value="false" />
+          <option name="enableresultsicons" value="true" />
+        </options>
+      </optiongroup>
+      <optiongroup name="controls">
+        <options>
+          <option name="volume" value="false" />
+          <option name="seekbar" value="false">
+            <options>
+              <option name="readonly" value="false" />
+            </options>
+          </option>
+          <option name="search" value="true" />
+          <option name="pauseplay" value="false" />
+          <option name="replay" value="false" />
+          <option name="closed_captions" value="false">
+            <options>
+              <option name="font" value="Calibri" />
+            </options>
+          </option>
+        </options>
+      </optiongroup>
+      <optiongroup name="bottombaroptions">
+        <options>
+          <option name="bottombar_enabled" value="false" />
+        </options>
+      </optiongroup>
+    </optiongroups>
+  </control_options>
+  <control_layouts>
+    <control_layout name="npnxnanbsnfns01001000011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="true" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns01001000011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npxnabnsnfns01001000011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npnxnanbnsnfns01001000011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns01001000010">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="false" />
+    </control_layout>
+    <control_layout name="npnxabnsnfns01001000011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npnxanbnsnfns01001000011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+  </control_layouts>
+  <colorschemes>
+    <colorscheme name="npnxabnsnfns01001000011">
+      <color_group name="infopanel">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x7C2280" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0000EE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC73013" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="title_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x999999" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="infopanelpopup">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFC4A2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xED5736" alpha="100" stop="0" />
+                <color rgb="0xD44120" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFC4A2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bio_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="timer">
+        <group_colors>
+          <color name="duration">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x00D7FF" alpha="100" stop="0" />
+                <color rgb="0x00ABFF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="elapsed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFEE347" alpha="100" stop="0" />
+                <color rgb="0xFCCC2A" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="stroke">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC7C7C7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="window">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xED5736" alpha="100" stop="0" />
+                <color rgb="0xD44120" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xEB8964" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF49277" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD63F21" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="20" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="editor">
+        <group_colors>
+          <color name="slide_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="html_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC23115" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC93518" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE15429" alpha="100" stop="0" />
+                <color rgb="0xC42D16" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD84121" alpha="100" stop="0" />
+                <color rgb="0xDE4C27" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE1512A" alpha="100" stop="0" />
+                <color rgb="0xD63A1D" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="listitem">
+        <group_colors>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x671B6B" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF98E6E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="viewed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFC4A2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF17D5E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="lines">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDA563A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="glossary">
+        <group_colors>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF98E6E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE85F39" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD96244" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD96244" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF98B6A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xEC7B59" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="resource">
+        <group_colors>
+          <color name="separator">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD35338" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="outline">
+        <group_colors>
+          <color name="search_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFC4A2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD35338" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xEB9471" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCF5336" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="transcript">
+        <group_colors>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="div">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD35338" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="tabs">
+        <group_colors>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC73013" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFC4A2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xED7254" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="seekcontrol">
+        <group_colors>
+          <color name="btn_icon_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFE1D0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_position">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE97D65" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD33F1F" alpha="100" stop="0" />
+                <color rgb="0xCA3416" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC32E13" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE65832" alpha="100" stop="0" />
+                <color rgb="0xDF3F23" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="searchinput">
+        <group_colors>
+          <color name="text_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2D2D2D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2D2D2D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xEB9471" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE76E52" alpha="100" stop="0" />
+                <color rgb="0xE2694D" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icon">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD7654B" alpha="100" stop="0" />
+                <color rgb="0xC42F13" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="scrollarea">
+        <group_colors>
+          <color name="detailb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCA3518" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="detaila">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xEA7C5D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCB3519" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icons">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCA3417" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE55D3B" alpha="100" stop="0" />
+                <color rgb="0xDB4D32" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE2522C" alpha="100" stop="0" />
+                <color rgb="0xD93E20" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF8795B" alpha="100" stop="0" />
+                <color rgb="0xF8795B" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="0">
+              <colors>
+                <color rgb="0xED6546" alpha="100" stop="0" />
+                <color rgb="0xEE6948" alpha="100" stop="128" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="menu">
+        <group_colors>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD35235" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xED7254" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="logo">
+        <group_colors>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC73013" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="checkbox">
+        <group_colors>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6BF8FF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="check">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2BC400" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD35338" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="button">
+        <group_colors>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC23115" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC93518" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE15429" alpha="100" stop="0" />
+                <color rgb="0xC42D16" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD84121" alpha="100" stop="0" />
+                <color rgb="0xDE4C27" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE1512A" alpha="100" stop="0" />
+                <color rgb="0xD63A1D" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="10" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="base">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD63F21" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF49277" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="menu_shade">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDD5233" alpha="100" stop="0" />
+                <color rgb="0xC53D1E" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF5674A" alpha="100" stop="0" />
+                <color rgb="0xF5674A" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xED5736" alpha="100" stop="0" />
+                <color rgb="0xD44120" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slide_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xED5736" alpha="100" stop="0" />
+                <color rgb="0xD44120" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="volume">
+        <group_colors>
+          <color name="thumb_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCB361A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE55E3B" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDB4524" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF26E50" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE75E36" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="HTML">
+        <group_colors>
+          <color name="htmlpage_bg_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x018CB0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+    </colorscheme>
+  </colorschemes>
+  <string_tables>
+    <string_table name="npnxabnsnfns01001000011">
+      <string id="acc_active">active</string>
+      <string id="check_include">Check to include</string>
+      <string id="clear">Clear and return to Menu</string>
+      <string id="close">Close</string>
+      <string id="acc_closed_captions">Closed captions. Press the spacebar to toggle captions on and off.</string>
+      <string id="continue">Continue</string>
+      <string id="continueresponsive">Continue</string>
+      <string id="exit">Exit</string>
+      <string id="filter">Filter</string>
+      <string id="finish">FINISH</string>
+      <string id="acc_finish">finish</string>
+      <string id="definition">Definition</string>
+      <string id="acc_definition">definition</string>
+      <string id="glossary">Glossary</string>
+      <string id="terms">Terms</string>
+      <string id="outline">Menu</string>
+      <string id="disabled_orientation">Please rotate your device</string>
+      <string id="next">NEXT</string>
+      <string id="acc_next">next</string>
+      <string id="transcript_chk">Notes</string>
+      <string id="transcript">Notes</string>
+      <string id="bio">Bio</string>
+      <string id="more_info">More info</string>
+      <string id="closed_captions">Captions</string>
+      <string id="acc_pause">pause</string>
+      <string id="acc_play">play</string>
+      <string id="send_an_email">Send an email</string>
+      <string id="prev">PREV</string>
+      <string id="acc_previous">previous</string>
+      <string id="question_list">Question List</string>
+      <string id="acc_replay">replay</string>
+      <string id="resources">Resources</string>
+      <string id="acc_resources">resources</string>
+      <string id="restart">Restart</string>
+      <string id="resume">Resume</string>
+      <string id="search">Search...</string>
+      <string id="acc_search_input">search</string>
+      <string id="search_in">Search in:</string>
+      <string id="search_results">Search Results</string>
+      <string id="acc_skipnavigation">Skip Navigation. Hit enter to return to the slide.</string>
+      <string id="slide_text_chk">Slide Text</string>
+      <string id="submitall">SUBMIT ALL</string>
+      <string id="acc_submitall">submit all</string>
+      <string id="submit">SUBMIT</string>
+      <string id="acc_submit">submit</string>
+      <string id="acc_volume">volume</string>
+    </string_table>
+  </string_tables>
+  <fonts>
+    <font name="Calibri">
+      <files>
+        <file bold="true" italic="false" />
+        <file bold="false" italic="false" />
+      </files>
+    </font>
+  </fonts>
+  <sounds enabled="true" />
+  <nav_data>
+    <outline>
+      <links>
+        <slidelink slideid="_player.6aorm6DVHdA" displaytext="Start" expand="false" type="slide">
+          <links>
+            <slidelink slideid="_player.6aorm6DVHdA.6Q3dj1LP2nk" displaytext="Using the emodule" expand="false" type="slide" />
+            <slidelink slideid="_player.6aorm6DVHdA.5kFe9J3v91F" displaytext="Conventions Used in the eModule" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6bXaK4IXCDU" displaytext="H11 The Male Reproductive System" expand="false" type="slide">
+          <links>
+            <slidelink slideid="_player.6bXaK4IXCDU.66UPLwD92jc" displaytext="1. Resources" expand="false" type="slide" />
+            <slidelink slideid="_player.6bXaK4IXCDU.6jDrII4y5NK" displaytext="2. Objectives" expand="false" type="slide" />
+            <slidelink slideid="_player.6bXaK4IXCDU.6Eq4qU9AV8J" displaytext="3. Components of The Male Reproductive System" expand="false" type="slide" />
+            <slidelink slideid="_player.6bXaK4IXCDU.6WxlFnDQlEv" displaytext="4. Testes and Seminiferous Tubules" expand="false" type="slide" />
+            <slidelink slideid="_player.6bXaK4IXCDU.5aH6880ojrl" displaytext="5. The Temperature-Dependence of Sperm Production" expand="false" type="slide" />
+            <slidelink slideid="_player.6bXaK4IXCDU.6I1uZ71zxAN" displaytext="6. Interstitial Tissue" expand="false" type="slide" />
+            <slidelink slideid="_player.6bXaK4IXCDU.5na8k9G5acv" displaytext="7. Seminiferous Tubules" expand="false" type="slide" />
+            <slidelink slideid="_player.6bXaK4IXCDU.6rmTlWaYiUB" displaytext="8. Sustentacular Cells and The Blood-Testis Barrier" expand="false" type="slide" />
+            <slidelink slideid="_player.6bXaK4IXCDU.6U6aMm7Hnkz" displaytext="9. Spermatogenesis" expand="false" type="slide" />
+            <slidelink slideid="_player.6bXaK4IXCDU.6ZbVMOhjsRT" displaytext="10. Spermiogenesis" expand="false" type="slide" />
+            <slidelink slideid="_player.6bXaK4IXCDU.6TXXYPoQ7O5" displaytext="11. Intratesticular Excretory Ducts" expand="false" type="slide" />
+            <slidelink slideid="_player.6bXaK4IXCDU.5mxKMM8gxdE" displaytext="12. The Epididymis" expand="false" type="slide" />
+            <slidelink slideid="_player.6bXaK4IXCDU.5nQsYDJTFuo" displaytext="13. Quiz Start" expand="false" type="slide">
+              <links>
+                <slidelink slideid="_player.6bXaK4IXCDU.6C8G6HnqZhR" displaytext="Question 1" expand="false" type="slide" />
+                <slidelink slideid="_player.6bXaK4IXCDU.6aRZVUXZVu9" displaytext="Question 2" expand="false" type="slide" />
+                <slidelink slideid="_player.6bXaK4IXCDU.60A3TJsnVVY" displaytext="Question 3" expand="false" type="slide" />
+                <slidelink slideid="_player.6bXaK4IXCDU.5gdkUj6cmld" displaytext="Question 4" expand="false" type="slide" />
+                <slidelink slideid="_player.6bXaK4IXCDU.6aEsl1L7N3h" displaytext="Question 5" expand="false" type="slide" />
+                <slidelink slideid="_player.6bXaK4IXCDU.6UW4Kl4OcZe" displaytext="Question 6" expand="false" type="slide" />
+                <slidelink slideid="_player.6bXaK4IXCDU.5WeFKSeUpEX" displaytext="Question 7" expand="false" type="slide" />
+                <slidelink slideid="_player.6bXaK4IXCDU.5wAPMBlgyNN" displaytext="Question 8" expand="false" type="slide" />
+                <slidelink slideid="_player.6bXaK4IXCDU.6bQwKvG7SGU" displaytext="Question 9" expand="false" type="slide" />
+                <slidelink slideid="_player.6bXaK4IXCDU.6a53UeutqkS" displaytext="Question 10" expand="false" type="slide" />
+                <slidelink slideid="_player.6bXaK4IXCDU.5w0sLecQ3al" displaytext="Question 11" expand="false" type="slide" />
+                <slidelink slideid="_player.6bXaK4IXCDU.6PjyzUzUH1W" displaytext="Question 12" expand="false" type="slide" />
+              </links>
+            </slidelink>
+            <slidelink slideid="_player.6bXaK4IXCDU.5tQtfoD3H91" displaytext="1.5: End" expand="false" type="slide" />
+          </links>
+        </slidelink>
+      </links>
+    </outline>
+    <search>
+      <slidetext slideid="6aorm6DVHdA.6iJyEq8eiIe" slidebank="false" type="slide">h11: the male reproductive system click to begin click to begin click to begin  histology emodule tutorial: read me first! emodule tutorial: read me first! emodule tutorial: read me first! the male reproductive system i click to begin click to begin click to begin  histology emodule tutorial emodule tutorial emodule tutorial </slidetext>
+      <slidetext slideid="6aorm6DVHdA.6Q3dj1LP2nk" slidebank="false" type="slide">to complete each section, use the next button at the bottom of the pages or press the right arrow key to move forward one page at a time.  use the menu, available by clicking “menu” at the top, to navigate to specific slides. use search to quickly find instances of relevant terms. use the previous button at the bottom of the pages or press the left arrow key to move back one page at a time. note: you can also swipe right and left in order to navigate forward and backward, respectively.  previous next using the emodule case 1      introduction      approach      diagnosis </slidetext>
+      <slidetext slideid="6aorm6DVHdA.5kFe9J3v91F" slidebank="false" type="slide">previous start with age, wear and tear,  info an intervertebral disc can herniate, such that the nucleus pulposus…. information that has implications for health and disease is introduced on a blue bar and continued below: conventions used in the emodule some slides contain the “slide talk” icon on the title bar. click this icon to hear me explain or elaborate on slide content.  some words are followed by this icon      ; click the icon to open related content in a separate layer. click the         icon to go back to the original layer. some words are followed by this icon      ; click the icon to see a definition or explanation.  words / phrases in purple denote concepts with which you should make a point of becoming familiar. </slidetext>
+      <slidetext slideid="5oOfyNDdaiT.5et2P7jfrw0" slidebank="false" type="slide">acknowledgements previous © 2018 author and emodule development: barbara ballyk, ph.d. associate professor, teaching stream division of anatomy, department of surgery faculty of medicine, university of toronto brand design: janet koecher, discovery commons university of toronto emodule production: gianluca sampieri, m.sc. md candidate class of 2021 faculty of medicine, university of toronto albert gheorghita, m.sc. md candidate class of 2020 faculty of medicine, university of toronto julian manzone, m.sc. md candidate class of 2019 faculty of medicine, university of toronto </slidetext>
+      <slidetext slideid="6ITgT0pLqit.5na92eEcibs" slidebank="false" type="slide">  next previous 2.1  </slidetext>
+      <slidetext slideid="6bXaK4IXCDU.66UPLwD92jc" slidebank="false" type="slide">next previous h11 the male reproductive system all images are from junqueira’s basic histology, 14th ed., © 2016 by mescher, denoted by “j”, a recommended resource, unless otherwise noted. recommended online resources:  university of minnesota histology guide university of leeds histology guide university of michigan virtual microscopy western university virtual slide box university of illinois cell and tissue biology </slidetext>
+      <slidetext slideid="6bXaK4IXCDU.6jDrII4y5NK" slidebank="false" type="slide">next previous h11   objectives when you have learned the material presented here, you will be able to describe the: histology of the testicle, including the seminiferous tubule and its different cell types histology of the intratesticular excretory ducts and epididymis processes of spermatogenesis and spermiogenesis. 2 </slidetext>
+      <slidetext slideid="6bXaK4IXCDU.6Eq4qU9AV8J" slidebank="false" type="slide">next previous h11   components of the male reproductive system 3 male reproductive organs, schematic midsagittal section starting at puberty, testosterone controls spermatogenesis (production of spermatozoa) and gonadotropin secretion from the pituitary gland. both testosterone and dht are responsible for 2° sex characteristics, such as the growth of axillary and pubic hair, a deep voice, and the development of sex drive. the male reproductive tract consists of the epididymis, ductus (vas) deferens, ejaculatory duct and urethra. accessory glands of the male reproductive system are the seminal vesicles, prostate gland and bulbourethral glands. the secretions produced by these structures nourish sperm and the wave-like contractions of the muscular walls of the tract propel the sperm and secretions (semen) from the penis. the male external genitalia are the penis and scrotum. the histology of the epididymis will be considered here, while the histology of the remainder of the male reproductive tract, the accessory glands and external genitalia will be studied with the urinary system at the end of cpc-1. j21.1 the reproductive systems includes the gonads, which produce gametes     and hormones. in the male, gonads are the testes, male gametes are spermatozoa (sperm), and male sex hormones are androgens, primarily testosterone. testosterone influences sexual differentiation in the embryo and fetus; its metabolite, dihydrotestosterone (dht), is responsible for the differentiation of male external genitalia.  </slidetext>
+      <slidetext slideid="6bXaK4IXCDU.6WxlFnDQlEv" slidebank="false" type="slide">next previous h11   testes and seminiferous tubules 4 the paired testes descend, prenatally, from their origin in the posterior body wall to the scrotum. thus, their nerve and blood supply, and their venous and lymphatic drainage are associated with the retroperitoneum. these structures, plus the vas deferens, form the spermatic cord. accompanying the testis as they descend through the inguinal canal is an out-pouching of peritoneum, the processus vaginalis, which closes off from the peritoneal cavity to form the tunica vaginalis. its parietal layer lines the internal surface of the scrotum and its visceral layer lines the outer surface of the testis on its anterior and lateral sides. j21.2 deep to the visceral layer of the tunica vaginalis is the dense, fibrous ct capsule of the testis, the tunica albuginea     . posteriorly, the tunica albuginea thickens to form the mediastinum testes. septa emanate from the mediastinum testis to subdivide the testis into about 250 testicular lobules.  within each lobule is 1 to 4 highly coiled seminiferous tubules; sperm production occurs within these tubules. seminiferous tubules are supported by delicate ct containing interstitial (leydig) cells, which produce testosterone. seminiferous tubulesin cross section sg spermatogonia sc sertoli cell ps 1° spermatocytes ls late spermatids,  ic interstitial cell </slidetext>
+      <slidetext slideid="6bXaK4IXCDU.5aH6880ojrl" slidebank="false" type="slide">next previous h11   the temperature-dependence of sperm production 5 the ideal temperature for sperm production is roughly 3 celsius degrees below core body temperature. testicular temperature is controlled by a variety of means. the cremaster muscle of the spermatic cord contracts or relaxes to move the testicles closer to, or farther from, the body, respectively. the dartos muscle in the scrotal dermis contracts or relaxes to change the thickness of the skin. the pampiniform plexus of veins, which drains cooler blood from the testis back to the body, absorbs heat from, and thus cools, blood flowing toward the testis in the testicular arteries. sweat glands in the skin of the scrotum throw off heat. j21.2 sg spermatogonia sc sertoli cell ps 1° spermatocytes ls late spermatids,  ic interstitial cell seminiferous tubulesin cross section </slidetext>
+      <slidetext slideid="6bXaK4IXCDU.6I1uZ71zxAN" slidebank="false" type="slide">next previous h11   interstitial tissue 6 the interstitial tissue filling the spaces between the coils of seminiferous tubules supports fibroblasts, bvs, ns, ls and interstitial cells (of leydig). interstitial cells produce testosterone in response to luteinizing hormone (lh)     .  j21.2 sg spermatogonia sc sertoli cell ps 1° spermatocytes ls late spermatids,  ic interstitial cell the prenatal development of the male reproductive system is dependent on the transient production of testosterone by interstitial cells, stimulated by gonadotropin from the placenta. once complete, interstitial cells become quiescent until puberty, when gonadotropin-releasing hormone (gnrh) from the hypothalamus begins to stimulate the production and release of lh, which stimulates the interstitial cells to, once again, produce testosterone. seminiferous tubulesin cross section </slidetext>
+      <slidetext slideid="6bXaK4IXCDU.5na8k9G5acv" slidebank="false" type="slide">next previous h11   seminiferous tubules 7 sperm production occurs in the seminiferous tubules at a rate of about 200 million sperm produced per day in a young adult. each seminiferous tubule is 30-70 cm in length and has a diameter of 150-250 μm. with 250 testicular lobules per testis and 1-4 seminiferous tubules per lobule, each testis contains 250-1000 seminiferous tubules, with a total length of 250 metres.  seminiferous tubules are loops that empty via straight tubules into the rete testes, a network of channels within the mediastinum testis. the rete testis empties, via the efferent ductules, into the epididymis. j21.2 sg spermatogonia sc sertoli cell ps 1° spermatocytes ls late spermatids,  ic interstitial cell the epithelial lining of the seminiferous tubules is a complex stratified germinal epithelium. it sits on a basement membrane and is surrounded by a ct capsule. the epithelium includes sustentacular (sertoli) cells, which extend the full thickness of the epithelium, and spermatogenic cells, which migrate, as they develop, from the basement membrane to the lumen in the  paracellular space between the sustentacular cells. therefore, the spermatogenic cells are stratified, which explains the classification of this epithelium     . seminiferous tubulesin cross section </slidetext>
+      <slidetext slideid="6bXaK4IXCDU.6rmTlWaYiUB" slidebank="false" type="slide">next previous h11   sustentacular cells and the blood-testis barrier 8 the graphic shows a section from the wall of a seminiferous tubule; the lumen is at the top, the basement membrane (bm) below. like any epithelium, germinal epithelium is avascular. the highly vascularized interstitial tissue is shown below the dense ct capsule.  sustentacular cells (s) extend from the bm to the lumen. sperm develop in the paracellular space between adjacent sustentacular cells, each supporting 30-50 developing germ cells. sustentacular cells are joined by tight junctions (tj), which form the blood-testis barrier. this separates two fluid compartments, the basal compartment (b) and the adluminal compartment (a). fluid in the basal compartment is confluent with the vascularized interstitial tissue and its wbcs. the composition of the fluid in the adluminal compartment, testicular fluid, is tightly controlled by the sustentacular cells. the tight junctions prevent wbc transmigration from the basal compartment to the adluminal compartment, and thus keep the developing sperm hidden from immuno-surveillance. this is the blood-testis barrier. starting at puberty, fsh stimulates sustentacular cells to produce androgen-binding protein (abp), which binds and concentrates the testosterone produced by interstitial cells. they also produce inhibin, which inhibits fsh release from the anterior pituitary. </slidetext>
+      <slidetext slideid="6bXaK4IXCDU.6U6aMm7Hnkz" slidebank="false" type="slide">next previous h11   spermatogenesis 9 spermatogonia develop prenatally. these diploid stem cells occupy the basal compartment. they are thus exposed to the immune system, which considers them “self”.  at puberty, under the influence of fsh, spermatogonia undergo mitoses to produce either more stem cells or daughter cells that are committed to giving rise to mature spermatozoa.  these latter committed spermatogonia undergo mitoses, ultimately giving rise to primary (1°) spermatocytes.  1° spermatocytes migrate from the basal to the adluminal compartment by temporarily disassembling the tight junctions (tj) between adjacent sustentacular cells. the remaining steps in spermatogenesis gives rise to distinct cells that are foreign to the immune system. the basal to adluminal transmigration of 1° spermatocytes shields these cells from immune detection. 1° spermatocytes undergo two rounds of meiosis to give rise to 2° spermatocytes, and then spermatids. spermatids are the haploid male gametes that are the product of spermatogenesis. spermatids next undergo spermiogenesis, a process of morphological differentiation without division that gives rise to functionally mature spermatozoa. </slidetext>
+      <slidetext slideid="6bXaK4IXCDU.6ZbVMOhjsRT" slidebank="false" type="slide">next previous h11   spermiogenesis 10 spermiogenesis is a process of cell differentiation in which spermatids, the products of spermatogenesis, become the highly-specialized spermatozoa (sperm), capable of carrying male dna to the ovum. this is the temperature-sensitive component of sperm production. sperm remain associated with sustentacular cells throughout this process, and are only released once they are physically mature. the changes that spermatids undergo as they differentiate into sperm is often described in stages: golgi phase: the golgi apparatus forms proacrosomal vesicles, which coalesce to form an acrosomal cap on the nucleus. the centrioles migrate to the opposite end of the nucleus and begin the process of organizing microtubules to form the axoneme of the flagellum, which is similar in structure and function to a cilium. cap phase: the acrosomal cap expands to enclose roughly half of the nucleus. the acrosome is a lysosome containing hyaluronidase and a protease called acrosin. when the sperm contacts the ovum, these enzymes are released in a process called the acrosome reaction. they permit the sperm to penetrate the corona radiata and the zona pellucida, in one of the first steps in fertilization. acrosome phase: the nucleus is now highly condensed and elongated. it occupies the developing head of the sperm, which remains embedded in the sustentacular cell. the developing tail extends into the lumen of the seminiferous tubule. mitochondria accumulate around the base of the developing tail, to form the middle piece. they will provide the atp necessary for flagellar function. maturation phase: excess cytoplasm is released as a residual body. physically mature, but non-motile sperm are released into the testicular fluid of the lumen. j21.5 </slidetext>
+      <slidetext slideid="6bXaK4IXCDU.6TXXYPoQ7O5" slidebank="false" type="slide">next previous h11   intratesticular excretory ducts 11 j21.2 sperm released from the sustentacular cells are immotile. they are carried in testicular fluid, secreted by the sustentacular cells, though the seminiferous tubules to a series of ducts, which transport them out of the testis and into the epididymis. these are the straight tubules, the rete testis and the efferent ductules. the tubular epithelium of these intratesticular excretory ducts transitions from sustentacular cells (without spermatogenic cells), to a cuboidal epithelium. in the efferent ductules, cuboidal cells alternate with taller ciliated cells. the cuboidal cells absorb testicular fluid and the ciliated cells beat toward the epididymis.  these actions generate the fluid flow required to transport the immotile sperm to the epididymis. </slidetext>
+      <slidetext slideid="6bXaK4IXCDU.5mxKMM8gxdE" slidebank="false" type="slide">next previous h11   the epididymis 12 j21.2 at emission, excretory genital ducts transport sperm from the scrotum to the penis. these are the epididymis, the ductus (vas) deferens and the urethra. the epididymis is a single tube, 4-6 m in length, in which the final maturation of sperm takes place. it is coiled to form a structure only ~3 cm long that runs along the posterior aspect of the testis, from its superior to its inferior pole. it is divided into a head, body and tail; it is the head that receives the efferent ductules.  sperm spend 2-4 weeks in the epididymis, during which time they develop the ability to swim and to fertilize an ovum. the mucosa lining the epididymis includes a pseudostratified epithelium that includes columnar principal cells and smaller stem cells. the principal cells absorb testicular fluid and debris, such as residual bodies, from the lumen.  principle cells secrete glycolipid “decapacitation factors” that bind sperm cell membranes and prevent acrosomal reactions until these are removed in the female reproductive tract during capacitation.  layers of smooth muscle surround the mucosa lining the epididymis. the thickness of the smooth muscle layer increases toward its tail. during emission, peristaltic waves propel sperm from the distal epididymis into the vas deferens. </slidetext>
+      <slidetext slideid="6bXaK4IXCDU.5nQsYDJTFuo" slidebank="false" type="slide">next previous h11   quiz press next to start the quiz or skip to end h11.   skip 13 </slidetext>
+      <slidetext slideid="6bXaK4IXCDU.6C8G6HnqZhR" slidebank="false" type="slide">choose one incorrect statement regarding the blood-testis barrier. it shields maturing sperm from the immune system. it shields maturing sperm from the immune system. it shields maturing sperm from the immune system. it shields maturing sperm from the immune system. it shields maturing sperm from the immune system. it shields maturing sperm from the immune system. structurally, it consists of tight junctions between adjacent sustentacular cells. structurally, it consists of tight junctions between adjacent sustentacular cells. structurally, it consists of tight junctions between adjacent sustentacular cells. structurally, it consists of tight junctions between adjacent sustentacular cells. structurally, it consists of tight junctions between adjacent sustentacular cells. structurally, it consists of tight junctions between adjacent sustentacular cells. it separates the basal from the adluminal comparments. it separates the basal from the adluminal comparments. it separates the basal from the adluminal comparments. it separates the basal from the adluminal comparments. it separates the basal from the adluminal comparments. it separates the basal from the adluminal comparments. it controls the composition of the cytoplasm of sustentacular (sertoli) cells. it controls the composition of the cytoplasm of sustentacular (sertoli) cells. it controls the composition of the cytoplasm of sustentacular (sertoli) cells. it controls the composition of the cytoplasm of sustentacular (sertoli) cells. it controls the composition of the cytoplasm of sustentacular (sertoli) cells. it controls the composition of the cytoplasm of sustentacular (sertoli) cells. submit h11   question 1 </slidetext>
+      <slidetext slideid="6bXaK4IXCDU.6aRZVUXZVu9" slidebank="false" type="slide">choose one incorrect statement regarding spermatogenesis. mitotic divisions that occur at the beginning of spermatogenesis maintain the stem cell population. mitotic divisions that occur at the beginning of spermatogenesis maintain the stem cell population. mitotic divisions that occur at the beginning of spermatogenesis maintain the stem cell population. mitotic divisions that occur at the beginning of spermatogenesis maintain the stem cell population. mitotic divisions that occur at the beginning of spermatogenesis maintain the stem cell population. mitotic divisions that occur at the beginning of spermatogenesis maintain the stem cell population. spermatogonia are haploid cells produced only after puberty. spermatogonia are haploid cells produced only after puberty. spermatogonia are haploid cells produced only after puberty. spermatogonia are haploid cells produced only after puberty. spermatogonia are haploid cells produced only after puberty. spermatogonia are haploid cells produced only after puberty. the most immature spermatogenic cells of the seminiferous tubule epithelium are adjacent to the basement membrane. the most immature spermatogenic cells of the seminiferous tubule epithelium are adjacent to the basement membrane. the most immature spermatogenic cells of the seminiferous tubule epithelium are adjacent to the basement membrane. the most immature spermatogenic cells of the seminiferous tubule epithelium are adjacent to the basement membrane. the most immature spermatogenic cells of the seminiferous tubule epithelium are adjacent to the basement membrane. the most immature spermatogenic cells of the seminiferous tubule epithelium are adjacent to the basement membrane. the blood-testis barrier protects maturing sperm from detection by the immune system. the blood-testis barrier protects maturing sperm from detection by the immune system. the blood-testis barrier protects maturing sperm from detection by the immune system. the blood-testis barrier protects maturing sperm from detection by the immune system. the blood-testis barrier protects maturing sperm from detection by the immune system. the blood-testis barrier protects maturing sperm from detection by the immune system. submit h11   question 2 </slidetext>
+      <slidetext slideid="6bXaK4IXCDU.60A3TJsnVVY" slidebank="false" type="slide">during spermiogenesis, what structure forms from the golgi complex of the spermatid? the midpiece the midpiece the midpiece the midpiece the midpiece the midpiece the axoneme of the flagellum the axoneme of the flagellum the axoneme of the flagellum the axoneme of the flagellum the axoneme of the flagellum the axoneme of the flagellum the acrosome the acrosome the acrosome the acrosome the acrosome the acrosome a residual body a residual body a residual body a residual body a residual body a residual body submit h11   question 3 </slidetext>
+      <slidetext slideid="6bXaK4IXCDU.5gdkUj6cmld" slidebank="false" type="slide">which of the following cell types is the least differentiated? primary spermatocytes primary spermatocytes primary spermatocytes primary spermatocytes primary spermatocytes primary spermatocytes spermatogonia spermatogonia spermatogonia spermatogonia spermatogonia spermatogonia sustentacular (sertoli) cells sustentacular (sertoli) cells sustentacular (sertoli) cells sustentacular (sertoli) cells sustentacular (sertoli) cells sustentacular (sertoli) cells interstitial (leydig) cells interstitial (leydig) cells interstitial (leydig) cells interstitial (leydig) cells interstitial (leydig) cells interstitial (leydig) cells submit h11   question 4 </slidetext>
+      <slidetext slideid="6bXaK4IXCDU.6aEsl1L7N3h" slidebank="false" type="slide">identify a. h11   question 5 submit </slidetext>
+      <slidetext slideid="6bXaK4IXCDU.6UW4Kl4OcZe" slidebank="false" type="slide">h11   question 6 submit identify b. </slidetext>
+      <slidetext slideid="6bXaK4IXCDU.5WeFKSeUpEX" slidebank="false" type="slide">h11   question 7 submit identify the cells indicated. be specific. </slidetext>
+      <slidetext slideid="6bXaK4IXCDU.5wAPMBlgyNN" slidebank="false" type="slide">h11   question 8 submit what hormone are these cells responsible for producing? </slidetext>
+      <slidetext slideid="6bXaK4IXCDU.6bQwKvG7SGU" slidebank="false" type="slide">h11   question 9 submit identify cell type a. </slidetext>
+      <slidetext slideid="6bXaK4IXCDU.6a53UeutqkS" slidebank="false" type="slide">h11   question 10 submit identify cell type b. </slidetext>
+      <slidetext slideid="6bXaK4IXCDU.5w0sLecQ3al" slidebank="false" type="slide">h11   question 11 submit identify cell type c. be specific. </slidetext>
+      <slidetext slideid="6bXaK4IXCDU.6PjyzUzUH1W" slidebank="false" type="slide">h11   question 12 submit identify cell type d. be specific. </slidetext>
+      <slidetext slideid="6bXaK4IXCDU.5tQtfoD3H91" slidebank="false" type="slide">congratulations on finishing h11 the male reproductive system review h11 review h11 review h11 previous </slidetext>
+    </search>
+  </nav_data>
+  <resource_data description="" />
+  <transcript_data>
+    <slidetranscripts>
+      <slidetranscript slideid="6aorm6DVHdA.6iJyEq8eiIe" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="0">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Calibri' size='12.5pt' style="font-size:12.5pt;" color='#ffffff'&gt;need to change title&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="6aorm6DVHdA.5kFe9J3v91F" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="1">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Calibri' size='12.5pt' style="font-size:12.5pt;" color='#ffffff'&gt;fix this slide&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+    </slidetranscripts>
+  </transcript_data>
+  <glossary_data />
+</bwFrame>

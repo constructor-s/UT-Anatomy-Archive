@@ -1,0 +1,1335 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="npnxnanbnsnfns01001000011" textdirection="ltr" device="false" fontscale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="classic">
+  <layouts>
+    <layout name="npnxnanbsnfns01001000011" font="Calibri" controllayout="npnxnanbsnfns01001000011" colorscheme="npnxnanbnsnfns01001000011" string_table="npnxnanbnsnfns01001000011" />
+    <layout name="pxabnsnfns01001000011" font="Calibri" controllayout="pxabnsnfns01001000011" colorscheme="npnxnanbnsnfns01001000011" string_table="npnxnanbnsnfns01001000011" />
+    <layout name="npxnabnsnfns01001000011" font="Calibri" controllayout="npxnabnsnfns01001000011" colorscheme="npnxnanbnsnfns01001000011" string_table="npnxnanbnsnfns01001000011" />
+    <layout name="npnxnanbnsnfns01001000011" font="Calibri" controllayout="npnxnanbnsnfns01001000011" colorscheme="npnxnanbnsnfns01001000011" string_table="npnxnanbnsnfns01001000011" />
+    <layout name="pxabnsnfns01001000010" font="Calibri" controllayout="pxabnsnfns01001000010" colorscheme="npnxnanbnsnfns01001000011" string_table="npnxnanbnsnfns01001000011" />
+    <layout name="npnxabnsnfns01001000011" font="Calibri" controllayout="npnxabnsnfns01001000011" colorscheme="npnxnanbnsnfns01001000011" string_table="npnxnanbnsnfns01001000011" />
+  </layouts>
+  <control_options>
+    <optiongroups>
+      <optiongroup name="sidebaroptions">
+        <options>
+          <option name="title_enabled" value="true">
+            <options>
+              <option name="title_text" value="H8 The Histology of the Cardiovascular System" />
+            </options>
+          </option>
+          <option name="logo_enabled" value="true">
+            <options>
+              <option name="logo_url" value="story_content/logo.swf">
+                <properties>
+                  <property name="width" value="1024" />
+                  <property name="height" value="347" />
+                </properties>
+              </option>
+              <option name="html5_logo_url" value="mobile/5noDzkSdKcM.png" />
+            </options>
+          </option>
+          <option name="sidebar_enabled" value="true">
+            <options>
+              <option name="sidebarpos" value="left" />
+            </options>
+          </option>
+          <optionlist name="tabs">
+            <listitems>
+              <listitem name="customlink" value="true" group="linkleft">
+                <properties>
+                  <property name="title" value="Acknowledgements" />
+                  <property name="data" value="62WilxHnbdW" />
+                  <property name="ignoreSlideLock" value="true" />
+                </properties>
+              </listitem>
+              <listitem name="resources" value="false" group="linkright" />
+              <listitem name="outline" value="true" group="sidebar" />
+              <listitem name="glossary" value="false" group="sidebar" />
+              <listitem name="transcript" value="false" group="sidebar" />
+            </listitems>
+          </optionlist>
+          <option name="time_enabled" value="false">
+            <options>
+              <option name="time_format" value="" />
+            </options>
+          </option>
+          <option name="video_enabled" value="false">
+            <options>
+              <option name="height" value="135" />
+            </options>
+          </option>
+        </options>
+      </optiongroup>
+      <optiongroup name="menuoptions">
+        <options>
+          <option name="flow" value="free" />
+          <option name="wraplistitems" value="true" />
+          <option name="tooltips" value="true" />
+          <option name="autocollapse" value="false" />
+          <option name="autonumber" value="false" />
+          <option name="enableresultsicons" value="true" />
+        </options>
+      </optiongroup>
+      <optiongroup name="controls">
+        <options>
+          <option name="volume" value="false" />
+          <option name="seekbar" value="false">
+            <options>
+              <option name="readonly" value="false" />
+            </options>
+          </option>
+          <option name="search" value="true" />
+          <option name="pauseplay" value="false" />
+          <option name="replay" value="false" />
+          <option name="closed_captions" value="false">
+            <options>
+              <option name="font" value="Calibri" />
+            </options>
+          </option>
+        </options>
+      </optiongroup>
+      <optiongroup name="bottombaroptions">
+        <options>
+          <option name="bottombar_enabled" value="false" />
+        </options>
+      </optiongroup>
+    </optiongroups>
+  </control_options>
+  <control_layouts>
+    <control_layout name="npnxnanbsnfns01001000011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="true" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns01001000011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npxnabnsnfns01001000011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npnxnanbnsnfns01001000011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns01001000010">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="false" />
+    </control_layout>
+    <control_layout name="npnxabnsnfns01001000011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+  </control_layouts>
+  <colorschemes>
+    <colorscheme name="npnxnanbnsnfns01001000011">
+      <color_group name="infopanel">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x7C2280" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0000EE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC73013" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="title_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x999999" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="infopanelpopup">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFC4A2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xED5736" alpha="100" stop="0" />
+                <color rgb="0xD44120" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFC4A2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bio_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="timer">
+        <group_colors>
+          <color name="duration">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x00D7FF" alpha="100" stop="0" />
+                <color rgb="0x00ABFF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="elapsed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFEE347" alpha="100" stop="0" />
+                <color rgb="0xFCCC2A" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="stroke">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC7C7C7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="window">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xED5736" alpha="100" stop="0" />
+                <color rgb="0xD44120" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xEB8964" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF49277" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD63F21" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="20" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="editor">
+        <group_colors>
+          <color name="slide_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="html_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC23115" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC93518" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE15429" alpha="100" stop="0" />
+                <color rgb="0xC42D16" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD84121" alpha="100" stop="0" />
+                <color rgb="0xDE4C27" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE1512A" alpha="100" stop="0" />
+                <color rgb="0xD63A1D" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="listitem">
+        <group_colors>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x671B6B" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF98E6E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="viewed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFC4A2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF17D5E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="lines">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDA563A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="glossary">
+        <group_colors>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF98E6E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE85F39" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD96244" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD96244" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF98B6A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xEC7B59" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="resource">
+        <group_colors>
+          <color name="separator">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD35338" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="outline">
+        <group_colors>
+          <color name="search_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFC4A2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD35338" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xEB9471" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCF5336" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="transcript">
+        <group_colors>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="div">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD35338" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="tabs">
+        <group_colors>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC73013" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFC4A2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xED7254" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="seekcontrol">
+        <group_colors>
+          <color name="btn_icon_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFE1D0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_position">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE97D65" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD33F1F" alpha="100" stop="0" />
+                <color rgb="0xCA3416" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC32E13" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE65832" alpha="100" stop="0" />
+                <color rgb="0xDF3F23" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="searchinput">
+        <group_colors>
+          <color name="text_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2D2D2D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2D2D2D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xEB9471" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE76E52" alpha="100" stop="0" />
+                <color rgb="0xE2694D" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icon">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD7654B" alpha="100" stop="0" />
+                <color rgb="0xC42F13" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="scrollarea">
+        <group_colors>
+          <color name="detailb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCA3518" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="detaila">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xEA7C5D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCB3519" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icons">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCA3417" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE55D3B" alpha="100" stop="0" />
+                <color rgb="0xDB4D32" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE2522C" alpha="100" stop="0" />
+                <color rgb="0xD93E20" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF8795B" alpha="100" stop="0" />
+                <color rgb="0xF8795B" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="0">
+              <colors>
+                <color rgb="0xED6546" alpha="100" stop="0" />
+                <color rgb="0xEE6948" alpha="100" stop="128" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="menu">
+        <group_colors>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD35235" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xED7254" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="logo">
+        <group_colors>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC73013" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="checkbox">
+        <group_colors>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6BF8FF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="check">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2BC400" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD35338" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="button">
+        <group_colors>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC23115" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC93518" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE15429" alpha="100" stop="0" />
+                <color rgb="0xC42D16" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD84121" alpha="100" stop="0" />
+                <color rgb="0xDE4C27" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE1512A" alpha="100" stop="0" />
+                <color rgb="0xD63A1D" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="10" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="base">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD63F21" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF49277" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="menu_shade">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDD5233" alpha="100" stop="0" />
+                <color rgb="0xC53D1E" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF5674A" alpha="100" stop="0" />
+                <color rgb="0xF5674A" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xED5736" alpha="100" stop="0" />
+                <color rgb="0xD44120" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slide_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xED5736" alpha="100" stop="0" />
+                <color rgb="0xD44120" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="volume">
+        <group_colors>
+          <color name="thumb_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCB361A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE55E3B" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDB4524" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF26E50" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE75E36" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="HTML">
+        <group_colors>
+          <color name="htmlpage_bg_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x018CB0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+    </colorscheme>
+  </colorschemes>
+  <string_tables>
+    <string_table name="npnxnanbnsnfns01001000011">
+      <string id="acc_active">active</string>
+      <string id="check_include">Check to include</string>
+      <string id="clear">Clear and return to Menu</string>
+      <string id="close">Close</string>
+      <string id="acc_closed_captions">Closed captions. Press the spacebar to toggle captions on and off.</string>
+      <string id="continue">Continue</string>
+      <string id="continueresponsive">Continue</string>
+      <string id="exit">Exit</string>
+      <string id="filter">Filter</string>
+      <string id="finish">FINISH</string>
+      <string id="acc_finish">finish</string>
+      <string id="definition">Definition</string>
+      <string id="acc_definition">definition</string>
+      <string id="glossary">Glossary</string>
+      <string id="terms">Terms</string>
+      <string id="outline">Menu</string>
+      <string id="disabled_orientation">Please rotate your device</string>
+      <string id="next">NEXT</string>
+      <string id="acc_next">next</string>
+      <string id="transcript_chk">Notes</string>
+      <string id="transcript">Notes</string>
+      <string id="bio">Bio</string>
+      <string id="more_info">More info</string>
+      <string id="closed_captions">Captions</string>
+      <string id="acc_pause">pause</string>
+      <string id="acc_play">play</string>
+      <string id="send_an_email">Send an email</string>
+      <string id="prev">PREV</string>
+      <string id="acc_previous">previous</string>
+      <string id="question_list">Question List</string>
+      <string id="acc_replay">replay</string>
+      <string id="resources">Resources</string>
+      <string id="acc_resources">resources</string>
+      <string id="restart">Restart</string>
+      <string id="resume">Resume</string>
+      <string id="search">Search...</string>
+      <string id="acc_search_input">search</string>
+      <string id="search_in">Search in:</string>
+      <string id="search_results">Search Results</string>
+      <string id="acc_skipnavigation">Skip Navigation. Hit enter to return to the slide.</string>
+      <string id="slide_text_chk">Slide Text</string>
+      <string id="submitall">SUBMIT ALL</string>
+      <string id="acc_submitall">submit all</string>
+      <string id="submit">SUBMIT</string>
+      <string id="acc_submit">submit</string>
+      <string id="acc_volume">volume</string>
+    </string_table>
+  </string_tables>
+  <fonts>
+    <font name="Calibri">
+      <files>
+        <file bold="true" italic="false" />
+        <file bold="false" italic="false" />
+      </files>
+    </font>
+  </fonts>
+  <sounds enabled="true" />
+  <nav_data>
+    <outline>
+      <links>
+        <slidelink slideid="_player.6aorm6DVHdA.6iJyEq8eiIe" displaytext="Start" expand="false" type="slide" />
+        <slidelink slideid="_player.6BGErB6p9WR" displaytext="H8 The Histology of the Cardiovascular System" expand="false" type="slide">
+          <links>
+            <slidelink slideid="_player.6BGErB6p9WR.6UtggjhrqPH" displaytext="H8 The Histology of the Cardiovascular System" expand="false" type="slide" />
+            <slidelink slideid="_player.6BGErB6p9WR.6WQnUucVXPv" displaytext="1. Objectives" expand="false" type="slide" />
+            <slidelink slideid="_player.6BGErB6p9WR.5Z3smuCQGyd" displaytext="2. The Cardiovascular System: an Introduction" expand="false" type="slide" />
+            <slidelink slideid="_player.6BGErB6p9WR.63QASD2Lrmd" displaytext="3. Part I: The Heart" expand="false" type="slide" />
+            <slidelink slideid="_player.6BGErB6p9WR.6bX49duQcO8" displaytext="4. The Heart, An Introduction" expand="false" type="slide" />
+            <slidelink slideid="_player.6BGErB6p9WR.6ooSbF1EXb0" displaytext="5. Endothelium" expand="false" type="slide" />
+            <slidelink slideid="_player.6BGErB6p9WR.6TYK4lBFOv9" displaytext="6. Layers of the Heart Wall" expand="false" type="slide" />
+            <slidelink slideid="_player.6BGErB6p9WR.5eEIAp66XY1" displaytext="7. Fibrous Skeleton of the Heart I" expand="false" type="slide" />
+            <slidelink slideid="_player.6BGErB6p9WR.5mjsmL3bEH5" displaytext="8. Fibrous Skeleton of the Heart II" expand="false" type="slide" />
+            <slidelink slideid="_player.6BGErB6p9WR.6S6YC5nt8Lf" displaytext="9. The Conducting System of the Heart I" expand="false" type="slide" />
+            <slidelink slideid="_player.6BGErB6p9WR.6BCBCj0q2lO" displaytext="10. The Conducting System of the Heart II" expand="false" type="slide" />
+            <slidelink slideid="_player.6BGErB6p9WR.6MjJ8C3aYBK" displaytext="11. Autonomic Input to the Heart" expand="false" type="slide" />
+            <slidelink slideid="_player.6BGErB6p9WR.5mafS98UQOZ" displaytext="12. Part II: Blood Vessels" expand="false" type="slide" />
+            <slidelink slideid="_player.6BGErB6p9WR.6egSRgUxd0A" displaytext="13. The Structure of Larger Blood Vessels I" expand="false" type="slide" />
+            <slidelink slideid="_player.6BGErB6p9WR.5cYmwDMrbBX" displaytext="14. Elastic Arteries are the Largest Arteries" expand="false" type="slide" />
+            <slidelink slideid="_player.6BGErB6p9WR.6o43luac3jI" displaytext="15. Muscular Arteries are Intermediate in Size" expand="false" type="slide" />
+            <slidelink slideid="_player.6BGErB6p9WR.5eGb4exixAx" displaytext="16. Arterioles" expand="false" type="slide" />
+            <slidelink slideid="_player.6BGErB6p9WR.5wJCoKeX54V" displaytext="17. Capillary Beds" expand="false" type="slide" />
+            <slidelink slideid="_player.6BGErB6p9WR.6otxLH6z8VY" displaytext="18. Capillaries" expand="false" type="slide" />
+            <slidelink slideid="_player.6BGErB6p9WR.6n8ld1UuAgZ" displaytext="19. The Structure of Veins" expand="false" type="slide" />
+            <slidelink slideid="_player.6BGErB6p9WR.5xk3F2oQ7F6" displaytext="20. Venous Return" expand="false" type="slide" />
+            <slidelink slideid="_player.6BGErB6p9WR.5W3WtCXYBlC" displaytext="21. Quiz Start" expand="false" type="slide">
+              <links>
+                <slidelink slideid="_player.6BGErB6p9WR.63IFzNQ9ILM" displaytext="Question 1" expand="false" type="slide" />
+                <slidelink slideid="_player.6BGErB6p9WR.69DL3NKRk9D" displaytext="Question 2" expand="false" type="slide" />
+                <slidelink slideid="_player.6BGErB6p9WR.6jSnRYhgRcF" displaytext="Question 3" expand="false" type="slide" />
+                <slidelink slideid="_player.6BGErB6p9WR.6eu7SpOPuv6" displaytext="Question 4" expand="false" type="slide" />
+                <slidelink slideid="_player.6BGErB6p9WR.5ddBD8qZCQc" displaytext="Question 5" expand="false" type="slide" />
+                <slidelink slideid="_player.6BGErB6p9WR.6mHvnhIRZEp" displaytext="Question 6" expand="false" type="slide" />
+                <slidelink slideid="_player.6BGErB6p9WR.60Z7P9QsigC" displaytext="Question 7" expand="false" type="slide" />
+                <slidelink slideid="_player.6BGErB6p9WR.6LOle2QVkcj" displaytext="Question 8" expand="false" type="slide" />
+                <slidelink slideid="_player.6BGErB6p9WR.6oDKqNY1lSW" displaytext="Question 9" expand="false" type="slide" />
+                <slidelink slideid="_player.6BGErB6p9WR.65ZtTjGeWRi" displaytext="Question 10" expand="false" type="slide" />
+                <slidelink slideid="_player.6BGErB6p9WR.5ZGpQaCGE3o" displaytext="Question 11" expand="false" type="slide" />
+                <slidelink slideid="_player.6BGErB6p9WR.6dgakANs7YJ" displaytext="Question 12" expand="false" type="slide" />
+                <slidelink slideid="_player.6BGErB6p9WR.673iPKHUFeZ" displaytext="Question 13" expand="false" type="slide" />
+                <slidelink slideid="_player.6BGErB6p9WR.5rNtZy8ZrNX" displaytext="Question 14" expand="false" type="slide" />
+                <slidelink slideid="_player.6BGErB6p9WR.6eYVoNgl3s7" displaytext="Question 15" expand="false" type="slide" />
+                <slidelink slideid="_player.6BGErB6p9WR.5lJpIE7blOb" displaytext="Question 16" expand="false" type="slide" />
+                <slidelink slideid="_player.6BGErB6p9WR.6Zil2UL384W" displaytext="Question 17" expand="false" type="slide" />
+                <slidelink slideid="_player.6BGErB6p9WR.5qBU068lnHm" displaytext="Question 18" expand="false" type="slide" />
+                <slidelink slideid="_player.6BGErB6p9WR.5VMgS7ipAKA" displaytext="Question 19" expand="false" type="slide" />
+                <slidelink slideid="_player.6BGErB6p9WR.6cF73X3ewL5" displaytext="Question 20" expand="false" type="slide" />
+                <slidelink slideid="_player.6BGErB6p9WR.6MrQ32P55kK" displaytext="Question 21" expand="false" type="slide" />
+                <slidelink slideid="_player.6BGErB6p9WR.6RMp7u1ebV9" displaytext="Question 22" expand="false" type="slide" />
+                <slidelink slideid="_player.6BGErB6p9WR.6Xyw1mJyFb7" displaytext="Question 23" expand="false" type="slide" />
+                <slidelink slideid="_player.6BGErB6p9WR.6RUVU4TCgLU" displaytext="Question 24" expand="false" type="slide" />
+              </links>
+            </slidelink>
+            <slidelink slideid="_player.6BGErB6p9WR.6lN6eS0gN3j" displaytext="H8 End" expand="false" type="slide" />
+          </links>
+        </slidelink>
+      </links>
+    </outline>
+    <search>
+      <slidetext slideid="6aorm6DVHdA.6iJyEq8eiIe" slidebank="false" type="slide">the cardiovascular system click to begin click to begin click to begin  histology emodule tutorial emodule tutorial emodule tutorial </slidetext>
+      <slidetext slideid="6aorm6DVHdA.6KMOAvxC2nP" slidebank="false" type="slide">to complete each section, use the next button at the bottom of the pages or press the right arrow key to move forward one page at a time.  use the menu, available by clicking “menu” at the top, to navigate to specific slides. use search to quickly find instances of relevant terms. use the previous button at the bottom of the pages or press the left arrow key to move back one page at a time. note: you can also swipe right and left in order to navigate forward and backward, respectively.  previous next using the emodule case 1      introduction      approach      diagnosis </slidetext>
+      <slidetext slideid="6aorm6DVHdA.5u2Xmu0SLdx" slidebank="false" type="slide">previous start conventions used in the emodule with age, wear and tear,  info an intervertebral disc can herniate, such that the nucleus pulposus…. information that has implications for health and disease is introduced on a blue bar and continued below: some slides contain the “slide talk” icon on the title bar. click this icon to hear me explain or elaborate on slide content.  some words are followed by this icon      ; click the icon to open related content in a separate layer. click the         icon to go back to the original layer. some words are followed by this icon      ; click the icon to see a definition or explanation.  words / phrases in purple denote concepts with which you should make a point of becoming familiar. </slidetext>
+      <slidetext slideid="5oOfyNDdaiT.5Zu8QGHoVGZ" slidebank="false" type="slide">acknowledgements previous © 2018 author and emodule development: barbara ballyk, ph.d. associate professor, teaching stream division of anatomy, department of surgery faculty of medicine, university of toronto brand design: janet koecher, discovery commons university of toronto emodule development: gianluca sampieri, m.sc. md candidate class of 2021 faculty of medicine, university of toronto albert gheorghita, m.sc. md candidate class of 2020 faculty of medicine, university of toronto julian manzone, m.sc. md candidate class of 2019 faculty of medicine, university of toronto </slidetext>
+      <slidetext slideid="6ITgT0pLqit.5na92eEcibs" slidebank="false" type="slide">  next previous 2.1  </slidetext>
+      <slidetext slideid="6BGErB6p9WR.6UtggjhrqPH" slidebank="false" type="slide">  next previous h8 the histology of the cardiovascular system all images are from junqueira’s basic histology, 13th ed., © 2013 by mescher, denoted by “j”, a recommended resource, unless otherwise noted. recommended online resources:  university of minnesota histology guide university of leeds histology guide university of michigan virtual microscopy western university virtual slide box university of illinois cell and tissue biology </slidetext>
+      <slidetext slideid="6BGErB6p9WR.6WQnUucVXPv" slidebank="false" type="slide">  next previous h8    objectives 1 when you have learned the material presented here, you will be able to describe the histological features of the following structures. furthermore, you will be able to describe the  functional implications of their histological structure. the heart larger vessels continuous, fenestrated, and sinusoidal capillaries </slidetext>
+      <slidetext slideid="6BGErB6p9WR.5Z3smuCQGyd" slidebank="false" type="slide">  next previous h8   the cardiovascular system: an introduction the heart pumps blood, simultaneously, through two distinct systems of vessels. the right side of the heart pumps blood through the vessels of the pulmonary circulation. in the lungs, carbon dioxide is eliminated and blood is oxygenated. the left side of the heart pumps blood through vessels of the systemic circulation. in the peripheral tissues, oxygen is delivered, and waste products of cellular metabolism, including carbon dioxide are carried away. 2 </slidetext>
+      <slidetext slideid="6BGErB6p9WR.63QASD2Lrmd" slidebank="false" type="slide">  next previous h8   part i: the heart h8 part i: the heart 3 </slidetext>
+      <slidetext slideid="6BGErB6p9WR.6bX49duQcO8" slidebank="false" type="slide">  next previous h8   the heart, an introduction the heart consists of four chambers: two atria and two ventricles. the atria receive blood from veins, and the ventricles propel blood into arteries.  the right atrium receives deoxygenated blood from systemic veins via the superior and inferior venae cavae (svc and ivc). it propels blood into the right ventricle, which, in turn, propels this deoxygenated blood into the arteries of the pulmonary circulation. the left atrium receives oxygenated blood from the lungs via the pulmonary veins. it propels blood into the left ventricle, which, in turn, propels this oxygenated blood into the arteries of the systemic circulation. 4 </slidetext>
+      <slidetext slideid="6BGErB6p9WR.6ooSbF1EXb0" slidebank="false" type="slide">  next previous h8   endothelium lines all luminal surfaces in the cardiovascular system all surfaces in contact with circulating blood, i.e. the luminal surfaces of the heart chambers, of blood vessels, and, indeed, of lymphatic vessels, are lined by a simple squamous epithelium called endothelium.  endothelium is critically important in controlling molecular exchange between blood and subendothelial ct, but, in addition, it is antithrombogenic     , it controls the diapedesis     of white blood cells, and it controls vascular resistance     and the growth of adjacent cells through the release of paracrine factors.  5 it is a selectively permeable barrier (simple diffusion, active transport, pinocytosis, receptor-mediated endocytosis) it is nonthrombogenic, i.e. smooth, nonturbulent, secretion of anticoagulants (thrombomodulin), antithrombogenic agents (tpa) it can modulate vascular resistance, and therefore blood flow, through release of nitric oxide, and the action of membrane-bound enzymes, eg. ace  it regulates immune responses  by expression of leukocyte adhesion molecules which control leukocyte adhesion &amp; transmigration (diapedesis) it can, when appropriately stimulated, produce growth factors, such as vascular endothelial growth factor (vegf), that promote the proliferation of the cellular components of the vessel wall during the processes of vasculogenesis     and angiogenesis the functions of endothelium </slidetext>
+      <slidetext slideid="6BGErB6p9WR.6TYK4lBFOv9" slidebank="false" type="slide">  next previous h8   layers of the heart wall the walls of the heart chambers are composed of three histological layers. the innermost is the endocardium. the bulk of the chamber walls is the myocardium. the outer surface of the heart is the epicardium, which in gross anatomy, is called the visceral layer of the serous pericardium. the endocardium consists of 1) the endothelium and its underlying lamina propria     , 2) an intermediate myoelastic layer consisting of smooth muscle fibres and ct, and 3) the subendocardial layer consisting of ct that merges with the subadjacent myocardium. components of the conducting system of the heart, consisting of specialized cardiac muscle fibres, occupy the subendocardial layer     .  the intermediate layer, the myocardium, is the thickest layer of the heart wall. in it, cardiac muscle fibres are arranged spirally around each heart chamber, thus contributing to the functional efficiency of myocardial contraction. the myocardium is thicker in the walls of the ventricles than the atria because greater pressure must be generated by these chambers in order to overcome the vascular resistance of the pulmonary and systemic circulations. because the systemic circulation has a higher vascular resistance than the pulmonary circulation, the greatest pressure must be generated by the left ventricle, and the myocardium is thickest in the walls of this chamber. you saw this in the gross anatomy lab. the epicardium is a serous membrane consisting of a simple squamous mesothelium and underlying loose ct. this loose ct contains nerves and blood vessels, as well as a variable amount of adipose. again, you studied this layer in the gross anatomy lab, where it was referred to as the visceral layer of the serous pericardium. at the origins of the great vessels, it reflects onto the inner surface of the fibrous pericardium, becoming the parietal layer of the serous pericardium; together they form the pericardial sac. both layers of the serous pericardium produce the serous fluid, the pericardial fluid, which lubricates the movement of the heart relative to the pericardial sac     .  6 </slidetext>
+      <slidetext slideid="6BGErB6p9WR.5eEIAp66XY1" slidebank="false" type="slide">  next previous h8   the fibrous skeleton of the heart i the cardiac skeleton is composed of dense fibrous ct that forms the following structures and performs the following functions: it contributes to the formation of the interatrial and interventricular septae it surrounds the four valves of the heart; in doing so, it provides anchorage for the valve leaflets as well as for the myocardium of the chamber walls it extends into the leaflets of the valves and into the chordae tendineae of the atrioventricular valves it acts as an electrical insulator, preventing direct spread of electrical impulses from the cardiomyocytes of the atria to the cardiomyocytes of the ventricles 7 </slidetext>
+      <slidetext slideid="6BGErB6p9WR.5mjsmL3bEH5" slidebank="false" type="slide">  next previous h8   the fibrous skeleton of the heart ii 8 a section through an atrioventricular valve cusp (arrow) demonstrates the fibrous skeleton of the heart. it is composed of dense irregular connective tissue (c), which stains blue in this preparation     . it is found largely in the endocardium (en), where it forms rings that surround the valves and physically and electrically separate the myocardium of the atria from that of the ventricles. because dense irregular connective tissue is inextensible, these rings control the size and shape of the openings. as shown, it extends into the valve leaflets, forming much of its core, and into the chordae tendineae (ct) that attach the valve cusps to the papillary muscles of the ventricular walls. indeed, valve leaflets and chordae tendineae largely consist of a core of dense connective tissue covered by endothelium. the lumena of the atrium (a) and the ventricle (v) are labeled, as is the ventricular myocardium. </slidetext>
+      <slidetext slideid="6BGErB6p9WR.6S6YC5nt8Lf" slidebank="false" type="slide">  next previous h8   the conducting system of the heart i  the conducting system of the heart is composed of modified cardiac muscle fibres that are specialized for the generation of depolarizing impulses and their propagation throughout the myocardium. it stimulates and coordinates the contraction of the chamber walls, and therefore, the rhythmic propulsion of blood. the components of the conducting system of the heart are located in the subendocardium and extend into the subadjacent myocardium. within the walls of the right atrium are two nodes of specialized myocardial cells, the sinoatrial (sa) node and the atrioventricular (av) node. the sa node acts as the pacemaker, setting the basic rate of contraction of the heart. other components of the conducting system of the heart are the av bundle and the subendocardial conducting network. in the gross anatomy lab, you found the location of the sa node in the wall of the right atrium where this chamber meets the svc, at the apex of the crista terminalis. it is a 6-7 mm3 knot of modified myocardial cells. these cells have an unstable resting potential, which leads to the regular generation of action potentials that spread via the internodal pathway to the av node. in doing so, these impulses cause the coordinated contraction of the atrial myocardium, atrial systole.  in the gross anatomy lab, you found the location of the av node in the interatrial septum, superior to the coronary sinus and adjacent to the av valve. the cells of the av node are depolarized by the incoming signal from the sa node. the signal in the av node is delayed, due to the electrical properties of these cells, and therefore, atrial contraction is complete, before the signal for contraction spreads to the ventricles. 9 </slidetext>
+      <slidetext slideid="6BGErB6p9WR.6BCBCj0q2lO" slidebank="false" type="slide">  next previous h8   the conducting system of the heart ii  from the av node, the signal is conducted through the av bundle in the membranous portion of the interventricular septum. the fibres of the av bundle bifurcate and form the left and right bundle branches in the subendocardium of the muscular portion of the interventricular septum. at the apex of the heart, the right and left bundles disperse throughout the walls of the ventricles to form the subendocardial conducting network, commonly referred to as purkinje fibres. it coordinates the simultaneous contraction of myocardium of the right and left ventricular walls. 10 </slidetext>
+      <slidetext slideid="6BGErB6p9WR.6MjJ8C3aYBK" slidebank="false" type="slide">  next previous h8   autonomic input to the heart as you learned in gross anatomy, the heart receives autonomic input from the sympathetic cardiac nerves, originating as preganglionic fibres from the upper thoracic spinal cord segments, and descending as postganglionic fibres from the cervical sympathetic chain ganglia in the neck. it also receives parasympathetic preganglionic input from the vagus nerve. these two arms of the ans meet at the cardiac plexus, located anterior and posterior to the aortic arch. parasympathetic ganglionic cells and sympathetic postganglionic fibres are located in the regions of the sa and av node. their input influences heart rate, the parasympathetic input decreasing heart rate, and the sympathetic input increasing heart rate. since the sa node develops from structures on the right side of the embryo and the av node develops from structures on the left side of the embryo, the right vagus and right sympathetic cardiac nerves are distributed primarily to the sa node, while the left vagus nerve and left sympathetic cardiac nerves are distributed primarily to the av node. nociceptive      sensory nerve endings within the myocardium respond to stimuli such as ischemia, as may occur during angina pectoris, and conduct their impulses centrally via the sympathetic cardiac nerves, back to the upper thoracic segments of the spinal cord. overlap here with incoming sensory fibres from the corresponding dermatomes leads to the common referral of cardiac pain to the medial arm and upper chest, as illustrated in the accompanying slide. 11 </slidetext>
+      <slidetext slideid="6BGErB6p9WR.5mafS98UQOZ" slidebank="false" type="slide">  next previous h8   part ii: blood vessels h8 part ii: blood vessels 12 </slidetext>
+      <slidetext slideid="6BGErB6p9WR.6egSRgUxd0A" slidebank="false" type="slide">  next previous h8   the structure of larger blood vessels i the walls of arteries and veins (but not the smallest blood vessels, capillaries) consist of three layers. from the lumen outward, these are the tunica intima     , tunica media     and tunica adventitia (externa).  13  vessels branch frequently and along with their caliber, their structure changes gradually with each branching. thus, there is a smooth transition in structure and function from one class of vessel to another. elastic arteries, as they branch, become muscular arteries, which, as they branch, become arterioles. a description of the structural features and functional implications of these classes of vessels follows. the thickness of each layer, and the details of its composition, vary between different vessels, determined largely by blood pressure.  </slidetext>
+      <slidetext slideid="6BGErB6p9WR.5cYmwDMrbBX" slidebank="false" type="slide">  next previous h8   elastic arteries are the largest arteries 14 fig. 9-7c from atlas of histology with functional &amp; clinical correlations, by cui, © 2011. elastic arteries are the largest arteries, closest to heart, such as the aorta and its main branches (brachiocephalic trunk, common carotids, subclavians, common iliac arteries) and the pulmonary trunk and its main branches (left and right pulmonary arteries). their primary function is to distribute blood to smaller arteries. the thickest of their three layers is the tunica media, which contains abundant elastin in the form of fenestrated sheets between layers of smooth muscle cells; the aorta of an adult contains about 50 elastic lamellae, although this number is greater in the hypertensive individual. elastic arteries modulate changes in blood pressure during the cardiac cycle. the abundant elastin in their walls allows them to stretch in response to the increase in pressure that occurs during systole; the extent of this stretch is limited by the vessel’s collagen content. when blood pressure drops during diastole, the vessel wall “bounces back”, which helps to maintain arteriolar blood pressure. the aortic and pulmonary semilunar valves prevent regurgitation of blood back into the ventricles, and the blood is therefore propelled forward during diastole. as the distance from the heart increases, arteriolar blood pressure becomes less variable (the peaks and troughs of systole and diastole even out) and blood velocity decreases. h&amp;e </slidetext>
+      <slidetext slideid="6BGErB6p9WR.6o43luac3jI" slidebank="false" type="slide">  next previous h8   muscular arteries are intermediate in size as elastic arteries branch, their structure changes and they become muscular arteries. muscular arteries distribute blood to body organs; thus examples are the renal arteries, gastric arteries and arteries that supply skeletal muscles. in muscular arteries, the thick tunica media contains a higher proportion of smooth muscle fibres, and less elastin than elastic arteries, although in the largest muscular arteries, well-developed layers of elastin, the internal and external elastic lamellae, are present at the junctions between the three layers. 15 the smooth muscle is under the control of the sympathetic nervous system. sympathetic input regulates blood flow to organs according to tissue requirements. fig. 9-8b from atlas of histology with functional &amp; clinical correlations, by cui, © 2011. h&amp;e </slidetext>
+      <slidetext slideid="6BGErB6p9WR.5eGb4exixAx" slidebank="false" type="slide">  next previous h8   arterioles 16 the branching of muscular arteries gives rise to progressively smaller vessels, ultimately with 3-4 layers of smooth muscle in their media. these smallest arteries give rise to vessels with 1-2 layers of medial smooth muscle, arterioles (a), which lack elastic laminae. arterioles are characterized by a thin, ill-defined tunica externa. they function to control blood flow into capillary beds through changes in vascular resistance, controlled by the syns, local conditions and hormones. arterioles give rise to capillary beds, networks of capillaries (c) that anastomose within the parenchyma     of an organ. it is across the walls of these smallest vessels that molecular exchange between blood and interstitial fluid take place. the metabolic activity of an organ or tissue is directly related to the density of its capillary network. thus, myocardium, skeletal muscle and the kidney have dense capillary networks, dense ct structures, such as ligaments and tendons, do not. recall that cartilage lacks a blood supply and has a very slow metabolic rate, thus illustrating the limit of this relationship. vasoconstriction and vasodilatation of arterioles occurs in a pulsatile manner; it controls the flow of blood into capillary beds in response to tissue requirements. vascular resistance in arterioles is the major determinant of systemic blood pressure. j11.14 h&amp;e </slidetext>
+      <slidetext slideid="6BGErB6p9WR.5wJCoKeX54V" slidebank="false" type="slide">  next previous h8   capillary beds terminal branches of arterioles, called metarterioles, deliver blood to capillary beds. metarterioles become thoroughfare channels, which drain the capillary bed into postcapillary venules; the latter are the first part of the venous network.  metarterioles have scattered smooth muscle fibres in their walls that are arranged as precapillary sphincters; these function to control the volume of blood that enters the true capillaries. like arterioles, the contraction and relaxation of precapillary sphincters is pulsatile, occurring 5-10 times per minute     . true capillaries are the smallest of blood vessels and lack smooth muscle in their walls. the thoroughfare channel is the continuation of the metarteriole which opens into the postcapillary  venule; it lacks smooth muscle. perfusion of the capillary bed, and therefore molecular exchange between blood and interstitial fluid, is controlled by the precapillary sphincters. 17 </slidetext>
+      <slidetext slideid="6BGErB6p9WR.6otxLH6z8VY" slidebank="false" type="slide">  next previous h8   capillaries structurally, capillaries are very simple, consisting of endothelium and basement membrane rolled into a tube. capillaries may be smaller in diameter than an red blood cell, which makes the flexibility of red blood cells critical in their ability to move through capillary beds. the thin walls of capillaries allow for the rapid exchange of fluids, gases, metabolites &amp; waste products between blood and interstitial fluid. pericytes are relatively undifferentiated cells associated with capillaries that may contribute to blood vessel remodeling and wound healing. when appropriately stimulated, they may proliferate and differentiate to form the cellular components of the walls of new blood vessels. the structure, and therefore permeability, of capillaries varies between organs and tissues with different functions. they are classified into three histologic types, based on their structural properties: continuous capillaries fenestrated capillaries sinusoidal capillaries 18 </slidetext>
+      <slidetext slideid="6BGErB6p9WR.6n8ld1UuAgZ" slidebank="false" type="slide">  next previous h8   the structure of veins postcapillary venules receive efferent blood from capillary beds. there is no abrupt change in the structure of the vessels; postcapillary venules are endothelium and basal lamina, although they have more associated pericytes and their diameters are larger than those of capillaries.  postcapillary venules are the primary site of action of vasoactive agents such as histamine and serotonin, released by mast cells during the inflammatory response. postcapillary venules are therefore the primary site of the extravasation of tissue fluid that causes edema. they are also the primary site at which white blood cells exit the circulation and enter the subadjacent ct via diapedesis, both under normal conditions, and, at higher rates, during inflammation. the convergence of postcapillary venules forms venules with associated smooth muscle, which ultimately have defined tunicae media and adventitia. convergence of venules forms small veins, then medium and large, each with three defined layers in their walls.  all venules and veins characteristically have thinner walls and larger diameters as compared to their companion arteriole or artery. 19 j11.21 this image is of a postcapillary venule (v) and its companion arteriole (a). a pericyte (p) is associated with the postcapillary venule. notice the larger lumen and thinner wall of the venous vessel. fyi, the stain is toluidine blue. </slidetext>
+      <slidetext slideid="6BGErB6p9WR.5xk3F2oQ7F6" slidebank="false" type="slide">  next previous h8   venous return normally, at any point in time, 65 - 70 % of blood volume, or about 3.5 l, is in the venous systems of various tissues and organs. sympathetic stimulation of venous smooth muscle causes venoconstriction, which moves blood out of this blood reservoir into the arteriolar / capillary systems.  venous blood is under very low pressure, as compared to arteriolar blood, which results in modifications in the structure of veins as compared to arteries. because their intraluminal pressure is low, veins have thinner walls, as compared to their companion arteries; the thick walls of the latter are built to withstand their high intraluminal pressures. because the pressure in veins is too low to propel the contained blood back to the heart, veins rely on compression from adjacent organs, such as skeletal muscle in the limbs, to exert pressure on the contained blood. this mechanism is referred to as the skeletal muscle pump. in order to control the direction of movement of venous blood, larger veins have valves which ensure the one-way flow of blood back to the heart. these valves are better developed in the lower limbs, as compared to the upper limbs and head and neck. this is because it is within the lower limbs that the venous blood is most challenged by gravity. 20 j11.22 this image is of a small vein (v) and its companion, a small muscular artery (a). again, notice the larger lumen and thinner wall of the venous vessel. the artery has a more well-developed tunica media (m) and a tunica adventitia (ad) than the vein, with the media being the thickest of the three layers. </slidetext>
+      <slidetext slideid="6BGErB6p9WR.5W3WtCXYBlC" slidebank="false" type="slide">  next previous h8   quiz press next to start the quiz or skip to end h8.   skip 21 </slidetext>
+      <slidetext slideid="6BGErB6p9WR.63IFzNQ9ILM" slidebank="false" type="slide">from the following options, choose all statements that correctly describe continuous capillaries. are found in, for instance, endocrine glands and the spleen are found in, for instance, endocrine glands and the spleen are found in, for instance, endocrine glands and the spleen are found in, for instance, endocrine glands and the spleen are found in, for instance, endocrine glands and the spleen are found in, for instance, endocrine glands and the spleen endothelial cells are joined by tight junctions endothelial cells are joined by tight junctions endothelial cells are joined by tight junctions endothelial cells are joined by tight junctions endothelial cells are joined by tight junctions endothelial cells are joined by tight junctions allow the passage of lipid-soluble molecules allow the passage of lipid-soluble molecules allow the passage of lipid-soluble molecules allow the passage of lipid-soluble molecules allow the passage of lipid-soluble molecules allow the passage of lipid-soluble molecules allow the passage of peptides and small proteins allow the passage of peptides and small proteins allow the passage of peptides and small proteins allow the passage of peptides and small proteins allow the passage of peptides and small proteins allow the passage of peptides and small proteins have a continuous basement membrane have a continuous basement membrane have a continuous basement membrane have a continuous basement membrane have a continuous basement membrane have a continuous basement membrane submit h8   question 1 </slidetext>
+      <slidetext slideid="6BGErB6p9WR.69DL3NKRk9D" slidebank="false" type="slide">individuals with marfan syndrome have mutations in a gene involved in collagen production. they often develop aortic aneurisms. what layer of the arterial wall is most affected by this mutation? endothelium endothelium endothelium endothelium endothelium endothelium tunica intima tunica intima tunica intima tunica intima tunica intima tunica intima tunica media tunica media tunica media tunica media tunica media tunica media tunica adventitia tunica adventitia tunica adventitia tunica adventitia tunica adventitia tunica adventitia external elastic lamina external elastic lamina external elastic lamina external elastic lamina external elastic lamina external elastic lamina submit h8   question 2 </slidetext>
+      <slidetext slideid="6BGErB6p9WR.6jSnRYhgRcF" slidebank="false" type="slide">in which layer of the heart wall are the major components of the conducting system of the heart located? the lamina propria of the endothelial layer the lamina propria of the endothelial layer the lamina propria of the endothelial layer the lamina propria of the endothelial layer the lamina propria of the endothelial layer the lamina propria of the endothelial layer the myocardium the myocardium the myocardium the myocardium the myocardium the myocardium the subendocardial layer the subendocardial layer the subendocardial layer the subendocardial layer the subendocardial layer the subendocardial layer the epicardium the epicardium the epicardium the epicardium the epicardium the epicardium submit h8   question 3 </slidetext>
+      <slidetext slideid="6BGErB6p9WR.6eu7SpOPuv6" slidebank="false" type="slide">which layer of the heart wall produces pericardial fluid? the lamina propria of the endothelial layer the lamina propria of the endothelial layer the lamina propria of the endothelial layer the lamina propria of the endothelial layer the lamina propria of the endothelial layer the lamina propria of the endothelial layer the myocardium the myocardium the myocardium the myocardium the myocardium the myocardium the subendocardial layer the subendocardial layer the subendocardial layer the subendocardial layer the subendocardial layer the subendocardial layer the epicardium the epicardium the epicardium the epicardium the epicardium the epicardium submit h8   question 4 </slidetext>
+      <slidetext slideid="6BGErB6p9WR.5ddBD8qZCQc" slidebank="false" type="slide">in which layer of the heart wall are nociceptive nerve endings that respond to ischemia primarily located? the lamina propria of the endothelial layer the lamina propria of the endothelial layer the lamina propria of the endothelial layer the lamina propria of the endothelial layer the lamina propria of the endothelial layer the lamina propria of the endothelial layer the myocardium the myocardium the myocardium the myocardium the myocardium the myocardium the subendocardial layer the subendocardial layer the subendocardial layer the subendocardial layer the subendocardial layer the subendocardial layer the epicardium the epicardium the epicardium the epicardium the epicardium the epicardium submit h8   question 5 </slidetext>
+      <slidetext slideid="6BGErB6p9WR.6mHvnhIRZEp" slidebank="false" type="slide">identify the layer indicated by a. h8   question 6 submit </slidetext>
+      <slidetext slideid="6BGErB6p9WR.60Z7P9QsigC" slidebank="false" type="slide">the cells lining layer a produce ____________ fluid.  h8   question 7 submit </slidetext>
+      <slidetext slideid="6BGErB6p9WR.6LOle2QVkcj" slidebank="false" type="slide">identify layer. be specific. h8   question 8 submit </slidetext>
+      <slidetext slideid="6BGErB6p9WR.6oDKqNY1lSW" slidebank="false" type="slide">specialized fibres are present within this layer, what are they? h8   question 9 submit </slidetext>
+      <slidetext slideid="6BGErB6p9WR.65ZtTjGeWRi" slidebank="false" type="slide">identify layer a. be specific. h8   question 10 submit </slidetext>
+      <slidetext slideid="6BGErB6p9WR.5ZGpQaCGE3o" slidebank="false" type="slide">identify the structure indicated. be specific. h8   question 11 submit </slidetext>
+      <slidetext slideid="6BGErB6p9WR.6dgakANs7YJ" slidebank="false" type="slide">identify the structure indicated. be specific. h8   question 12 submit </slidetext>
+      <slidetext slideid="6BGErB6p9WR.673iPKHUFeZ" slidebank="false" type="slide">this structure adheres to the ventricular wall via ____________ muscles. h8   question 13 submit </slidetext>
+      <slidetext slideid="6BGErB6p9WR.5rNtZy8ZrNX" slidebank="false" type="slide">what vessel type is depicted. be specific. (hint: look at the tunica media!) h8   question 14 submit </slidetext>
+      <slidetext slideid="6BGErB6p9WR.6eYVoNgl3s7" slidebank="false" type="slide">identify the blood vessel layer indicated by a. be specific. h8   question 15 submit </slidetext>
+      <slidetext slideid="6BGErB6p9WR.5lJpIE7blOb" slidebank="false" type="slide">identify the blood vessel layer indicated. be specific. h8   question 16 submit </slidetext>
+      <slidetext slideid="6BGErB6p9WR.6Zil2UL384W" slidebank="false" type="slide">identify the blood vessel layer indicated by b. be specific. h8   question 17 submit </slidetext>
+      <slidetext slideid="6BGErB6p9WR.5qBU068lnHm" slidebank="false" type="slide">what vessel type is depicted. be specific. (hint: look at the tunica media!) h8   question 18 submit </slidetext>
+      <slidetext slideid="6BGErB6p9WR.5VMgS7ipAKA" slidebank="false" type="slide">identify the vessel type a.  h8   question 19 submit </slidetext>
+      <slidetext slideid="6BGErB6p9WR.6cF73X3ewL5" slidebank="false" type="slide">identify the vessel type b.  h8   question 20 submit </slidetext>
+      <slidetext slideid="6BGErB6p9WR.6MrQ32P55kK" slidebank="false" type="slide">identify the vessel type a.  h8   question 21 submit </slidetext>
+      <slidetext slideid="6BGErB6p9WR.6RMp7u1ebV9" slidebank="false" type="slide">identify the vessel type b.  h8   question 22 submit </slidetext>
+      <slidetext slideid="6BGErB6p9WR.6Xyw1mJyFb7" slidebank="false" type="slide">identify the structure outlined. be specific. h8   question 23 submit </slidetext>
+      <slidetext slideid="6BGErB6p9WR.6RUVU4TCgLU" slidebank="false" type="slide">identify the structure outlined. be specific. h8   question 24 submit </slidetext>
+      <slidetext slideid="6BGErB6p9WR.6lN6eS0gN3j" slidebank="false" type="slide">congratulations on finishing h8 the cardiovascular system! review h8 review h8 review h8 previous </slidetext>
+    </search>
+  </nav_data>
+  <resource_data description="" />
+  <transcript_data>
+    <slidetranscripts>
+      <slidetranscript slideid="6aorm6DVHdA.6iJyEq8eiIe" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="0">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Calibri' size='12.5pt' style="font-size:12.5pt;" color='#ffffff'&gt;need to change title&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="6aorm6DVHdA.5u2Xmu0SLdx" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="1">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Calibri' size='12.5pt' style="font-size:12.5pt;" color='#ffffff'&gt;fix this slide&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+    </slidetranscripts>
+  </transcript_data>
+  <glossary_data />
+</bwFrame>

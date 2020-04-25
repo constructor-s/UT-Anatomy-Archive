@@ -1,0 +1,1316 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="npnxnanbnsnfns01001000011" textdirection="ltr" device="false" fontscale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="classic">
+  <layouts>
+    <layout name="npnxnanbsnfns01001000011" font="Calibri" controllayout="npnxnanbsnfns01001000011" colorscheme="npnxnanbnsnfns01001000011" string_table="npnxnanbnsnfns01001000011" />
+    <layout name="pxabnsnfns01001000011" font="Calibri" controllayout="pxabnsnfns01001000011" colorscheme="npnxnanbnsnfns01001000011" string_table="npnxnanbnsnfns01001000011" />
+    <layout name="npxnabnsnfns01001000011" font="Calibri" controllayout="npxnabnsnfns01001000011" colorscheme="npnxnanbnsnfns01001000011" string_table="npnxnanbnsnfns01001000011" />
+    <layout name="npnxnanbnsnfns01001000011" font="Calibri" controllayout="npnxnanbnsnfns01001000011" colorscheme="npnxnanbnsnfns01001000011" string_table="npnxnanbnsnfns01001000011" />
+    <layout name="pxabnsnfns01001000010" font="Calibri" controllayout="pxabnsnfns01001000010" colorscheme="npnxnanbnsnfns01001000011" string_table="npnxnanbnsnfns01001000011" />
+    <layout name="npnxabnsnfns01001000011" font="Calibri" controllayout="npnxabnsnfns01001000011" colorscheme="npnxnanbnsnfns01001000011" string_table="npnxnanbnsnfns01001000011" />
+  </layouts>
+  <control_options>
+    <optiongroups>
+      <optiongroup name="sidebaroptions">
+        <options>
+          <option name="title_enabled" value="true">
+            <options>
+              <option name="title_text" value="H06 Skin and Breast 2019" />
+            </options>
+          </option>
+          <option name="logo_enabled" value="true">
+            <options>
+              <option name="logo_url" value="story_content/logo.swf">
+                <properties>
+                  <property name="width" value="1024" />
+                  <property name="height" value="229" />
+                </properties>
+              </option>
+              <option name="html5_logo_url" value="mobile/6OyiTb69cVy.jpg" />
+            </options>
+          </option>
+          <option name="sidebar_enabled" value="true">
+            <options>
+              <option name="sidebarpos" value="left" />
+            </options>
+          </option>
+          <optionlist name="tabs">
+            <listitems>
+              <listitem name="customlink" value="true" group="linkleft">
+                <properties>
+                  <property name="title" value="Acknowledgments" />
+                  <property name="data" value="5toZT0PPlEg" />
+                  <property name="ignoreSlideLock" value="true" />
+                </properties>
+              </listitem>
+              <listitem name="resources" value="false" group="linkright" />
+              <listitem name="outline" value="true" group="sidebar" />
+              <listitem name="glossary" value="false" group="sidebar" />
+              <listitem name="transcript" value="false" group="sidebar" />
+            </listitems>
+          </optionlist>
+          <option name="time_enabled" value="false">
+            <options>
+              <option name="time_format" value="elapsed" />
+            </options>
+          </option>
+          <option name="video_enabled" value="false">
+            <options>
+              <option name="height" value="135" />
+            </options>
+          </option>
+        </options>
+      </optiongroup>
+      <optiongroup name="menuoptions">
+        <options>
+          <option name="flow" value="free" />
+          <option name="wraplistitems" value="false" />
+          <option name="tooltips" value="true" />
+          <option name="autocollapse" value="true" />
+          <option name="autonumber" value="false" />
+          <option name="enableresultsicons" value="true" />
+        </options>
+      </optiongroup>
+      <optiongroup name="controls">
+        <options>
+          <option name="volume" value="false" />
+          <option name="seekbar" value="false">
+            <options>
+              <option name="readonly" value="false" />
+              <option name="readonlyOnce" value="false" />
+            </options>
+          </option>
+          <option name="pauseplay" value="false" />
+          <option name="replay" value="false" />
+          <option name="search" value="true" />
+          <option name="closed_captions" value="false">
+            <options>
+              <option name="font" value="Calibri" />
+            </options>
+          </option>
+        </options>
+      </optiongroup>
+      <optiongroup name="bottombaroptions">
+        <options>
+          <option name="bottombar_enabled" value="false" />
+        </options>
+      </optiongroup>
+    </optiongroups>
+  </control_options>
+  <control_layouts>
+    <control_layout name="npnxnanbsnfns01001000011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="true" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns01001000011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npxnabnsnfns01001000011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npnxnanbnsnfns01001000011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns01001000010">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="false" />
+    </control_layout>
+    <control_layout name="npnxabnsnfns01001000011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+  </control_layouts>
+  <colorschemes>
+    <colorscheme name="npnxnanbnsnfns01001000011">
+      <color_group name="infopanel">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x7C2280" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0000EE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC73013" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="title_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x999999" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="infopanelpopup">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFC4A2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xED5736" alpha="100" stop="0" />
+                <color rgb="0xD44120" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFC4A2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bio_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="timer">
+        <group_colors>
+          <color name="duration">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x00D7FF" alpha="100" stop="0" />
+                <color rgb="0x00ABFF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="elapsed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFEE347" alpha="100" stop="0" />
+                <color rgb="0xFCCC2A" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="stroke">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC7C7C7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="window">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xED5736" alpha="100" stop="0" />
+                <color rgb="0xD44120" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xEB8964" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF49277" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD63F21" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="20" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="editor">
+        <group_colors>
+          <color name="slide_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="html_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC23115" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC93518" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE15429" alpha="100" stop="0" />
+                <color rgb="0xC42D16" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD84121" alpha="100" stop="0" />
+                <color rgb="0xDE4C27" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE1512A" alpha="100" stop="0" />
+                <color rgb="0xD63A1D" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="listitem">
+        <group_colors>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x671B6B" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF98E6E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="viewed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFC4A2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF17D5E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="lines">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDA563A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="glossary">
+        <group_colors>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF98E6E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE85F39" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD96244" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD96244" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF98B6A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xEC7B59" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="resource">
+        <group_colors>
+          <color name="separator">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD35338" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="outline">
+        <group_colors>
+          <color name="search_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFC4A2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD35338" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xEB9471" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCF5336" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="transcript">
+        <group_colors>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="div">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD35338" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="tabs">
+        <group_colors>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC73013" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFC4A2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xED7254" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="seekcontrol">
+        <group_colors>
+          <color name="btn_icon_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFE1D0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_position">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE97D65" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD33F1F" alpha="100" stop="0" />
+                <color rgb="0xCA3416" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC32E13" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE65832" alpha="100" stop="0" />
+                <color rgb="0xDF3F23" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="searchinput">
+        <group_colors>
+          <color name="text_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2D2D2D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2D2D2D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xEB9471" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE76E52" alpha="100" stop="0" />
+                <color rgb="0xE2694D" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icon">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD7654B" alpha="100" stop="0" />
+                <color rgb="0xC42F13" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="scrollarea">
+        <group_colors>
+          <color name="detailb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCA3518" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="detaila">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xEA7C5D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCB3519" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icons">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCA3417" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE55D3B" alpha="100" stop="0" />
+                <color rgb="0xDB4D32" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE2522C" alpha="100" stop="0" />
+                <color rgb="0xD93E20" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF8795B" alpha="100" stop="0" />
+                <color rgb="0xF8795B" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="0">
+              <colors>
+                <color rgb="0xED6546" alpha="100" stop="0" />
+                <color rgb="0xEE6948" alpha="100" stop="128" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="menu">
+        <group_colors>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD35235" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xED7254" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="logo">
+        <group_colors>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC73013" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="checkbox">
+        <group_colors>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6BF8FF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="check">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2BC400" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD35338" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="button">
+        <group_colors>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC23115" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC93518" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE15429" alpha="100" stop="0" />
+                <color rgb="0xC42D16" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD84121" alpha="100" stop="0" />
+                <color rgb="0xDE4C27" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE1512A" alpha="100" stop="0" />
+                <color rgb="0xD63A1D" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="10" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="base">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD63F21" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF49277" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="menu_shade">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDD5233" alpha="100" stop="0" />
+                <color rgb="0xC53D1E" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF5674A" alpha="100" stop="0" />
+                <color rgb="0xF5674A" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xED5736" alpha="100" stop="0" />
+                <color rgb="0xD44120" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slide_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xED5736" alpha="100" stop="0" />
+                <color rgb="0xD44120" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="volume">
+        <group_colors>
+          <color name="thumb_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCB361A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE55E3B" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDB4524" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF26E50" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE75E36" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="HTML">
+        <group_colors>
+          <color name="htmlpage_bg_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x018CB0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+    </colorscheme>
+  </colorschemes>
+  <string_tables>
+    <string_table name="npnxnanbnsnfns01001000011">
+      <string id="acc_active">active</string>
+      <string id="check_include">Check to include</string>
+      <string id="clear">Clear and return to menu</string>
+      <string id="close">Close</string>
+      <string id="acc_closed_captions">Closed captions. Press the spacebar to toggle captions on and off.</string>
+      <string id="continue">Continue</string>
+      <string id="continueresponsive">Continue</string>
+      <string id="exit">Exit</string>
+      <string id="filter">Filter</string>
+      <string id="finish">FINISH</string>
+      <string id="acc_finish">finish</string>
+      <string id="definition">Definition</string>
+      <string id="acc_definition">definition</string>
+      <string id="glossary">Glossary</string>
+      <string id="terms">Terms</string>
+      <string id="outline">Menu</string>
+      <string id="disabled_orientation">Please rotate your device</string>
+      <string id="next">NEXT</string>
+      <string id="acc_next">next</string>
+      <string id="transcript_chk">Notes</string>
+      <string id="transcript">Notes</string>
+      <string id="bio">Bio</string>
+      <string id="more_info">More info</string>
+      <string id="closed_captions">Captions</string>
+      <string id="acc_pause">pause</string>
+      <string id="acc_play">play</string>
+      <string id="send_an_email">Send an email</string>
+      <string id="prev">PREV</string>
+      <string id="acc_previous">previous</string>
+      <string id="question_list">Question List</string>
+      <string id="acc_replay">replay</string>
+      <string id="resources">Resources</string>
+      <string id="acc_resources">resources</string>
+      <string id="restart">Restart</string>
+      <string id="resume">Resume</string>
+      <string id="search">Search...</string>
+      <string id="acc_search_input">search</string>
+      <string id="search_in">Search in:</string>
+      <string id="search_results">Search Results</string>
+      <string id="acc_skipnavigation">Skip navigation. Press enter to return to the slide.</string>
+      <string id="slide_text_chk">Slide Text</string>
+      <string id="submitall">SUBMIT ALL</string>
+      <string id="acc_submitall">submit all</string>
+      <string id="submit">SUBMIT</string>
+      <string id="acc_submit">submit</string>
+      <string id="acc_volume">volume</string>
+    </string_table>
+  </string_tables>
+  <fonts>
+    <font name="Calibri">
+      <files>
+        <file bold="true" italic="false" />
+        <file bold="false" italic="false" />
+      </files>
+    </font>
+  </fonts>
+  <sounds enabled="true" />
+  <nav_data>
+    <outline>
+      <links>
+        <slidelink slideid="_player.6HTFG359OBF.604AHAGuDGf" displaytext="Start" expand="false" type="slide" />
+        <slidelink slideid="_player.5yTCeHKdLRE" displaytext="H06 Skin and Breast" expand="false" type="slide">
+          <links>
+            <slidelink slideid="_player.5yTCeHKdLRE.5gH8IjmGQ5c" displaytext="1. References" expand="false" type="slide" />
+            <slidelink slideid="_player.5yTCeHKdLRE.5UpolMYOOMm" displaytext="2. Objectives" expand="false" type="slide" />
+            <slidelink slideid="_player.5yTCeHKdLRE.5hau8smf7wr" displaytext="3. Functions of Skin" expand="false" type="slide" />
+            <slidelink slideid="_player.5yTCeHKdLRE.5cG9YvUV105" displaytext="4. An Overview" expand="false" type="slide" />
+            <slidelink slideid="_player.5yTCeHKdLRE.6D0yCDlysbl" displaytext="5. Thin vs. Thick Skin" expand="false" type="slide" />
+            <slidelink slideid="_player.5yTCeHKdLRE.6rLSqZ02ZVs" displaytext="6. Layers of the Epidermis" expand="false" type="slide" />
+            <slidelink slideid="_player.5yTCeHKdLRE.6Ys2O5ecH7d" displaytext="7. Cells of the Epidermis: Keratinocytes" expand="false" type="slide" />
+            <slidelink slideid="_player.5yTCeHKdLRE.60bMgUW8wdz" displaytext="8. Cells of the Epidermis: Merkel Cells" expand="false" type="slide" />
+            <slidelink slideid="_player.5yTCeHKdLRE.6eXBjYQxzRk" displaytext="9. Cells of the Epidermis: Langerhans Cells" expand="false" type="slide" />
+            <slidelink slideid="_player.5yTCeHKdLRE.5xAKOHfu5ig" displaytext="10. Cells of the Epidermis: Melanocytes" expand="false" type="slide" />
+            <slidelink slideid="_player.5yTCeHKdLRE.6rBb0kc4u6t" displaytext="11. Factors Affecting Skin Colour" expand="false" type="slide" />
+            <slidelink slideid="_player.5yTCeHKdLRE.6Vgn672wIIm" displaytext="12. The Dermal-Epidermal Interface" expand="false" type="slide" />
+            <slidelink slideid="_player.5yTCeHKdLRE.5v60bbHKm9Q" displaytext="13. The Dermis: Structure" expand="false" type="slide" />
+            <slidelink slideid="_player.5yTCeHKdLRE.66z3zM0zbJw" displaytext="14. The Dermis: Blood Supply" expand="false" type="slide" />
+            <slidelink slideid="_player.5yTCeHKdLRE.5def0wKY8gn" displaytext="15. Hair" expand="false" type="slide" />
+            <slidelink slideid="_player.5yTCeHKdLRE.60fvo5yV44v" displaytext="16. Types of Hair" expand="false" type="slide" />
+            <slidelink slideid="_player.5yTCeHKdLRE.6buiBCX2QgK" displaytext="17. Hair Growth" expand="false" type="slide" />
+            <slidelink slideid="_player.5yTCeHKdLRE.6WKUXra9lA5" displaytext="18. Glands of the Skin: Sebaceous Glands" expand="false" type="slide" />
+            <slidelink slideid="_player.5yTCeHKdLRE.6ZKqqjqDjqV" displaytext="19. Glands of the Skin: Sweat Glands" expand="false" type="slide" />
+            <slidelink slideid="_player.5yTCeHKdLRE.6VVxdDuefqD" displaytext="20. The Mammary Glands" expand="false" type="slide" />
+            <slidelink slideid="_player.5yTCeHKdLRE.5z5nCXACki9" displaytext="21. The Terminal Duct Lobar Unit" expand="false" type="slide" />
+            <slidelink slideid="_player.5yTCeHKdLRE.6bFpjLKORjE" displaytext="22. Summary" expand="false" type="slide" />
+            <slidelink slideid="_player.5yTCeHKdLRE.5tZqEjCHjfR" displaytext="23. Quiz Start" expand="false" type="slide">
+              <links>
+                <slidelink slideid="_player.5yTCeHKdLRE.6KHLfghICQd" displaytext="Question 1" expand="false" type="slide" />
+                <slidelink slideid="_player.5yTCeHKdLRE.5uTQPnfHXE7" displaytext="Question 2" expand="false" type="slide" />
+                <slidelink slideid="_player.5yTCeHKdLRE.5miD4IfyBi4" displaytext="Question 3" expand="false" type="slide" />
+                <slidelink slideid="_player.5yTCeHKdLRE.6Yl2BlYXkcx" displaytext="Question 4" expand="false" type="slide" />
+                <slidelink slideid="_player.5yTCeHKdLRE.5ZmhGqO7jAe" displaytext="Question 5" expand="false" type="slide" />
+                <slidelink slideid="_player.5yTCeHKdLRE.5mLLpt5TgIw" displaytext="Question 6" expand="false" type="slide" />
+                <slidelink slideid="_player.5yTCeHKdLRE.5oynmuIdE3E" displaytext="Question 7" expand="false" type="slide" />
+                <slidelink slideid="_player.5yTCeHKdLRE.5oaWrBYycAy" displaytext="Question 8" expand="false" type="slide" />
+                <slidelink slideid="_player.5yTCeHKdLRE.5aVznH5Zpgt" displaytext="Question 9" expand="false" type="slide" />
+                <slidelink slideid="_player.5yTCeHKdLRE.6iNMP53rhPV" displaytext="Question 10" expand="false" type="slide" />
+                <slidelink slideid="_player.5yTCeHKdLRE.6osuPGafX1I" displaytext="Question 11" expand="false" type="slide" />
+                <slidelink slideid="_player.5yTCeHKdLRE.64VRgu7OW7N" displaytext="Question 12" expand="false" type="slide" />
+                <slidelink slideid="_player.5yTCeHKdLRE.6jaMRPCOc57" displaytext="Question 13" expand="false" type="slide" />
+                <slidelink slideid="_player.5yTCeHKdLRE.5Xx1E0Xgt5D" displaytext="Question 14" expand="false" type="slide" />
+                <slidelink slideid="_player.5yTCeHKdLRE.6WIQjBrZr4t" displaytext="Question 15" expand="false" type="slide" />
+                <slidelink slideid="_player.5yTCeHKdLRE.5xav5gTHy8s" displaytext="Question 16" expand="false" type="slide" />
+              </links>
+            </slidelink>
+            <slidelink slideid="_player.5yTCeHKdLRE.5tbbpGAiel2" displaytext="End of H6" expand="false" type="slide" />
+          </links>
+        </slidelink>
+      </links>
+    </outline>
+    <search>
+      <slidetext slideid="6HTFG359OBF.604AHAGuDGf" slidebank="false" type="slide">skin and breast click to begin click to begin click to begin  histology emodule tutorial emodule tutorial emodule tutorial </slidetext>
+      <slidetext slideid="6HTFG359OBF.6fg17kTHFuu" slidebank="false" type="slide">to complete each section, use the next button at the bottom of the pages or press the right arrow key to move forward one page at a time.  use the menu, available by clicking “menu” at the top, to navigate to specific slides. use search to quickly find instances of relevant terms. use the previous button at the bottom of the pages or press the left arrow key to move back one page at a time. note: you can also swipe right and left in order to navigate forward and backward respectively.  previous next using the emodule h6 skin &amp; breast      1. references      2. objectives      3.  functions </slidetext>
+      <slidetext slideid="6HTFG359OBF.5amnTpsr4vW" slidebank="false" type="slide">previous start with age, wear and tear,  info an intervertebral disc can herniate, such that the nucleus pulposus…. information that has implications for health and disease is introduced on a blue bar and continued below: conventions used in the emodule some slides contain the “slide talk” icon on the title bar. click this icon to hear me explain or elaborate on slide content.  some words are followed by an icon      ; click the icon to jump to related slides. some words are followed by an icon      ; click the icon to see a definition or explanation.  words / phrases in purple denote concepts with which you should make a point of becoming familiar. some slides contain the icon         which means that you are within a “layer” of the original slide, simply click this button in order to navigate back to the original layer of the slide. </slidetext>
+      <slidetext slideid="5yTCeHKdLRE.5gH8IjmGQ5c" slidebank="false" type="slide">next previous h6 skin and breast: references images from netter’s functional histology, 2nd ed., by ovalle &amp; nahirney, © 2013 by saunders denoted by “n”. images from junqueira’s basic histology: text and atlas, 14th ed., © 2016 by mescher, denoted by “j”. images from human anatomy, 8th., © 2015 by martini et al., denoted by “ma”. recommended online resources: university of minnesota histology guide university of leeds histology guide university of michigan virtual microscopy western university virtual slide box university of illinois cell and tissue biology </slidetext>
+      <slidetext slideid="5yTCeHKdLRE.5UpolMYOOMm" slidebank="false" type="slide">next previous h6   objectives 2 when you have learned the material presented here, you will be able to: describe the functions of skin describe the tissue components of skin describe the differences between thin and thick skin and its distribution describe the characteristics of the epidermal layers describe the cell types found in the epidermis and their functional roles. describe the components of the dermis identify the different layers, cells and features of skin in light micrographs describe the structure and distribution of a follicles, sebaceous glands and sweat glands identify the different layers, cells and features of skin in light micrographs describe the structure of the breast in both males and females </slidetext>
+      <slidetext slideid="5yTCeHKdLRE.5hau8smf7wr" slidebank="false" type="slide">next previous h6   functions of skin barrier provides physical protection from abrasive forces protects from pathogenic invasion is a permeability barrier that limits the loss of body fluid via evaporation is a barrier to uv radiation, and thus protects dividing cells from damage immunological contains antigen presenting cells (apcs) that detect antigen and notify the immune system of its presence in our bodies homeostatic regulates body temperature by controlling heat loss at the body surface sensory contains receptors that detect pain, temperature, touch, pressure, vibration endocrine activation of vitamin d occurs in the skin excretory exocrine secretion of sweat, sebaceous and apocrine glands accounts for limited elimination of metabolites and drugs drug delivery lipid-soluble substances (e.g. nicotine, steroid hormones, anti-nauseants) delivered via a “patch” 3 </slidetext>
+      <slidetext slideid="5yTCeHKdLRE.5cG9YvUV105" slidebank="false" type="slide">next previous h6   an overview skin is a self-renewing organ covering all external surfaces ranging from 1 mm to 4 mm in thickness. it is continuous with mucous membranes     at body openings skin consists of two layers: epidermis: stratified squamous keratinized epithelium a variety of cell types a laminated structure thick skin hairless, found on palms of hands &amp; soles     of feet; thin skin elsewhere, usually with hair  dermis: underlying ct consist of two layers: papillary layer reticular layer the subcutaneous layer (a.k.a. hypodermis / superficialfascia (inc. camper’s fascia) is separated from skin (c) skin appendages / accessory structures of skin: hair nails multicellular exocrine glands, including the mammary glands 4 </slidetext>
+      <slidetext slideid="5yTCeHKdLRE.6D0yCDlysbl" slidebank="false" type="slide">next previous h6   thin vs. thick skin these images are at the same magnification; “thin” &amp; “thick” refer to the thickness of the epidermis only, not the thickness of the skin overall, which includes both epidermis and dermis. thick skin is found only on the soles of the feet and palms of the hand, where the most traction is applied; thin skin is everywhere else. thick skin is hairless skin that contains merocrine sweat glands 5 </slidetext>
+      <slidetext slideid="5yTCeHKdLRE.6rLSqZ02ZVs" slidebank="false" type="slide">next previous h6   layers of the epidermis 6 epidermis consists of multiple layers. in thick skin, there are 5 layers; in thin skin, there are only 4 layers.  in thick skin, there is an extra transitional layer between stratum corneum and stratum granulosum, named stratum lucidum     . it is a thin, translucent layer of dead keratinocytes visible under microscope in thick skin     .   </slidetext>
+      <slidetext slideid="5yTCeHKdLRE.6Ys2O5ecH7d" slidebank="false" type="slide">epidermal turnover may be as rapid as 1 week due to accelerated keratinocyte cell cycling. this leads to thickening of the epidermal layers, and accelerated rates of keratinization and desquamation     . chronic inflammation may result in redness, itching, scaling and a defective skin barrier. warts are benign epidermal growths caused by papilloma viral infection of the keratinocytes next previous h6   cells of the epidermis: keratinocytes overview:  keratinocytes are the predominant cell type, found throughout the epidermis. they arise through mitoses in s. basale. keratinocytes differentiate, mature and undergo keratinization as they migrate superficially through the s. spinosum and s. granulosum. ultimately, they shed from the s. corneum at the skin surface.  the rate of cell production in s. basale should balance the rate of cell loss from s. corneum, thus maintaining skin thickness. the turnover process takes ~4-6 weeks, depending on age, body region, etc. in psoriasis, info on the left, and starting with the deepest layer, the stratum basale, click to learn how keratinocytes differentiate and mature, ultimately undergoing keratinization, before being shed at the skin surface. 7 </slidetext>
+      <slidetext slideid="5yTCeHKdLRE.60bMgUW8wdz" slidebank="false" type="slide">next previous h6   cells of the epidermis: merkel cells merkel cells are mechanosensitive touch receptors in s. basale. the basal surface of merkel cell is associated with expanded ending of an afferent nerve fibre which crosses the bm.  intracellular vesicles contain neuroactive chemicals which release with mechanical deformation of the cell membrane, as with touch. the chemicals stimulate afferent sensory nerve endings, report touch to spinal cord (arrow). merkel cells are particularly abundant in regions with acute touch sensation, such as the fingertips 8 </slidetext>
+      <slidetext slideid="5yTCeHKdLRE.6eXBjYQxzRk" slidebank="false" type="slide">next previous h6   cells of the epidermis: langerhans cells langerhans cells(l) are found in s. spinosum (ss). they are antigen presenting cells (apcs) derived from monocyte-macrophage lineage. precursor cells enter the epidermis from the bloodstream, where they differentiate into langerhans cells.  langerhan cells reside in epidermis of keratinized skin, mucous membranes and superficial regional lymph nodes.  apcs: phagocytose, process antigen that enters the body through the skin and present epitopes on their cell surface; they migrate to regional nodes and present antigen to lymphocytes to initiate an immune response 9 </slidetext>
+      <slidetext slideid="5yTCeHKdLRE.5xAKOHfu5ig" slidebank="false" type="slide">next previous h6   cells of the epidermis: melanocytes melanocytes are found in s. basale, their cell processes extend into s. spinosum. melanin, produced from tyrosine, in membrane-bound “melanosomes”     are transported to the tips of the melanocyte cell processes. melanosomes transferred to adjacent keratinocytes by “pigment donation”, a process in which keratinocytes phagocytose the tips of the melanocyte cell processes, which contain melanosomes. melanin takes up a supranuclear position; pigment shields nuclei of keratinocytes from uv radiation. pigment degraded over time by lysosomes of keratinocytes. ratio of melanocytes to keratinocytes in the s. basale varies depending on body region; larger proportion in those regions exposed to sun     . malignant melanoma info a rarer, but particularly aggressive form of skin cancer invades underlying dermis,spreads by lymph and blood 10 </slidetext>
+      <slidetext slideid="5yTCeHKdLRE.6rBb0kc4u6t" slidebank="false" type="slide">next previous h6   factors affecting skin colour melanocyte activity ratio of melanocytes:keratinocytes is consistent between races; melanocyte activity is not. more direct sunlight at equatorial latitudes caused adaptive changes that resulted in the evolution of darker-skinned people with greater protection from uv radiation; less direct sunlight at northern latitudes caused adaptive changes that resulted in the evolution of fairer-skinned people, who could sustain vitamin d3 synthesis with less uv radiation. example of adaptive changes: genetically-determined forms of melanin: a red-yellow form called pheomelanin, and a brown-black form called eumelanin; implications for hair colour is most obvious, but this influences skin colour too rate of melanin production is higher in darker-skinned peoples, resulting in coarser melanin granules in keratinocytes rate of lysosomal degradation of melanin in keratinocytes is slower in darker-skinned peoples, resulting in more persistent melanin granules, which are then found in more superficial layers of the epidermis skin colour and aging melanocyte population decreases with age, resulting in paler skin and greying hair. paler skin results in decreased protection from uv radiation and increased sun protection is advised. tanning info uv radiation increases melanin production, resulting in tanning, which protects keratinocytes, although by the time melanin production increases, damage may have already occurred.  vitiligo info results from autoimmune destruction of melanocytes in symmetrical patches, often in the hands and face. particular care must be taken wrt protection of “patches” from uv radiation.  11 </slidetext>
+      <slidetext slideid="5yTCeHKdLRE.6Vgn672wIIm" slidebank="false" type="slide">next previous h6   the dermal-epidermal interface epidermal ridges dermal papillae dermal ridges, only present in thick skin, are more gross folds of the dermal-epidermal interface that create “friction ridges” on hands and feet; this is the basis of dermatoglyphs or fingerprints  ↑ surface area (sa) between epidermis &amp; dermis; more pronounced in body regions that experience greater mechanical stress the greater the surface area of the dermal-epidermal interface, the greater the: number of hemidesmosomes, and therefore adhesion between the epidermis and the underlying basement membrane, keeping our epidermis more tightly bound down in regions exposed to more friction gas, nutrient and metabolite exchange between the avascular epidermis and the richly vascularized dermis;  population of dividing cells in the germinal layer, and therefore the number of keratinocytes being produced and entering more superficial layers all of these factors are particularly important in thick skin, which has the greatest dermal-epidermal sa. 12 </slidetext>
+      <slidetext slideid="5yTCeHKdLRE.5v60bbHKm9Q" slidebank="false" type="slide">next previous h6   the dermis: structure papillary layer  consists of loose ct, rich in collagen type i, delicate collagen type iii (reticular fibres) and fine elastic fibres. it is richly vascularized for nourishment of the overlying epidermis. numerous cell types can be found in this layer. reticular layer  this layer is thicker and less cellular than the papillary layer. it consists of dense irregular ct dominated by: coarser bundles of collagen type i which provides tensile strength elastic fibres     , which impart resiliency, or the ability to stretch and bounce back fibre bundles aligned along regular tension lines in the skin, “langer’s lines”     . 13 </slidetext>
+      <slidetext slideid="5yTCeHKdLRE.66z3zM0zbJw" slidebank="false" type="slide">next previous h6   the dermis: blood supply subcutaneous plexus in the hypodermis, the site of “hypodermic” or “subcutaneous” injections; feeds into the: cutaneous plexus at the dermal-subcutaneous jxn, which supplies the reticular layer and feeds into the: subpapillary plexus at the papillary-reticular layer jxn, which feeds into:  capillary loops in the dermal papillae, which serve the dermal-epidermal interface av anatomoses in the cutaneous plexus (b) controls blood flow into the subpapillary plexus, and thereby controls heat loss across the body surface 14 </slidetext>
+      <slidetext slideid="5yTCeHKdLRE.5def0wKY8gn" slidebank="false" type="slide">next previous h6   hair hairs are keratinized filaments produced by follicles. they are distributed everywhere, except palms of hands and soles of feet (thick skin), the lips, and around the openings of the urogenital system. follicles include both epithelial and ct components; are associated with sebaceous glands and smooth muscle structures, the arrector pili.  sebaceous glands produce sebum, which lubricates hair and skin; usually open into a hair follicle. arrector pili muscle contraction 1) fxns in thermoregulation: it causes hair to stand on end, as occurs when one is cold, thereby trapping  warm air closer to the body; 2) compresses the sebaceous gland, and thereby promotes the secretion of sebum follicular bulge: a niche of epidermal stem cells at the level of arrector pili attachment that normally sustains the growth of hair and sebaceous glands hair bulb is the expanded base of the follicle; contains the germinative cells, the hair matrix, which gives rise to the hair and its inner covering melanocytes within matrix supply keratinocytes with melanin; type and density determines hair colour dermal papilla: a highly vascularized peg of loose ct that nourishes the avascular matrix  15 </slidetext>
+      <slidetext slideid="5yTCeHKdLRE.60fvo5yV44v" slidebank="false" type="slide">next previous h6   types of hair vellus hairs are the fine, pale hair distributed over most of the body terminal hairs are the coarse, dark hair that has a more restricted distribution the follicles that produce these different hair types are proportional in size to the hairs they produce.  vellus hair follicles can be converted to terminal hair follicles, and vice versa, in an androgen     -dependent manner children of both sexes have androgen-independent terminal hair follicles on their heads and in the form of eye lashes and eye brows; they have vellus hairs elsewhere. some vellus hair follicles respond to elevated androgen levels at puberty by converting to terminal hair follicles; this occurs: in the axillae     and pubic area of both sexes on the faces of males people with androgenetic alopecia (male-patterned baldness) are genetically predisposed to the conversion of terminal follicles on the head to vellus follicles in a well-characterized pattern. vellus follicle vellus follicle terminal follicle i) beard development at puberty ii) non-balding scalp (androgen-independent) iii) balding scalp (androgen-dependent) 16 </slidetext>
+      <slidetext slideid="5yTCeHKdLRE.6buiBCX2QgK" slidebank="false" type="slide">next previous h6   hair growth a cyclical process consisting of three phases: anagen: active growth at a rate of ~0.33 mm/day catagen: involution / regression of both the hair and the follicle toward the skin surface telogen: inactive, resting phase; hair is shed duration of these phases varies in different regions of the body. length of anagen determines the uncut length of hair, i.e anagen is longest (~3 years) in the scalp. the hair growth cycle is affected by diet, drugs, radiation, pregnancy, age and hormones. 17 </slidetext>
+      <slidetext slideid="5yTCeHKdLRE.6WKUXra9lA5" slidebank="false" type="slide">next previous h6   glands of the skin: sebaceous glands as mentioned earlier with hair, sebaceous glands are distributed over most of the body, except in the thick skin of the palms of the hands and soles of the feet. the duct usually opens into the upper part of a hair follicle.  a hair follicle with its sebaceous gland and arrector pili muscle is called a pilosebaceous unit. hair follicles, and therefore sebaceous glands, are particularly dense in the face and scalp.  sebaceous ducts open directly at the skin surface in certain hairless regions, inc. the glans penis, clitoris, eyelids and nipples acne vulgaris info chronic inflammation of the pilosebaceous unit, commonly occur during adolescence in response to hormone changes at puberty. accelerated keratinization in the follicle combined with hypersecretion of the sebaceous gland causes accumulation of sebum within a blocked follicle. anaerobic bacteria flourish, causing a localized inflammatory response. this condition can be treated with systemic antibiotics and topical steroids. 18 </slidetext>
+      <slidetext slideid="5yTCeHKdLRE.6ZKqqjqDjqV" slidebank="false" type="slide">next previous h6   glands of the skin: sweat glands there are two types of sweat gland: apocrine     and eccrine (merocrine), each with distinct distributions, secretions and functions.  each consists of a secretory and a duct portion both secrete by exocytosis, hence “apocrine” is a misnomer myoepithelial cells are associated with the secretory portions of both. they located between the secretory cells and the bm, surrounding the secretory acini     and contract with sympathetic input, hormones, thus increasing glandular secretion.  19 </slidetext>
+      <slidetext slideid="5yTCeHKdLRE.6VVxdDuefqD" slidebank="false" type="slide">next previous h6   the mammary glands modified apocrine sweat glands; bilaterally-paired in humans. they develop along milk lines     ;supranumerary nipples may persist anywhere along these lines. the parenchyma     of the gland is derived from epithelia and is supported by the surrounding ct stroma     . each gland consists of 15-25 lobes, served by a lactiferous duct system that forms expanded lactiferous sinuses before opening independently at the nipple . nipple, areola     , lactiferous sinuses and rudimentary duct systems are present in both sexes until puberty. at puberty, in females: nipples, areolae enlarge; sebaceous follicles in the areolae also enlarge, forming montgomery’s tubercles. adipose accumulates in the pectoral region and the lactiferous duct systems expand. duct systems are surrounded by loose ct; dense ct septa (cooper’s ligaments) develop between the duct systems. cooper’s ligaments extend from the dermis to the dense fascia overlying the pectoralis major and support the weight of the breast.  each lobe consists of numerous separate lobules, connected to the lactiferous duct system by an extralobular terminal duct. 20 </slidetext>
+      <slidetext slideid="5yTCeHKdLRE.5z5nCXACki9" slidebank="false" type="slide">next previous h6   the terminal duct lobar unit a lobule and its extralobular terminal duct is called a terminal duct lobular unit (tdlu). within the lobule, intralobular terminal ducts open into dead-ended terminal ductules in a nonpregnant, non-lactating female, terminal ductules are rudimentary; they develop into functional secretory acini during pregnancy and lactation.  the loose ct lobular stroma becomes edematous in the premenstrual period, causing slight breast enlargement at this time.  myoepithelial cells and smooth muscle fibres encircle the lactiferous ducts and sinuses, and contract to expel milk in the lactating female.  carcinoma of the breast info the various epithelial components of the mammary glands may undergo cancerous change: lobar carcinomas arise from the terminal ductules ductal carcinomas arise from the terminal ducts, either intralobular or extralobular since men are also equipped with rudimentary mammary glands, they, too, can develop breast cancer, although their rate of diagnosis is lower. 21 </slidetext>
+      <slidetext slideid="5yTCeHKdLRE.6bFpjLKORjE" slidebank="false" type="slide">next previous h6   summary this module has presented the: functions of skin tissue components of skin differences between thin and thick skin and its distribution characteristics of the epidermal layers cell types found in the epidermis and their functional roles. components of the dermis structure and distribution of a follicles, sebaceous glands and sweat glands structure of the breast in both males and females 22 </slidetext>
+      <slidetext slideid="5yTCeHKdLRE.5tZqEjCHjfR" slidebank="false" type="slide">next previous h6   quiz skip 23 press or swipe next to start the quiz or skip to end h6. welcome to the quiz for h6!  review h6  skin &amp; breast  review h6  skin &amp; breast  review h6  skin &amp; breast  review h6  skin &amp; breast  review h6  skin &amp; breast  </slidetext>
+      <slidetext slideid="5yTCeHKdLRE.6KHLfghICQd" slidebank="false" type="slide">papillary layer of the dermis papillary layer of the dermis papillary layer of the dermis papillary layer of the dermis papillary layer of the dermis papillary layer of the dermis hypodermis hypodermis hypodermis hypodermis hypodermis hypodermis epidermis epidermis epidermis epidermis epidermis epidermis reticular layer of the dermis reticular layer of the dermis reticular layer of the dermis reticular layer of the dermis reticular layer of the dermis reticular layer of the dermis 1. anatomically, 'thick skin" and "thin skin" refer to differences in the thickness of the: submit h6   quiz </slidetext>
+      <slidetext slideid="5yTCeHKdLRE.5uTQPnfHXE7" slidebank="false" type="slide">they are distributed over most of the body surface they are distributed over most of the body surface they are distributed over most of the body surface they are distributed over most of the body surface they are distributed over most of the body surface they are distributed over most of the body surface the products of sebaceous glands function in thermoregulation the products of sebaceous glands function in thermoregulation the products of sebaceous glands function in thermoregulation the products of sebaceous glands function in thermoregulation the products of sebaceous glands function in thermoregulation the products of sebaceous glands function in thermoregulation they may become blocked, resulting in acne. they may become blocked, resulting in acne. they may become blocked, resulting in acne. they may become blocked, resulting in acne. they may become blocked, resulting in acne. they may become blocked, resulting in acne. their secretory activity increases under hormonal influence at puberty their secretory activity increases under hormonal influence at puberty their secretory activity increases under hormonal influence at puberty their secretory activity increases under hormonal influence at puberty their secretory activity increases under hormonal influence at puberty their secretory activity increases under hormonal influence at puberty they are numerous in thick skin they are numerous in thick skin they are numerous in thick skin they are numerous in thick skin they are numerous in thick skin they are numerous in thick skin 2. from the options listed below, choose the correct statement(s) regarding sebaceous glands. submit h6   quiz </slidetext>
+      <slidetext slideid="5yTCeHKdLRE.5miD4IfyBi4" slidebank="false" type="slide">3. from deep to superficial, order the following structures.  reticular layer of dermis papillary layer of dermis stratum basale stratum spinosum stratum granulosum stratum corneum h6   quiz submit </slidetext>
+      <slidetext slideid="5yTCeHKdLRE.6Yl2BlYXkcx" slidebank="false" type="slide">lobes of mammary glands are subdivided into lobules. lobes of mammary glands are subdivided into lobules. lobes of mammary glands are subdivided into lobules. lobes of mammary glands are subdivided into lobules. lobes of mammary glands are subdivided into lobules. lobes of mammary glands are subdivided into lobules. intralobular terminal ducts connect lobules to the lactiferous duct system. intralobular terminal ducts connect lobules to the lactiferous duct system. intralobular terminal ducts connect lobules to the lactiferous duct system. intralobular terminal ducts connect lobules to the lactiferous duct system. intralobular terminal ducts connect lobules to the lactiferous duct system. intralobular terminal ducts connect lobules to the lactiferous duct system. a single lactiferous duct drains each lobe. a single lactiferous duct drains each lobe. a single lactiferous duct drains each lobe. a single lactiferous duct drains each lobe. a single lactiferous duct drains each lobe. a single lactiferous duct drains each lobe. lactiferous sinuses are expansions of the lactiferous ducts deep to the areola. lactiferous sinuses are expansions of the lactiferous ducts deep to the areola. lactiferous sinuses are expansions of the lactiferous ducts deep to the areola. lactiferous sinuses are expansions of the lactiferous ducts deep to the areola. lactiferous sinuses are expansions of the lactiferous ducts deep to the areola. lactiferous sinuses are expansions of the lactiferous ducts deep to the areola. each mammary gland drains via a single opening at the nipple. each mammary gland drains via a single opening at the nipple. each mammary gland drains via a single opening at the nipple. each mammary gland drains via a single opening at the nipple. each mammary gland drains via a single opening at the nipple. each mammary gland drains via a single opening at the nipple. the suspensory ligaments (”cooper’s ligaments”) are dense connective tissue structures that support the weight of the breast. the suspensory ligaments (”cooper’s ligaments”) are dense connective tissue structures that support the weight of the breast. the suspensory ligaments (”cooper’s ligaments”) are dense connective tissue structures that support the weight of the breast. the suspensory ligaments (”cooper’s ligaments”) are dense connective tissue structures that support the weight of the breast. the suspensory ligaments (”cooper’s ligaments”) are dense connective tissue structures that support the weight of the breast. the suspensory ligaments (”cooper’s ligaments”) are dense connective tissue structures that support the weight of the breast. before puberty, mammary glands are structurally similar in boys and girls. before puberty, mammary glands are structurally similar in boys and girls. before puberty, mammary glands are structurally similar in boys and girls. before puberty, mammary glands are structurally similar in boys and girls. before puberty, mammary glands are structurally similar in boys and girls. before puberty, mammary glands are structurally similar in boys and girls. 4. from the options listed below, choose the correct statement(s) regarding the mammary glands. submit h6   quiz </slidetext>
+      <slidetext slideid="5yTCeHKdLRE.5ZmhGqO7jAe" slidebank="false" type="slide">5. identify the layer of skin indicated by the letter a.  submit h6   quiz </slidetext>
+      <slidetext slideid="5yTCeHKdLRE.5mLLpt5TgIw" slidebank="false" type="slide">6. identify the layer of skin indicated by the letter b.  submit h6   quiz </slidetext>
+      <slidetext slideid="5yTCeHKdLRE.5oynmuIdE3E" slidebank="false" type="slide">submit stratum spinosum stratum spinosum stratum spinosum stratum spinosum stratum spinosum stratum spinosum 7. identify the layer indicated by the letter a. be specific. stratum basale stratum basale stratum basale stratum basale stratum basale stratum basale stratum corneum stratum corneum stratum corneum stratum corneum stratum corneum stratum corneum dermis dermis dermis dermis dermis dermis stratum lucidum stratum lucidum stratum lucidum stratum lucidum stratum lucidum stratum lucidum stratum granulosum stratum granulosum stratum granulosum stratum granulosum stratum granulosum stratum granulosum h6   quiz </slidetext>
+      <slidetext slideid="5yTCeHKdLRE.5oaWrBYycAy" slidebank="false" type="slide">submit 8. identify the layer indicated by the letter a. be specific. stratum granulosum stratum granulosum stratum granulosum stratum granulosum stratum granulosum stratum granulosum stratum lucidum stratum lucidum stratum lucidum stratum lucidum stratum lucidum stratum lucidum stratum basale stratum basale stratum basale stratum basale stratum basale stratum basale stratum corneum stratum corneum stratum corneum stratum corneum stratum corneum stratum corneum dermis dermis dermis dermis dermis dermis h6   quiz </slidetext>
+      <slidetext slideid="5yTCeHKdLRE.5aVznH5Zpgt" slidebank="false" type="slide">submit 9. identify the layer indicated by the letter a. be specific. stratum basale stratum basale stratum basale stratum basale stratum basale stratum basale stratum granulosum stratum granulosum stratum granulosum stratum granulosum stratum granulosum stratum granulosum stratum corneum stratum corneum stratum corneum stratum corneum stratum corneum stratum corneum stratum lucidum stratum lucidum stratum lucidum stratum lucidum stratum lucidum stratum lucidum dermis dermis dermis dermis dermis dermis h6   quiz </slidetext>
+      <slidetext slideid="5yTCeHKdLRE.6iNMP53rhPV" slidebank="false" type="slide">submit identify the layer indicated by the letter a. be specific. stratum basale stratum basale stratum basale stratum basale stratum basale stratum basale stratum granulosum stratum granulosum stratum granulosum stratum granulosum stratum granulosum stratum granulosum stratum spinosum stratum spinosum stratum spinosum stratum spinosum stratum spinosum stratum spinosum stratum lucidum stratum lucidum stratum lucidum stratum lucidum stratum lucidum stratum lucidum dermis dermis dermis dermis dermis dermis h6   quiz </slidetext>
+      <slidetext slideid="5yTCeHKdLRE.6osuPGafX1I" slidebank="false" type="slide">11. this structure (a) invaginates into the underlying tissue. what is it called? submit h6   quiz </slidetext>
+      <slidetext slideid="5yTCeHKdLRE.64VRgu7OW7N" slidebank="false" type="slide">submit 12. identify a. be specific. stratum basale stratum basale stratum basale stratum basale stratum basale stratum basale reticular layer of dermis reticular layer of dermis reticular layer of dermis reticular layer of dermis reticular layer of dermis reticular layer of dermis elastic layer of dermis elastic layer of dermis elastic layer of dermis elastic layer of dermis elastic layer of dermis elastic layer of dermis papillary layer of dermis papillary layer of dermis papillary layer of dermis papillary layer of dermis papillary layer of dermis papillary layer of dermis h6   quiz </slidetext>
+      <slidetext slideid="5yTCeHKdLRE.6jaMRPCOc57" slidebank="false" type="slide">submit 13. identify a. be specific. stratum basale stratum basale stratum basale stratum basale stratum basale stratum basale reticular layer of dermis reticular layer of dermis reticular layer of dermis reticular layer of dermis reticular layer of dermis reticular layer of dermis elastic layer of dermis elastic layer of dermis elastic layer of dermis elastic layer of dermis elastic layer of dermis elastic layer of dermis papillary layer of dermis papillary layer of dermis papillary layer of dermis papillary layer of dermis papillary layer of dermis papillary layer of dermis h6   quiz </slidetext>
+      <slidetext slideid="5yTCeHKdLRE.5Xx1E0Xgt5D" slidebank="false" type="slide">submit 14. identify a. be specific. apocrine glands apocrine glands apocrine glands apocrine glands apocrine glands apocrine glands eccrine glands eccrine glands eccrine glands eccrine glands eccrine glands eccrine glands sebaceous glands sebaceous glands sebaceous glands sebaceous glands sebaceous glands sebaceous glands merocrine glands merocrine glands merocrine glands merocrine glands merocrine glands merocrine glands h6   quiz </slidetext>
+      <slidetext slideid="5yTCeHKdLRE.6WIQjBrZr4t" slidebank="false" type="slide">submit 15. identify b. be specific. eccrine glands eccrine glands eccrine glands eccrine glands eccrine glands eccrine glands hair bulb hair bulb hair bulb hair bulb hair bulb hair bulb sebaceous glands sebaceous glands sebaceous glands sebaceous glands sebaceous glands sebaceous glands arrector pili muscle arrector pili muscle arrector pili muscle arrector pili muscle arrector pili muscle arrector pili muscle h6   quiz </slidetext>
+      <slidetext slideid="5yTCeHKdLRE.5xav5gTHy8s" slidebank="false" type="slide">submit 16. identify a. be specific. hair shaft hair shaft hair shaft hair shaft hair shaft hair shaft follicular bulge follicular bulge follicular bulge follicular bulge follicular bulge follicular bulge dermal papilla dermal papilla dermal papilla dermal papilla dermal papilla dermal papilla sebaceous glands sebaceous glands sebaceous glands sebaceous glands sebaceous glands sebaceous glands h6   quiz </slidetext>
+      <slidetext slideid="5yTCeHKdLRE.5tbbpGAiel2" slidebank="false" type="slide">congratulations on finishing h6 skin and breast! review h6 review h6 review h6 previous h6   end of h6 </slidetext>
+      <slidetext slideid="6SpHYr8KLgU.5ehnvux3cMR" slidebank="false" type="slide">acknowledgements previous author and emodule development: barbara ballyk, ph.d. associate professor, teaching stream division of anatomy, department of surgery faculty of medicine, university of toronto © 2019 emodule production: kristy cheung, b.sc.h., m.sc. candidate, clinical anatomy, western university gianluca sampieri, m.sc.md candidate class of 2021faculty of medicine, university of toronto albert gheorghita, m.sc.md candidate class of 2020faculty of medicine, university of toronto julian manzone, m.sc. md candidate class of 2019 faculty of medicine, university of toronto </slidetext>
+    </search>
+  </nav_data>
+  <resource_data description="" />
+  <transcript_data />
+  <glossary_data />
+</bwFrame>

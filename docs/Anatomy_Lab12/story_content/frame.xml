@@ -1,0 +1,1478 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="npnxnanbnsnfns01001000011" textdirection="ltr" device="false" fontscale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="classic">
+  <layouts>
+    <layout name="npnxnanbsnfns01001000011" font="Calibri" controllayout="npnxnanbsnfns01001000011" colorscheme="npnxnanbnsnfns01001000011" string_table="npnxnanbnsnfns01001000011" />
+    <layout name="pxabnsnfns01001000011" font="Calibri" controllayout="pxabnsnfns01001000011" colorscheme="npnxnanbnsnfns01001000011" string_table="npnxnanbnsnfns01001000011" />
+    <layout name="npxnabnsnfns01001000011" font="Calibri" controllayout="npxnabnsnfns01001000011" colorscheme="npnxnanbnsnfns01001000011" string_table="npnxnanbnsnfns01001000011" />
+    <layout name="npnxnanbnsnfns01001000011" font="Calibri" controllayout="npnxnanbnsnfns01001000011" colorscheme="npnxnanbnsnfns01001000011" string_table="npnxnanbnsnfns01001000011" />
+    <layout name="pxabnsnfns01001000010" font="Calibri" controllayout="pxabnsnfns01001000010" colorscheme="npnxnanbnsnfns01001000011" string_table="npnxnanbnsnfns01001000011" />
+    <layout name="npnxabnsnfns01001000011" font="Calibri" controllayout="npnxabnsnfns01001000011" colorscheme="npnxnanbnsnfns01001000011" string_table="npnxnanbnsnfns01001000011" />
+    <layout name="npnxanbnsnfns01001000011" font="Calibri" controllayout="npnxanbnsnfns01001000011" colorscheme="npnxnanbnsnfns01001000011" string_table="npnxnanbnsnfns01001000011" />
+    <layout name="npnxnabnsnfns01001000011" font="Calibri" controllayout="npnxnabnsnfns01001000011" colorscheme="npnxnanbnsnfns01001000011" string_table="npnxnanbnsnfns01001000011" />
+  </layouts>
+  <control_options>
+    <optiongroups>
+      <optiongroup name="sidebaroptions">
+        <options>
+          <option name="title_enabled" value="true">
+            <options>
+              <option name="title_text" value="Lab 12 2020" />
+            </options>
+          </option>
+          <option name="logo_enabled" value="true">
+            <options>
+              <option name="logo_url" value="story_content/logo.swf">
+                <properties>
+                  <property name="width" value="1024" />
+                  <property name="height" value="229" />
+                </properties>
+              </option>
+              <option name="html5_logo_url" value="mobile/6cw9tSRCB44.jpg" />
+            </options>
+          </option>
+          <option name="sidebar_enabled" value="true">
+            <options>
+              <option name="sidebarpos" value="left" />
+            </options>
+          </option>
+          <optionlist name="tabs">
+            <listitems>
+              <listitem name="customlink" value="true" group="linkleft">
+                <properties>
+                  <property name="title" value="Acknowledgments" />
+                  <property name="data" value="5toZT0PPlEg" />
+                  <property name="ignoreSlideLock" value="true" />
+                </properties>
+              </listitem>
+              <listitem name="resources" value="false" group="linkright" />
+              <listitem name="outline" value="true" group="sidebar" />
+              <listitem name="glossary" value="false" group="sidebar" />
+              <listitem name="transcript" value="false" group="sidebar" />
+            </listitems>
+          </optionlist>
+          <option name="time_enabled" value="false">
+            <options>
+              <option name="time_format" value="elapsed" />
+            </options>
+          </option>
+          <option name="video_enabled" value="false">
+            <options>
+              <option name="height" value="135" />
+            </options>
+          </option>
+        </options>
+      </optiongroup>
+      <optiongroup name="menuoptions">
+        <options>
+          <option name="flow" value="free" />
+          <option name="wraplistitems" value="false" />
+          <option name="tooltips" value="true" />
+          <option name="autocollapse" value="true" />
+          <option name="autonumber" value="false" />
+          <option name="enableresultsicons" value="true" />
+        </options>
+      </optiongroup>
+      <optiongroup name="controls">
+        <options>
+          <option name="volume" value="false" />
+          <option name="seekbar" value="false">
+            <options>
+              <option name="readonly" value="false" />
+              <option name="readonlyOnce" value="false" />
+            </options>
+          </option>
+          <option name="pauseplay" value="false" />
+          <option name="replay" value="false" />
+          <option name="search" value="true" />
+          <option name="closed_captions" value="false">
+            <options>
+              <option name="font" value="Calibri" />
+            </options>
+          </option>
+        </options>
+      </optiongroup>
+      <optiongroup name="bottombaroptions">
+        <options>
+          <option name="bottombar_enabled" value="true" />
+        </options>
+      </optiongroup>
+    </optiongroups>
+  </control_options>
+  <control_layouts>
+    <control_layout name="npnxnanbsnfns01001000011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="true" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns01001000011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npxnabnsnfns01001000011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npnxnanbnsnfns01001000011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns01001000010">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="false" />
+    </control_layout>
+    <control_layout name="npnxabnsnfns01001000011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npnxanbnsnfns01001000011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npnxnabnsnfns01001000011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+  </control_layouts>
+  <colorschemes>
+    <colorscheme name="npnxnanbnsnfns01001000011">
+      <color_group name="infopanel">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x7C2280" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0000EE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0E2A45" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="title_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x999999" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="infopanelpopup">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6A98C6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x374D64" alpha="100" stop="0" />
+                <color rgb="0x142D46" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0E2A45" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6A98C6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bio_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="timer">
+        <group_colors>
+          <color name="duration">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x00D7FF" alpha="100" stop="0" />
+                <color rgb="0x00ABFF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="elapsed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFEE347" alpha="100" stop="0" />
+                <color rgb="0xFCCC2A" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="stroke">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC7C7C7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="window">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x374D64" alpha="100" stop="0" />
+                <color rgb="0x142D46" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x5776A2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x496484" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x1F3752" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="20" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="editor">
+        <group_colors>
+          <color name="slide_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="html_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0E2A45" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0E2A46" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x4A6C98" alpha="100" stop="0" />
+                <color rgb="0x243C5C" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x294260" alpha="100" stop="0" />
+                <color rgb="0x426288" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x436388" alpha="100" stop="0" />
+                <color rgb="0x294260" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="listitem">
+        <group_colors>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0E2A46" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x5379A5" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="viewed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6CA5DE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x3F5A76" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="lines">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2F465C" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="glossary">
+        <group_colors>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x5379A5" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x3F5A76" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2D4258" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2D4258" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x5479A2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x4D6E9A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="resource">
+        <group_colors>
+          <color name="separator">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2A3C50" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="outline">
+        <group_colors>
+          <color name="search_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6A98C6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x31475E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x5479A2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x31475E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="transcript">
+        <group_colors>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="div">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x283C4E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="tabs">
+        <group_colors>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0E2A45" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6596C9" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6A98C6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x47658B" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="seekcontrol">
+        <group_colors>
+          <color name="btn_icon_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x99B2CC" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2D4765" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_position">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x476A95" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x14304D" alpha="100" stop="0" />
+                <color rgb="0x4C6B96" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0E2A46" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x436388" alpha="100" stop="0" />
+                <color rgb="0x2A4360" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="searchinput">
+        <group_colors>
+          <color name="text_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2D2D2D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2D2D2D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x3C5979" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x294260" alpha="100" stop="0" />
+                <color rgb="0x426288" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icon">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x405E82" alpha="100" stop="0" />
+                <color rgb="0x0E2A45" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="scrollarea">
+        <group_colors>
+          <color name="detailb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0E2A46" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="detaila">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x7698B4" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0E2A46" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icons">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0E2A46" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x587BA1" alpha="100" stop="0" />
+                <color rgb="0x496184" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x486B94" alpha="100" stop="0" />
+                <color rgb="0x3A5579" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x527CAD" alpha="100" stop="0" />
+                <color rgb="0x527CAD" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="0">
+              <colors>
+                <color rgb="0x405E81" alpha="100" stop="0" />
+                <color rgb="0x46678C" alpha="100" stop="128" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="menu">
+        <group_colors>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x1A324A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x47658B" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="logo">
+        <group_colors>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0E2A45" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="checkbox">
+        <group_colors>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6A98C6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="check">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2BC400" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x31475E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="button">
+        <group_colors>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0E2A45" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0E2A46" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x4A6C98" alpha="100" stop="0" />
+                <color rgb="0x243C5C" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x294260" alpha="100" stop="0" />
+                <color rgb="0x426288" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x436388" alpha="100" stop="0" />
+                <color rgb="0x294260" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x253C52" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="base">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x1F3752" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x496484" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="menu_shade">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x34495E" alpha="100" stop="0" />
+                <color rgb="0x142B42" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x47617F" alpha="100" stop="0" />
+                <color rgb="0x47617F" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x374D64" alpha="100" stop="0" />
+                <color rgb="0x142D46" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slide_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x374D64" alpha="100" stop="0" />
+                <color rgb="0x142D46" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="volume">
+        <group_colors>
+          <color name="thumb_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0E2A46" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x57799E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x46678E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x4D74A3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x314B68" alpha="100" stop="0" />
+                <color rgb="0x365374" alpha="100" stop="128" />
+                <color rgb="0x314B68" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="HTML">
+        <group_colors>
+          <color name="htmlpage_bg_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+    </colorscheme>
+  </colorschemes>
+  <string_tables>
+    <string_table name="npnxnanbnsnfns01001000011">
+      <string id="acc_active">active</string>
+      <string id="check_include">Check to include</string>
+      <string id="clear">Clear and return to menu</string>
+      <string id="close">Close</string>
+      <string id="acc_closed_captions">Closed captions. Press the spacebar to toggle captions on and off.</string>
+      <string id="continue">Continue</string>
+      <string id="continueresponsive">Continue</string>
+      <string id="exit">Exit</string>
+      <string id="filter">Filter</string>
+      <string id="finish">FINISH</string>
+      <string id="acc_finish">finish</string>
+      <string id="definition">Definition</string>
+      <string id="acc_definition">definition</string>
+      <string id="glossary">Glossary</string>
+      <string id="terms">Terms</string>
+      <string id="outline">Menu</string>
+      <string id="disabled_orientation">Please rotate your device</string>
+      <string id="next">NEXT</string>
+      <string id="acc_next">next</string>
+      <string id="transcript_chk">Notes</string>
+      <string id="transcript">Notes</string>
+      <string id="bio">Bio</string>
+      <string id="more_info">More info</string>
+      <string id="closed_captions">Captions</string>
+      <string id="acc_pause">pause</string>
+      <string id="acc_play">play</string>
+      <string id="send_an_email">Send an email</string>
+      <string id="prev">PREV</string>
+      <string id="acc_previous">previous</string>
+      <string id="question_list">Question List</string>
+      <string id="acc_replay">replay</string>
+      <string id="resources">Resources</string>
+      <string id="acc_resources">resources</string>
+      <string id="restart">Restart</string>
+      <string id="resume">Resume</string>
+      <string id="search">Search...</string>
+      <string id="acc_search_input">search</string>
+      <string id="search_in">Search in:</string>
+      <string id="search_results">Search Results</string>
+      <string id="acc_skipnavigation">Skip navigation. Press enter to return to the slide.</string>
+      <string id="slide_text_chk">Slide Text</string>
+      <string id="submitall">SUBMIT ALL</string>
+      <string id="acc_submitall">submit all</string>
+      <string id="submit">SUBMIT</string>
+      <string id="acc_submit">submit</string>
+      <string id="acc_volume">volume</string>
+    </string_table>
+  </string_tables>
+  <fonts>
+    <font name="Calibri">
+      <files>
+        <file bold="true" italic="false" />
+        <file bold="false" italic="false" />
+      </files>
+    </font>
+  </fonts>
+  <sounds enabled="true" />
+  <nav_data>
+    <outline>
+      <links>
+        <slidelink slideid="_player.6HTFG359OBF.604AHAGuDGf" displaytext="Start" expand="false" type="slide">
+          <links>
+            <slidelink slideid="_player.6HTFG359OBF.6fg17kTHFuu" displaytext="Using the emodule" expand="false" type="slide" />
+            <slidelink slideid="_player.6HTFG359OBF.6U1m8HYNosj" displaytext="Unit 4 Overview and Instructions" expand="false" type="slide" />
+            <slidelink slideid="_player.6HTFG359OBF.6MccOCtRBtX" displaytext="Unit 4 Summary Lab Schedule" expand="false" type="slide" />
+            <slidelink slideid="_player.6HTFG359OBF.6h8CmklmJS3" displaytext="Exercise Selection" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.5WISrJAmVze" displaytext="12A Pre-Lab SLM" expand="false" type="slide">
+          <links>
+            <slidelink slideid="_player.5WISrJAmVze.6d7lfZjjYVa" displaytext="1. Instructions" expand="false" type="slide" />
+            <slidelink slideid="_player.5WISrJAmVze.5n3SrzxT4p7" displaytext="2. Objectives" expand="false" type="slide" />
+            <slidelink slideid="_player.5WISrJAmVze.5p05R8SciBA" displaytext="3. The Subdivisions of the Digestive Tract and their Blood Supply" expand="false" type="slide" />
+            <slidelink slideid="_player.5WISrJAmVze.5dYviMxP9Ta" displaytext="4. Part 1: The SMA and Midgut" expand="false" type="slide" />
+            <slidelink slideid="_player.5WISrJAmVze.6EgKf4RBmJW" displaytext="5. The Foregut and Hindgut meet at the Duodenum and Pancreas" expand="false" type="slide" />
+            <slidelink slideid="_player.5WISrJAmVze.6Cs3pvPPcer" displaytext="6. The Jejunum and Ileum" expand="false" type="slide" />
+            <slidelink slideid="_player.5WISrJAmVze.6cPSdCLdNLp" displaytext="7. The Large Intestine " expand="false" type="slide" />
+            <slidelink slideid="_player.5WISrJAmVze.5bZtoaqvdmG" displaytext="8. The Cecum and Appendix" expand="false" type="slide" />
+            <slidelink slideid="_player.5WISrJAmVze.6At3eRYiTc3" displaytext="9. An Overview of the SMA " expand="false" type="slide" />
+            <slidelink slideid="_player.5WISrJAmVze.5qpWDvi6YM2" displaytext="10. Jejunal and Ileal Branches " expand="false" type="slide" />
+            <slidelink slideid="_player.5WISrJAmVze.6nKizTVECxc" displaytext="11. Intestinal Branches" expand="false" type="slide" />
+            <slidelink slideid="_player.5WISrJAmVze.5wg2q32fZ6C" displaytext="12. The SMA and SMV" expand="false" type="slide" />
+            <slidelink slideid="_player.5WISrJAmVze.665tQ4zcg2w" displaytext="13. The Superior Mesenteric Vein" expand="false" type="slide" />
+            <slidelink slideid="_player.5WISrJAmVze.5Z5pUZyIq8z" displaytext="14. Part 2 The IMA and Hindgut" expand="false" type="slide" />
+            <slidelink slideid="_player.5WISrJAmVze.6dkal2PQthB" displaytext="15. Exploring the IMA and its Branches" expand="false" type="slide" />
+            <slidelink slideid="_player.5WISrJAmVze.6CoKRCjeKhz" displaytext="16. The Inferior Mesenteric Vein" expand="false" type="slide" />
+            <slidelink slideid="_player.5WISrJAmVze.630NPvJklD5" displaytext="17. Blood Supply and Venous Drainage of the Rectum" expand="false" type="slide" />
+            <slidelink slideid="_player.5WISrJAmVze.5m5BCTUr6St" displaytext="18. The Rectum as an Example of a Portal-Systemic Anastomosis" expand="false" type="slide" />
+            <slidelink slideid="_player.5WISrJAmVze.6GiK5x9eQN2" displaytext="19. Lymphatics of the GI Tract" expand="false" type="slide" />
+            <slidelink slideid="_player.5WISrJAmVze.6eMtGy1xzij" displaytext="20. Part 3 The Pancreatic Bed" expand="false" type="slide" />
+            <slidelink slideid="_player.5WISrJAmVze.61nnH3xkEl2" displaytext="21. Introduction to the Duodenum and Pancreas" expand="false" type="slide" />
+            <slidelink slideid="_player.5WISrJAmVze.5VJesEgAUVv" displaytext="22. Blood Supply and Position" expand="false" type="slide" />
+            <slidelink slideid="_player.5WISrJAmVze.6DOh3X5dTxh" displaytext="23. Subdivisions of the Duodenum and Pancreas" expand="false" type="slide" />
+            <slidelink slideid="_player.5WISrJAmVze.5b5836ul4sm" displaytext="24. Quiz Start" expand="false" type="slide" />
+            <slidelink slideid="_player.5WISrJAmVze.5mxwqxUJY13" displaytext="25. 12A The End" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6J0M6heinrZ" displaytext="12.1 The Midgut, Hindgut and Pancreatic Bed" expand="false" type="slide">
+          <links>
+            <slidelink slideid="_player.6J0M6heinrZ.6o9Qgh6lH3x" displaytext="1. Resources" expand="false" type="slide" />
+            <slidelink slideid="_player.6J0M6heinrZ.5nnjh9POUrv" displaytext="2. Objectives" expand="false" type="slide" />
+            <slidelink slideid="_player.6J0M6heinrZ.6Ne9K62vSh2" displaytext="3. The Subdivisions of the Digestive Tract and their Blood Supply" expand="false" type="slide" />
+            <slidelink slideid="_player.6J0M6heinrZ.6XoMpiRaxR2" displaytext="4. The Superior Mesenteric Artery and Midgut" expand="false" type="slide" />
+            <slidelink slideid="_player.6J0M6heinrZ.5jZLTd2lKSq" displaytext="5. The Jejunum and Ileum" expand="false" type="slide" />
+            <slidelink slideid="_player.6J0M6heinrZ.5VYPFrVpv7O" displaytext="6. The Large Intestine " expand="false" type="slide" />
+            <slidelink slideid="_player.6J0M6heinrZ.617Jw8Ku9kn" displaytext="7. The Cecum and Appendix" expand="false" type="slide" />
+            <slidelink slideid="_player.6J0M6heinrZ.5ZYaUa9GFFi" displaytext="8. An Overview of the SMA " expand="false" type="slide" />
+            <slidelink slideid="_player.6J0M6heinrZ.6izosj3FkOG" displaytext="9. Progress Check 1" expand="false" type="slide" />
+            <slidelink slideid="_player.6J0M6heinrZ.5qIWkViPaKo" displaytext="10. Jejunal and Ileal Branches " expand="false" type="slide" />
+            <slidelink slideid="_player.6J0M6heinrZ.67tuLRxB9We" displaytext="11. The SMA and SMV" expand="false" type="slide" />
+            <slidelink slideid="_player.6J0M6heinrZ.5ybfa8dn64A" displaytext="12. Intestinal Branches" expand="false" type="slide" />
+            <slidelink slideid="_player.6J0M6heinrZ.67uXypZ1q0m" displaytext="13. The Ileocolic Artery" expand="false" type="slide" />
+            <slidelink slideid="_player.6J0M6heinrZ.6dQduBXEHRS" displaytext="14. The Right and Middle Colic Arteries" expand="false" type="slide" />
+            <slidelink slideid="_player.6J0M6heinrZ.6m2pxQeNEUC" displaytext="15. The Superior Mesenteric Vein" expand="false" type="slide" />
+            <slidelink slideid="_player.6J0M6heinrZ.5j6ojwZAlxl" displaytext="16. Progress Check 2" expand="false" type="slide" />
+            <slidelink slideid="_player.6J0M6heinrZ.5oIEWaMlJyd" displaytext="17. The Inferior Mesenteric Artery and Midgut" expand="false" type="slide" />
+            <slidelink slideid="_player.6J0M6heinrZ.5V1JGDkXdxq" displaytext="18. Exposing the IMA and its Branches" expand="false" type="slide" />
+            <slidelink slideid="_player.6J0M6heinrZ.6KgQwUF3bRW" displaytext="19. Exploring the IMA and its Branches" expand="false" type="slide" />
+            <slidelink slideid="_player.6J0M6heinrZ.6RKYtkjVwzU" displaytext="20. The Inferior Mesenteric Vein" expand="false" type="slide" />
+            <slidelink slideid="_player.6J0M6heinrZ.6Wt5tIpewmK" displaytext="21. Progress Check 3" expand="false" type="slide" />
+            <slidelink slideid="_player.6J0M6heinrZ.6kKDKvRnJsS" displaytext="22. Outline of the Dissection" expand="false" type="slide" />
+            <slidelink slideid="_player.6J0M6heinrZ.614rMMPYGwt" displaytext="23. Gross Features of the Duodenum II" expand="false" type="slide" />
+            <slidelink slideid="_player.6J0M6heinrZ.5Vu4Wyfl0l0" displaytext="24. Gross Features of the Pancreas" expand="false" type="slide" />
+            <slidelink slideid="_player.6J0M6heinrZ.5zv3l2YwFwr" displaytext="25. The Common Bile Duct " expand="false" type="slide" />
+            <slidelink slideid="_player.6J0M6heinrZ.6KeJ8NYoaJK" displaytext="26. The Hepatopancreatic Ampulla" expand="false" type="slide" />
+            <slidelink slideid="_player.6J0M6heinrZ.5hW0uiYgjBs" displaytext="27. The Blood Supply to the Duodenum and Pancreas" expand="false" type="slide" />
+            <slidelink slideid="_player.6J0M6heinrZ.6PWVS1ntOzK" displaytext="28. Venous Drainage of the Pancreas" expand="false" type="slide" />
+            <slidelink slideid="_player.6J0M6heinrZ.6orZYaaLFvT" displaytext="29. Dissecting the Portal Vein" expand="false" type="slide" />
+            <slidelink slideid="_player.6J0M6heinrZ.61VkzLJBAKx" displaytext="30. Progress Check 4" expand="false" type="slide" />
+            <slidelink slideid="_player.6J0M6heinrZ.6HA0muXATBV" displaytext="31. Quiz Start" expand="false" type="slide" />
+            <slidelink slideid="_player.6J0M6heinrZ.5pUk9ejTXNL" displaytext="32. 12.1 The End" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="" displaytext="Unit 4 Field Trips" expand="true" type="slide" />
+        <slidelink slideid="_player.671LrJ5gmDX" displaytext="Quizlandia 12" expand="false" type="slide">
+          <links>
+            <slidelink slideid="_player.671LrJ5gmDX.6fuPPXj5rHM" displaytext="Quiz Selection" expand="false" type="slide" />
+            <slidelink slideid="_player.671LrJ5gmDX.5dZ4dkKyvyi" displaytext="12A Quiz" expand="false" type="slide">
+              <links>
+                <slidelink slideid="_player.671LrJ5gmDX.5loSG6GGhsT" displaytext="Question 1" expand="false" type="slide" />
+                <slidelink slideid="_player.671LrJ5gmDX.6kQ7o3nFTOn" displaytext="Question 2" expand="false" type="slide" />
+                <slidelink slideid="_player.671LrJ5gmDX.5yNjzNNShrP" displaytext="Question 3" expand="false" type="slide" />
+                <slidelink slideid="_player.671LrJ5gmDX.6dwzZPzpf4H" displaytext="Question 4" expand="false" type="slide" />
+                <slidelink slideid="_player.671LrJ5gmDX.5YoLxoEBTI2" displaytext="Question 5" expand="false" type="slide" />
+                <slidelink slideid="_player.671LrJ5gmDX.6HVPEJoJz3X" displaytext="Question 6" expand="false" type="slide" />
+                <slidelink slideid="_player.671LrJ5gmDX.5vstkkrvD14" displaytext="Question 7" expand="false" type="slide" />
+                <slidelink slideid="_player.671LrJ5gmDX.5j3mezMXB2u" displaytext="Question 8" expand="false" type="slide" />
+                <slidelink slideid="_player.671LrJ5gmDX.5rUxIMjP9Ym" displaytext="Question 9" expand="false" type="slide" />
+                <slidelink slideid="_player.671LrJ5gmDX.6R0PRRHc1J8" displaytext="Question 10" expand="false" type="slide" />
+                <slidelink slideid="_player.671LrJ5gmDX.6oXCs9WetG3" displaytext="Question 11" expand="false" type="slide" />
+                <slidelink slideid="_player.671LrJ5gmDX.69jQyrrTdTJ" displaytext="Question 12" expand="false" type="slide" />
+              </links>
+            </slidelink>
+            <slidelink slideid="_player.671LrJ5gmDX.5tdTKRtupqm" displaytext="12.1 Quiz" expand="false" type="slide">
+              <links>
+                <slidelink slideid="_player.671LrJ5gmDX.6pkkCvGCb6H" displaytext="Question 1" expand="false" type="slide" />
+                <slidelink slideid="_player.671LrJ5gmDX.5VJ5WD2SmTd" displaytext="Question 2" expand="false" type="slide" />
+                <slidelink slideid="_player.671LrJ5gmDX.5avdIrTZUz8" displaytext="Question 3" expand="false" type="slide" />
+                <slidelink slideid="_player.671LrJ5gmDX.5sXf1GWw774" displaytext="Question 4" expand="false" type="slide" />
+                <slidelink slideid="_player.671LrJ5gmDX.6EnM80MiTVR" displaytext="Question 5" expand="false" type="slide" />
+                <slidelink slideid="_player.671LrJ5gmDX.5obXSIW69L6" displaytext="Question 6" expand="false" type="slide" />
+                <slidelink slideid="_player.671LrJ5gmDX.5aivHyWCQjf" displaytext="Question 7" expand="true" type="slide" />
+                <slidelink slideid="_player.671LrJ5gmDX.6HvS81dJYLc" displaytext="Question 8" expand="false" type="slide" />
+                <slidelink slideid="_player.671LrJ5gmDX.6RqJzZbsot6" displaytext="Question 9" expand="false" type="slide" />
+                <slidelink slideid="_player.671LrJ5gmDX.6OtpnlFmVfB" displaytext="Question 10" expand="false" type="slide" />
+                <slidelink slideid="_player.671LrJ5gmDX.6VGgNOWOl6O" displaytext="Question 11" expand="false" type="slide" />
+                <slidelink slideid="_player.671LrJ5gmDX.5thrilzTYbq" displaytext="Question 12" expand="false" type="slide" />
+              </links>
+            </slidelink>
+          </links>
+        </slidelink>
+      </links>
+    </outline>
+    <search>
+      <slidetext slideid="6HTFG359OBF.604AHAGuDGf" slidebank="false" type="slide">     click to enter click to enter click to enter   anatomy  unit 4: abdomen, pelvis &amp; perineum lab 12</slidetext>
+      <slidetext slideid="6HTFG359OBF.6eRgsFpcCb7" slidebank="false" type="slide">  unless otherwise noted, all figures in this emodule are from gray’s anatomy for students, 3e, by drake   , vogl and mitchell, © 2015 by elsevier. this is a recommended resource.    click to begin click to begin click to begin  emodule tutorial emodule tutorial emodule tutorial no, not that drake. even his talents have limits.   anatomy lab 12 </slidetext>
+      <slidetext slideid="6HTFG359OBF.6fg17kTHFuu" slidebank="false" type="slide"> to complete each section, use the next button at the bottom of the pages, swipe next or press the right arrow key to move forward one page at a time.  use the menu, available by clicking “menu” at the top, to navigate to specific slides. use search to quickly find instances of relevant terms. use the previous button at the bottom of the pages, swipe previous or press the left arrow key to move back one page at a time.   previous next using the emodule  menu 12a pre-lab slm 12.1 exercise 1 12.2 exercise 2   use this emodule before labs to prepare for them, during labs to guide your studies, and after labs as a review tool.</slidetext>
+      <slidetext slideid="6HTFG359OBF.5amnTpsr4vW" slidebank="false" type="slide"> previous  conventions used in the emodule with age, wear and tear,  info information that has implications for health and disease is introduced on a blue bar and continued below the bar: and how the superior and inferior articular facets of adjacent vertebrae articulate with one another.  note how they fit together, tas k tasks, introduced on a pink bar and continued below the bar in bold, are actions that you should take to help you understand the content: an intervertebral disc can herniate, such that the nucleus pulposus….       the film button appears on the bottom bar of slides where a video accompanies tasks or explanations. the photo button appears at the bottom of slides where a photo accompanies tasks. some words are followed by an icon       ; click the icon to jump to related information. click the       icon to close it. some words are followed by an icon       ; click the icon to see a definition.  words / phrases in purple denote concepts with which you should become familiar.         the slide talk icon appears on the top bar of slides containing a recording of me explaining concepts. info this is where i will share my thoughts, tips and tricks with you!         got it! let’s move on</slidetext>
+      <slidetext slideid="6HTFG359OBF.6h8CmklmJS3" slidebank="false" type="slide"> previous  lab 12: exercise selection select an exercise to begin: 12.1 dissection: the midgut, hindgut and pancreatic bed 12.1 dissection: the midgut, hindgut and pancreatic bed 12.1 dissection: the midgut, hindgut and pancreatic bed 12a prelab slm: the midgut,  hindgut and pancreatic bed 12a prelab slm: the midgut,  hindgut and pancreatic bed 12a prelab slm: the midgut,  hindgut and pancreatic bed lab 12 exercise pre-lab slm if you finish any exercise early… 12.2 unit 4 field trip 12.2 unit 4 field trip 12.2 unit 4 field trip quizlandia 12 quizlandia 12 quizlandia 12</slidetext>
+      <slidetext slideid="6HTFG359OBF.6U1m8HYNosj" slidebank="false" type="slide"> unit 4 overview and instructions  previous next in unit 4, you will learn the anatomy of the abdomen, retroperitoneum, pelvis and perineum. unit 4 consists of four labs, labs 10 through 13, spread over 18 hours of lab time.  labs 10, 11 and 12 cover the anatomy of the gi tract and associated organs, their blood supply, nerve supply and lymphatic drainage. they are designed to support your learning in the gi block of cpc-2. lab 13 covers the anatomy of the the retroperitoneum, pelvis and perineum. it is designed to support your learning in the urinary system block of cpc-2. the assignment of histology modules on the digestive and urinary systems are aligned with the gross anatomy sessions and their contents will be assessed on the unit 4 bell-ringer. lab 10 includes a pre-lab slm that introduces students to the anatomy of the gi system. the lab session consists of a single, 3-hour lab period. the session begins with an opportunity to review, from lab 3, the structure of the anterolateral abdominal wall and the peritoneal cavity, abdominal organs, mesenteries and ligaments. you will, however, go beyond what you learned in lab 3, because an introduction to the blood supply of the digestive tract is woven throughout. a clear understanding of this information is a prerequisite for a successful dissection of the digestive tract. during the second half of lab 10, you will embark upon the dissection of the foregut.  lab 11 includes a pre-lab slm on the nerve supply of the gi tract. the session consists of a single, 6-hour lab period. you will continue the dissection of the foregut started in lab 10 and have sufficient time to complete an excellent dissection from which every member of your group can learn. throughout the course of the day, students will take turns completing exercise 11.2, a study of prosected abdominal organs. lab 12 includes a pre-lab slm on the midgut and hindgut. it is a single, 3-hour lab period. during the lab you will complete a dissection of the midgut, hindgut, duodenum, pancreas and hepatic portal vein.  lab 13 includes a pre-lab slm on the pelvis and perineum. it consists of two, 3-hour lab periods during which you will learn the anatomy of the retroperitoneum, pelvis and perineum. during the first session, half the class will remove the digestive tracts from four of the eight cadavers in their labs and dissect the retroperitoneum and kidneys. the other half of the class will learn the anatomy of the pelvis and perineum using bones, models and prosected specimens. during the second lab period, students will switch tasks.</slidetext>
+      <slidetext slideid="6HTFG359OBF.6MccOCtRBtX" slidebank="false" type="slide">instructions 11.2 over the course of this full-day lab, students will in turn take a break from working on their dissection of the foregut to study the prosected abdominal organs that are available on the table in front of the big screen. this will occur as follows:  9:00 - 10:30 am 10:30 am – 12 noon 1:00 - 2:30 pm 2:30 - 4:00 pm exercise 11.2 pairs 1 pairs 3 pairs 2 pairs 4    unit 4 summary lab schedule  previous next lab 10 	           	week 28 (3-hour lab) initially, all students review the anterolateral abdominal wall on cadaver 1, then: pairs 1 &amp; 2: review the peritoneal cavity, then start the dissection of the foregut on cadaver 1  pairs 3 &amp; 4: review the peritoneal cavity, then start the dissection of the foregut on cadaver 2   		 lab 11		week 29 (6-hour lab) pairs 1 &amp; 2: complete dissection of the foregut on cadaver 1 pairs 3 &amp; 4: complete dissection of the foregut on cadaver 2 students will take turns completing exercise 11.2, a study of prosected abdominal organs, as outlined here. lab 12 		week 30 (3-hour lab) pairs 1 &amp; 2: dissection of the midgut, hindgut duodenum, pancreas and hepatic portal vein on cadaver 1 pairs 3 &amp; 4: dissection of the midgut hindgut, duodenum, pancreas and hepatic portal vein  on cadaver 2 lab 13 		week 31 (3-hour lab)  half of class: dissection of retroperitoneum on 4 of the 8 cadavers (leaving the 4 best dissections of the digestive tract for review) half of the class: pelvis and peritoneum using prosections week 32 (3-hour lab)  switch anatomy assessment monday of week 33</slidetext>
+      <slidetext slideid="6J0M6heinrZ.6o9Qgh6lH3x" slidebank="false" type="slide"> 12.1 the midgut, hindgut and pancreatic bed  previous specimens cadavers 1 &amp; 2 next what you’ll need:</slidetext>
+      <slidetext slideid="6J0M6heinrZ.5nnjh9POUrv" slidebank="false" type="slide"> 12.1   objectives  next previous 2 the gross features of the jejunum, ileum and large intestine. the mesentery of the small intestine, the transverse mesocolon and the sigmoid mesocolon and the structures contained therein. the superior mesenteric artery (sma) and its branches that supply the jejunum, ileum cecum, appendix, ascending and transverse colon. the inferior mesenteric artery (ima) and its branches that supply the descending and sigmoid colon, and the rectum. the anastomosis between the midgut and hindgut. the hepatic portal vein and its tributaries. the lymphatic drainage of the midgut and hindgut the parts of the duodenum, their location, relationships and course. the parts of the pancreas, their location, relationships and course. the pancreatic and bile duct systems. the blood supply to the duodenum and pancreas. the formation of the hepatic portal vein, its relationships and course. when you have completed this dissection, you will be able to identify and / or describe the:</slidetext>
+      <slidetext slideid="6J0M6heinrZ.6Ne9K62vSh2" slidebank="false" type="slide"> 12.1   the subdivisions of the digestive tract and their blood supply  next previous 3 the digestive tract is a single (albeit convoluted) tube that has three subdivisions: the foregut, midgut and hindgut. it receives its blood supply from three, unpaired, visceral branches of the abdominal aorta. the foregut receives its blood supply from the celiac trunk, the midgut from the superior mesenteric artery and the hindgut from the inferior mesenteric artery.  these vessels arise from the aorta in the posterior body wall. in order for their branches to gain access to intraperitoneal organs, they must pass through mesenteries or ligaments,  the latter being structures analogous to mesenteries, but smaller. like mesenteries, ligaments consist of two layers of serous membrane with loose ct, adipose, ns, bvs and ls sandwiched between them. the focus of this dissection is the midgut and hindgut. you will dissect the branches of the superior and inferior mesenteric arteries that supply the distal duodenum and a portion of the pancreas, the jejunum, ileum, cecum, colon and rectum.</slidetext>
+      <slidetext slideid="6J0M6heinrZ.6XoMpiRaxR2" slidebank="false" type="slide"> 12.1   the superior mesenteric artery and midgut  next previous 4 reflect the greater omentum superiorly, over the costal margin to reveal the midgut and hindgut in the infracolic compartment     . before dissecting, you will get your bearings by identifying the structures that comprise the midgut and hindgut. infracolic compartment: the portion of the greater sac below the line of attachment of the transverse mesocolon  open the body bag and reflect the abdominal skin flaps.  tas k</slidetext>
+      <slidetext slideid="6J0M6heinrZ.5jZLTd2lKSq" slidebank="false" type="slide"> 12.1   the jejunum and ileum  next previous 5 the jejunum and ileum comprise the portion of the small intestine distal to the duodenum, the jejunum being the proximal 2/5 and the ileum the distal 3/5. the duodenojejunal junction is abrupt: the jejunum begins where the duodenum leaves the retroperitoneum to acquire a mesentery. in contrast, the transition from jejunum to ileum is gradual, and is based on both histology and gross anatomy.  note the loops of small bowel occupying most of the infracolic compartment. identify, in general, the jejunum in the upper left portion of the infracolic compartment, and the ileum in the lower right portion of the infracolic compartment. it begins as the small intestine acquires a mesentery to becomes intraperitoneal. this is the duodenal-jejunal junction. follow the ileum to its terminus at the ileocecal junction. identify the ileocecal valve by feeling its greater thickness, as compared to the wall of the ileum or cecum. in the cadaver,  tas k follow the jejunum proximally to where tas k</slidetext>
+      <slidetext slideid="6J0M6heinrZ.5VYPFrVpv7O" slidebank="false" type="slide">    12.1   the large intestine   next previous 6 the large intestine is 1.5 m long and extends from the cecum to the anus. it functions to absorb water and salt from the luminal contents to form feces. it includes the cecum, appendix, colon, rectum and anal canal. identify the cecum, ascending, transverse, descending and sigmoid colon. tas k identify the right colic flexure (hepatic flexure) and the left colic flexure (splenic flexure). notice that the ascending and descending colon, being secondarily retroperitoneal, are fixed to the posterior abdominal wall. identify the spaces lateral to both the ascending and descending colon, next, identify the features that distinguish the colon from the small intestine: 1.	its larger diameter; 2.	epiploic (omental) appendages, tags attached to the colon composed of fat enclosed in peritoneum; 3.	teniae coli, three longitudinal strips of smooth muscle that comprise the outer layer of its muscularis externa; 4.	haustra, the sacculations of the large bowel formed by contraction of the teniae coli. the right and left paracolic gutters     . fluid may accumulate in these spaces in a supine individual, and channel though these spaces with upright posture. identify the transverse mesocolon and sigmoid mesocolon.      </slidetext>
+      <slidetext slideid="6J0M6heinrZ.617Jw8Ku9kn" slidebank="false" type="slide">    12.1   the cecum and appendix  next previous 7 identify the cecum. tas k it is that portion of the colon inferior to the ileocecal junction. note its location; it is usually located in the right iliac fossa, although it may cross the pelvic brim and lie in the true pelvis.  identify the appendix. tas k locate it where it attaches to the posteromedial aspect of the cecum, inferior to the ileocecal junction, at the base of a tenia coli.  while its point of attachment is circumscribed, the location of the appendix itself is variable. it is retrocecal in almost 2/3 of people and pelvic in most of the remaining 1/3      .  once you have located the appendix, locate the mesoappendix, which attaches it to the terminal ileum. it contains the appendicular vessels.      </slidetext>
+      <slidetext slideid="6J0M6heinrZ.5ZYaUa9GFFi" slidebank="false" type="slide"> 12.1   an overview of the sma   next previous 8 in the accompanying diagram,  tas k note the (retroperitoneal) course of the sma over the horizontal portion of the duodenum. the sma arises from the anterior aspect of the abdominal aorta at the level of the l1 vertebra, 1 cm below the origin of the celiac trunk. the first branch of the sma arises retroperitoneally to supply a portion of the pancreas and the distal duodenum. the sma then passes anterior to the third (horizontal) part of the duodenum and left renal vein to enter the mesentery     .  the mesentery the mesentery of the small bowel is simply called “the mesentery”.  observe that once the sma enters the mesentery, the jejunal and ileal arteries arise from its left side.  contrast this with its branches to the large intestine (ileocolic, right colic and middle colic as), which arise from its right side. these arteries are accompanied by veins that take the same name.</slidetext>
+      <slidetext slideid="6J0M6heinrZ.6izosj3FkOG" slidebank="false" type="slide">  11.1  the superior mesenteric artery and branches    12.1   progress check 1  next previous in order to complete a dissection successfully, it is critical to know the anatomy of the region prior to taking your instruments to the cadaver.  if you feel you are ready to proceed, quiz each other thoroughly on the preceding foundational content by asking each other the following questions. once you are confident in the answers, move on to the next slide and the dissection. what is meant by the term, “infracolic compartment”? what gross anatomical features distinguish the small intestine from the large intestine? compare their overall diameters. identify the teniae coli, epiploic appendices and haustra. can you identify the right and left paracolic gutters? can you identify the appendix and mesoappendix? describe the position of the appendix in the majority of people and its position in most of the remainder of people? what branches, in general, arise from the left side of the sma? what branches, in general, arise from the right side of the sma? take turns asking each other to identify the branches of the sma using this diagram:     . be able to state whether each artery is retroperitoneal or intraperitoneal. if it is intraperitoneal, be able to name the ligament or mesentery that contains the artery.       9</slidetext>
+      <slidetext slideid="6J0M6heinrZ.5qIWkViPaKo" slidebank="false" type="slide">      12.1   jejunal and ileal branches     next previous 10 note that with the greater omentum reflected  tas k superiorly over the costal margin, the posterior surface of the transverse colon is facing anteriorly. gently push the small intestine to the left side of the infacolic compartment  so that the right side of the mesentery is facing anteriorly. run your finger along the root of the mesentery, and note that it passes along a 15 cm-long oblique line from the upper left to the lower right quadrants, roughly from the duodenojejunal junction to the ileocecal junction. now, realize that at its attachment to the jejunum and ileum, the mesentery is over 6 m long. as described in the prelab slm, the mesentery is thus arranged like an elaborate folding fan     . the sma and smv themselves run along the  tas k root of the mesentery. feel within the mesentery for a larger branch the sma and/or smv. use a blunt probe or forceps to tear a hole in the peritoneum        overlying the vessels. peel it back to reveal a few of the intestinal vessels extending to the left, within the mesentery. now peel back parietal peritoneum between the root of the mesentery and the ascending colon to reveal colic branches extending to the right.       </slidetext>
+      <slidetext slideid="6J0M6heinrZ.67tuLRxB9We" slidebank="false" type="slide">    12.1   the sma and smv    next previous 11 with the parietal peritoneum removed between the root of the mesentery and the  tas k ascending colon, and with a window opened within the mesentery itself, identify the sma and smv. the sma will be to the left of the smv, like the aorta is to the left of the ivc.  thoroughly clean the entire length of the sma and smv using blunt dissection techniques. clean them proximally under the line of attachment of the transverse mesocolon, anterior to the horizontal portion of the duodenum.  you will notice very dense, tough “connective tissue” surrounding the vessels. this is, in fact, the autonomic nerve fibres of the of the superior mesenteric plexus which travel along the sma and its branches to reach their target tissue. clean the vessels thoroughly of these nerve fibres by sliding large, closed scissors between the vessel and surrounding nerves, and then opening the scissors.      </slidetext>
+      <slidetext slideid="6J0M6heinrZ.5ybfa8dn64A" slidebank="false" type="slide"> 12.1   intestinal branches  previous 12 focusing on an initial portion of the jejunum,  tas k   next 15 to 18 jejunal and ileal arteries arise from the left side of the sma to form intestinal arcades     . these arching vessels form a network within the mesentery from which vasa recta  arise to supply the intestine. arcades in architecture, a series of arches with their supporting columns. from the latin arcus, meaning arch or bow  vasa recta “straight vessels”  now focusing on a distal portion of the ileum, tas k close to the duodenojejunal junction, thoroughly dissect both laminae of a short length the mesentery, removing all intervening tissue. this will reveal the characteristic architecture of the jejunal vessels (a). close to the ileocecal junction. again, thoroughly remove both laminae of a short length the mesentery and all intervening tissue. this will reveal the characteristic architecture of the ileal vessels (b). in comparing the two, you will notice that the jejunum has a simpler network of arcades that give rise to longer vasa recta (a), while the ileal arcades are much more complex, and give rise to shorter vasa recta (b).</slidetext>
+      <slidetext slideid="6J0M6heinrZ.67uXypZ1q0m" slidebank="false" type="slide"> 12.1   the ileocolic artery     next previous 13 identify the ileocolic artery.  tas k it courses obliquely, in a retroperitoneal position, from its point of origin on the right side of the sma, toward the cecum. it gives rise to the   appendicular artery, which runs within the mesoappendix. observe its anastomoses with intestinal branches and with the next artery to be dissected, the right colic artery.</slidetext>
+      <slidetext slideid="6J0M6heinrZ.6dQduBXEHRS" slidebank="false" type="slide"> 12.1   the right and middle colic arteries    next previous 14 identify the right colic artery, tas k identify the middle colic artery,  tas k which runs in a retroperitoneal position from the right side of the sma to the (retroperitoneal) ascending colon. note its inferior branch, which anastomoses with the ileocolic artery and its superior branch which anastomoses with the middle colic artery, to be dissected next. as you did with the jejunal and ileal branches, clean both lamina of the transverse mesocolon and all intervening tissue to expose the middle colic artery.  note that it gives rise to right and left branches, which anastomose with the right colic artery and the left colic artery of the ima, respectively.  which is one of the first branches of the sma after its branch to the duodenum and   pancreas. it arises from the anterior surface of the sma and enters the transverse mesocolon to supply the transverse colon.</slidetext>
+      <slidetext slideid="6J0M6heinrZ.6m2pxQeNEUC" slidebank="false" type="slide">    12.1   the superior mesenteric vein    next previous 15 identify the smv, to the right of the sma.  tas k the names of the its tributaries correspond to those of the companion artery. you should thus be able to recognize jejunal, ileal, ileocolic, right colic and middle colic veins. trace the smv superiorly, over the horizontal portion of the duodenum.  the smv drains the midgut to the hepatic portal system, which drains venous blood from the digestive tract to the liver. later, you will dissect the region of the duodenum and pancreas and observe, directly, the union of the smv with the splenic vein to form the hepatic portal vein.  this is a good time to review the lymphatic drainage of the midgut     . recall that hundreds of lymph nodes are associated with the field of the sma. you will have removed many of them during this dissection.  the lymphatic channels that drain this field follow the branches of the sma to the superior mesenteric lymph nodes in the region of the junction of the sma with the abdominal aorta.      </slidetext>
+      <slidetext slideid="6J0M6heinrZ.5j6ojwZAlxl" slidebank="false" type="slide"> 12.1   progress check 2    next previous since the last progress check, you have dissected and clearly exposed the following structures, and learned the answers to the following questions: jejunal arcades and vasa recta, ileal arcades and vasa recta; can you describe how these differ from each other anatomically? can you differentiate them in a dissection? ileocolic artery, appendicular artery, right colic artery, middle colic artery and the anastomoses between each; smv and tributaries; with what vein does the smv unite? what larger vein is thus formed? what are the regional lymph nodes of the midgut? if you are satisfied with the quality of your dissection, and your ability to identify these structures and answer these questions, call you ta over for confirmation and for permission to move on to the next stage of the dissection. 16</slidetext>
+      <slidetext slideid="6J0M6heinrZ.5oIEWaMlJyd" slidebank="false" type="slide"> 12.1   the inferior mesenteric artery and midgut    next previous 17 the ima arises from the anterior aspect of the abdominal aorta at the level of the l3 vertebra, posterior to the horizontal portion of the duodenum. its branches supply the distal (left) 1/3 of the transverse colon, the descending and sigmoid colon and the proximal rectum and are accompanied by veins which take the same name. all of the branches of the ima, with the exception of those that supply the (intraperitoneal) sigmoid colon, are retroperitoneal.</slidetext>
+      <slidetext slideid="6J0M6heinrZ.5V1JGDkXdxq" slidebank="false" type="slide"> 12.1   exposing the ima and its branches    next previous 18 reflect the small intestine to the right side of the abdomen, tas k revealing the descending colon from the splenic flexure to the sigmoid colon. identify the left paracolic gutter lateral to the descending colon. identify the parietal peritoneum overlying the posterior abdominal wall from the root of the mesentery to the medial border of the  again, as you dissect, you will notice very dense, tough “connective tissue” surrounding the vessels. again this is the autonomic nerve fibres of the of the inferior mesenteric plexus which travel along the ima and its branches to reach their target tissue. clean the vessels thoroughly of these nerve fibres by sliding large, closed scissors between the vessel and surrounding nerves, and then opening the scissors. descending colon.  run your fingers over the parietal peritoneum to identify, by feel, either the ima itself or one of its major branches. break through the peritoneum with a probe or large forceps and tear it back to reveal the vessels.</slidetext>
+      <slidetext slideid="6J0M6heinrZ.6KgQwUF3bRW" slidebank="false" type="slide"> the major anastomosis between the sma and ima is the marginal artery. it connects the middle colic artery (from the sma) with the left colic artery (from the ima) around the splenic flexure of the large intestine.    12.1   exploring the ima and its branches    next previous 19 using blunt dissection techniques, thoroughly tas k clean the ima and imv, and their branches. clean and identify the left colic artery, which supplies the descending colon. identify its ascending branch  extending toward the left colic flexure to supply the distal third of the transverse colon. it anastomoses with the sma via the left branch of the middle colic artery, thus forming the marginal artery     .      identify and clean the descending branch of the left colic artery. it anastomoses with the first sigmoid artery. identify and clean the sigmoid arteries, three or four vessels that run in the sigmoid mesocolon to supply the sigmoid colon.  thoroughly dissect both laminae of the sigmoid mesocolon, removing all intervening tissue. this will reveal the characteristic architecture of the sigmoid arteries, which form arcades, much like the intestinal arteries. identify the terminal branch of the ima, the superior rectal artery. it divides into right and left branches which pass into the pelvis on either side of the rectum.      </slidetext>
+      <slidetext slideid="6J0M6heinrZ.6RKYtkjVwzU" slidebank="false" type="slide">    12.1   the inferior mesenteric vein    next previous 20 identify the imv to the left of the ima.  tas k the imv drains blood from the hindgut to the hepatic portal system. identify the tributaries of the imv accompanying, and taking the same  names as, the branches of the ima.  thus, identify the superior rectal, sigmoid and left colic veins.  clean the imv superiorly until it passes posterior to the pancreas. the imv usually drains into the splenic vein, which then joins the smv to form the hepatic portal vein. in a common variation, the imv empties into the smv at the point where it joins the splenic vein. clear the imv a little further, posterior to the pancreas and determine which of these variations exist in your cadaver. recall that hundreds of lymph nodes occupy the field of the ima within the retroperitoneum and the sigmoid mesocolon     . you will have removed many of them during dissection. the lymphatic channels that drain this field follow the branches of the ima to the inferior mesenteric lymph nodes in the region of the junction of the ima with the abdominal aorta.      </slidetext>
+      <slidetext slideid="6J0M6heinrZ.6Wt5tIpewmK" slidebank="false" type="slide"> 12.1   progress check 3    next previous since the last progress check, you have dissected and clearly exposed the following structures, and learned the answers to the following questions: the left colic artery and its anastomosis with the middle colic artery via the marginal artery the sigmoid arteries, their arcades and vasa recta the superior rectal artery the imv and its tributaries, the superior rectal, sigmoid and left colic veins the union of the imv with the portal venous system into what major vein does the smv usually empty? describe a common variation of this venous architecture. what are the regional lymph nodes of the hindgut? pause here to assess your learning. quiz each other thoroughly. if you are satisfied with your ability to identify these structures and answer these questions, move on to the next phase of the exercise.  21</slidetext>
+      <slidetext slideid="6J0M6heinrZ.6kKDKvRnJsS" slidebank="false" type="slide"> 12.1   the pancreatic bed  next previous 22 reflect the stomach superiorly over the costal margin.  tas k either reflect the transverse colon superiorly as well, or keep the transverse colon down; your goal is to achieve the widest possible access to the pancreas and duodenum.  you can put the stomach and transverse colon back into position when you later want to review their blood supply.  using blunt dissection, thoroughly clean the anterior surface of the duodenum and pancreas. the connective tissue and peritoneum you are removing are remnants of the transverse mesocolon.  one person on the cadaver’s right side will start at the gastroduodenal junction, and one person on the left side will start at the duodenojejunal junction.  as you work, identify the four parts of the duodenum, and make note of the following details: the 1st (superior) part runs horizontally to the right and lies at level of the l1 vertebra. its expanded initial part is the ampulla, often called the duodenal cap or duodenal bulb by clinicians. recall that this part of the duodenum is largely intraperitoneal, being located in the hepatoduodenal ligament. </slidetext>
+      <slidetext slideid="6J0M6heinrZ.614rMMPYGwt" slidebank="false" type="slide">    12.1   gross features of the duodenum  next previous 23 right renal vessels, and inferior vena cava. it, like the remainder of the duodenum, is retroperitoneal. the 2nd part of the duodenum receives the common bile duct and pancreatic duct. the 3rd (horizontal) part crosses the abdomen horizontally from right to left at the level of the l3 vertebra. notice that it lies anterior to the inferior vena cava and the abdominal aorta, and posterior to the superior mesenteric vessels. the 4th (ascending) part ascends to the l2 vertebral level. the ascending part of the duodenum turns anteriorly to emerge from the posterior body wall where it is continuous with the jejunum at the duodenojejunal junction.       continue to work, noting the details regarding the different parts of the duodenum: tas k the 2nd (descending) part lies to the right of the midline, at the level of the l2 vertebra, anterior to the hilum of the right kidney, </slidetext>
+      <slidetext slideid="6J0M6heinrZ.5Vu4Wyfl0l0" slidebank="false" type="slide">    12.1   gross features of the pancreas  next previous 24 the pancreas crosses the midline at the level of the l1 to l3 vertebral bodies. thoroughly clean the pancreas  tas k again, students will work on both sides of the cadaver. identify the parts of the pancreas with reference to the accompanying diagram.  notice that its head occupies the curve of the duodenum and lies anterior to the ivc.  identify the uncinate process extending from the head of the pancreas posterior to the superior mesenteric vessels and anterior to the abdominal aorta.  identify the neck of the pancreas anterior to the sma and smv, and its body extending to the left, sloping slightly superiorly.  note the tail of the pancreas extending toward the hilum of the spleen. the tip of the tail of the pancreas, which lies within the splenorenal ligament, is intraperitoneal, and contacts the hilum of the spleen.      </slidetext>
+      <slidetext slideid="6J0M6heinrZ.5zv3l2YwFwr" slidebank="false" type="slide">       12.1   the common bile duct   next previous 25 turn your attention to the common bile duct  tas k and dissect it both toward the porta hepatis and toward the 2nd part of the duodenum.  anterior to the hepatic portal vein as you clean the duct system toward the porta hepatis, identify the formation of the common bile duct by the union of the cystic duct with the common hepatic duct. follow the common hepatic duct into the porta hepatis and identify its formation by the union of the right end left hepatic ducts. notice here     that in the  tas k hepatoduodenal ligament, the common bile duct is to the right of the hepatic artery proper and.             </slidetext>
+      <slidetext slideid="6J0M6heinrZ.6KeJ8NYoaJK" slidebank="false" type="slide"> 12.1   the hepatopancreatic ampulla and pancreatic duct  next previous 26 within the head of the pancreas, the common bile duct unites with the main pancreatic duct, thus forming the hepatopancreatic ampulla     . it empties into the 2nd part of the duodenum at the major duodenal papilla. the papilla is formed by a ring of smooth muscle, the hepatopancreatic sphincter     , which controls the flow of bile and pancreatic juice into the duodenum. hepatopancreatic ampulla clinicians might refer to this by its eponym, the ampulla of vater.  hepatopancreatic sphincter clinicians might refer to this by its eponym, the sphincter of oddi. if you run with the cool kids, you simply refer to it as so. me, of course i call it the hepatopancreatic sphincter.  dissect the common bile duct posterior to the 1st part of the duodenum  tas k it might help to reflect the duodenum to the left. continue until the common bile duct meets the wall of the 2nd part of the duodenum. bisect the pancreas through the junction between its head and neck. your cut should pass to the right of the smv. be careful to leave intact the sma and smv. look into the cut edge of the head of the  pancreas and identify the lumen of the main pancreatic duct. using a blunt probe and forceps, dissect the pancreatic duct through the head of the pancreas toward the 2nd part of the duodenum. look for the accessory pancreatic duct, which joins the main duct from above. locate the point at which the main pancreatic duct unites with the common bile duct, at the wall of the 2nd part of the duodenum.</slidetext>
+      <slidetext slideid="6J0M6heinrZ.5hW0uiYgjBs" slidebank="false" type="slide">    12.1   the blood supply to the duodenum and pancreas  next previous 27 identify the vessels running in the curve of the duodenum, anterior and posterior  tas k to the head of the pancreas, the anterior and posterior pancreaticoduodenal arteries. they form an anastomosis between the celiac trunk and the sma.  the anterior and posterior superior pancreaticoduodenal arteries arise from the gastroduodenal artery. trace the gastroduodenal artery back to the common hepatic artery and celiac trunk.  the anterior and posterior inferior pancreaticoduodenal arteries usually arise from the first branch of the sma. can you locate their origin? from the celiac trunk, tas k trace the splenic artery to the left to uncover the blood supply to the tail of the pancreas      . notice that the splenic artery wends its way along the superior border of the pancreas and provides branches to its body and tail. follow the splenic artery to the hilum of the spleen and confirm the origin of the left gastro-omental (gastroepiploic) artery from the splenic artery.      </slidetext>
+      <slidetext slideid="6J0M6heinrZ.6PWVS1ntOzK" slidebank="false" type="slide">       12.1   venous drainage of the pancreas  next previous 28 the veins of the pancreas follow the arteries. look at the accompanying diagram to make sense of the following     : veins draining the head, neck and uncinate process empty into the smv and veins draining the body and tail drain into the splenic vein.  make sense of it. if you understand the anatomy, the description of the venous drainage becomes logical. you will remember it because you understand it, not because you’ve memorized it.  posterior to the neck of the pancreas, the splenic vein joins the smv to form the hepatic portal vein. the hepatic portal system of veins drains the abdominal portion of the digestive system, including the pancreas and the spleen, to the liver. the liver processes and detoxifies this blood before emptying it, via the hepatic veins, into the caval system.  clinically important points of portal-systemic (portal-caval) anastomosis       are the gastroesophageal, anorectal and paraumbilical anastomoses     . because the portal venous system lacks valves, portal hypertension results in engorgement of its tributaries that can extend into these anastomotic channels.            </slidetext>
+      <slidetext slideid="6J0M6heinrZ.6orZYaaLFvT" slidebank="false" type="slide"> 12.1   dissecting the portal vein  next previous 29 with the pancreas bisected and reflected to either side, you have wide access to study the formation of the hepatic portal vein.  clean the smv as it passes anterior to  tas k to the 3rd part of the duodenum and superiorly until it meets the splenic vein. clean the  splenic vein. it is often embedded in the body and tail of the pancreas. extract it from the pancreas using blunt dissection. locate the point at which the imv joins the portal system. in the majority of people, the imv empties into the splenic vein, although in a significant minority, it empties into the smv or into the point at which the smv and splenic veins unite. clean the hepatic portal vein into the porta hepatis where it bifurcates. recall that the hepatic portal vein runs in the hepatoduodenal ligament with the hepatic artery proper and the common bile duct.</slidetext>
+      <slidetext slideid="6J0M6heinrZ.61VkzLJBAKx" slidebank="false" type="slide"> 12.1   progress check 4  next previous 30 so far, you have dissected and clearly exposed the following structures and learned the answers to the following questions: the four parts of the duodenum; which part of the duodenum is intraperitoneal? in what ligament is this part located? which part of the duodenum is associated with the hilum of the right kidney, the renal vessels and ivc? which part of the duodenum passes between the ivc/aorta and the smv/sma? the head, neck, body, tail and uncinate process of the pancreas; which part of the pancreas is intraperitoneal? in what ligament is this part located? which part of the pancreas is associated with the curve of the duodenum? which part of the pancreas passes between the ivc/aorta and the smv/sma? which part of the pancreas passes anterior to the smv/sma? which part of the pancreas is associated with the hilum of the left kidney? common bile duct, cystic duct (if gall bladder is present), common hepatic duct, and right and left hepatic ducts; the main pancreatic duct and its union with the common bile duct; into which part of the duodenum does the common bile duct and pancreatic duct empty? the portal vein, its right and left branches, the splenic vein, the smv and imv can you describe the blood supply to the pancreas and duodenum? can you describe the position of the pancreas and duodenum relative to the lesser sac? therefore, which of their surfaces are covered with visceral peritoneum? if you are satisfied with the quality of your dissection, and your ability to identify these structures and answer these questions, call you ta over for confirmation and for permission to clean up.</slidetext>
+      <slidetext slideid="6J0M6heinrZ.6HA0muXATBV" slidebank="false" type="slide">    next previous 12.1   quiz press next to start the quiz or skip to end exercise 12.1   skip 31</slidetext>
+      <slidetext slideid="6J0M6heinrZ.5pUk9ejTXNL" slidebank="false" type="slide">congratulations on finishing lab 12.1   the midgut, hindgut and pancreatic bed! back to exercise selection back to exercise selection back to exercise selection review lab 12.1 review lab 12.1 review lab 12.1   previous</slidetext>
+      <slidetext slideid="6SpHYr8KLgU.5ehnvux3cMR" slidebank="false" type="slide">  previous  acknowledgements author &amp; emodule developer: barbara ballyk, ph.d. associate professor, teaching stream division of anatomy, department of surgery faculty of medicine, university of toronto brand design: janet koecher, discovery commons university of toronto © 2020 emodule production: kristy cheung, b.sc.h., m.sc. candidate, clinical anatomy, western university albert gheorghita, m.d. candidate, 2t0 faculty of medicine, university of toronto valera castanov, ph.d., m.d. candidate, class of 2022 faculty of medicine, queen’s university julian manzone, m.d., class of 2t9 faculty of medicine, university of toronto</slidetext>
+      <slidetext slideid="5sIY9WcahNZ.5hhMXWxH4mh" slidebank="false" type="slide"> unit 4 field trips  previous take a trip to grant’s museum of anatomy, ms1150, and examine the specimens in the abdomen area to gain a clearer understanding of the material outlined in your lab tasks.  </slidetext>
+      <slidetext slideid="5WISrJAmVze.6d7lfZjjYVa" slidebank="false" type="slide">12a  prelab slm: the midgut and hindgut previous   next complete this prelab slm prior to the lab. you will be quizzed on its contents at the start of lab 12. </slidetext>
+      <slidetext slideid="5WISrJAmVze.5n3SrzxT4p7" slidebank="false" type="slide"> 12a   objectives  next previous 2 the location and gross features of the jejunum, ileum and large intestine. the mesentery of the small intestine, the transverse mesocolon and the sigmoid mesocolon, and the structures contained therein. the superior mesenteric artery (sma) and its branches that supply the distal duodenum and pancreas, the jejunum, ileum, cecum, appendix, ascending and transverse colon. the inferior mesenteric artery (ima) and its branches that supply the descending and sigmoid colon, and the rectum. the anastomoses between the foregut and midgut, and between the midgut and hindgut. the hepatic portal vein and its tributaries. the lymphatic drainage of the digestive tract the parts of the duodenum, their location, relationships and course. the parts of the pancreas, their location, relationships and course. when you have completed this prelab slm, you will be able to describe:</slidetext>
+      <slidetext slideid="5WISrJAmVze.5p05R8SciBA" slidebank="false" type="slide"> 12a   the subdivisions of the digestive tract and their blood supply  next previous 3 the digestive tract is a single (albeit convoluted) tube that has three subdivisions, based on its embryological development: the foregut, midgut and hindgut. each subdivision receives its blood supply from one of three, unpaired, visceral branches of the abdominal aorta:  the foregut receives blood from the celiac trunk, and includes the stomach, spleen, liver, gallbladder and proximal duodenum and pancreas. the midgut receives blood from the superior mesenteric artery, and includes the distal pancreas and duodenum, the remainder of the small intestine, and the ascending and initial portion of the transverse colon. the hindgut receives blood from the inferior mesenteric artery, and includes the remainder of the transverse colon, the descending and sigmoid colon, and the rectum. these three vessels arise from the aorta in the posterior body wall, i.e. retroperitoneally. in order for their branches to gain access to intraperitoneal organs, they must pass through mesenteries or ligaments     .   ligaments certain abdominal structures, analogous to mesenteries, but smaller, are called “ligaments”. like mesenteries, they consist of two layers of serous membrane with loose ct, adipose, ns, bvs and ls sandwiched between them. they bear no resemblance to the ligaments that reinforce your joints! it’s the same word in a completely different context. </slidetext>
+      <slidetext slideid="5WISrJAmVze.5dYviMxP9Ta" slidebank="false" type="slide"> 12a   the superior mesenteric artery and midgut  next previous 4 the superior mesenteric artery and midgut</slidetext>
+      <slidetext slideid="5WISrJAmVze.6EgKf4RBmJW" slidebank="false" type="slide"> the major anastomosis between the sma and the celiac artery is via the superior and inferior pancreaticoduodenal arteries.  the superior pancreaticoduodenal arteries arise from branches of the celiac artery. the inferior pancreaticoduodenal arteries arise from the sma.  these vessels anastomose to supply the pancreas and duodenum with blood.   anastomoses between the celiac artery and sma  12a   the foregut and midgut meet at the duodenum and pancreas  next previous 5 the proximal duodenum and portions of the pancreas are supplied by branches of the celiac trunk, and are therefore foregut derivatives. the distal duodenum and portions of the pancreas are supplied by branches of the sma, and are therefore midgut derivatives. see here     .       the small intestine is 6-7 m long, tapering from proximal to distal. the duodenum, the first part of the small intestine, is 20-25 cm long. the division between the foregut and midgut passes through the duodenum and pancreas.  trace the duodenum in the accompanying illustration; note that it is subdivided into 1st (superior), 2nd (descending), 3rd (transverse) and 4th (ascending) parts.   the proximal 2 cm of the 1st part is intraperitoneal and therefore mobile. this is the portion that is attached to the hepatoduodenal ligament. the remainder of the duodenum is secondarily retroperitoneal; you will study it directly when you dissect this region.  take note in the illustration that the “head” of the pancreas lies in the curve of the duodenum and its “tail” extends toward the superior left quadrant of the abdomen, where it meets the hilum of the spleen. </slidetext>
+      <slidetext slideid="5WISrJAmVze.6Cs3pvPPcer" slidebank="false" type="slide"> 12a   the jejunum and ileum  next previous 6 distal to the duodenum, the jejunum and ileum comprise the remainder of the small intestine, the jejunum being the proximal 2/5 and the ileum the distal 3/5.  the duodenojejunal junction is abrupt: the jejunum begins where the duodenum leaves the retroperitoneum to acquire a mesentery. in contrast, the transition from jejunum to ileum is gradual, and is based on both histology and gross anatomy. the ileum ends abruptly where it meets the cecum at the ileocecal junction. there, the ileocecal valve controls the movement of intestinal contents from the small intestine to the large intestine. in the accompanying illustration, note the loops of small bowel occupying most of the infracolic compartment. notice that in general, the jejunum occupies the upper left portion of the infracolic compartment, and the ileum occupies the lower right portion of the infracolic compartment</slidetext>
+      <slidetext slideid="5WISrJAmVze.6cPSdCLdNLp" slidebank="false" type="slide">    12a   the large intestine   next previous 7 the ascending and descending colon, being secondarily retroperitoneal, are fixed to the posterior abdominal wall. the peritoneal spaces lateral to the ascending and descending colon are the right and left paracolic gutters     . fluid may accumulate in these spaces in a supine individual, and channel though these spaces with upright posture.  the transverse and sigmoid colon are intraperitoneal and supported by their mesenteries, the transverse and sigmoid mesocolon, respectively. at the gross anatomical level, the colon is distinguished from the small intestine by i) its larger diameter, ii) by the presence of epiploic (omental) appendages, tags attached to the colon composed of fat enclosed in peritoneum, iii) by the presence of teniae coli, three longitudinal strips of smooth muscle that comprise the outer layer of its muscularis externa, and iv) by the presence of haustra, the sacculations of the large bowel formed by contraction of the teniae coli.       the large intestine is 1.5 m long and extends from the cecum to the anus. it functions to absorb water and salt from the luminal contents to form feces. it includes the cecum, appendix, colon, rectum and anal canal.  the colon is subdivided into the ascending, transverse, descending and sigmoid colon. the ascending colon becomes the transverse colon at the right colic flexure (hepatic flexure) and the transverse colon becomes the descending colon at the left colic flexure (splenic flexure). </slidetext>
+      <slidetext slideid="5WISrJAmVze.5bZtoaqvdmG" slidebank="false" type="slide">   the position of the appendix  12a   the cecum and appendix  next previous 8 the cecum is that portion of the colon inferior to the ileocecal junction. it is usually located in the right iliac fossa, although it may cross the pelvic brim and lie in the true pelvis.  the vermiform      appendix attaches to the posteromedial aspect of the cecum, inferior to the ileocecal junction, at the base of a tenia coli.  while its point of attachment is circumscribed, the location of the appendix itself is variable. it is retrocecal in almost 2/3 of people and pelvic in most of the remaining 1/3      .  the mesoappendix is a mesentery that attaches the appendix to the terminal ileum. it contains the appendicular vessels.       vermiform (l) in the shape of a worm </slidetext>
+      <slidetext slideid="5WISrJAmVze.6At3eRYiTc3" slidebank="false" type="slide"> 12a   an overview of the sma   next previous 9 the sma arises from the anterior aspect of the abdominal aorta at the level of the l1 vertebra, 1 cm below the origin of the celiac trunk. the first branch of the sma, the inferior pancreaticoduodenal artery, arises retroperitoneally to supply a portion of the pancreas and the distal duodenum. the sma then continues in a retroperitoneal position, anterior to the third (horizontal) part of the duodenum and left renal vein it then enters the mesentery     .  the mesentery the mesentery of the small bowel is simply called “the mesentery”.  in the accompanying illustration, note the (retroperitoneal) course of the sma over the horizontal portion (3rd part) of the duodenum. once the sma enters the mesentery, the jejunal and ileal arteries arise from its left side.  contrast this with its branches to the large intestine (ileocolic, right colic and middle colic as), which arise from its right side.  know that these arteries are accompanied by veins that take the same name.</slidetext>
+      <slidetext slideid="5WISrJAmVze.5qpWDvi6YM2" slidebank="false" type="slide">       12a   jejunal and ileal branches   next previous 10 the root of the mesentery is its line of attachment to the posterior abdominal wall. it passes along a 15 cm-long oblique line extending from the upper left to the lower right quadrants, roughly from the duodenojejunal junction to the ileocecal junction. within the root of the mesentery runs the superior mesenteric artery and vein, with the vein to the right of the artery     .  together, the jejunum and ileum are 6 m long. since the mesentery attaches along this length, therefore, at its attachment to the jejunum and ileum, the mesentery is over 6 m long.  thus the mesentery expands rapidly from a length of 15 cm at its root to a length of 6 m along its line of attachment to the jejunum and ileum. it is thus shaped like an elaborate folding fan     . once again, in this illustration, notice that the jejunal and ileal branches of the sma and smv extend from their left side to the small bowel.              mneumonic i remember this because the ivc is to the right of the aorta – their relative positions are preserved. </slidetext>
+      <slidetext slideid="5WISrJAmVze.6nKizTVECxc" slidebank="false" type="slide"> 12a   intestinal branches  previous 11 next fifteen to eighteen jejunal and ileal arteries arise from the left side of the sma to form intestinal arcades     . these arching vessels form a network within the mesentery from which vasa recta arise to supply the intestine    . the characteristic architecture of the jejunal vessels is distinctly different from that of the ileal vessels. the jejunum has a simpler network of arcades that give rise to longer vasa recta (a), while the ileal arcades are much more complex, and give rise to shorter vasa recta (b). arcades in architecture, arcades are a series of arches with their supporting columns. the term comes from the latin arcus, meaning arch or bow.  vasa recta “straight vessels” </slidetext>
+      <slidetext slideid="5WISrJAmVze.5wg2q32fZ6C" slidebank="false" type="slide">   the ileocolic artery     12a   colic branches of the sma &amp; smv  next previous 12 colic branches of the sma arise from its right side. these are the ileocolic artery to the ileocecal junction, the right colic artery to the ascending colon and the middle colic artery to the transverse colon. the ileocolic artery      courses obliquely, in a retroperitoneal position, toward the cecum. it gives rise to the appendicular artery, which runs within the mesoappendix. the ileocolic artery anastomoses with intestinal branches to the ileum and with the right colic artery.       the right colic artery runs in a retroperitoneal position to the (retroperitoneal) ascending colon. its inferior branch anastomoses with the ileocolic artery and its superior branch anastomoses with the middle colic artery. the middle colic artery is one of the first branches of the sma after the inferior pancreaticoduodenal artery. the middle colic artery enters the transverse mesocolon to supply the (intraperitoneal) transverse colon. it gives rise to right and left branches which anastomose with the right colic artery and the left colic artery, respectively.  the left colic artery is a branch of the inferior mesenteric artery which supplies the descending colon, a hindgut derivative.      </slidetext>
+      <slidetext slideid="5WISrJAmVze.665tQ4zcg2w" slidebank="false" type="slide">    lymphatics  12a   venous and lymphatic drainage of the midgut  next previous 13 the superior mesenteric vein (smv) is the venous companion to the sma. the smv is located to the right of the sma, as the ivc is to the right of the aorta. the names of the tributaries of the smv correspond to those of the companion artery.  thus, there are jejunal, ileal, ileocolic, right colic and middle colic veins that drain into the smv. the smv ascends, in the companionship of the sma, over the horizontal portion of the duodenum. the smv drains the midgut to the hepatic portal system, which transports venous blood from the digestive tract to the liver. take note, from the illustration, the formation of the hepatic portal vein from the union of the smv with the splenic vein.  hundreds of lymph nodes      occupy the field of the sma within the mesentery, the retroperitoneum between the root of the mesentery and the ascending colon and the transverse mesocolon. the lymphatic channels that drain this field follow the branches of the sma to the superior mesenteric lymph nodes in the region of the junction of the sma with the abdominal aorta.      </slidetext>
+      <slidetext slideid="5WISrJAmVze.5Z5pUZyIq8z" slidebank="false" type="slide"> 12a   part 2  next previous 14 the inferior mesenteric artery and hindgut</slidetext>
+      <slidetext slideid="5WISrJAmVze.6dkal2PQthB" slidebank="false" type="slide"> the major anastomosis between the sma and ima is the marginal artery. it joins the middle colic artery (sma) with the left colic artery (ima) around the splenic flexure of the large intestine.    12a   the ima and its branches  next previous 15 the ima arises from the anterior aspect of the abdominal aorta at the level of the l3 vertebra, posterior to the horizontal portion of the duodenum. its branches supply the distal (left) 1/3 of the transverse colon, the descending and sigmoid colon and the proximal rectum. the branches of the ima are accompanied by veins which take the same name.  all branches of the ima are retroperitoneal, except those that supply the (intraperitoneal) sigmoid colon.  the left colic artery supplies the descending colon. its ascending branch extends toward the left colic flexure to supply the distal third of the transverse colon. there it anastomoses with the sma via the left branch of the middle colic artery. the union of these vessels forms the marginal artery (of drummond)     .      the descending branch of the left colic artery anastomoses with the first sigmoid artery. three or four sigmoid arteries travel through the sigmoid mesocolon to supply the sigmoid colon. the sigmoid arteries form arcades, much like the intestinal arteries. the terminal branch of the ima is the superior rectal artery. it divides into right and left branches which pass into the pelvis on either side of the rectum.      </slidetext>
+      <slidetext slideid="5WISrJAmVze.6CoKRCjeKhz" slidebank="false" type="slide">    lymphatics  12a   venous and lymphatic drainage of the hindgut  next previous 16 the imv lies to the left of the ima    . the imv drains blood from the hindgut to the hepatic portal system. the tributaries of the imv accompany, and taking the same names as, the branches of the ima.  thus, they are the superior rectal, sigmoid and left colic veins.  as illustrated, the imv usually drains into the splenic vein, which then joins the smv to form the hepatic portal vein. in a common variation, the imv empties into the smv at the point where it joins the splenic vein. through dissection, you will see which of these variations exists in your cadaver. hundreds of lymph nodes      occupy the field of the ima within the retroperitoneum and the sigmoid mesocolon. the lymphatic channels that drain this field follow the branches of the ima to the inferior mesenteric lymph nodes in the region of the junction of the ima with the abdominal aorta. this is different! you will see why it is so during dissection.       </slidetext>
+      <slidetext slideid="5WISrJAmVze.630NPvJklD5" slidebank="false" type="slide"> 12a   blood supply and venous drainage of the rectum  next previous 17 the rectum receives its blood supply from three sources:  the superior rectal artery from the ima, and  the middle and inferior rectal arteries from the internal iliac arteries.  similarly, the venous drainage from the rectum empties via: the superior rectal veins into the imv and thereby into the hepatic portal system, and  the middle and inferior rectal veins into the internal iliac veins, and thus into the systemic (caval) system. thus, the rectal arteries and veins form an anastomosis between the portal and caval venous systems. this is an example of a portal-caval or portal-systemic anastomosis.</slidetext>
+      <slidetext slideid="5WISrJAmVze.5m5BCTUr6St" slidebank="false" type="slide">  caput medusae    12a   portal-systemic anastomoses  next previous 18 portal hypertension may result from, for example, cirrhosis of the liver. with elevated venous pressure in the hepatic portal system, blood draining from the rectum can bypass the portal system and flow through the middle and inferior rectal veins into the systemic (caval) system of veins via the internal iliac veins. this can result in rectal varices, dilated rectal veins, with the potential to rupture and bleed. another point of portal-systemic anastomosis is the inferior esophagus, which drains both into the left gastric vein and the azygous system of veins. portal hypertension can cause esophageal varices, which, if they rupture, can cause life-threatening hemorrhage, in the form of an upper gi bleed.  lastly, the paraumbilical veins connect the superficial veins of the anterior abdominal wall with the portal vein. portal hypertension can cause dilation of superficial abdominal veins, seen as caput medusae      of the anterior abdominal wall    .  head of medusa in greek mythology, medusa was a gorgon with a hideous face and live, venomous snakes in place of hair.       </slidetext>
+      <slidetext slideid="5WISrJAmVze.6GiK5x9eQN2" slidebank="false" type="slide">  the thoracic duct    12a   summary: lymphatics of the gi tract  previous 19 next lymph from the abdominopelvic portions of the gi tract, including the superior rectum, liver, gallbladder, pancreas and spleen, drains into the preaortic lymph nodes. this group includes the celiac, superior mesenteric and inferior mesenteric groups of nodes, named for their associations with the origins of the similarly-named arteries.  lymph from hindgut structures drains into the inferior mesenteric group of lymph nodes.  lymph from midgut structures drains into the superior mesenteric group of lymph nodes, which also receives lymph from the inferior mesenteric nodes. lymph from foregut structures drains into the celiac group of lymph nodes, which also receives lymph from the superior mesenteric nodes, which includes lymph from the inferior mesenteric nodes. lymph from the celiac lymph nodes drains, via the intestinal trunks, into the cisterna chili     . from there it is conducted along the thoracic duct to the left venous angle, where it is returned to blood.      </slidetext>
+      <slidetext slideid="5WISrJAmVze.6eMtGy1xzij" slidebank="false" type="slide"> 12a   part 3  next previous 20 the pancreatic bed</slidetext>
+      <slidetext slideid="5WISrJAmVze.61nnH3xkEl2" slidebank="false" type="slide"> g4.102   the bile duct system  12a   introduction to the duodenum and pancreas   next previous 21 the duodenum and pancreas are intimately associated with each other, both anatomically and functionally. the duodenum receives the exocrine secretions of both the pancreas and liver via a duct system     . in the duodenum, these secretions are mixed with chyme, delivered from the stomach via the pyloric orifice.      </slidetext>
+      <slidetext slideid="5WISrJAmVze.5VJesEgAUVv" slidebank="false" type="slide">   the pancreas and duodenum are secondarily retroperitoneal  12a   blood supply and position  next previous 22 locate the pancreas and duodenum in this diagram:  notice that they are both retroperitoneal, located posterior to the stomach and lesser sac (omental bursa).  they are embedded in loose ct and adipose, and only their anterior surfaces, which are exposed to the lesser sac, are covered with visceral peritoneum.       the pancreas develops as an outgrowth of the developing duodenum at the dividing line between the foregut and the midgut. the duodenum and pancreas, therefore, receive their blood supply from superior and inferior pancreaticoduodenal arteries, which arise from branches of the celiac trunk and superior mesenteric arteries, respectively.</slidetext>
+      <slidetext slideid="5WISrJAmVze.6DOh3X5dTxh" slidebank="false" type="slide">   the pancreas  12a   subdivisions of the duodenum and pancreas  next previous 23 the duodenum, you’ll recall, is divided into four parts: the 1st (superior), the 2nd (descending), the 3rd (horizontal) and the 4th (ascending) parts.  the proximal 2 cm of the 1st part of the duodenum is intraperitoneal, and occupies the hepatoduodenal ligament. the remainder of the duodenum is secondarily retroperitoneal. the pancreas      is 15 cm long, and is shaped like the letter “j”. the hook of the j wraps around the back of the superior mesenteric artery and vein. the pancreas extends from the duodenum, on the right, to the hilum of the spleen, on the left.  the pancreas is described as having:  a head, cradled in the curve of the duodenum,  a neck, lying in front of the superior mesenteric artery and vein,  an elongated and tapering body,  a tail, which occupies the splenorenal ligament and ends at the hilum of the spleen, and an uncinate     process, which extends from the head of the pancreas to wrap behind the superior mesenteric artery and vein. uncinate in the shape of a hook       </slidetext>
+      <slidetext slideid="5WISrJAmVze.5b5836ul4sm" slidebank="false" type="slide">    next previous 12a   quiz press next to start the quiz or skip to end pre-lab slm 12a.   skip 24</slidetext>
+      <slidetext slideid="5WISrJAmVze.5mxwqxUJY13" slidebank="false" type="slide">congratulations on finishing pre-lab slm 12a the midgut and hindgut! back to exercise selection back to exercise selection back to exercise selection review pre-lab slm 12a review pre-lab slm 12a review pre-lab slm 12a   previous</slidetext>
+      <slidetext slideid="671LrJ5gmDX.6fuPPXj5rHM" slidebank="false" type="slide">here you can choose to do the quiz for either of the exercises in lab 11, or run through all of them. you will be given the results of each quiz as you go along, as well as the combined results of both at the end. exercise quiz exercise 12.1 quiz exercise 12.1 quiz exercise 12.1 quiz prelab slm quiz prelab slm 12a quiz prelab slm 12a quiz prelab slm 12a quiz results overall results overall results overall results   welcome to quizlandia! previous</slidetext>
+      <slidetext slideid="671LrJ5gmDX.5dZ4dkKyvyi" slidebank="false" type="slide">  quiz: prelab slm 12a welcome to the quiz for slm 12a! click below to get started. begin begin begin review slm  12a review slm  12a review slm  12a review slm  12a review slm  12a quiz selection </slidetext>
+      <slidetext slideid="671LrJ5gmDX.5loSG6GGhsT" slidebank="false" type="slide">incorrect try again try again try again try again try again try again that is incorrect. click here      to learn the answer, then come back to try again.       the ascending and descending colon, being secondarily retroperitoneal, are fixed to the posterior abdominal wall. the peritoneal spaces lateral to the ascending and descending colon are the right and left paracolic gutters. fluid may accumulate in these spaces in a supine individual, and channel though these spaces with upright posture.  the transverse and sigmoid colon are intraperitoneal and supported by their mesenteries, the transverse and sigmoid mesocolon, respectively. at the gross anatomical level, the colon is distinguished from the small intestine by i) its larger diameter, ii) by the presence of epiploic (omental) appendages, tags attached to the colon composed of fat enclosed in peritoneum, iii) by the presence of teniae coli, three longitudinal strips of smooth muscle that comprise the outer layer of its muscularis externa, and iv) by the presence of haustra, the sacculations of the large bowel formed by contraction of the teniae coli. the large intestine is 1.5 m long and extends from the cecum to the anus. it functions to absorb water and salt from the luminal contents to form feces. it includes the cecum, appendix, colon, rectum and anal canal.  the colon is subdivided into the ascending, transverse, descending and sigmoid colon. the ascending colon becomes the transverse colon at the right colic flexure (hepatic flexure) and the transverse colon becomes the descending colon at the left colic flexure (splenic flexure).  correct that's right! the omental (epiploic) appendages are the serous membrane-covered fatty tags on the surface of the large bowel. continue continue continue continue continue continue   1. what is the name of the serous membrane-covered fatty tags on the surface of the large bowel? 12a   quiz  submit</slidetext>
+      <slidetext slideid="671LrJ5gmDX.6kQ7o3nFTOn" slidebank="false" type="slide">incorrect try again try again try again try again try again try again that is incorrect. click here      to learn the answer, then come back to try again.       colic branches of the sma arise from its right side. these are the ileocolic artery to the ileocecal junction, the right colic artery to the ascending colon and the middle colic artery to the transverse colon. the ileocolic artery courses obliquely, in a retroperitoneal position, toward the cecum. it gives rise to the appendicular artery, which runs within the mesoappendix. the ileocolic artery anastomoses with intestinal branches to the ileum and with the right colic artery. the right colic artery runs in a retroperitoneal position to the (retroperitoneal) ascending colon. its inferior branch anastomoses with the ileocolic artery and its superior branch anastomoses with the middle colic artery. the middle colic artery is one of the first branches of the sma after the inferior pancreaticoduodenal artery. the middle colic artery enters the transverse mesocolon to supply the (intraperitoneal) transverse colon. it gives rise to right and left branches which anastomose with the right colic artery and the left colic artery, respectively.  the left colic artery is a branch of the inferior mesenteric artery which supplies the descending colon, a hindgut derivative. correct that's right! the middle colic artery is branch of the superior mesenteric artery that is contained in the transverse mesocolon. continue continue continue continue continue continue 2. what is the name of the branch of the superior mesenteric artery that is contained in the transverse mesocolon?   12a   quiz  submit</slidetext>
+      <slidetext slideid="671LrJ5gmDX.5yNjzNNShrP" slidebank="false" type="slide">incorrect try again try again try again try again try again try again that is incorrect. click here      to learn the answer, then come back to try again.       the ima arises from the anterior aspect of the abdominal aorta at the level of the l3 vertebra, posterior to the horizontal portion of the duodenum. its branches supply the distal (left) 1/3 of the transverse colon, the descending and sigmoid colon and the proximal rectum. the branches of the ima are accompanied by veins which take the same name.  all branches of the ima are retroperitoneal, except those that supply the (intraperitoneal) sigmoid colon.  the left colic artery supplies the descending colon. its ascending branch extends toward the left colic flexure to supply the distal third of the transverse colon. there it anastomoses with the sma via the left branch of the middle colic artery. the union of these vessels forms the marginal artery     .      the descending branch of the left colic artery anastomoses with the first sigmoid artery. three or four sigmoid arteries travel through the sigmoid mesocolon to supply the sigmoid colon. the sigmoid arteries form arcades, much like the intestinal arteries. the terminal branch of the ima is the superior rectal artery. it divides into right and left branches which pass into the pelvis on either side of the rectum. correct that's right! the superior rectal artery is the last branch of the inferior mesenteric artery. continue continue continue continue continue continue   3. what is the name of the last branch of the inferior mesenteric artery? 12a   quiz  submit</slidetext>
+      <slidetext slideid="671LrJ5gmDX.6dwzZPzpf4H" slidebank="false" type="slide">incorrect try again try again try again try again try again try again that is incorrect. click here      to learn the answer, then come back to try again.       the imv lies to the left of the ima    . the imv drains blood from the hindgut to the hepatic portal system. the tributaries of the imv accompany, and taking the same names as, the branches of the ima.  thus, they are the superior rectal, sigmoid and left colic veins.  as illustrated, the imv usually drains into the splenic vein, which then joins the smv to form the hepatic portal vein. in a common variation, the imv empties into the smv at the point where it joins the splenic vein. through dissection, you will see which of these variations exists in your cadaver. hundreds of lymph nodes occupy the field of the ima within the retroperitoneum and the sigmoid mesocolon. the lymphatic channels that drain this field follow the branches of the ima to the inferior mesenteric lymph nodes in the region of the junction of the ima with the abdominal aorta. this is different! you will see why it is so during dissection.   lymphatics  correct that's right! the lymph from the sigmoid colon drains to the inferior mesenteric lymph nodes.  continue continue continue continue continue continue   4. lymph from the sigmoid colon drains to the ________ ________ lymph nodes. 12a   quiz  submit</slidetext>
+      <slidetext slideid="671LrJ5gmDX.5YoLxoEBTI2" slidebank="false" type="slide">incorrect try again try again try again try again try again try again that is incorrect. click here      to learn the answer, then come back to try again.       the imv lies to the left of the ima    . the imv drains blood from the hindgut to the hepatic portal system. the tributaries of the imv accompany, and taking the same names as, the branches of the ima.  thus, they are the superior rectal, sigmoid and left colic veins.  as illustrated, the imv usually drains into the splenic vein, which then joins the smv to form the hepatic portal vein. in a common variation, the imv empties into the smv at the point where it joins the splenic vein. through dissection, you will see which of these variations exists in your cadaver. hundreds of lymph nodes occupy the field of the ima within the retroperitoneum and the sigmoid mesocolon. the lymphatic channels that drain this field follow the branches of the ima to the inferior mesenteric lymph nodes in the region of the junction of the ima with the abdominal aorta. this is different! you will see why it is so during dissection.    correct that's right! the inferior mesenteric vein drain into the splenic vein. continue continue continue continue continue continue  type your answer here 5. into what vein does the inferior mesenteric vein usually drain? 12a   quiz  submit</slidetext>
+      <slidetext slideid="671LrJ5gmDX.6HVPEJoJz3X" slidebank="false" type="slide">incorrect try again try again try again try again try again try again that is incorrect. click here      to learn the answer, then come back to try again.       the ima arises from the anterior aspect of the abdominal aorta at the level of the l3 vertebra, posterior to the horizontal portion of the duodenum. its branches supply the distal (left) 1/3 of the transverse colon, the descending and sigmoid colon and the proximal rectum. the branches of the ima are accompanied by veins which take the same name.  all branches of the ima are retroperitoneal, except those that supply the (intraperitoneal) sigmoid colon.  the left colic artery supplies the descending colon. its ascending branch extends toward the left colic flexure to supply the distal third of the transverse colon. there it anastomoses with the sma via the left branch of the middle colic artery. the union of these vessels forms the marginal artery.      the descending branch of the left colic artery anastomoses with the first sigmoid artery. three or four sigmoid arteries travel through the sigmoid mesocolon to supply the sigmoid colon. the sigmoid arteries form arcades, much like the intestinal arteries. the terminal branch of the ima is the superior rectal artery. it divides into right and left branches which pass into the pelvis on either side of the rectum.  the major anastomosis between the sma and ima is the marginal artery. it joins the middle colic artery (sma) with the left colic artery (ima) around the splenic flexure of the large intestine. correct that's right! the marginal artery forms the major arterial anastomosis between the midgut and the hindgut. continue continue continue continue continue continue   6. what is the name of the vessel that forms the major arterial anastomosis between the midgut and the hindgut? do not include the eponym. 12a   quiz  submit</slidetext>
+      <slidetext slideid="671LrJ5gmDX.5vstkkrvD14" slidebank="false" type="slide">incorrect try again try again try again try again try again try again that is incorrect. click here      to learn the answer, then come back to try again.       portal hypertension may result from, for example, cirrhosis of the liver. with elevated venous pressure in the hepatic portal system, blood draining from the rectum can bypass the portal system and flow through the middle and inferior rectal veins into the systemic (caval) system of veins via the internal iliac veins. this can result in rectal varices, dilated rectal veins, with the potential to rupture and bleed. another point of portal-systemic anastomosis is the inferior esophagus, which drains both into the left gastric vein and the azygous system of veins. portal hypertension can cause esophageal varices, which, if they rupture, can cause life-threatening hemorrhage, in the form of an upper gi bleed.  lastly, the paraumbilical veins connect the superficial veins of the anterior abdominal wall with the portal vein. portal hypertension can cause dilation of superficial abdominal veins, seen as caput medusae      of the anterior abdominal wall.  head of medusa in greek mythology, medusa was a gorgon with a hideous face and live, venomous snakes in place of hair.  correct that's right! the distal esophagus is a clinically-important point of portal-systemic (portal-caval) anastomosis. in portal hypertension, esophageal veins can rupture and hemorrhage. continue continue continue continue continue continue   7. venous blood from the _________  _____________ drains into both the left gastric vein and the azygous system of veins, and is a clinically important point of portal-systemic anastomosis. 12a   quiz  submit</slidetext>
+      <slidetext slideid="671LrJ5gmDX.5j3mezMXB2u" slidebank="false" type="slide">incorrect try again try again try again try again try again try again that is incorrect. click here      to learn the answer, then come back to try again.       the rectum receives its blood supply from three sources:  the superior rectal artery from the ima, and  the middle and inferior rectal arteries from the internal iliac arteries.  similarly, the venous drainage from the rectum empties via: the superior rectal veins into the imv and thereby into the hepatic portal system, and  the middle and inferior rectal veins into the internal iliac veins, and thus into the systemic (caval) system. thus, the rectal arteries and veins form an anastomosis between the portal and caval venous systems. this is an example of a portal-caval or portal-systemic anastomosis. correct that's right! the internal iliac artery gives rise to the middle and inferior rectal arteries. continue continue continue continue continue continue   8. which vessels give rise to the middle and inferior rectal arteries? 12a   quiz  submit</slidetext>
+      <slidetext slideid="671LrJ5gmDX.5rUxIMjP9Ym" slidebank="false" type="slide">incorrect try again try again try again try again try again try again that is incorrect. click here      to learn the answer, then come back to try again.       the pancreas develops as an outgrowth of the developing duodenum at the dividing line between the foregut and the midgut. the duodenum and pancreas, therefore, receive their blood supply from superior and inferior pancreaticoduodenal arteries, which arise from branches of the celiac trunk and superior mesenteric arteries, respectively. correct that's right! the superior and inferior pancreaticoduodenal arteries together supply blood to the pancreas and duodenum. continue continue continue continue continue continue   9. the superior and inferior __________________ arteries are branches of the celiac trunk and superior mesenteric artery, respectively that anastomose at the junction of the foregut and midgut. 12a   quiz  submit</slidetext>
+      <slidetext slideid="671LrJ5gmDX.6R0PRRHc1J8" slidebank="false" type="slide">incorrect try again try again try again try again try again try again that is incorrect. click here      to learn the answer, then come back to try again.       the duodenum, you’ll recall, is divided into four parts: the 1st (superior), the 2nd (descending), the 3rd (horizontal) and the 4th (ascending) parts.  the proximal 2 cm of the 1st part of the duodenum is intraperitoneal, and occupies the hepatoduodenal ligament. the remainder of the duodenum is secondarily retroperitoneal. the pancreas is 15 cm long, and is shaped like the letter “j”. the hook of the j wraps around the back of the superior mesenteric artery and vein. the pancreas extends from the duodenum, on the right, to the hilum of the spleen, on the left.  the pancreas is described as having:  a head, cradled in the curve of the duodenum,  a neck, lying in front of the superior mesenteric artery and vein,  an elongated and tapering body,  a tail, which occupies the splenorenal ligament and ends at the hilum of the spleen, and an uncinate     process, which extends from the head of the pancreas to wrap behind the superior mesenteric artery and vein. uncinate in the shape of a hook   the pancreas correct that's right! the superior mesenteric artery and vein lie between the neck of the pancreas and its uncinate process. continue continue continue continue continue continue   10. what major vessels lie anterior to the uncinate process of the pancreas? give your answer in full; no short forms. 12a   quiz  submit</slidetext>
+      <slidetext slideid="671LrJ5gmDX.6oXCs9WetG3" slidebank="false" type="slide">incorrect try again try again try again try again try again try again that is incorrect. click here      to learn the answer, then come back to try again.       the duodenum, you’ll recall, is divided into four parts: the 1st (superior), the 2nd (descending), the 3rd (horizontal) and the 4th (ascending) parts.  the proximal 2 cm of the 1st part of the duodenum is intraperitoneal, and occupies the hepatoduodenal ligament. the remainder of the duodenum is secondarily retroperitoneal. the pancreas is 15 cm long, and is shaped like the letter “j”. the hook of the j wraps around the back of the superior mesenteric artery and vein. the pancreas extends from the duodenum, on the right, to the hilum of the spleen, on the left.  the pancreas is described as having:  a head, cradled in the curve of the duodenum,  a neck, lying in front of the superior mesenteric artery and vein,  an elongated and tapering body,  a tail, which occupies the splenorenal ligament and ends at the hilum of the spleen, and an uncinate     process, which extends from the head of the pancreas to wrap behind the superior mesenteric artery and vein. uncinate in the shape of a hook  correct that's right! the first (superior) part of the duodenum is contained within the hepatoduodenal ligament. continue continue continue continue continue continue   11. which part of the duodenum is contained within the hepatoduodenal ligament? 12a   quiz  submit</slidetext>
+      <slidetext slideid="671LrJ5gmDX.69jQyrrTdTJ" slidebank="false" type="slide">incorrect try again try again try again try again try again try again that is incorrect. click here      to learn the answer, then come back to try again.       fifteen to eighteen jejunal and ileal arteries arise from the left side of the sma to form intestinal arcades     . these arching vessels form a network within the mesentery from which vasa recta arise to supply the intestine    . the characteristic architecture of the jejunal vessels is distinctly different from that of the ileal vessels. the jejunum has a simpler network of arcades that give rise to longer vasa recta (a), while the ileal arcades are much more complex, and give rise to shorter vasa recta (b). arcades in architecture, arcades are a series of arches with their supporting columns. the term comes from the latin arcus, meaning arch or bow.  vasa recta “straight vessels”  correct that's right! the vasa recta of the jejunum are longer than those of the ileum and their arcades are simpler. continue continue continue continue continue continue   12. the vasa recta of the jejunum are ______________ than those of the ileum. (longer/shorter) 12a   quiz  submit</slidetext>
+      <slidetext slideid="671LrJ5gmDX.5tdTKRtupqm" slidebank="false" type="slide">  quiz: exercise 12.1 welcome to the quiz for exercise 12.1! click below to get started. begin begin begin review exercise 12.1 review exercise 12.1 review exercise 12.1 review exercise 12.1 review exercise 12.1 quiz selection </slidetext>
+      <slidetext slideid="671LrJ5gmDX.6pkkCvGCb6H" slidebank="false" type="slide">incorrect try again try again try again try again try again try again that is incorrect. click here      to learn the answer, then come back to try again.       epiploic appendages the large intestine is 1.5 m long and extends from the cecum to the anus. it functions to absorb water and salt from the luminal contents to form feces. it includes the cecum, appendix, colon, rectum and anal canal. identify the cecum, ascending, transverse, descending and sigmoid colon. tas k identify the right colic flexure (hepatic flexure) and the left colic flexure (splenic flexure). notice that the ascending and descending colon, being secondarily retroperitoneal, are fixed to the posterior abdominal wall. identify the spaces lateral to both the ascending and descending colon, next, identify the features that distinguish the colon from the small intestine: 1.	its larger diameter; 2.	epiploic (omental) appendages, tags attached to the colon composed of fat enclosed in peritoneum; 3.	teniae coli, three longitudinal strips of smooth muscle that comprise the outer layer of its muscularis externa; 4.	haustra, the sacculations of the large bowel formed by contraction of the teniae coli. the right and left paracolic gutters. fluid may accumulate in these spaces in a supine individual, and channel though these spaces with upright posture. identify the transverse mesocolon and sigmoid mesocolon. correct that's right! the omental (epiploic) appendages are the serous membrane-covered fatty tags on the surface of the large bowel. continue continue continue continue continue continue   1. what is the name of the serous membrane-covered fatty tags on the surface of the large bowel? 12.1   quiz  submit</slidetext>
+      <slidetext slideid="671LrJ5gmDX.5VJ5WD2SmTd" slidebank="false" type="slide">incorrect try again try again try again try again try again try again that is incorrect. click here      to learn the answer, then come back to try again.       identify the right colic artery, tas k identify the middle colic artery,  tas k which runs in a retroperitoneal position from the right side of the sma to the (retroperitoneal) ascending colon. note its inferior branch, which anastomoses with the ileocolic artery and its superior branch which anastomoses with the middle colic artery, to be dissected next. as you did with the jejunal and ileal branches, clean both lamina of the transverse mesocolon and all intervening tissue to expose the middle colic artery.  note that it gives rise to right and left branches, which anastomose with the right colic artery and the left colic artery of the ima, respectively.  which is one of the first branches of the sma after its branch to the duodenum and   pancreas. it arises from the anterior surface of the sma and enters the transverse mesocolon to supply the transverse colon.   correct that's right! the middle colic artery is branch of the superior mesenteric artery that is contained in the transverse mesocolon continue continue continue continue continue continue 2. what is the name of the branch of the superior mesenteric artery that is contained in the transverse mesocolon?   12.1   quiz  submit</slidetext>
+      <slidetext slideid="671LrJ5gmDX.5avdIrTZUz8" slidebank="false" type="slide">incorrect try again try again try again try again try again try again that is incorrect. click here      to learn the answer, then come back to try again.       using blunt dissection techniques, thoroughly tas k clean the ima and imv, and their branches. clean and identify the left colic artery, which supplies the descending colon. identify its ascending branch  extending toward the left colic flexure to supply the distal third of the transverse colon. it anastomoses with the sma via the left branch of the middle colic artery, thus forming the marginal artery.      identify and clean the descending branch of the left colic artery. it anastomoses with the first sigmoid artery. identify and clean the sigmoid arteries, three or four vessels that run in the sigmoid mesocolon to supply the sigmoid colon.  thoroughly dissect both laminae of the sigmoid mesocolon, removing all intervening tissue. this will reveal the characteristic architecture of the sigmoid arteries, which form arcades, much like the intestinal arteries. identify the terminal branch of the ima, the superior rectal artery. it divides into right and left branches which pass into the pelvis on either side of the rectum. correct that's right! the superior rectal artery is the last branch of the inferior mesenteric artery. continue continue continue continue continue continue   3. what is the name of the last branch of the inferior mesenteric artery? 12.1   quiz  submit</slidetext>
+      <slidetext slideid="671LrJ5gmDX.5sXf1GWw774" slidebank="false" type="slide">incorrect try again try again try again try again try again try again that is incorrect. click here      to learn the answer, then come back to try again.       inferior mesenteric nodes identify the imv to the left of the ima.  tas k the imv drains blood from the hindgut to the hepatic portal system. identify the tributaries of the imv accompanying, and taking the same  names as, the branches of the ima.  thus, identify the superior rectal, sigmoid and left colic veins.  clean the imv superiorly until it passes posterior to the pancreas. the imv usually drains into the splenic vein, which then joins the smv to form the hepatic portal vein. in a common variation, the imv empties into the smv at the point where it joins the splenic vein. clear the imv a little further, posterior to the pancreas and determine which of these variations exist in your cadaver. recall that hundreds of lymph nodes occupy the field of the ima within the retroperitoneum and the sigmoid mesocolon. you will have removed many of them during dissection. the lymphatic channels that drain this field follow the branches of the ima to the inferior mesenteric lymph nodes in the region of the junction of the ima with the abdominal aorta.  correct that's right! the lymph from the sigmoid colon drains to the inferior mesenteric lymph nodes.  continue continue continue continue continue continue   4. lymph from the sigmoid colon drains to the __________ _________ lymph nodes. 12.1   quiz  submit</slidetext>
+      <slidetext slideid="671LrJ5gmDX.6EnM80MiTVR" slidebank="false" type="slide">incorrect try again try again try again try again try again try again that is incorrect. click here      to learn the answer, then come back to try again.       the splenic vein              identify the imv to the left of the ima.  tas k the imv drains blood from the hindgut to the hepatic portal system. identify the tributaries of the imv accompanying, and taking the same  names as, the branches of the ima.  thus, identify the superior rectal, sigmoid and left colic veins.  clean the imv superiorly until it passes posterior to the pancreas. the imv usually drains into the splenic vein, which then joins the smv to form the hepatic portal vein. in a common variation, the imv empties into the smv at the point where it joins the splenic vein. clear the imv a little further, posterior to the pancreas and determine which of these variations exist in your cadaver. recall that hundreds of lymph nodes occupy the field of the ima within the retroperitoneum and the sigmoid mesocolon. you will have removed many of them during dissection. the lymphatic channels that drain this field follow the branches of the ima to the inferior mesenteric lymph nodes in the region of the junction of the ima with the abdominal aorta. correct that's right! the inferior mesenteric vein drain into the splenic vein. continue continue continue continue continue continue  type your answer here 5. into what vein does the inferior mesenteric vein usually drain? 12.1   quiz  submit</slidetext>
+      <slidetext slideid="671LrJ5gmDX.5obXSIW69L6" slidebank="false" type="slide">incorrect try again try again try again try again try again try again that is incorrect. click here      to learn the answer, then come back to try again.       using blunt dissection techniques, thoroughly tas k clean the ima and imv, and their branches. clean and identify the left colic artery, which supplies the descending colon. identify its ascending branch  extending toward the left colic flexure to supply the distal third of the transverse colon. it anastomoses with the sma via the left branch of the middle colic artery, thus forming the marginal artery.      identify and clean the descending branch of the left colic artery. it anastomoses with the first sigmoid artery. identify and clean the sigmoid arteries, three or four vessels that run in the sigmoid mesocolon to supply the sigmoid colon.  thoroughly dissect both laminae of the sigmoid mesocolon, removing all intervening tissue. this will reveal the characteristic architecture of the sigmoid arteries, which form arcades, much like the intestinal arteries. identify the terminal branch of the ima, the superior rectal artery. it divides into right and left branches which pass into the pelvis on either side of the rectum.  the major anastomosis between the sma and ima is the marginal artery. it connects the middle colic artery (from the sma) with the left colic artery (from the ima) around the splenic flexure of the large intestine. correct that's right! the marginal artery forms the major arterial anastomosis between the midgut and the hindgut. continue continue continue continue continue continue   6. what is the name of the vessel that forms the major arterial anastomosis between the midgut and the hindgut? 12.1   quiz  submit</slidetext>
+      <slidetext slideid="671LrJ5gmDX.5aivHyWCQjf" slidebank="false" type="slide">head of pancreas   the pancreas crosses the midline at the level of the l1 to l3 vertebral bodies. thoroughly clean the pancreas  tas k again, students can work on both sides of the cadaver. identify the parts of the pancreas with reference to the accompanying diagram.  notice that its head occupies the curve of the duodenum and lies anterior to the ivc.  identify the uncinate process extending from the head of the pancreas posterior to the superior mesenteric vessels and anterior to the abdominal aorta.  identify the neck of the pancreas anterior to the sma and smv, and its body extending to the left, sloping slightly superiorly.  note the tail of the pancreas extending toward the hilum of the spleen. the tip of the tail of the pancreas, which lies within the splenorenal ligament, is intraperitoneal, and contacts the hilum of the spleen. correct that's right! the head of the pancreas lies in the curve of the duodenum. continue continue continue continue continue continue incorrect try again try again try again try again try again try again that is incorrect. click here      to learn the answer, then come back to try again.         7. identify a. be specific. 12.1   quiz  submit</slidetext>
+      <slidetext slideid="671LrJ5gmDX.6HvS81dJYLc" slidebank="false" type="slide">incorrect try again try again try again try again try again try again that is incorrect. click here      to learn the answer, then come back to try again.       right renal vessels, and inferior vena cava. it, like the remainder of the duodenum, is retroperitoneal. the 2nd part of the duodenum receives the common bile duct and pancreatic duct. the 3rd (horizontal) part crosses the abdomen horizontally from right to left at the level of the l3 vertebra. notice that it lies anterior to the inferior vena cava and the abdominal aorta, and posterior to the superior mesenteric vessels. the 4th (ascending) part ascends to the l2 vertebral level. the ascending part of the duodenum turns anteriorly to emerge from the posterior body wall where it is continuous with the jejunum at the duodenojejunal junction. continue to work, noting the details regarding the different parts of the duodenum: tas k the 2nd (descending) part lies to the right of the midline, at the level of the l2 vertebra, anterior to the hilum of the right kidney,  correct that's right! the third, or horizontal, part of the duodenum passes posterior to the smv and sma. continue continue continue continue continue continue 8. identify b. be specific.  type your answer here 12.1   quiz  submit</slidetext>
+      <slidetext slideid="671LrJ5gmDX.6RqJzZbsot6" slidebank="false" type="slide">incorrect try again try again try again try again try again try again that is incorrect. click here      to learn the answer, then come back to try again.       main pancreatic duct     within the head of the pancreas, the common bile duct unites with the main pancreatic duct, thus forming the hepatopancreatic ampulla     . it empties into the 2nd part of the duodenum at the major duodenal papilla. the papilla is formed by a ring of smooth muscle, the hepatopancreatic sphincter     , which controls the flow of bile and pancreatic juice into the duodenum. hepatopancreatic ampulla clinicians might refer to this by its eponym, the ampulla of vater.  hepatopancreatic sphincter clinicians might refer to this by its eponym, the sphincter of oddi. if you run with the cool kids, you simply refer to it as so. me, of course i call it the hepatopancreatic sphincter.  dissect the common bile duct posterior to the 1st part of the duodenum  tas k it might help to reflect the duodenum to the left. continue until the common bile duct meets the wall of the 2nd part of the duodenum. bisect the pancreas through the junction between its head and neck. your cut should pass to the right of the smv. be careful to leave intact the sma and smv. look into the cut edge of the head of the  pancreas and identify the lumen of the main pancreatic duct. using a blunt probe and forceps, dissect the pancreatic duct through the head of the pancreas toward the 2nd part of the duodenum. look for the accessory pancreatic duct, which joins the main duct from above. locate the point at which the main pancreatic duct unites with the common bile duct, at the wall of the 2nd part of the duodenum. correct that's right! the main pancreatic duct meets the common bile duct at the second part of the duodenum. continue continue continue continue continue continue  type your answer here 9. identify a. be specific. 12.1   quiz  submit</slidetext>
+      <slidetext slideid="671LrJ5gmDX.6OtpnlFmVfB" slidebank="false" type="slide">incorrect try again try again try again try again try again try again that is incorrect. click here      to learn the answer, then come back to try again.       main pancreatic duct     within the head of the pancreas, the common bile duct unites with the main pancreatic duct, thus forming the hepatopancreatic ampulla     . it empties into the 2nd part of the duodenum at the major duodenal papilla. the papilla is formed by a ring of smooth muscle, the hepatopancreatic sphincter     , which controls the flow of bile and pancreatic juice into the duodenum. hepatopancreatic ampulla clinicians might refer to this by its eponym, the ampulla of vater.  hepatopancreatic sphincter clinicians might refer to this by its eponym, the sphincter of oddi. if you run with the cool kids, you simply refer to it as so. me, of course i call it the hepatopancreatic sphincter.  dissect the common bile duct posterior to the 1st part of the duodenum  tas k it might help to reflect the duodenum to the left. continue until the common bile duct meets the wall of the 2nd part of the duodenum. bisect the pancreas through the junction between its head and neck. your cut should pass to the right of the smv. be careful to leave intact the sma and smv. look into the cut edge of the head of the  pancreas and identify the lumen of the main pancreatic duct. using a blunt probe and forceps, dissect the pancreatic duct through the head of the pancreas toward the 2nd part of the duodenum. look for the accessory pancreatic duct, which joins the main duct from above. locate the point at which the main pancreatic duct unites with the common bile duct, at the wall of the 2nd part of the duodenum. correct that's right! the hepatopancreatic or duodenal ampulla is formed by the union of the common bile duct and the main pancreatic duct. its eponymous name is the ampulla of vater. continue continue continue continue continue continue  type your answer here 10. name the structure formed by the union of a and b. 12.1   quiz  submit</slidetext>
+      <slidetext slideid="671LrJ5gmDX.6VGgNOWOl6O" slidebank="false" type="slide">incorrect try again try again try again try again try again try again that is incorrect. click here      to learn the answer, then come back to try again.       the veins of the pancreas follow the arteries. look at the accompanying diagram to make sense of the following     : veins draining the head, neck and uncinate process empty into the smv and veins draining the body and tail drain into the splenic vein.  make sense of it. if you understand the anatomy, the description of the venous drainage becomes logical. you will remember it because you understand it, not because you’ve memorized it.  posterior to the neck of the pancreas, the splenic vein joins the smv to form the hepatic portal vein. the hepatic portal system of veins drains the abdominal portion of the digestive system, including the pancreas and the spleen, to the liver. the liver processes and detoxifies this blood before emptying it, via the hepatic veins, into the caval system.  clinically important points of portal-systemic (portal-caval) anastomosis       are the gastroesophageal, anorectal and paraumbilical anastomoses. because the portal venous system lacks valves, portal hypertension results in engorgement of its tributaries that can extend into these anastomotic channels. correct that's right! the splenic vein joins the smv to form the hepatic portal vein. continue continue continue continue continue continue  type your answer here 11. identify a.  12.1   quiz  submit</slidetext>
+      <slidetext slideid="671LrJ5gmDX.5thrilzTYbq" slidebank="false" type="slide">incorrect try again try again try again try again try again try again that is incorrect. click here      to learn the answer, then come back to try again.       inferior mesenteric vein     identify the imv to the left of the ima.  tas k the imv drains blood from the hindgut to the hepatic portal system. identify the tributaries of the imv accompanying, and taking the same  names as, the branches of the ima.  thus, identify the superior rectal, sigmoid and left colic veins.  clean the imv superiorly until it passes posterior to the pancreas. the imv usually drains into the splenic vein, which then joins the smv to form the hepatic portal vein. in a common variation, the imv empties into the smv at the point where it joins the splenic vein. clear the imv a little further, posterior to the pancreas and determine which of these variations exist in your cadaver. recall that hundreds of lymph nodes occupy the field of the ima within the retroperitoneum and the sigmoid mesocolon. you will have removed many of them during dissection. the lymphatic channels that drain this field follow the branches of the ima to the inferior mesenteric lymph nodes in the region of the junction of the ima with the abdominal aorta. correct that's right! in most people, the imv drains into the splenic vein, although in a common variation it drains into the union of the splenic vein and smv. continue continue continue continue continue continue  type your answer here 12. identify b. 12.1   quiz  submit</slidetext>
+    </search>
+  </nav_data>
+  <resource_data description="" />
+  <transcript_data />
+  <glossary_data />
+</bwFrame>

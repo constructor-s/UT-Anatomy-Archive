@@ -1,0 +1,1358 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="npnxnanbnsnfns01001000011" textdirection="ltr" device="false" fontscale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="classic">
+  <layouts>
+    <layout name="npnxnanbsnfns01001000011" font="Calibri" controllayout="npnxnanbsnfns01001000011" colorscheme="npnxnanbnsnfns01001000011" string_table="npnxnanbnsnfns01001000011" />
+    <layout name="pxabnsnfns01001000011" font="Calibri" controllayout="pxabnsnfns01001000011" colorscheme="npnxnanbnsnfns01001000011" string_table="npnxnanbnsnfns01001000011" />
+    <layout name="npxnabnsnfns01001000011" font="Calibri" controllayout="npxnabnsnfns01001000011" colorscheme="npnxnanbnsnfns01001000011" string_table="npnxnanbnsnfns01001000011" />
+    <layout name="npnxnanbnsnfns01001000011" font="Calibri" controllayout="npnxnanbnsnfns01001000011" colorscheme="npnxnanbnsnfns01001000011" string_table="npnxnanbnsnfns01001000011" />
+    <layout name="pxabnsnfns01001000010" font="Calibri" controllayout="pxabnsnfns01001000010" colorscheme="npnxnanbnsnfns01001000011" string_table="npnxnanbnsnfns01001000011" />
+    <layout name="npnxabnsnfns01001000011" font="Calibri" controllayout="npnxabnsnfns01001000011" colorscheme="npnxnanbnsnfns01001000011" string_table="npnxnanbnsnfns01001000011" />
+  </layouts>
+  <control_options>
+    <optiongroups>
+      <optiongroup name="sidebaroptions">
+        <options>
+          <option name="title_enabled" value="true">
+            <options>
+              <option name="title_text" value="H02 Ordinary Connective Tissue 2019" />
+            </options>
+          </option>
+          <option name="logo_enabled" value="true">
+            <options>
+              <option name="logo_url" value="story_content/logo.swf">
+                <properties>
+                  <property name="width" value="1024" />
+                  <property name="height" value="229" />
+                </properties>
+              </option>
+              <option name="html5_logo_url" value="mobile/6Nqx3NjOfyy.jpg" />
+            </options>
+          </option>
+          <option name="sidebar_enabled" value="true">
+            <options>
+              <option name="sidebarpos" value="left" />
+            </options>
+          </option>
+          <optionlist name="tabs">
+            <listitems>
+              <listitem name="customlink" value="true" group="linkleft">
+                <properties>
+                  <property name="title" value="Acknowledgments" />
+                  <property name="data" value="5toZT0PPlEg" />
+                  <property name="ignoreSlideLock" value="true" />
+                </properties>
+              </listitem>
+              <listitem name="resources" value="false" group="linkright" />
+              <listitem name="outline" value="true" group="sidebar" />
+              <listitem name="glossary" value="false" group="sidebar" />
+              <listitem name="transcript" value="false" group="sidebar" />
+            </listitems>
+          </optionlist>
+          <option name="time_enabled" value="false">
+            <options>
+              <option name="time_format" value="elapsed" />
+            </options>
+          </option>
+          <option name="video_enabled" value="false">
+            <options>
+              <option name="height" value="135" />
+            </options>
+          </option>
+        </options>
+      </optiongroup>
+      <optiongroup name="menuoptions">
+        <options>
+          <option name="flow" value="free" />
+          <option name="wraplistitems" value="false" />
+          <option name="tooltips" value="true" />
+          <option name="autocollapse" value="true" />
+          <option name="autonumber" value="false" />
+          <option name="enableresultsicons" value="true" />
+        </options>
+      </optiongroup>
+      <optiongroup name="controls">
+        <options>
+          <option name="volume" value="false" />
+          <option name="seekbar" value="false">
+            <options>
+              <option name="readonly" value="false" />
+              <option name="readonlyOnce" value="false" />
+            </options>
+          </option>
+          <option name="pauseplay" value="false" />
+          <option name="replay" value="false" />
+          <option name="search" value="true" />
+          <option name="closed_captions" value="false">
+            <options>
+              <option name="font" value="Calibri" />
+            </options>
+          </option>
+        </options>
+      </optiongroup>
+      <optiongroup name="bottombaroptions">
+        <options>
+          <option name="bottombar_enabled" value="false" />
+        </options>
+      </optiongroup>
+    </optiongroups>
+  </control_options>
+  <control_layouts>
+    <control_layout name="npnxnanbsnfns01001000011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="true" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns01001000011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npxnabnsnfns01001000011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npnxnanbnsnfns01001000011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns01001000010">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="false" />
+    </control_layout>
+    <control_layout name="npnxabnsnfns01001000011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+  </control_layouts>
+  <colorschemes>
+    <colorscheme name="npnxnanbnsnfns01001000011">
+      <color_group name="infopanel">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x7C2280" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0000EE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC73013" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="title_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x999999" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="infopanelpopup">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFC4A2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xED5736" alpha="100" stop="0" />
+                <color rgb="0xD44120" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFC4A2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bio_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="timer">
+        <group_colors>
+          <color name="duration">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x00D7FF" alpha="100" stop="0" />
+                <color rgb="0x00ABFF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="elapsed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFEE347" alpha="100" stop="0" />
+                <color rgb="0xFCCC2A" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="stroke">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC7C7C7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="window">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xED5736" alpha="100" stop="0" />
+                <color rgb="0xD44120" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xEB8964" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF49277" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD63F21" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="20" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="editor">
+        <group_colors>
+          <color name="slide_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="html_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC23115" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC93518" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE15429" alpha="100" stop="0" />
+                <color rgb="0xC42D16" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD84121" alpha="100" stop="0" />
+                <color rgb="0xDE4C27" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE1512A" alpha="100" stop="0" />
+                <color rgb="0xD63A1D" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="listitem">
+        <group_colors>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x671B6B" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF98E6E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="viewed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFC4A2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF17D5E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="lines">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDA563A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="glossary">
+        <group_colors>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF98E6E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE85F39" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD96244" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD96244" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF98B6A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xEC7B59" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="resource">
+        <group_colors>
+          <color name="separator">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD35338" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="outline">
+        <group_colors>
+          <color name="search_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFC4A2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD35338" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xEB9471" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCF5336" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="transcript">
+        <group_colors>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="div">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD35338" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="tabs">
+        <group_colors>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC73013" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFC4A2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xED7254" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="seekcontrol">
+        <group_colors>
+          <color name="btn_icon_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFE1D0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_position">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE97D65" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD33F1F" alpha="100" stop="0" />
+                <color rgb="0xCA3416" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC32E13" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE65832" alpha="100" stop="0" />
+                <color rgb="0xDF3F23" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="searchinput">
+        <group_colors>
+          <color name="text_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2D2D2D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2D2D2D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xEB9471" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE76E52" alpha="100" stop="0" />
+                <color rgb="0xE2694D" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icon">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD7654B" alpha="100" stop="0" />
+                <color rgb="0xC42F13" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="scrollarea">
+        <group_colors>
+          <color name="detailb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCA3518" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="detaila">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xEA7C5D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCB3519" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icons">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCA3417" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE55D3B" alpha="100" stop="0" />
+                <color rgb="0xDB4D32" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE2522C" alpha="100" stop="0" />
+                <color rgb="0xD93E20" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF8795B" alpha="100" stop="0" />
+                <color rgb="0xF8795B" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="0">
+              <colors>
+                <color rgb="0xED6546" alpha="100" stop="0" />
+                <color rgb="0xEE6948" alpha="100" stop="128" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="menu">
+        <group_colors>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD35235" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xED7254" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="logo">
+        <group_colors>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC73013" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="checkbox">
+        <group_colors>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6BF8FF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="check">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2BC400" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD35338" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="button">
+        <group_colors>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC23115" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC93518" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE15429" alpha="100" stop="0" />
+                <color rgb="0xC42D16" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD84121" alpha="100" stop="0" />
+                <color rgb="0xDE4C27" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE1512A" alpha="100" stop="0" />
+                <color rgb="0xD63A1D" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="10" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="base">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD63F21" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF49277" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="menu_shade">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDD5233" alpha="100" stop="0" />
+                <color rgb="0xC53D1E" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF5674A" alpha="100" stop="0" />
+                <color rgb="0xF5674A" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xED5736" alpha="100" stop="0" />
+                <color rgb="0xD44120" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slide_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xED5736" alpha="100" stop="0" />
+                <color rgb="0xD44120" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="volume">
+        <group_colors>
+          <color name="thumb_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCB361A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE55E3B" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDB4524" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF26E50" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE75E36" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="HTML">
+        <group_colors>
+          <color name="htmlpage_bg_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x018CB0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+    </colorscheme>
+  </colorschemes>
+  <string_tables>
+    <string_table name="npnxnanbnsnfns01001000011">
+      <string id="acc_active">active</string>
+      <string id="check_include">Check to include</string>
+      <string id="clear">Clear and return to menu</string>
+      <string id="close">Close</string>
+      <string id="acc_closed_captions">Closed captions. Press the spacebar to toggle captions on and off.</string>
+      <string id="continue">Continue</string>
+      <string id="continueresponsive">Continue</string>
+      <string id="exit">Exit</string>
+      <string id="filter">Filter</string>
+      <string id="finish">FINISH</string>
+      <string id="acc_finish">finish</string>
+      <string id="definition">Definition</string>
+      <string id="acc_definition">definition</string>
+      <string id="glossary">Glossary</string>
+      <string id="terms">Terms</string>
+      <string id="outline">Menu</string>
+      <string id="disabled_orientation">Please rotate your device</string>
+      <string id="next">NEXT</string>
+      <string id="acc_next">next</string>
+      <string id="transcript_chk">Notes</string>
+      <string id="transcript">Notes</string>
+      <string id="bio">Bio</string>
+      <string id="more_info">More info</string>
+      <string id="closed_captions">Captions</string>
+      <string id="acc_pause">pause</string>
+      <string id="acc_play">play</string>
+      <string id="send_an_email">Send an email</string>
+      <string id="prev">PREV</string>
+      <string id="acc_previous">previous</string>
+      <string id="question_list">Question List</string>
+      <string id="acc_replay">replay</string>
+      <string id="resources">Resources</string>
+      <string id="acc_resources">resources</string>
+      <string id="restart">Restart</string>
+      <string id="resume">Resume</string>
+      <string id="search">Search...</string>
+      <string id="acc_search_input">search</string>
+      <string id="search_in">Search in:</string>
+      <string id="search_results">Search Results</string>
+      <string id="acc_skipnavigation">Skip navigation. Press enter to return to the slide.</string>
+      <string id="slide_text_chk">Slide Text</string>
+      <string id="submitall">SUBMIT ALL</string>
+      <string id="acc_submitall">submit all</string>
+      <string id="submit">SUBMIT</string>
+      <string id="acc_submit">submit</string>
+      <string id="acc_volume">volume</string>
+    </string_table>
+  </string_tables>
+  <fonts>
+    <font name="Calibri">
+      <files>
+        <file bold="true" italic="false" />
+        <file bold="false" italic="false" />
+      </files>
+    </font>
+    <font name="Arial">
+      <files>
+        <file bold="false" italic="false" />
+      </files>
+    </font>
+  </fonts>
+  <sounds enabled="true" />
+  <nav_data>
+    <outline>
+      <links>
+        <slidelink slideid="_player.6HTFG359OBF" displaytext="Start" expand="false" type="slide">
+          <links>
+            <slidelink slideid="_player.6HTFG359OBF.6fg17kTHFuu" displaytext="Using the emodule" expand="false" type="slide" />
+            <slidelink slideid="_player.6HTFG359OBF.5amnTpsr4vW" displaytext="Conventions Used in the eModule" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6TCHPUvcZY4" displaytext="H02 Ordinary Connective Tissue" expand="false" type="slide">
+          <links>
+            <slidelink slideid="_player.6TCHPUvcZY4.645uDVd1FOe" displaytext="1. References" expand="false" type="slide" />
+            <slidelink slideid="_player.6TCHPUvcZY4.6a0ptYPGt2m" displaytext="2. Objectives" expand="false" type="slide" />
+            <slidelink slideid="_player.6TCHPUvcZY4.6lqHlSajy66" displaytext="3. Connective Tissues are like Jell-o Salads" expand="false" type="slide" />
+            <slidelink slideid="_player.6TCHPUvcZY4.6dqeTf7EqFo" displaytext="4. Recall:" expand="false" type="slide" />
+            <slidelink slideid="_player.6TCHPUvcZY4.5x444uqo45l" displaytext="5. CT Components: Fibres" expand="false" type="slide" />
+            <slidelink slideid="_player.6TCHPUvcZY4.68cDWD1rsHM" displaytext="6. CT Components: Tissue Fluid" expand="false" type="slide" />
+            <slidelink slideid="_player.6TCHPUvcZY4.6ayorqtgcYJ" displaytext="7. Circulation of Tissue Fluid" expand="false" type="slide" />
+            <slidelink slideid="_player.6TCHPUvcZY4.63znBoh9DbX" displaytext="8. Lymph Returns to Blood" expand="false" type="slide" />
+            <slidelink slideid="_player.6TCHPUvcZY4.5vn2JbRPo33" displaytext="9. Edema" expand="false" type="slide" />
+            <slidelink slideid="_player.6TCHPUvcZY4.6X04J06zqC2" displaytext="10. CT Components: Organic Components of the GS" expand="false" type="slide" />
+            <slidelink slideid="_player.6TCHPUvcZY4.6MjWveWoEo3" displaytext="11. Another word about the basement membrane" expand="false" type="slide" />
+            <slidelink slideid="_player.6TCHPUvcZY4.6MzSJbnmi1E" displaytext="12. CT Components: Cells" expand="false" type="slide" />
+            <slidelink slideid="_player.6TCHPUvcZY4.5V6OKPVlV5Q" displaytext="13. CT Proper: Cells" expand="false" type="slide" />
+            <slidelink slideid="_player.6TCHPUvcZY4.6AbVkz9XavZ" displaytext="14. CT Components: The End" expand="false" type="slide" />
+            <slidelink slideid="_player.6TCHPUvcZY4.63BT4ahoLcW" displaytext="15. A Classification of Connective Tissue" expand="false" type="slide" />
+            <slidelink slideid="_player.6TCHPUvcZY4.5bkx1QnKRMe" displaytext="16. Loose CT: a) Areolar CT" expand="false" type="slide" />
+            <slidelink slideid="_player.6TCHPUvcZY4.5fcypOkQiKM" displaytext="17. Dense CT: a) Dense Regular CT " expand="false" type="slide" />
+            <slidelink slideid="_player.6TCHPUvcZY4.6D2gJAYBId6" displaytext="18. Dense CT: b) Dense Irregular CT" expand="false" type="slide" />
+            <slidelink slideid="_player.6TCHPUvcZY4.5fjPiXMAXnV" displaytext="19. Dense CT: c) Elastic Tissue" expand="false" type="slide" />
+            <slidelink slideid="_player.6TCHPUvcZY4.6J1QWoPpLAx" displaytext="20. Specialized CT Proper: a) Reticular CT" expand="false" type="slide" />
+            <slidelink slideid="_player.6TCHPUvcZY4.6POvcBmhX1l" displaytext="21. Specialized CT Proper: b) Adipose" expand="false" type="slide" />
+            <slidelink slideid="_player.6TCHPUvcZY4.6YRQbubeZaT" displaytext="22. Summary" expand="false" type="slide" />
+            <slidelink slideid="_player.6TCHPUvcZY4.606FEFY4cr9" displaytext="23. Quiz Start" expand="false" type="slide">
+              <links>
+                <slidelink slideid="_player.6TCHPUvcZY4.5XUItAlUBHh" displaytext="Question 1" expand="false" type="slide" />
+                <slidelink slideid="_player.6TCHPUvcZY4.6Qr7c5BQUrD" displaytext="Question 2" expand="false" type="slide" />
+                <slidelink slideid="_player.6TCHPUvcZY4.5mDwQB4i7bA" displaytext="Question 3" expand="false" type="slide" />
+                <slidelink slideid="_player.6TCHPUvcZY4.5YMk7btuNqX" displaytext="Question 4" expand="false" type="slide" />
+                <slidelink slideid="_player.6TCHPUvcZY4.6CbEgdbp72B" displaytext="Question 5" expand="false" type="slide" />
+                <slidelink slideid="_player.6TCHPUvcZY4.6f4Tbwekqph" displaytext="Question 6" expand="false" type="slide" />
+                <slidelink slideid="_player.6TCHPUvcZY4.5Ymxq9SplaL" displaytext="Question 7" expand="false" type="slide" />
+                <slidelink slideid="_player.6TCHPUvcZY4.6HRIBeXElTd" displaytext="Question 8" expand="false" type="slide" />
+                <slidelink slideid="_player.6TCHPUvcZY4.67EzhjUjCUK" displaytext="Question 9" expand="false" type="slide" />
+                <slidelink slideid="_player.6TCHPUvcZY4.5ddwNc2d5B2" displaytext="Question 10" expand="false" type="slide" />
+                <slidelink slideid="_player.6TCHPUvcZY4.69xcExahQAO" displaytext="Question 11" expand="false" type="slide" />
+                <slidelink slideid="_player.6TCHPUvcZY4.5tVoAZqYigq" displaytext="Question 12" expand="false" type="slide" />
+                <slidelink slideid="_player.6TCHPUvcZY4.6hGz92Tf4Fm" displaytext="Question 13" expand="false" type="slide" />
+                <slidelink slideid="_player.6TCHPUvcZY4.6Hc4khIjPub" displaytext="Question 14" expand="false" type="slide" />
+                <slidelink slideid="_player.6TCHPUvcZY4.5oEm4QxcjgZ" displaytext="Question 15" expand="false" type="slide" />
+                <slidelink slideid="_player.6TCHPUvcZY4.6kAY3wH7i3y" displaytext="Question 16" expand="false" type="slide" />
+                <slidelink slideid="_player.6TCHPUvcZY4.5zldD7BnhrY" displaytext="Question 17" expand="false" type="slide" />
+                <slidelink slideid="_player.6TCHPUvcZY4.6UGrMxUSXnz" displaytext="Question 18" expand="false" type="slide" />
+                <slidelink slideid="_player.6TCHPUvcZY4.6F3BsNZCuHr" displaytext="Question 19" expand="false" type="slide" />
+                <slidelink slideid="_player.6TCHPUvcZY4.65quiNsxbfA" displaytext="Question 20" expand="false" type="slide" />
+                <slidelink slideid="_player.6TCHPUvcZY4.6ZYNhTKMywV" displaytext="Question 21" expand="false" type="slide" />
+                <slidelink slideid="_player.6TCHPUvcZY4.5fWNZf0lHUh" displaytext="Question 22" expand="false" type="slide" />
+                <slidelink slideid="_player.6TCHPUvcZY4.63NbCWITM2b" displaytext="Question 23" expand="false" type="slide" />
+              </links>
+            </slidelink>
+            <slidelink slideid="_player.6TCHPUvcZY4.6LEUWvZrJGr" displaytext="End of H2" expand="false" type="slide" />
+          </links>
+        </slidelink>
+      </links>
+    </outline>
+    <search>
+      <slidetext slideid="6HTFG359OBF.604AHAGuDGf" slidebank="false" type="slide">ordinary connective tissue click to begin click to begin click to begin  histology emodule tutorial emodule tutorial emodule tutorial </slidetext>
+      <slidetext slideid="6HTFG359OBF.6fg17kTHFuu" slidebank="false" type="slide">to complete each section, use the next button at the bottom of the pages or press the right arrow key to move forward one page at a time.  use the menu, available by clicking “menu” at the top, to navigate to specific slides. use search to quickly find instances of relevant terms. use the previous button at the bottom of the pages or press the left arrow key to move back one page at a time. note: you can also swipe right and left in order to navigate forward and backward respectively.  previous next using the emodule h3 ordinary ct    1.references    2. objective    3. connective </slidetext>
+      <slidetext slideid="6HTFG359OBF.5amnTpsr4vW" slidebank="false" type="slide">previous start with age, wear and tear,  info an intervertebral disc can herniate, such that the nucleus pulposus…. information that has implications for health and disease is introduced on a blue bar and continued below: conventions used in the emodule some slides contain the “slide talk” icon on the title bar. click this icon to hear me explain or elaborate on slide content.  some words are followed by an icon      ; click the icon to jump to related slides. some words are followed by an icon      ; click the icon to see a definition or explanation.  words / phrases in purple denote concepts with which you should make a point of becoming familiar. some slides contain the icon         which means that you are within a “layer” of the original slide, simply click this button in order to navigate back to the original layer of the slide. </slidetext>
+      <slidetext slideid="6TCHPUvcZY4.645uDVd1FOe" slidebank="false" type="slide">next previous h2 ordinary connective tissue: references images from colour atlas of histology 5th ed., © 2009 by gartner and hiatt  denoted by “gha”. images from colour textbook of histology 3rd ed., © 2007 by gartner and hiatt denoted by “ght”. images from grant’s atlas 13th ed., © 2013 by agur and dalley denoted by “ga”. images from junqueira’s basic histology: text and atlas, 14th ed., © 2016 by mescher denoted by “j”. recommended online resources: university of minnesota histology guide university of leeds histology guide university of michigan virtual microscopy western university virtual slide box university of illinois cell and tissue biology </slidetext>
+      <slidetext slideid="6TCHPUvcZY4.6a0ptYPGt2m" slidebank="false" type="slide">h2   objectives next previous 2 when you have learned the material presented here, you will be able to:  describe the components of extracellular matrix, including the fibres and the ground substance. describe the production, circulation and clearance of tissue fluid. describe the composition and function of a basement membrane. describe the functions of the cells of ordinary ct. list the subtypes of connective tissue (ct). describe the function and location within the body of the various subtypes of ordinary ct. identify different classes of ordinary connective tissue, their cell types and non-cellular components. </slidetext>
+      <slidetext slideid="6TCHPUvcZY4.6lqHlSajy66" slidebank="false" type="slide">look at the jell-o salad depicted on the left, and notice the olives, cheese and celery. imagine that these are the cells in a ct and the stuff between the cells (the jell-o itself) is non-cellular.  the extracellular matrix (ecm) and the organic components of the ecm are produced &amp; secreted by the cells of the ct. the remainder is tissue fluid, which is bound, to varying degrees depending on the type of ct, to the organic components of the ecm ecm dominates the tissue and determines its characteristics: if the ecm is solid, the ct is solid (bone) if the ecm is rubbery, the ct is rubbery (cartilage) if the ecm is gelatinous, the ct is gelatinous (ordinary ct) if the ecm is liquid, the ct is liquid (blood, which by virtue of its embryological origins is a ct) h2   connective tissues are like jell-o salads next previous 3 </slidetext>
+      <slidetext slideid="6TCHPUvcZY4.6dqeTf7EqFo" slidebank="false" type="slide">tissues are composed of cells and cell products. whereas, the epithelia is characterized by its cellularity, as are muscle and nervous tissues.  in contrast: ct is largely composed of cell products, collectively called extracellular matrix (ecm); usually fewer cells. ecm fills the spaces between cells and is composed of protein fibres and ground substance(gs).  h2   recall: next previous 4 gs is composed of organic molecules and tissue fluid. protein fibres and the organic components of gs produced by ct cells extruded into the extracellular space, where they binds tissue fluid and forms ecm. characteristics of ecm largely determine properties and functions of ct .  variety of ct types reflects differences in composition &amp; amount of the 3 components: cells, fibres, ground substance: ct proper (“ordinary ct”), cartilage &amp; bone cells specialized for a given ct type (fibrocyte     , chondrocyte     , osteocyte     ) this module addresses ordinary ct; cartilage and bone will follow in a different module. </slidetext>
+      <slidetext slideid="6TCHPUvcZY4.5x444uqo45l" slidebank="false" type="slide">different protein fibres have different properties. each ct has it’s own proportion of these different fibre types that contributes to its characteristics. protein fibres in ct can be divided into two main groups:  1. collagen fibres  2. elastic fibres h2   ct components: fibres next previous ct cells matrix proteinfibres groundsubstance collagenfibres elasticfibres tissuefluid organic molecules proteoglycans adhesiveglycoproteins 5 </slidetext>
+      <slidetext slideid="6TCHPUvcZY4.68cDWD1rsHM" slidebank="false" type="slide">ct cells matrix proteinfibres groundsubstance collagenfibres elasticfibres tissuefluid organic molecules proteoglycans adhesiveglycoproteins ground substance (gs) is a gel-like substance in which cells &amp; fibres are embedded. gs resists compression; while fibres withstand tensile forces.  gs is composed of tissue fluid &amp; organic molecules. it provides adhesion for tissue components and is a medium for molecular diffusion between plasma and icf (intracellular fluid).  tissue fluid is derived from blood. it circulates the ct spaces then returns to blood. h2   ct components: tissue fluid next previous 6 blood vessels are like irrigation hoses. hydrostatic pressure (ph) in the hose forces water out of the lumen and into the surrounding soil. in bvs, ph is blood pressure; it forces fluid out from the plasma into the surrounding ct as tissue fluid. however, this outward fluid movement is offset by an opposing force that simultaneously attracts fluid into the lumen of the bvs: oncotic pressure. </slidetext>
+      <slidetext slideid="6TCHPUvcZY4.6ayorqtgcYJ" slidebank="false" type="slide">there is a continual exchange of water and solutes between the components of extracellular fluid     (ecf).  blood pressure (bp) pushes fluid out of blood vessels ; oncotic pressure (po), due to plasma proteins which are too large to cross the vessel wall, pulls fluid into blood vessels. summed p (bp + po) determines the overall direction of fluid movement at any point along the vessels:  when bp &gt; po, fluid is extravasated; i.e. it moves out of the vessels into the ct space at the arteriolar end of capillary beds when po &gt; bp, fluid moves back from the ct space into plasma; this occurs at the venous end of capillary beds lymphatic vessels have the lowest hydrostatic p. hence, excess interstitial fluid that that does not return to blood will becomes lymph. the rate of production and removal of tissue fluid must be the same, in order to maintain a constant volume. if the volume of tissue fluid increases, it results in edema. h2   circulation of tissue fluid next previous 7 ght4.1 </slidetext>
+      <slidetext slideid="6TCHPUvcZY4.63znBoh9DbX" slidebank="false" type="slide">h2   lymph returns to blood next previous in ct, interstitial fluid enters lymphatic vessels, where it forms lymph. lymphatic vessels empty into lymph nodes, which function as in-line filters that detect and clear antigen     (including cancer cells) from afferent     lymph, thereby limiting the spread of disease and infection lymph nodes are normally 2-10 mm in diameter. they are densely located in axillae     , groin, neck, mesenteries and mediastinum of thorax. they enlarge with activity to become palpable on physical exam; therefore enlarged lymph nodes are a sign of disease or infection. lymphatic vessels drain lymph into the r lymphatic duct and thoracic duct (left), which return lymph to the venous circulation in the neck.  all lymph passes through at least one lymph node before returning to venous blood.  8 </slidetext>
+      <slidetext slideid="6TCHPUvcZY4.5vn2JbRPo33" slidebank="false" type="slide">edema refers to the retention of excess tissue fluid in ct space.  edema can be caused by:      increased production of tissue fluid: excess production of tissue fluid, due to increased vascular permeability caused by damage or inflammation decreased oncotic pressure due to depleted plasma protein  e.g. protein-deficient malnutrition, cirrhosis of the liver decreased clearance of tissue fluid: raised venous pressure causes reduced venous clearance e.g. pregnancy, increased venous pressure due to the weight of the fetus compressing veins lymphatic obstruction leads to reduced lymphatic clearance e.g. metastases to lymph nodes may block lymph flow; filariasis (elephantiasis) h2   edema previous 9 next </slidetext>
+      <slidetext slideid="6TCHPUvcZY4.6X04J06zqC2" slidebank="false" type="slide">the organic components of the gs includes two classes of organic molecules:  1. proteoglycans    2. adhesive glycoproteins h2   ct components: organic components of the gs next previous ct cells matrix proteinfibres groundsubstance collagenfibres elasticfibres tissuefluid organic molecules proteoglycans adhesiveglycoproteins 10 </slidetext>
+      <slidetext slideid="6TCHPUvcZY4.6MjWveWoEo3" slidebank="false" type="slide">basement membrane (bm) is an acellular material separating ct matrix from overlying epithelial cells. it surrounds smooth muscle cells, fat cells and schwann cells, separating them from the surrounding ct matrix.  bm contains collagen type iv, collagen type vii, proteoglycans, glycoproteins. the molecular components of the bm are secreted by both the overlying epithelia and underlying ct. functions of the bm:  cell anchorage, support filtration provide a scaffold for epithelial repair binding cells together (smooth muscle) h2   another word about the basement membrane next previous 11 </slidetext>
+      <slidetext slideid="6TCHPUvcZY4.6MzSJbnmi1E" slidebank="false" type="slide">ordinary connective tissue is the least specialized ct; as such it has the widest variety of cell types     . h2   ct components: cells next previous ct cells matrix proteinfibres groundsubstance collagenfibres elasticfibres tissuefluid organic molecules proteoglycans adhesiveglycoproteins 12 </slidetext>
+      <slidetext slideid="6TCHPUvcZY4.5V6OKPVlV5Q" slidebank="false" type="slide">type, proportion of cells varies with ct type, but in ordinary ct, the usual cast of characters is: fixed cells - primarily function locally: fibroblasts/ fibrocytes: produce/maintain fibres, gs fixed macrophages: avidly phagocytic adipocytes: store lipids for energy, insulation, physical protection mast cells: involved in mediating inflammation, hypersensitivity reactions  mesenchymal cells: multipotent stem cells which, under different conditions, may differentiate into different cell types (fibrocytes, chondrocytes, osteocytes, adipocytes, smooth muscle cells) wandering cells -the numbers in ct spaces increase with tissue damage or infection: monocytes:  drawn in by chemotactic signals, differentiate into macrophages b-lymphocytes: become antibody-producing plasma cells with antigen exposure microphages (neutrophils and eosinophils): circulate in blood, drawn into ct spaces by chemotactic signals released with tissue damage or infection h2   ct proper: cells next previous 13 </slidetext>
+      <slidetext slideid="6TCHPUvcZY4.6AbVkz9XavZ" slidebank="false" type="slide">h2   ct components: the end next previous ct cells matrix proteinfibres groundsubstance collagenfibres elasticfibres tissuefluid organic molecules proteoglycans adhesiveglycoproteins 14 there are many different types of ct in the body, and a classification system is outlined in the following slides. realize, however, that despite the heterogeneity of cts, they all consist of the basic “ingredients” shown in the tree to the left. the type and proportion of each ingredient varies between cts, and determines the characteristics of the tissue and therefore its function in the overall economy of the body. </slidetext>
+      <slidetext slideid="6TCHPUvcZY4.63BT4ahoLcW" slidebank="false" type="slide">all develop from embryonic mesenchyme connective tissue proper loose ct: fewer fibres, a variety of cell types, more gs by volume areolar ct dense ct: dominated by densely-packed fibres, fewer cells, less gs dense regular ct dense irregular ct elastic tissue specialized ct proper reticular tissue adipose tissue these six types of ordinary ct will be described on the following slides. supporting connective tissue (covered in a separate emodule) cartilage hyaline cartilage elastic cartilage fibrocartilage bone h2   a classification of connective tissue next previous 15 </slidetext>
+      <slidetext slideid="6TCHPUvcZY4.5bkx1QnKRMe" slidebank="false" type="slide">next previous h2   loose ct: a) areolar ct loose areolar ct is the least specialized with all cell &amp; fibre types. it provides support but allows independent movement. loose ct is more cellular than most cts, but mostly gs by volume. example of areolar ct: superficial (camper’s) fascia, between muscles, bvs, ns, around joints; lamina propria, underlying digestive epithelium (seen here). in other places, such as mesenteries, the different fibre types in areolar ct can be differentiated     . 16 population of white blood cells provides defense against pathogens. antigen presents in ingested food that is absorbed across the epithelial lining of the digestive tract will encounter loose ct teeming with white blood cells. these cells respond to antigens and protect us from infection and disease. </slidetext>
+      <slidetext slideid="6TCHPUvcZY4.5fcypOkQiKM" slidebank="false" type="slide">next previous dense regular ct composes largely of collagen type i fibres arranged in parallel arrays;  imparts tensile strength     in one direction. there are relatively little gs, relatively fewer cells and cell types; cells that are present are largely fibrocytes(f).  dense regular ct can be seen in tendons     (below, a), aponeuroses (right, b)and ligaments     . h2   dense ct: a) dense regular ct  17 </slidetext>
+      <slidetext slideid="6TCHPUvcZY4.6D2gJAYBId6" slidebank="false" type="slide">next previous h2   dense ct: b) dense irregular ct dense irregular ct is largely made up of collagen type i fibres arranged in a meshwork sheet;  imparts tensile strength in &gt;1 direction.  dense irregular ct has relatively little gs, relatively fewer cells and cell types; cells that are present are largely fibrocytes. dense irregular ct forms: reticular layer of dermis of skin (below), periosteum, perichondrium, organ capsules, joint capsules, submucosa of gi tract underlying the stratified squamous keratinized epithelium of our skin is the dermis. it includes a layer of dense irregular ct. its coarse bundles of collagen type i fibres run in all directions. this creates a tough layer deep to our skin that withstands stretch in all directions. in the picture on the left, bundles of collagen type i fibres are seen to run in and out of the plane of section. 18 </slidetext>
+      <slidetext slideid="6TCHPUvcZY4.5fjPiXMAXnV" slidebank="false" type="slide">next previous elastin    tissue resiliency; found in structures that must stretch under pressure &amp; recoil. elastin molecules, elaborated on a scaffold of fibrillin microfibers, forms elastic fibres.  in the absence of fibrillin, elastin molecules form fenestrated     sheets. elastic fibres are found with collagen fibres in i) loose areolar ct and ii) dense ct structures such as elastic ligaments (e.g. ligamenta flava).  in certain blood vessel, such as aorta (seen here), elastin produces by smooth muscle cells forms elastic lamellae.  h2   dense ct: c) elastic tissue the aorta experiences extraordinary pressures during the systolic phase of the cardiac cycle. because of its resiliency, it will stretch in response to these peaks in pressure and bounce back as the pressure drops during diastole.  this resiliency is due to the presence of fenestrated sheets of elastin (arrows) in its walls     .  19 </slidetext>
+      <slidetext slideid="6TCHPUvcZY4.6J1QWoPpLAx" slidebank="false" type="slide">next previous reticular ct is dominated by delicate reticular fibres, aka collagen type iii. it forms an extensive network in highly cellular organs, the stroma (scaffolding), on which organs arrange their parenchyma, or functional cells reticular ct is dominant in the liver, kidneys, spleen, lymph nodes, smooth muscle and bone marrow h2   specialized ct proper: a) reticular ct a. this picture illustrates the reticular fibre network of an organ such as a lymph node.  the cells associated with the reticular fibres are specialized fibrocytes called reticular cells, which produce and support the reticular fibres. the open spaces illustrated between the reticular fibres would be filled with the parenchymal cells of the lymph node, largely various types of lymphocytes. b. this is a section from a lymph node, stained to show the reticular fibres (black). the pale cells in the spaces between the reticular fibres are mostly lymphocytes, passing through the lymph node. 20 </slidetext>
+      <slidetext slideid="6TCHPUvcZY4.6POvcBmhX1l" slidebank="false" type="slide">next previous h2   specialized ct proper: b) adipose this is a section through the quadriceps femoris and its neurovascular bundle. it demonstrates the role of adipose tissue as the “styrofoam packing chips of the human body”. adipose tissue composes mostly of adipocytes by volume, in a delicate reticular fibre stroma; highly vascularized.  adipocyte stores triglycerides in a single, large lipid droplet that occupies most of the cell. the cell nucleus is pushed off to the periphery of the cell by the lipid droplet. the cells appear to be emptied as lipids are extracted during tissue processing.  adipose tissue acts as an energy depot, thermal insulator and shock absorber. it is usually found with areolar ct.  the amount and distribution varies with age, sex, nutrition &amp; activity level. it is particularly abundant deep to skin, behind eyes, around kidneys 21 </slidetext>
+      <slidetext slideid="6TCHPUvcZY4.6YRQbubeZaT" slidebank="false" type="slide">h2   summary next previous you should now be able to:  describe the components of extracellular matrix, including the fibres and the ground substance. describe the production, circulation and clearance of tissue fluid. describe the composition and function of a basement membrane. describe the functions of the cells of ordinary ct. list the subtypes of connective tissue (ct). describe the function and location within the body of the various subtypes of ordinary ct. identify different classes of ordinary connective tissue, their cell types and non-cellular components. 22 </slidetext>
+      <slidetext slideid="6TCHPUvcZY4.606FEFY4cr9" slidebank="false" type="slide">next previous h2   quiz skip 17 press or swipe next to start the quiz or skip to end h2. welcome to the quiz for h2!  review h2 ordinary ct review h2 ordinary ct review h2 ordinary ct review h2 ordinary ct review h2 ordinary ct </slidetext>
+      <slidetext slideid="6TCHPUvcZY4.5XUItAlUBHh" slidebank="false" type="slide">it is more ground substance than fibres, by volume. it is more ground substance than fibres, by volume. it is more ground substance than fibres, by volume. it is more ground substance than fibres, by volume. it is more ground substance than fibres, by volume. it is more ground substance than fibres, by volume. it lacks a blood supply, and therefore gets oxygen and nutrients by diffusion from surrounding tissues. it lacks a blood supply, and therefore gets oxygen and nutrients by diffusion from surrounding tissues. it lacks a blood supply, and therefore gets oxygen and nutrients by diffusion from surrounding tissues. it lacks a blood supply, and therefore gets oxygen and nutrients by diffusion from surrounding tissues. it lacks a blood supply, and therefore gets oxygen and nutrients by diffusion from surrounding tissues. it lacks a blood supply, and therefore gets oxygen and nutrients by diffusion from surrounding tissues. it forms tendons and ligaments. it forms tendons and ligaments. it forms tendons and ligaments. it forms tendons and ligaments. it forms tendons and ligaments. it forms tendons and ligaments. its fibres are arranged into an interwoven meshwork sheet that has tensile strength in all directions. its fibres are arranged into an interwoven meshwork sheet that has tensile strength in all directions. its fibres are arranged into an interwoven meshwork sheet that has tensile strength in all directions. its fibres are arranged into an interwoven meshwork sheet that has tensile strength in all directions. its fibres are arranged into an interwoven meshwork sheet that has tensile strength in all directions. its fibres are arranged into an interwoven meshwork sheet that has tensile strength in all directions. 1. which statement describes dense irregular connective tissue? h2   quiz submit </slidetext>
+      <slidetext slideid="6TCHPUvcZY4.6Qr7c5BQUrD" slidebank="false" type="slide">elevated plasma protein levels elevated plasma protein levels elevated plasma protein levels elevated plasma protein levels elevated plasma protein levels elevated plasma protein levels liver disease or damage liver disease or damage liver disease or damage liver disease or damage liver disease or damage liver disease or damage obstruction of lymph flow obstruction of lymph flow obstruction of lymph flow obstruction of lymph flow obstruction of lymph flow obstruction of lymph flow congestion of lymph nodes congestion of lymph nodes congestion of lymph nodes congestion of lymph nodes congestion of lymph nodes congestion of lymph nodes increased vascular permeability increased vascular permeability increased vascular permeability increased vascular permeability increased vascular permeability increased vascular permeability decreased venous pressure decreased venous pressure decreased venous pressure decreased venous pressure decreased venous pressure decreased venous pressure 2. from the options listed below, choose the factors that can contribute to edema. h2   quiz submit </slidetext>
+      <slidetext slideid="6TCHPUvcZY4.5mDwQB4i7bA" slidebank="false" type="slide">h2   quiz store lipids store lipids store lipids store lipids store lipids store lipids 3. what is the function of fibroblasts? release mediators of inflammation release mediators of inflammation release mediators of inflammation release mediators of inflammation release mediators of inflammation release mediators of inflammation differentiate into antigen presenting cells following antigen exposure differentiate into antigen presenting cells following antigen exposure differentiate into antigen presenting cells following antigen exposure differentiate into antigen presenting cells following antigen exposure differentiate into antigen presenting cells following antigen exposure differentiate into antigen presenting cells following antigen exposure produce fibres &amp; organic components of gs  produce fibres &amp; organic components of gs  produce fibres &amp; organic components of gs  produce fibres &amp; organic components of gs  produce fibres &amp; organic components of gs  produce fibres &amp; organic components of gs  they are multipotent stem cells they are multipotent stem cells they are multipotent stem cells they are multipotent stem cells they are multipotent stem cells they are multipotent stem cells submit </slidetext>
+      <slidetext slideid="6TCHPUvcZY4.5YMk7btuNqX" slidebank="false" type="slide">store lipids store lipids store lipids store lipids store lipids store lipids 4. what is the function of b-lymphocytes? release mediators of inflammation release mediators of inflammation release mediators of inflammation release mediators of inflammation release mediators of inflammation release mediators of inflammation differentiate into antibody-producing plasma cells following antigen exposure differentiate into antibody-producing plasma cells following antigen exposure differentiate into antibody-producing plasma cells following antigen exposure differentiate into antibody-producing plasma cells following antigen exposure differentiate into antibody-producing plasma cells following antigen exposure differentiate into antibody-producing plasma cells following antigen exposure produce fibres &amp; organic components of gs  produce fibres &amp; organic components of gs  produce fibres &amp; organic components of gs  produce fibres &amp; organic components of gs  produce fibres &amp; organic components of gs  produce fibres &amp; organic components of gs  they are multipotent stem cells they are multipotent stem cells they are multipotent stem cells they are multipotent stem cells they are multipotent stem cells they are multipotent stem cells submit h2   quiz </slidetext>
+      <slidetext slideid="6TCHPUvcZY4.6CbEgdbp72B" slidebank="false" type="slide">phagocytic and antigen presenting cells that are derived from blood monocytes phagocytic and antigen presenting cells that are derived from blood monocytes phagocytic and antigen presenting cells that are derived from blood monocytes phagocytic and antigen presenting cells that are derived from blood monocytes phagocytic and antigen presenting cells that are derived from blood monocytes phagocytic and antigen presenting cells that are derived from blood monocytes 5. what is the function of macrophages? release mediators of inflammation release mediators of inflammation release mediators of inflammation release mediators of inflammation release mediators of inflammation release mediators of inflammation differentiate into antibody-producing plasma cells following antigen exposure differentiate into antibody-producing plasma cells following antigen exposure differentiate into antibody-producing plasma cells following antigen exposure differentiate into antibody-producing plasma cells following antigen exposure differentiate into antibody-producing plasma cells following antigen exposure differentiate into antibody-producing plasma cells following antigen exposure produce fibres &amp; organic components of gs  produce fibres &amp; organic components of gs  produce fibres &amp; organic components of gs  produce fibres &amp; organic components of gs  produce fibres &amp; organic components of gs  produce fibres &amp; organic components of gs  they are multipotent stem cells they are multipotent stem cells they are multipotent stem cells they are multipotent stem cells they are multipotent stem cells they are multipotent stem cells submit h2   quiz </slidetext>
+      <slidetext slideid="6TCHPUvcZY4.6f4Tbwekqph" slidebank="false" type="slide">phagocytic and antigen presenting cells that are derived from blood monocytes phagocytic and antigen presenting cells that are derived from blood monocytes phagocytic and antigen presenting cells that are derived from blood monocytes phagocytic and antigen presenting cells that are derived from blood monocytes phagocytic and antigen presenting cells that are derived from blood monocytes phagocytic and antigen presenting cells that are derived from blood monocytes 6. what is the function of adipocytes? release mediators of inflammation release mediators of inflammation release mediators of inflammation release mediators of inflammation release mediators of inflammation release mediators of inflammation differentiate into antibody producing plasma cells following antigen exposure differentiate into antibody producing plasma cells following antigen exposure differentiate into antibody producing plasma cells following antigen exposure differentiate into antibody producing plasma cells following antigen exposure differentiate into antibody producing plasma cells following antigen exposure differentiate into antibody producing plasma cells following antigen exposure produce fibres &amp; organic components of gs  produce fibres &amp; organic components of gs  produce fibres &amp; organic components of gs  produce fibres &amp; organic components of gs  produce fibres &amp; organic components of gs  produce fibres &amp; organic components of gs  they store lipids they store lipids they store lipids they store lipids they store lipids they store lipids submit h2   quiz </slidetext>
+      <slidetext slideid="6TCHPUvcZY4.5Ymxq9SplaL" slidebank="false" type="slide">phagocytic and antigen presenting cells that are derived from blood monocytes phagocytic and antigen presenting cells that are derived from blood monocytes phagocytic and antigen presenting cells that are derived from blood monocytes phagocytic and antigen presenting cells that are derived from blood monocytes phagocytic and antigen presenting cells that are derived from blood monocytes phagocytic and antigen presenting cells that are derived from blood monocytes 7. what is the function of mast cells? release mediators of inflammation release mediators of inflammation release mediators of inflammation release mediators of inflammation release mediators of inflammation release mediators of inflammation differentiate into antibody producing plasma cells following antigen exposure differentiate into antibody producing plasma cells following antigen exposure differentiate into antibody producing plasma cells following antigen exposure differentiate into antibody producing plasma cells following antigen exposure differentiate into antibody producing plasma cells following antigen exposure differentiate into antibody producing plasma cells following antigen exposure produce fibres &amp; organic components of gs  produce fibres &amp; organic components of gs  produce fibres &amp; organic components of gs  produce fibres &amp; organic components of gs  produce fibres &amp; organic components of gs  produce fibres &amp; organic components of gs  they store lipids they store lipids they store lipids they store lipids they store lipids they store lipids submit h2   quiz </slidetext>
+      <slidetext slideid="6TCHPUvcZY4.6HRIBeXElTd" slidebank="false" type="slide">phagocytic and antigen presenting cells that are derived from blood monocytes phagocytic and antigen presenting cells that are derived from blood monocytes phagocytic and antigen presenting cells that are derived from blood monocytes phagocytic and antigen presenting cells that are derived from blood monocytes phagocytic and antigen presenting cells that are derived from blood monocytes phagocytic and antigen presenting cells that are derived from blood monocytes 8. what is the function of mesenchymal cells? they are multipotential stem cells they are multipotential stem cells they are multipotential stem cells they are multipotential stem cells they are multipotential stem cells they are multipotential stem cells differentiate into antibody producing plasma cells following antigen exposure differentiate into antibody producing plasma cells following antigen exposure differentiate into antibody producing plasma cells following antigen exposure differentiate into antibody producing plasma cells following antigen exposure differentiate into antibody producing plasma cells following antigen exposure differentiate into antibody producing plasma cells following antigen exposure produce fibres &amp; organic components of gs  produce fibres &amp; organic components of gs  produce fibres &amp; organic components of gs  produce fibres &amp; organic components of gs  produce fibres &amp; organic components of gs  produce fibres &amp; organic components of gs  they store lipids they store lipids they store lipids they store lipids they store lipids they store lipids submit h2   quiz </slidetext>
+      <slidetext slideid="6TCHPUvcZY4.67EzhjUjCUK" slidebank="false" type="slide">phagocytic and antigen presenting cells that are derived from blood monocytes phagocytic and antigen presenting cells that are derived from blood monocytes phagocytic and antigen presenting cells that are derived from blood monocytes phagocytic and antigen presenting cells that are derived from blood monocytes phagocytic and antigen presenting cells that are derived from blood monocytes phagocytic and antigen presenting cells that are derived from blood monocytes 9. which statement describes microphages? they are multipotential stem cells they are multipotential stem cells they are multipotential stem cells they are multipotential stem cells they are multipotential stem cells they are multipotential stem cells differentiate into antibody producing plasma cells following antigen exposure differentiate into antibody producing plasma cells following antigen exposure differentiate into antibody producing plasma cells following antigen exposure differentiate into antibody producing plasma cells following antigen exposure differentiate into antibody producing plasma cells following antigen exposure differentiate into antibody producing plasma cells following antigen exposure they respond to chemotactic signals to migrate from the blood into ct spaces they respond to chemotactic signals to migrate from the blood into ct spaces they respond to chemotactic signals to migrate from the blood into ct spaces they respond to chemotactic signals to migrate from the blood into ct spaces they respond to chemotactic signals to migrate from the blood into ct spaces they respond to chemotactic signals to migrate from the blood into ct spaces they store lipids they store lipids they store lipids they store lipids they store lipids they store lipids submit h2   quiz </slidetext>
+      <slidetext slideid="6TCHPUvcZY4.5ddwNc2d5B2" slidebank="false" type="slide">adhesive glycoproteins elastic fibres fibrocytes proteoglycans collagen fibres integrins 10. the matrix of ordinary connective tissue is highly hydrated, due to the hydrophilic nature of its ___________. submit h2   quiz </slidetext>
+      <slidetext slideid="6TCHPUvcZY4.69xcExahQAO" slidebank="false" type="slide">submit 11. identify the class of tissue. be specific. dense regular ct dense regular ct dense regular ct dense regular ct dense regular ct dense regular ct dense irregular ct dense irregular ct dense irregular ct dense irregular ct dense irregular ct dense irregular ct elastic ct elastic ct elastic ct elastic ct elastic ct elastic ct reticular ct reticular ct reticular ct reticular ct reticular ct reticular ct areolar ct areolar ct areolar ct areolar ct areolar ct areolar ct h2   quiz </slidetext>
+      <slidetext slideid="6TCHPUvcZY4.5tVoAZqYigq" slidebank="false" type="slide">submit 12. identify the class of tissue. be specific. dense regular ct dense regular ct dense regular ct dense regular ct dense regular ct dense regular ct dense irregular ct dense irregular ct dense irregular ct dense irregular ct dense irregular ct dense irregular ct elastic ct elastic ct elastic ct elastic ct elastic ct elastic ct reticular ct reticular ct reticular ct reticular ct reticular ct reticular ct areolar ct areolar ct areolar ct areolar ct areolar ct areolar ct h2   quiz </slidetext>
+      <slidetext slideid="6TCHPUvcZY4.6hGz92Tf4Fm" slidebank="false" type="slide">submit 13. identify the class of tissue. be specific. dense regular ct dense regular ct dense regular ct dense regular ct dense regular ct dense regular ct adipose ct adipose ct adipose ct adipose ct adipose ct adipose ct elastic ct elastic ct elastic ct elastic ct elastic ct elastic ct reticular ct reticular ct reticular ct reticular ct reticular ct reticular ct areolar ct areolar ct areolar ct areolar ct areolar ct areolar ct h2   quiz </slidetext>
+      <slidetext slideid="6TCHPUvcZY4.6Hc4khIjPub" slidebank="false" type="slide">submit 14. identify the class of tissue. be specific. dense regular ct dense regular ct dense regular ct dense regular ct dense regular ct dense regular ct elastic ct elastic ct elastic ct elastic ct elastic ct elastic ct reticular ct reticular ct reticular ct reticular ct reticular ct reticular ct dense irregular ct dense irregular ct dense irregular ct dense irregular ct dense irregular ct dense irregular ct areolar ct areolar ct areolar ct areolar ct areolar ct areolar ct h2   quiz </slidetext>
+      <slidetext slideid="6TCHPUvcZY4.5oEm4QxcjgZ" slidebank="false" type="slide">submit 15. identify the class of tissue. be specific. dense regular ct dense regular ct dense regular ct dense regular ct dense regular ct dense regular ct dense irregular ct dense irregular ct dense irregular ct dense irregular ct dense irregular ct dense irregular ct loose ct loose ct loose ct loose ct loose ct loose ct reticular ct reticular ct reticular ct reticular ct reticular ct reticular ct elastic ct elastic ct elastic ct elastic ct elastic ct elastic ct h2   quiz </slidetext>
+      <slidetext slideid="6TCHPUvcZY4.6kAY3wH7i3y" slidebank="false" type="slide">16. identify the fibre type at the tips of the arrows. be specific. submit h2   quiz </slidetext>
+      <slidetext slideid="6TCHPUvcZY4.5zldD7BnhrY" slidebank="false" type="slide">submit 17. identify the darker structure at the tip of the arrow. lymphocyte lymphocyte lymphocyte lymphocyte lymphocyte lymphocyte macrophage macrophage macrophage macrophage macrophage macrophage mesenchymal cell nucleus mesenchymal cell nucleus mesenchymal cell nucleus mesenchymal cell nucleus mesenchymal cell nucleus mesenchymal cell nucleus nucleus of adipocyte nucleus of adipocyte nucleus of adipocyte nucleus of adipocyte nucleus of adipocyte nucleus of adipocyte h2   quiz </slidetext>
+      <slidetext slideid="6TCHPUvcZY4.6UGrMxUSXnz" slidebank="false" type="slide">18. identify the cell type indicated by the arrow. submit h2   quiz </slidetext>
+      <slidetext slideid="6TCHPUvcZY4.6F3BsNZCuHr" slidebank="false" type="slide">19. identify the fibre type at the tips of the arrows. be specific. submit h2   quiz </slidetext>
+      <slidetext slideid="6TCHPUvcZY4.65quiNsxbfA" slidebank="false" type="slide">20. what fibre type dominates in this tissue? be specific. submit h2   quiz </slidetext>
+      <slidetext slideid="6TCHPUvcZY4.6ZYNhTKMywV" slidebank="false" type="slide">21. in life, what fills the empty spaces indicated by the arrows? submit h2   quiz </slidetext>
+      <slidetext slideid="6TCHPUvcZY4.5fWNZf0lHUh" slidebank="false" type="slide">22. identify the fibre type at the tip of the arrow. be specific. submit h2   quiz </slidetext>
+      <slidetext slideid="6TCHPUvcZY4.63NbCWITM2b" slidebank="false" type="slide">23. identify the fibre type at the tip of the arrows. be specific. submit h2   quiz </slidetext>
+      <slidetext slideid="6TCHPUvcZY4.6LEUWvZrJGr" slidebank="false" type="slide">congratulations on finishing h2  ordinary connective tissue! review h2 review h2 review h2 previous h2   end of h2 </slidetext>
+      <slidetext slideid="6SpHYr8KLgU.5ehnvux3cMR" slidebank="false" type="slide">acknowledgements previous © 2019 author and developer: barbara ballyk, ph.d. associate professor, teaching stream division of anatomy, department of surgery faculty of medicine, university of toronto emodule production: kristy cheung, b.sc.h., m.sc. candidate, clinical anatomy, western university gianluca sampieri, m.sc.md candidate class of 2021faculty of medicine, university of toronto albert gheorghita, m.sc.md candidate class of 2020faculty of medicine, university of toronto julian manzone, m.sc. md candidate class of 2019 faculty of medicine, university of toronto </slidetext>
+    </search>
+  </nav_data>
+  <resource_data description="" />
+  <transcript_data>
+    <slidetranscripts>
+      <slidetranscript slideid="6TCHPUvcZY4.6dqeTf7EqFo" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="0">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px;margin-top: 4.32px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;1&lt;/font&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt; fibrocytes are (fibro = fibre) the cells of &lt;/font&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;&lt;u&gt;ordinary CT&lt;/u&gt;&lt;/font&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt; that produce the fibres and organic components of the GS&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px;margin-top: 4.32px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;2&lt;/font&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt; chondrocytes (chondro = cartilage) are the cells of &lt;/font&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;&lt;u&gt;cartilage&lt;/u&gt;&lt;/font&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt; that produce the fibres and organic components of the GS&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px;margin-top: 4.32px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;3 &lt;/font&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt; osteocytes (osteo = bone) are the cells of &lt;/font&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;&lt;u&gt;bone&lt;/u&gt;&lt;/font&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt; that produce the fibres and organic components of the GS&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="6TCHPUvcZY4.5x444uqo45l" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="1">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px;margin-top: 4.32px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;1&lt;/font&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;pop out slides 6 and 7&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px;margin-top: 4.32px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;2&lt;/font&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;pop out slide 8&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="6TCHPUvcZY4.68cDWD1rsHM" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="2">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px;margin-top: 4.32px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;1&lt;/font&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;pop out slides 10-13&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="6TCHPUvcZY4.6ayorqtgcYJ" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="3">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px;margin-top: 4.32px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;1&lt;/font&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt; extracellular fluid = plasma + tissue fluid + lymph&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="6TCHPUvcZY4.6X04J06zqC2" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="4">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px;margin-top: 4.32px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;1&lt;/font&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;pop out slide 15&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px;margin-top: 4.32px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;2&lt;/font&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;pop out slide 16&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="6TCHPUvcZY4.5V6OKPVlV5Q" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="5">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px;margin-top: 4.32px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;1&lt;/font&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;pop out to slide 22&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px;margin-top: 4.32px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;2&lt;/font&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;pop out to slide 23&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="6TCHPUvcZY4.6AbVkz9XavZ" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="6">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Calibri' size='12.5pt' style="font-size:12.5pt;" color='#ffffff'&gt;NEED a summary here&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="6TCHPUvcZY4.63BT4ahoLcW" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="7">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px;margin-top: 4.32px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;1&lt;/font&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;pop out slide 26&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px;margin-top: 4.32px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;2&lt;/font&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;pop out slide 27&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px;margin-top: 4.32px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;3&lt;/font&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;pop out slide 28&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px;margin-top: 4.32px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;4&lt;/font&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;pop out slide 29&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px;margin-top: 4.32px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;5&lt;/font&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;pop out slide 30&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px;margin-top: 4.32px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;6&lt;/font&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;pop out slide 31&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="6TCHPUvcZY4.5bkx1QnKRMe" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="7">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px;margin-top: 4.32px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;1&lt;/font&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;pop out slide 26&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px;margin-top: 4.32px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;2&lt;/font&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;pop out slide 27&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px;margin-top: 4.32px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;3&lt;/font&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;pop out slide 28&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px;margin-top: 4.32px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;4&lt;/font&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;pop out slide 29&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px;margin-top: 4.32px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;5&lt;/font&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;pop out slide 30&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px;margin-top: 4.32px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;6&lt;/font&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;pop out slide 31&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="6TCHPUvcZY4.5fcypOkQiKM" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="7">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px;margin-top: 4.32px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;1&lt;/font&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;pop out slide 26&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px;margin-top: 4.32px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;2&lt;/font&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;pop out slide 27&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px;margin-top: 4.32px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;3&lt;/font&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;pop out slide 28&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px;margin-top: 4.32px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;4&lt;/font&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;pop out slide 29&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px;margin-top: 4.32px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;5&lt;/font&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;pop out slide 30&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px;margin-top: 4.32px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;6&lt;/font&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;pop out slide 31&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="6TCHPUvcZY4.6D2gJAYBId6" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="7">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px;margin-top: 4.32px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;1&lt;/font&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;pop out slide 26&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px;margin-top: 4.32px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;2&lt;/font&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;pop out slide 27&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px;margin-top: 4.32px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;3&lt;/font&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;pop out slide 28&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px;margin-top: 4.32px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;4&lt;/font&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;pop out slide 29&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px;margin-top: 4.32px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;5&lt;/font&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;pop out slide 30&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px;margin-top: 4.32px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;6&lt;/font&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;pop out slide 31&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="6TCHPUvcZY4.5fjPiXMAXnV" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="7">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px;margin-top: 4.32px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;1&lt;/font&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;pop out slide 26&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px;margin-top: 4.32px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;2&lt;/font&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;pop out slide 27&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px;margin-top: 4.32px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;3&lt;/font&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;pop out slide 28&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px;margin-top: 4.32px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;4&lt;/font&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;pop out slide 29&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px;margin-top: 4.32px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;5&lt;/font&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;pop out slide 30&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px;margin-top: 4.32px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;6&lt;/font&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;pop out slide 31&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="6TCHPUvcZY4.6J1QWoPpLAx" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="7">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px;margin-top: 4.32px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;1&lt;/font&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;pop out slide 26&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px;margin-top: 4.32px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;2&lt;/font&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;pop out slide 27&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px;margin-top: 4.32px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;3&lt;/font&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;pop out slide 28&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px;margin-top: 4.32px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;4&lt;/font&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;pop out slide 29&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px;margin-top: 4.32px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;5&lt;/font&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;pop out slide 30&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px;margin-top: 4.32px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;6&lt;/font&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;pop out slide 31&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="6TCHPUvcZY4.6POvcBmhX1l" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="7">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px;margin-top: 4.32px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;1&lt;/font&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;pop out slide 26&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px;margin-top: 4.32px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;2&lt;/font&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;pop out slide 27&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px;margin-top: 4.32px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;3&lt;/font&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;pop out slide 28&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px;margin-top: 4.32px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;4&lt;/font&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;pop out slide 29&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px;margin-top: 4.32px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;5&lt;/font&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;pop out slide 30&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px;margin-top: 4.32px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;6&lt;/font&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;pop out slide 31&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="6TCHPUvcZY4.6YRQbubeZaT" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="8">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px;margin-top: 4.32px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;&lt;u&gt;Light microscopy&lt;/u&gt;&lt;/font&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;:&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px;margin-top: 4.32px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;Fixative: formalehyde preserves tissue structure&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px;margin-top: 4.32px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;Dehydration with a series of solutions containing increasing concentrations of ethanol&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px;margin-top: 4.32px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;Cleared of ethanol using xylene&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px;margin-top: 4.32px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;Embedded in paraffin wax for sectioning 5-10um thick&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px;margin-top: 4.32px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;Placed on slide using albumen as adhesive&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px;margin-top: 4.32px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;Paraffin removed with xylene&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px;margin-top: 4.32px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;Rehydrated with a series of alcohol baths decreasing in concentration&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px;margin-top: 4.32px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;Water soluble stains can now be used&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px;margin-top: 4.32px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;After staining, again dehydrated an immersed in xylene&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px;margin-top: 4.32px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;&lt;u&gt;Stains in LM&lt;/u&gt;&lt;/font&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;:&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px;margin-top: 4.32px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;Acidic molecules (RNA, DNA) stain with basophilic dyes, such as hematoxylin, appear blue&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px;margin-top: 4.32px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;Basic molecules (cytoplasm, collagen, muscles) stain with acidophilic dyes, such as eosin&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px;margin-top: 4.32px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;&lt;u&gt;TEM&lt;/u&gt;&lt;/font&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;:&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px;margin-top: 4.32px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;Higher magnification and greater resolution&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px;margin-top: 4.32px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;Fixatives: glutaraldehyde, postfixed in osmium tetroxide which reacts with phosolipids, imparts electron density&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px;margin-top: 4.32px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;Embedded in epoxy, sectioned&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px;margin-top: 4.32px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;Stained with urinal acetate and lead citrate&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px;margin-top: 4.32px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;&lt;u&gt;SEM&lt;/u&gt;&lt;/font&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;:&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px;margin-top: 4.32px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;Specimens dried with liquid carbon dioxide, , coated with evaporated gold palladium&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px;margin-top: 4.32px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;Electrons reflected from surface detected, processed as 3D images&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+    </slidetranscripts>
+  </transcript_data>
+  <glossary_data />
+</bwFrame>

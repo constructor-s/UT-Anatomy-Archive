@@ -1,0 +1,1325 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="npnxnanbnsnfns01001000011" textdirection="ltr" device="false" fontscale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="classic">
+  <layouts>
+    <layout name="npnxnanbsnfns01001000011" font="Calibri" controllayout="npnxnanbsnfns01001000011" colorscheme="npnxnanbnsnfns01001000011" string_table="npnxnanbnsnfns01001000011" />
+    <layout name="pxabnsnfns01001000011" font="Calibri" controllayout="pxabnsnfns01001000011" colorscheme="npnxnanbnsnfns01001000011" string_table="npnxnanbnsnfns01001000011" />
+    <layout name="npxnabnsnfns01001000011" font="Calibri" controllayout="npxnabnsnfns01001000011" colorscheme="npnxnanbnsnfns01001000011" string_table="npnxnanbnsnfns01001000011" />
+    <layout name="npnxnanbnsnfns01001000011" font="Calibri" controllayout="npnxnanbnsnfns01001000011" colorscheme="npnxnanbnsnfns01001000011" string_table="npnxnanbnsnfns01001000011" />
+    <layout name="pxabnsnfns01001000010" font="Calibri" controllayout="pxabnsnfns01001000010" colorscheme="npnxnanbnsnfns01001000011" string_table="npnxnanbnsnfns01001000011" />
+  </layouts>
+  <control_options>
+    <optiongroups>
+      <optiongroup name="sidebaroptions">
+        <options>
+          <option name="title_enabled" value="true">
+            <options>
+              <option name="title_text" value="H10 The Histology of Endocrine Tissues" />
+            </options>
+          </option>
+          <option name="logo_enabled" value="true">
+            <options>
+              <option name="logo_url" value="story_content/logo.swf">
+                <properties>
+                  <property name="width" value="1024" />
+                  <property name="height" value="347" />
+                </properties>
+              </option>
+              <option name="html5_logo_url" value="mobile/5YWcDjpXoLD.png" />
+            </options>
+          </option>
+          <option name="sidebar_enabled" value="true">
+            <options>
+              <option name="sidebarpos" value="left" />
+            </options>
+          </option>
+          <optionlist name="tabs">
+            <listitems>
+              <listitem name="customlink" value="true" group="linkleft">
+                <properties>
+                  <property name="title" value="Acknowledgements" />
+                  <property name="data" value="62WilxHnbdW" />
+                  <property name="ignoreSlideLock" value="true" />
+                </properties>
+              </listitem>
+              <listitem name="resources" value="false" group="linkright" />
+              <listitem name="outline" value="true" group="sidebar" />
+              <listitem name="glossary" value="false" group="sidebar" />
+              <listitem name="transcript" value="false" group="sidebar" />
+            </listitems>
+          </optionlist>
+          <option name="time_enabled" value="false">
+            <options>
+              <option name="time_format" value="" />
+            </options>
+          </option>
+          <option name="video_enabled" value="false">
+            <options>
+              <option name="height" value="135" />
+            </options>
+          </option>
+        </options>
+      </optiongroup>
+      <optiongroup name="menuoptions">
+        <options>
+          <option name="flow" value="free" />
+          <option name="wraplistitems" value="true" />
+          <option name="tooltips" value="true" />
+          <option name="autocollapse" value="false" />
+          <option name="autonumber" value="false" />
+          <option name="enableresultsicons" value="true" />
+        </options>
+      </optiongroup>
+      <optiongroup name="controls">
+        <options>
+          <option name="volume" value="false" />
+          <option name="seekbar" value="false">
+            <options>
+              <option name="readonly" value="false" />
+            </options>
+          </option>
+          <option name="search" value="true" />
+          <option name="pauseplay" value="false" />
+          <option name="replay" value="false" />
+          <option name="closed_captions" value="false">
+            <options>
+              <option name="font" value="Calibri" />
+            </options>
+          </option>
+        </options>
+      </optiongroup>
+      <optiongroup name="bottombaroptions">
+        <options>
+          <option name="bottombar_enabled" value="false" />
+        </options>
+      </optiongroup>
+    </optiongroups>
+  </control_options>
+  <control_layouts>
+    <control_layout name="npnxnanbsnfns01001000011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="true" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns01001000011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npxnabnsnfns01001000011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npnxnanbnsnfns01001000011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns01001000010">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="false" />
+    </control_layout>
+  </control_layouts>
+  <colorschemes>
+    <colorscheme name="npnxnanbnsnfns01001000011">
+      <color_group name="infopanel">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x7C2280" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0000EE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC73013" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="title_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x999999" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="infopanelpopup">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFC4A2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xED5736" alpha="100" stop="0" />
+                <color rgb="0xD44120" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFC4A2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bio_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="timer">
+        <group_colors>
+          <color name="duration">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x00D7FF" alpha="100" stop="0" />
+                <color rgb="0x00ABFF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="elapsed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFEE347" alpha="100" stop="0" />
+                <color rgb="0xFCCC2A" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="stroke">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC7C7C7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="window">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xED5736" alpha="100" stop="0" />
+                <color rgb="0xD44120" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xEB8964" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF49277" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD63F21" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="20" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="editor">
+        <group_colors>
+          <color name="slide_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="html_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC23115" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC93518" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE15429" alpha="100" stop="0" />
+                <color rgb="0xC42D16" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD84121" alpha="100" stop="0" />
+                <color rgb="0xDE4C27" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE1512A" alpha="100" stop="0" />
+                <color rgb="0xD63A1D" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="listitem">
+        <group_colors>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x671B6B" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF98E6E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="viewed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFC4A2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF17D5E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="lines">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDA563A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="glossary">
+        <group_colors>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF98E6E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE85F39" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD96244" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD96244" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF98B6A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xEC7B59" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="resource">
+        <group_colors>
+          <color name="separator">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD35338" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="outline">
+        <group_colors>
+          <color name="search_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFC4A2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD35338" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xEB9471" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCF5336" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="transcript">
+        <group_colors>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="div">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD35338" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="tabs">
+        <group_colors>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC73013" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFC4A2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xED7254" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="seekcontrol">
+        <group_colors>
+          <color name="btn_icon_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFE1D0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_position">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE97D65" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD33F1F" alpha="100" stop="0" />
+                <color rgb="0xCA3416" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC32E13" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE65832" alpha="100" stop="0" />
+                <color rgb="0xDF3F23" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="searchinput">
+        <group_colors>
+          <color name="text_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2D2D2D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2D2D2D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xEB9471" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE76E52" alpha="100" stop="0" />
+                <color rgb="0xE2694D" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icon">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD7654B" alpha="100" stop="0" />
+                <color rgb="0xC42F13" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="scrollarea">
+        <group_colors>
+          <color name="detailb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCA3518" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="detaila">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xEA7C5D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCB3519" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icons">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCA3417" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE55D3B" alpha="100" stop="0" />
+                <color rgb="0xDB4D32" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE2522C" alpha="100" stop="0" />
+                <color rgb="0xD93E20" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF8795B" alpha="100" stop="0" />
+                <color rgb="0xF8795B" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="0">
+              <colors>
+                <color rgb="0xED6546" alpha="100" stop="0" />
+                <color rgb="0xEE6948" alpha="100" stop="128" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="menu">
+        <group_colors>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD35235" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xED7254" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="logo">
+        <group_colors>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC73013" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="checkbox">
+        <group_colors>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6BF8FF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="check">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2BC400" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD35338" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="button">
+        <group_colors>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC23115" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC93518" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE15429" alpha="100" stop="0" />
+                <color rgb="0xC42D16" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD84121" alpha="100" stop="0" />
+                <color rgb="0xDE4C27" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE1512A" alpha="100" stop="0" />
+                <color rgb="0xD63A1D" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="10" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="base">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD63F21" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF49277" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="menu_shade">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDD5233" alpha="100" stop="0" />
+                <color rgb="0xC53D1E" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF5674A" alpha="100" stop="0" />
+                <color rgb="0xF5674A" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xED5736" alpha="100" stop="0" />
+                <color rgb="0xD44120" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slide_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xED5736" alpha="100" stop="0" />
+                <color rgb="0xD44120" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="volume">
+        <group_colors>
+          <color name="thumb_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCB361A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE55E3B" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDB4524" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF26E50" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE75E36" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="HTML">
+        <group_colors>
+          <color name="htmlpage_bg_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x018CB0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+    </colorscheme>
+  </colorschemes>
+  <string_tables>
+    <string_table name="npnxnanbnsnfns01001000011">
+      <string id="acc_active">active</string>
+      <string id="check_include">Check to include</string>
+      <string id="clear">Clear and return to Menu</string>
+      <string id="close">Close</string>
+      <string id="acc_closed_captions">Closed captions. Press the spacebar to toggle captions on and off.</string>
+      <string id="continue">Continue</string>
+      <string id="continueresponsive">Continue</string>
+      <string id="exit">Exit</string>
+      <string id="filter">Filter</string>
+      <string id="finish">FINISH</string>
+      <string id="acc_finish">finish</string>
+      <string id="definition">Definition</string>
+      <string id="acc_definition">definition</string>
+      <string id="glossary">Glossary</string>
+      <string id="terms">Terms</string>
+      <string id="outline">Menu</string>
+      <string id="disabled_orientation">Please rotate your device</string>
+      <string id="next">NEXT</string>
+      <string id="acc_next">next</string>
+      <string id="transcript_chk">Notes</string>
+      <string id="transcript">Notes</string>
+      <string id="bio">Bio</string>
+      <string id="more_info">More info</string>
+      <string id="closed_captions">Captions</string>
+      <string id="acc_pause">pause</string>
+      <string id="acc_play">play</string>
+      <string id="send_an_email">Send an email</string>
+      <string id="prev">PREV</string>
+      <string id="acc_previous">previous</string>
+      <string id="question_list">Question List</string>
+      <string id="acc_replay">replay</string>
+      <string id="resources">Resources</string>
+      <string id="acc_resources">resources</string>
+      <string id="restart">Restart</string>
+      <string id="resume">Resume</string>
+      <string id="search">Search...</string>
+      <string id="acc_search_input">search</string>
+      <string id="search_in">Search in:</string>
+      <string id="search_results">Search Results</string>
+      <string id="acc_skipnavigation">Skip Navigation. Hit enter to return to the slide.</string>
+      <string id="slide_text_chk">Slide Text</string>
+      <string id="submitall">SUBMIT ALL</string>
+      <string id="acc_submitall">submit all</string>
+      <string id="submit">SUBMIT</string>
+      <string id="acc_submit">submit</string>
+      <string id="acc_volume">volume</string>
+    </string_table>
+  </string_tables>
+  <fonts>
+    <font name="Calibri">
+      <files>
+        <file bold="true" italic="false" />
+        <file bold="false" italic="false" />
+      </files>
+    </font>
+  </fonts>
+  <sounds enabled="true" />
+  <nav_data>
+    <outline>
+      <links>
+        <slidelink slideid="_player.6aorm6DVHdA" displaytext="Start" expand="false" type="slide">
+          <links>
+            <slidelink slideid="_player.6aorm6DVHdA.6KMOAvxC2nP" displaytext="Using the emodule" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6e4xcDQVk9e" displaytext="H10 Endocrine Tissues" expand="false" type="slide">
+          <links>
+            <slidelink slideid="_player.6e4xcDQVk9e.5zhURwSf13z" displaytext="Endocrine Tissues" expand="false" type="slide" />
+            <slidelink slideid="_player.6e4xcDQVk9e.6eNB09A8466" displaytext="1. Objectives" expand="false" type="slide" />
+            <slidelink slideid="_player.6e4xcDQVk9e.6QgFntVCtbV" displaytext="2. Introduction" expand="false" type="slide" />
+            <slidelink slideid="_player.6e4xcDQVk9e.60L8C2owGDD" displaytext="3. Part I: The Pituitary Gland" expand="false" type="slide" />
+            <slidelink slideid="_player.6e4xcDQVk9e.6lzLky7Lb1r" displaytext="4. Location and Relationships" expand="false" type="slide" />
+            <slidelink slideid="_player.6e4xcDQVk9e.5tVXX8TTSZt" displaytext="5. Origin of the Pituitary Gland" expand="false" type="slide" />
+            <slidelink slideid="_player.6e4xcDQVk9e.5t7yLnkqkuF" displaytext="6. The Blood Supply of the Pituitary Gland" expand="false" type="slide" />
+            <slidelink slideid="_player.6e4xcDQVk9e.6pPMvjaPHzu" displaytext="7. The Hypothalamic-Hypophyseal Tract" expand="false" type="slide" />
+            <slidelink slideid="_player.6e4xcDQVk9e.62wpnLWqie1" displaytext="8. Histology of the Posterior Pituitary" expand="false" type="slide" />
+            <slidelink slideid="_player.6e4xcDQVk9e.5ioEaDUwdfk" displaytext="9. Histology of the Anterior Pituitary" expand="false" type="slide" />
+            <slidelink slideid="_player.6e4xcDQVk9e.6UiwnDo1gWx" displaytext="10. Products of the Anterior Pituitary and their Targets" expand="false" type="slide" />
+            <slidelink slideid="_player.6e4xcDQVk9e.65yz73nIRaE" displaytext="11. Hypothalamic Control of the Anterior Pituitary Gland" expand="false" type="slide" />
+            <slidelink slideid="_player.6e4xcDQVk9e.5wTzN0Xhc45" displaytext="12. Part II: The Adrenal Glands" expand="false" type="slide" />
+            <slidelink slideid="_player.6e4xcDQVk9e.5ha9ZfW71lH" displaytext="13. Blood Supply to the Adrenal Glands" expand="false" type="slide" />
+            <slidelink slideid="_player.6e4xcDQVk9e.66nUt2mrat1" displaytext="14. The Adrenal Gland has a Cortex and a Medulla" expand="false" type="slide" />
+            <slidelink slideid="_player.6e4xcDQVk9e.68IGqoRsqcZ" displaytext="15. The Adrenal Cortex" expand="false" type="slide" />
+            <slidelink slideid="_player.6e4xcDQVk9e.6Ruiv4JxudT" displaytext="16. Zones of the Adrenal Cortex" expand="false" type="slide" />
+            <slidelink slideid="_player.6e4xcDQVk9e.5uN4dEsoa6m" displaytext="17. The Adrenal Medulla" expand="false" type="slide" />
+            <slidelink slideid="_player.6e4xcDQVk9e.6O1FdVYYnhr" displaytext="18. Part III: Pancreatic Islets" expand="false" type="slide" />
+            <slidelink slideid="_player.6e4xcDQVk9e.6YKSweshAL1" displaytext="19. The Pancreatic Islets" expand="false" type="slide" />
+            <slidelink slideid="_player.6e4xcDQVk9e.6Ij4guZzCp2" displaytext="20. Part IV: The Thyroid Gland" expand="false" type="slide" />
+            <slidelink slideid="_player.6e4xcDQVk9e.5ZYZW5wVnDp" displaytext="21. The Thyroid Gland" expand="false" type="slide" />
+            <slidelink slideid="_player.6e4xcDQVk9e.6BQFRVIg4rv" displaytext="22. Thyroid Follicles" expand="false" type="slide" />
+            <slidelink slideid="_player.6e4xcDQVk9e.6o1hE7OsSij" displaytext="23. Thyrocyte Structure and Function is Controlled by TSH" expand="false" type="slide" />
+            <slidelink slideid="_player.6e4xcDQVk9e.61uyCNVUcNA" displaytext="24. Parafollicular or C-Cells Produce Calcitonin" expand="false" type="slide" />
+            <slidelink slideid="_player.6e4xcDQVk9e.66xNx87J6V8" displaytext="25. Part V: The Parathyroid Glands" expand="false" type="slide" />
+            <slidelink slideid="_player.6e4xcDQVk9e.5jbElpCUIOt" displaytext="26. The Parathyroid and Thyroid Glands" expand="false" type="slide" />
+            <slidelink slideid="_player.6e4xcDQVk9e.5ukWDSNhhQo" displaytext="27. Chief Cells Produce Parathyroid Hormone" expand="false" type="slide" />
+            <slidelink slideid="_player.6e4xcDQVk9e.6AuxDmj5qNA" displaytext="28. Quiz Start" expand="false" type="slide">
+              <links>
+                <slidelink slideid="_player.6e4xcDQVk9e.67mDB7In9UN" displaytext="Question 1" expand="false" type="slide" />
+                <slidelink slideid="_player.6e4xcDQVk9e.5ZF0vypOo54" displaytext="Question 2" expand="false" type="slide" />
+                <slidelink slideid="_player.6e4xcDQVk9e.6WpI8vJjHyT" displaytext="Question 3" expand="false" type="slide" />
+                <slidelink slideid="_player.6e4xcDQVk9e.6R0tmyPngHn" displaytext="Question 4" expand="false" type="slide" />
+                <slidelink slideid="_player.6e4xcDQVk9e.6WJ9pZZpazE" displaytext="Question 5" expand="false" type="slide" />
+                <slidelink slideid="_player.6e4xcDQVk9e.65khtOLSELO" displaytext="Question 6" expand="false" type="slide" />
+                <slidelink slideid="_player.6e4xcDQVk9e.5Y4EayMIUfR" displaytext="Question 7" expand="false" type="slide" />
+                <slidelink slideid="_player.6e4xcDQVk9e.5csvxHVIvJn" displaytext="Question 8" expand="false" type="slide" />
+                <slidelink slideid="_player.6e4xcDQVk9e.5y63LnDVoB5" displaytext="Question 9" expand="false" type="slide" />
+                <slidelink slideid="_player.6e4xcDQVk9e.6boakqzUcJb" displaytext="Question 10" expand="false" type="slide" />
+                <slidelink slideid="_player.6e4xcDQVk9e.6dx9jUfp1bj" displaytext="Question 11" expand="false" type="slide" />
+                <slidelink slideid="_player.6e4xcDQVk9e.5YgO90zXa08" displaytext="Question 12" expand="false" type="slide" />
+                <slidelink slideid="_player.6e4xcDQVk9e.6CKJOpPjdBb" displaytext="Question 13" expand="false" type="slide" />
+                <slidelink slideid="_player.6e4xcDQVk9e.6C93UY4jcKG" displaytext="Question 14" expand="false" type="slide" />
+                <slidelink slideid="_player.6e4xcDQVk9e.5fqhtj24a7j" displaytext="Question 15" expand="false" type="slide" />
+                <slidelink slideid="_player.6e4xcDQVk9e.6nguAdQtjez" displaytext="Question 16" expand="false" type="slide" />
+                <slidelink slideid="_player.6e4xcDQVk9e.6o8oXMkmegR" displaytext="Question 17" expand="false" type="slide" />
+                <slidelink slideid="_player.6e4xcDQVk9e.6rcAhmbQNzX" displaytext="Question 18" expand="false" type="slide" />
+                <slidelink slideid="_player.6e4xcDQVk9e.6b7cNQReNFK" displaytext="Question 19" expand="false" type="slide" />
+                <slidelink slideid="_player.6e4xcDQVk9e.6WHG0TDRdu7" displaytext="Question 20" expand="false" type="slide" />
+                <slidelink slideid="_player.6e4xcDQVk9e.6Qwxp98wP24" displaytext="Question 19" expand="false" type="slide" />
+                <slidelink slideid="_player.6e4xcDQVk9e.6LU8VKJLMst" displaytext="Question 20" expand="false" type="slide" />
+              </links>
+            </slidelink>
+            <slidelink slideid="_player.6e4xcDQVk9e.6aDdWNhf2OO" displaytext="1.5: End" expand="false" type="slide" />
+          </links>
+        </slidelink>
+      </links>
+    </outline>
+    <search>
+      <slidetext slideid="6aorm6DVHdA.6iJyEq8eiIe" slidebank="false" type="slide">endocrine tissues click to begin click to begin click to begin  histology emodule tutorial emodule tutorial emodule tutorial </slidetext>
+      <slidetext slideid="6aorm6DVHdA.6KMOAvxC2nP" slidebank="false" type="slide">previous next using the emodule to complete each section, use the next button at the bottom of the pages or press the right arrow key to move forward one page at a time.  use the menu, available by clicking “menu” at the top, to navigate to specific slides. use search to quickly find instances of relevant terms. use the previous button at the bottom of the pages or press the left arrow key to move back one page at a time. note: you can also swipe right and left in order to navigate forward and backward, respectively.  case 1      introduction      approach      diagnosis </slidetext>
+      <slidetext slideid="6aorm6DVHdA.5u2Xmu0SLdx" slidebank="false" type="slide">previous start conventions used in the emodule some slides contain the “slide talk” icon on the title bar. click this icon to hear me explain or elaborate on slide content.  some words are followed by this icon      ; click the icon to open related content in a separate layer. click the         icon to go back to the original layer. some words are followed by this icon      ; click the icon to see a definition or explanation.  words / phrases in purple denote concepts with which you should make a point of becoming familiar. with age, wear and tear,  info an intervertebral disc can herniate, such that the nucleus pulposus…. information that has implications for health and disease is introduced on a blue bar and continued below: </slidetext>
+      <slidetext slideid="5oOfyNDdaiT.5Zu8QGHoVGZ" slidebank="false" type="slide">acknowledgements previous © 2018 author and emodule development: barbara ballyk, ph.d. associate professor, teaching stream division of anatomy, department of surgery faculty of medicine, university of toronto brand design: janet koecher, discovery commons university of toronto emodule production: gianluca sampieri, m.sc. md candidate class of 2021 faculty of medicine, university of toronto albert gheorghita, m.sc. md candidate class of 2020 faculty of medicine, university of toronto julian manzone, m.sc. md candidate class of 2019 faculty of medicine, university of toronto </slidetext>
+      <slidetext slideid="6ITgT0pLqit.5na92eEcibs" slidebank="false" type="slide">  next previous 2.1  </slidetext>
+      <slidetext slideid="6e4xcDQVk9e.5zhURwSf13z" slidebank="false" type="slide">next previous h10 endocrine tissues all images are from junqueira’s basic histology, 13th ed., © 2013 by mescher, denoted by “j”, a recommended resource, unless otherwise noted. recommended online resources:  university of minnesota histology guide university of leeds histology guide university of michigan virtual microscopy western university virtual slide box university of illinois cell and tissue biology </slidetext>
+      <slidetext slideid="6e4xcDQVk9e.6eNB09A8466" slidebank="false" type="slide">next previous h10    objectives when you have learned the material presented here, you will be able to identify and / or describe the: parts of the pituitary gland structure and significance of the hypothalamo-hypophyseal tract cell types in the adenohypophysis and the secretions they produce blood supply to the pituitary gland and the significance of the hypothalamo-hypophyseal portal system adrenal cortex and medulla, and the subdivisions of the adrenal cortex secretions released from each zone of the cortex and from the medulla, the principle factors controlling secretion and the effects of the secretions on their targets structure of the thyroid gland, including the locations of its principle secretory cells, the follicular and parafollicular cells structure of the parathyroid gland and the functions of oxyphil and chief cells 1 </slidetext>
+      <slidetext slideid="6e4xcDQVk9e.6QgFntVCtbV" slidebank="false" type="slide">next previous h10    the endocrine system: an introduction endocrine cells release their cell products, hormones, into the interstitial fluid that surrounds them. from there, hormones diffuse into blood vessels and are distributed throughout the body. they may act on any target cell that expresses the appropriate receptor.  hormones may be hydrophilic proteins, glycoproteins, peptides, or modified amino acids. these interact with receptors on the surface of target cells.  others, such as steroid and thyroid hormones, are hydrophobic. these circulate bound to transport molecules and diffuse through the membranes of target cells to act on cytoplasmic receptors. if the hormone acts on neighbouring cells within the organ that produces it, it is said to act in a paracrine manner. if the hormone acts on the cells that produce it, it is said to act in an autocrine manner. this emodule will describe most major endocrine glands. however, know that endocrine cells are also found scattered throughout the body, within non-endocrine organs. such cells will be considered within the context of these organs and their systems. 2 j20.031 </slidetext>
+      <slidetext slideid="6e4xcDQVk9e.60L8C2owGDD" slidebank="false" type="slide">next previous h10   part i part i:the histology of the pituitary gland 3 </slidetext>
+      <slidetext slideid="6e4xcDQVk9e.6lzLky7Lb1r" slidebank="false" type="slide">next previous h10   location and relationships the pituitary gland is about the size of a pea. it is located inferior to the cerebral hemispheres in the base of the skull within the hypophyseal fossa, or sella turcica, of the sphenoid bone. it is held in place by a membrane, the diaphragma sella (not shown). the infundibulum extends through the diaphragma sella to attach the pituitary gland to the inferior aspect of the hypothalamus at the median eminence. immediately superior to the pituitary gland is the optic chiasm, a point of decussation of visual information from the eyes. the cavernous sinuses, venous blood-filled spaces that drain the base of the brain, are located on either side of the sella turcica and therefore the pituitary gland. 4 j20.02 the pituitary gland is composed of two parts: the anterior pituitary (adenohypophysis) and the posterior pituitary (neurohypophysis). </slidetext>
+      <slidetext slideid="6e4xcDQVk9e.5tVXX8TTSZt" slidebank="false" type="slide">next previous h10   origin of the pituitary gland 5 the pituitary gland is, in fact, two endocrine organs with distinct origins. the posterior pituitary develops as a downgrowth of neuroectoderm in the region of the developing hypothalamus. it maintains its attachment to the hypothalamus via the infundibulum. the anterior pituitary arises from the hypophyseal (rathke’s) pouch, an invagination of ectoderm from the developing pharynx. thus, while the two parts of the pituitary gland are united anatomically, they have distinct origins, structures and functions. j20.03 </slidetext>
+      <slidetext slideid="6e4xcDQVk9e.5t7yLnkqkuF" slidebank="false" type="slide">previous h10   the blood supply of the pituitary gland 6 the pituitary gland receives arterial blood from the superior and inferior hypophyseal arteries, branches of the internal carotid arteries.   the inferior hypophyseal arteries feed into fenestrated capillary beds that supply the posterior pituitary. these capillaries drain via hypophyseal veins into the cavernous sinuses. the cavernous sinuses drain, ultimately, into the internal jugular veins. the superior hypophyseal arteries feed into a primary plexus of fenestrated capillaries that surrounds the infundibulum and median eminence. the capillaries of this primary plexus coalesce to form the hypophyseal portal veins. these portal veins feed into a secondary plexus of fenestrated capillaries that feeds the anterior pituitary. this secondary capillary plexus also drains via hypophyseal veins into the cavernous sinuses and the internal jugular veins. the significance of this hypothalamo-hypophyseal portal system is that neuropeptides released from the median eminence of the hypothalamus can be picked up by the fenestrated capillary beds of the primary plexus and delivered to the anterior pituitary at the secondary plexus. j20.05 next </slidetext>
+      <slidetext slideid="6e4xcDQVk9e.6pPMvjaPHzu" slidebank="false" type="slide">next previous h10   the hypothalamic-hypophyseal tract 7 the hypothalamic-hypophyseal tract occupies the infundibulum of the posterior pituitary. it consists of axons arising from neurons in two hypothalamic nuclei, which pass through the infundibulum into the posterior pituitary. these are the supraoptic and the paraventricular nuclei, the neurons of which produce antidiuretic hormone (adh) and oxytocin, respectively.  the hormones are transported to axon terminals in the posterior pituitary, where they are stored until their release into the surrounding interstitial fluid. from there, the hormones are picked up by capillaries formed from the inferior hypophyseal artery, which drain into the venous blood of the cavernous sinuses and ultimately the internal jugular vein. j20.05 antidiuretic hormone, adh is also known as vasopressin. it acts on the kidney to promote retention of water, thus increasing blood volume and pressure. oxytocin causes contraction of myoepithelial cells of the mammary glands, and thus promotes the ejection of milk. during childbirth, oxytocin stimulates the contraction of uterine smooth muscle. </slidetext>
+      <slidetext slideid="6e4xcDQVk9e.62wpnLWqie1" slidebank="false" type="slide">next previous h10   histology of the posterior pituitary 8 the posterior pituitary contains unmyelinated axons and their terminals, their cell bodies of origin being in the supraoptic and paraventricular nuclei of the hypothalamus. the glial cells that surround these nerve processes are called pituicytes (p).   swellings in the nerve terminals called neurosecretory (herring) bodies (nb) release either oxytocin or antidiuretic hormone into the surrounding interstitial fluid. these hormones diffuse into the fenestrated capillaries (c) of the posterior pituitary for transport. click on the button to view a different histological image of the posterior pituitary gland. </slidetext>
+      <slidetext slideid="6e4xcDQVk9e.5ioEaDUwdfk" slidebank="false" type="slide">h10   histology of the anterior pituitary 9 the anterior pituitary (ap) is composed of three subdivisions, the pars distalis (pd), pars tuberalis (not shown) and pars intermedia (pi). the posterior pituitary is also shown here (pp). the pars distalis forms the bulk of the anterior pituitary. it consists of cords of endocrine cells that surround fenestrated capillaries, embedded in a reticular fibre stroma. the parenchymal cells of the pars distalis are categorized as chromophils or chromophobes, based on their staining characteristics.  chromophils contain cytoplasmic granules composed of their cell product. based on their affinity for acidic and basic dyes, they are subclassified as either acidophils or basophils, respectively. acidophils fall into two categories, somatotrophs and lactotrophs, which produce and secrete growth hormone (somatotropin) and prolactin, respectively. basophils are categorized as either thyrotrophs, corticotrophs or gonadotrophs, which produce hormones that act on the thyroid gland, adrenal cortex and gonads, respectively. somatotrophs are the most abundant cell type, thyrotrophs the least abundant. chromophobes lack granules, and therefore stain weakly. they include degranulated cells and stem cells. the pars tuberalis surrounds the infundibulum. the pars intermedia borders the posterior pituitary or pars nervosa. it is characterized by the presence of colloid-filled cysts derived from the lumen of the hypophyseal pouch. it is uncommon, but possible, for rathke’s cleft cysts to become symptomatic. next previous </slidetext>
+      <slidetext slideid="6e4xcDQVk9e.6UiwnDo1gWx" slidebank="false" type="slide">next previous h10   summary: products of the anterior pituitary and their targets 10 somatotrophs produce somatotropin, or growth hormone (gh). lactotrophs (mammotrophs) produce prolactin (prl). thyrotrophs produce thyroid stimulating hormone (tsh). corticotrophs produce adrenal corticotropin (acth). gonadotrophs produce follicle-stimulating hormone(fsh) and luteinizing hormone (lh)     .  </slidetext>
+      <slidetext slideid="6e4xcDQVk9e.65yz73nIRaE" slidebank="false" type="slide">next previous h10   hypothalamic control of the anterior pituitary gland 11 hormones produced in the hypothalamus and secreted  from nerve terminals in the median eminence control the cells of the anterior pituitary. most of these hormones are releasing factors, which stimulate the secretion of their target cells. two, however, are inhibiting factors, which have the opposite effect.  hormones released at the median eminence pass into the fenestrated capillaries of the primary capillary plexus and are carried by the hypophyseal portal veins to the secondary capillary plexus in the anterior pituitary. there, they enter the interstitial fluid of the anterior pituitary and bind with receptors on their target cells. these hypothalamic stimulating- and releasing-factors are summarized here:  j20.05 </slidetext>
+      <slidetext slideid="6e4xcDQVk9e.5wTzN0Xhc45" slidebank="false" type="slide">next previous h10   part ii: the adrenal (suprarenal) glands 12 part ii:the histology of the adrenal (suprarenal) glands </slidetext>
+      <slidetext slideid="6e4xcDQVk9e.5ha9ZfW71lH" slidebank="false" type="slide">next previous h10   blood supply to the adrenal glands the paired adrenal glands are embedded in fat in the posterior body wall, each associated with the superior pole of a kidney. they are surrounded by a ct capsule that sends trabeculae into the parenchyma of the glands, where it gives rise to a reticular fibre stroma. this stroma supports the secretory cells and vasculature of the gland. the adrenal gland receives its blood supply from superior, middle and inferior adrenal arteries, branches of the inferior phrenic arteries, the abdominal aorta and the renal arteries, respectively.  venous blood from the adrenal gland leaves primarily via a single suprarenal vein, which empties into the renal vein on the left, and directly into the ivc on the right. 13 j20.12 </slidetext>
+      <slidetext slideid="6e4xcDQVk9e.66nUt2mrat1" slidebank="false" type="slide">next previous h10   the adrenal gland has a cortex and a medulla 14 the adrenal glands consist of two regions, the adrenal cortex and the adrenal medulla. these two regions are derived from distinct embryological origins and have distinct structures and functions. the adrenal cortex is derived from mesoderm, and the adrenal medulla from neural crest. in both regions, the parenchyma is organized into cords of cells closely associated with fenestrated capillaries and sinusoids. adrenal arteries form a subcapsular plexus from which arises two sets of vessels: cortical arterioles and medullary arterioles.  medullary arterioles carry oxygenated blood to the adrenal medulla, where they form medullary capillary beds.  capillary beds derived from the cortical arterioles supply the parenchyma of the adrenal cortex, and drain into the capillaries of the adrenal medulla. thus, the adrenal medulla receives afferent blood from two sources: venous blood from the capillary beds of the adrenal cortex and arteriolar blood from the medullary arterioles.  from the medullary capillary beds, blood drains into the central vein, which gives rise to the adrenal vein. from wheater’s functional histology, 6th ed., 2014 </slidetext>
+      <slidetext slideid="6e4xcDQVk9e.68IGqoRsqcZ" slidebank="false" type="slide">next previous h10   the adrenal cortex 15 the adrenal cortex consists of three zones, each of which produces different steroid hormones. from superficial to deep, these are the zona glomerulosa, the zona fasciculata and the zona reticularis. in general, the cells of the adrenal cortex contain abundant lipid droplets and smooth endoplasmic reticulum. the cells are arranged in knots or cords, and are intimately associated with the cortical microvasculature. because they are lipid-soluble, steroid hormones cannot be stored in membrane-enclosed vesicles. therefore, they diffuse out of the cells as they are produced.  j20.14 </slidetext>
+      <slidetext slideid="6e4xcDQVk9e.6Ruiv4JxudT" slidebank="false" type="slide">next previous h10   zones of the adrenal cortex 16 j20.15 the zona glomerulosa (zg) consists of knots of cells surrounding fenestrated capillary beds. cells here respond to circulating angiotensin ii and elevated plasma k+ to produce mineralocorticoids, primarily aldosterone. aldosterone promotes the retention of na+ and water, at the expense of k+, in the kidney. the largest zone of the adrenal cortex is the zona fasciculata. cells here are arranged in elongated cords (“fascicles”) running parallel to fenestrated sinusoidal capillary beds. these cells respond to acth from the anterior pituitary to produce glucocorticoids, primarily cortisol. amongst other effects, cortisol stimulates gluconeogenesis in many tissues and glycogen synthesis in the liver. the deepest zone of the adrenal cortex is the zona reticularis. cells here form an anastomosing network, intimately associated with sinusoidal capillaries. cells here also respond to acth, but their main product is weak androgens, primarily dehydroepiandrosterone (dhea), which in both men and women is converted to testosterone. </slidetext>
+      <slidetext slideid="6e4xcDQVk9e.5uN4dEsoa6m" slidebank="false" type="slide">next previous h10   the adrenal medulla 17 j20.16 like neurons of autonomic ganglia, chromaffin cells     of the adrenal medulla are derived, embryologically, from neural crest cells. a reticular fibre stroma supports knots of chromaffin cells interwoven with a dense network of sinusoidal capillaries. chromaffin cells can be considered modified sympathetic ganglionic neurons that have lost their cell processes, and secrete their product into the surrounding interstitial fluid.  chromaffin cells produce catecholamines, either epinephrine or norepinephrine. of the catecholamines produced by the adrenal medulla, 80% is epinephrine, and 20% is norepinephrine. catecholamines, being amino acid derivatives, are hydrophilic, and are stored in lipid-enclosed vesicles prior to release. chromaffin cell secretion is controlled by sympathetic preganglionic neurons arising in the lateral horn cells of the spinal cord. sympathetic outflow increases in times of stress, and promotes the release of catecholamines from the adrenal medulla which contributes to the “fight or flight” reaction.  norepinephrine causes vasoconstriction in non-essential organs, such as the skin and those of the digestive tract, while epinephrine causes vasodilation in skeletal muscle and the heart. thus blood is redistributed to those organs that will ready us for defense. epinephrine also stimulates bronchodilation and increases heart rate, both of which optimize oxygen delivery to these organs. both elevate blood glucose, and therefore provide the energy required for escape or defense. </slidetext>
+      <slidetext slideid="6e4xcDQVk9e.6O1FdVYYnhr" slidebank="false" type="slide">next previous h10   part iii: pancreatic islets part iii:the histology of the pancreatic islets 18 </slidetext>
+      <slidetext slideid="6e4xcDQVk9e.6YKSweshAL1" slidebank="false" type="slide">next previous h10   the pancreatic islets 19 the pancreas is a mixed exocrine – endocrine gland derived from the endoderm of the developing gut. 99% of the cells of the pancreas are exocrine and produce digestive enzymes that are secreted into the gut lumen by means of a duct system. only 1% of the cells of the pancreas form the endocrine structures known as the pancreatic islets, or islets of langerhans     . islets are globular structures separated from adjacent exocrine cells by a reticular fibre capsule. parenchymal cells of the islets are supported by a reticular fibre stroma and surround a dense network of fenestrated capillaries. islet contain a heterogeneous population of cells, differentiated  by immunohistochemistry, each of which produces a different polypeptide hormone.  cells produce glucagon,  cells produce insulin,  cells produce somatostatin and pp cells produce pancreatic polypeptide.  and  cells respond directly to blood glucose levels; their secretions have opposite effects on blood glucose and between them tightly control it. somatostatin acts on the anterior pituitary to inhibit release of gh and tsh, and inhibits secretion of the gastric mucosa. pancreatic polypeptide influences the secretion and motility of the gut. j20.17 </slidetext>
+      <slidetext slideid="6e4xcDQVk9e.6Ij4guZzCp2" slidebank="false" type="slide">next previous h10   part iv: the thyroid gland part iv:the histology of the thyroid gland 20 </slidetext>
+      <slidetext slideid="6e4xcDQVk9e.5ZYZW5wVnDp" slidebank="false" type="slide">next previous h10   the thyroid gland 21 j20.18 the thyroid gland is endodermal in origin, arising as an invagination from the base of the developing tongue. as you learned in the gross anatomy lab, it is located inferior to the larynx, wrapped partially around the trachea from its anterior aspect, its two lobes being united by an isthmus. you explored its blood supply through dissection, discovering that it receives arterial blood from the external carotid artery via the superior thyroid arteries, and from the subclavian artery via the inferior thyroid arteries, branches of the thyrocervical trunk. it drains via the superior and middle thyroid veins into the internal jugular veins, and via the inferior thyroid veins into the brachiocephalic veins. the thyroid gland is surrounded by a thin ct capsule (c), from which septa (s) arise to subdivide the parenchyma of the gland into lobules. lobules are further subdivided into follicles (f). blood vessels, nerves and lymphatics branch within this reticular fibre stroma to reach the thyrocytes and parafollicular cells (c-cells) of the parenchyma. j20.19 </slidetext>
+      <slidetext slideid="6e4xcDQVk9e.6BQFRVIg4rv" slidebank="false" type="slide">next previous h10   thyroid follicles 22 j20.19 follicles are spherical structures composed of a simple epithelial wall and a central lumen (l) filled with gelatinous colloid. colloid is composed of the glycoprotein thyroglobulin, in which the iodinated thyroid hormones thyroxine (tetraiodothyronine, t4) and tri-iodothyronine (t3) are stored in conjugated from. the thyroid gland is unusual in that it stores large amounts of hormone and does so extracellularly.  thyroid hormones are produced by thyrocytes (t), the epithelial cells that line the follicle. they are secreted into the follicular lumen for storage in the form of thyroglobulin. as needed, thyroglobulin is taken up across the apical aspect of the follicular epithelial cells and digested into its component hormones, t3 and t4, which are then released across their basal aspect into the surrounding interstitial fluid. from there, t3 and t4 are taken up by the rich fenestrated capillary network that surrounds the follicles. </slidetext>
+      <slidetext slideid="6e4xcDQVk9e.6o1hE7OsSij" slidebank="false" type="slide">next previous h10   thyrocyte structure and function is controlled by tsh 23 j20.10 thyrocytes vary in height from squamous to low columnar, depending on their level of activity, as determined by tsh (thyrotropin) secreted by thyrotrophs of the anterior pituitary. </slidetext>
+      <slidetext slideid="6e4xcDQVk9e.61uyCNVUcNA" slidebank="false" type="slide">next previous h10   parafollicular or c-cells produce calcitonin 24 j20.19 within the connective tissue septae separating thyroid follicles is a second population of endocrine cells, the parafollicular cells, or c-cells (c), these being derived from neural crest. their secretory granules contain calcitonin, which they produce and secrete in response to elevated blood calcium levels. calcitonin decreases blood ca2+ through inhibition of osteoclast activity, although parathyroid hormone (pth) and vitamin d play a larger role in ca2+ homeostasis in humans. </slidetext>
+      <slidetext slideid="6e4xcDQVk9e.66xNx87J6V8" slidebank="false" type="slide">next previous h10   part v: the parathyroid glands part v:the histology of the parathyroid glands 25 </slidetext>
+      <slidetext slideid="6e4xcDQVk9e.5jbElpCUIOt" slidebank="false" type="slide">next previous h10   the parathyroid and thyroid glands 26 parathyroid glands are usually four in number. they are associated with the posterior aspect of the thyroid gland, embedded in its ct capsule. their blood supply and drainage is from the inferior thyroid vessels. the parathyroid glands are derived from the embryonic pharyngeal pouches, which also give rise to the thymus gland. because of this, a significant proportion of people (~ 10%) have parathyroid tissue associated with their thymus glands, as well as their thyroid glands. each parathyroid gland is surrounded by a thin ct capsule, from which septae extend to subdivide its parenchyma into lobules and form a delicate reticular fibre stroma.  j20.22 </slidetext>
+      <slidetext slideid="6e4xcDQVk9e.5ukWDSNhhQo" slidebank="false" type="slide">next previous h10   chief cells produce parathyroid hormone 27 j20.23 at low magnification (a), a small lobule of the parathyroid gland is seen to be separated from others by ct septae (s). the parenchyma of the parathyroid glands is seen to be composed of composed of principle or chief cells (p) and oxyphil cells (o). at higher magnification, the principle cells of the parathyroid gland are seen to be arranged in densely-packed knots that surround fenestrated capillaries (c). principle cells respond directly to decreased blood ca2+ levels with the production and secretion of parathyroid hormone, pth, which elevates blood ca2+ levels through actions on bone, the digestive tract and the kidneys. in bone tissue, pth stimulates osteoblast production of osteoclast-stimulating factor, which promotes osteolysis and the release of ca2+ from bone matrix. pth promotes the activation of vitamin d, and therefore plays an indirect role in ca2+ absorption from the gut. in the kidneys, pth promotes the reabsorption of ca2+, and therefore decreases the excretion of ca2+ in urine. oxyphil cells often form clusters within the lobules of the parathyroid gland. they may demonstrate a low level of pth synthesis. their functional significance is uncertain. </slidetext>
+      <slidetext slideid="6e4xcDQVk9e.6AuxDmj5qNA" slidebank="false" type="slide">next previous h10   quiz press next to start the quiz or skip to end h10   skip 28 </slidetext>
+      <slidetext slideid="6e4xcDQVk9e.67mDB7In9UN" slidebank="false" type="slide">the primary capillary plexus of the hypothalamo-hypophyseal portal system collects hypothalamic hormones from what structure(s)? the infundibulum the infundibulum the infundibulum the infundibulum the infundibulum the infundibulum the median eminence the median eminence the median eminence the median eminence the median eminence the median eminence the supraoptic nuclei the supraoptic nuclei the supraoptic nuclei the supraoptic nuclei the supraoptic nuclei the supraoptic nuclei the paraventricular nuclei the paraventricular nuclei the paraventricular nuclei the paraventricular nuclei the paraventricular nuclei the paraventricular nuclei h10   question 1 submit </slidetext>
+      <slidetext slideid="6e4xcDQVk9e.5ZF0vypOo54" slidebank="false" type="slide">what endocrine tissue is the primary source of aldosterone? the anterior pituitary the anterior pituitary the anterior pituitary the anterior pituitary the anterior pituitary the anterior pituitary the zona glomerulosa of the adrenal cortex the zona glomerulosa of the adrenal cortex the zona glomerulosa of the adrenal cortex the zona glomerulosa of the adrenal cortex the zona glomerulosa of the adrenal cortex the zona glomerulosa of the adrenal cortex the zona fasciculata of the adrenal cortex the zona fasciculata of the adrenal cortex the zona fasciculata of the adrenal cortex the zona fasciculata of the adrenal cortex the zona fasciculata of the adrenal cortex the zona fasciculata of the adrenal cortex h10   question 2 submit the adrenal medulla the adrenal medulla the adrenal medulla the adrenal medulla the adrenal medulla the adrenal medulla </slidetext>
+      <slidetext slideid="6e4xcDQVk9e.6WpI8vJjHyT" slidebank="false" type="slide">what is the name of the secretory cells of the adrenal medulla? chief cells chief cells chief cells chief cells chief cells chief cells chromaffin cells chromaffin cells chromaffin cells chromaffin cells chromaffin cells chromaffin cells principle cells principle cells principle cells principle cells principle cells principle cells follicular cells follicular cells follicular cells follicular cells follicular cells follicular cells h10   question 3 submit </slidetext>
+      <slidetext slideid="6e4xcDQVk9e.6R0tmyPngHn" slidebank="false" type="slide">labour and delivery may be induced by intravenous (iv) pitocin, which stimulates uterine contraction. pitocin is the trade name of a hormone released from what endocrine tissue? the thyroid gland the thyroid gland the thyroid gland the thyroid gland the thyroid gland the thyroid gland the posterior pituitary the posterior pituitary the posterior pituitary the posterior pituitary the posterior pituitary the posterior pituitary the zona reticularis of the adrenal cortex the zona reticularis of the adrenal cortex the zona reticularis of the adrenal cortex the zona reticularis of the adrenal cortex the zona reticularis of the adrenal cortex the zona reticularis of the adrenal cortex the pancreatic islets the pancreatic islets the pancreatic islets the pancreatic islets the pancreatic islets the pancreatic islets h10   question 4 submit the anterior pituitary the anterior pituitary the anterior pituitary the anterior pituitary the anterior pituitary the anterior pituitary </slidetext>
+      <slidetext slideid="6e4xcDQVk9e.6WJ9pZZpazE" slidebank="false" type="slide">h10   question 5 submit identify a. </slidetext>
+      <slidetext slideid="6e4xcDQVk9e.65khtOLSELO" slidebank="false" type="slide">h10   question 6 submit identify b. be specific. </slidetext>
+      <slidetext slideid="6e4xcDQVk9e.5Y4EayMIUfR" slidebank="false" type="slide">h10   question 7 submit identify c. be specific. </slidetext>
+      <slidetext slideid="6e4xcDQVk9e.5csvxHVIvJn" slidebank="false" type="slide">h10   question 8 submit identify the structure of the posterior pituitary, a. </slidetext>
+      <slidetext slideid="6e4xcDQVk9e.5y63LnDVoB5" slidebank="false" type="slide">h10   question 9 submit identify the cells of the posterior pituitary, b. </slidetext>
+      <slidetext slideid="6e4xcDQVk9e.6boakqzUcJb" slidebank="false" type="slide">h10   question 10 submit identify cell type a. </slidetext>
+      <slidetext slideid="6e4xcDQVk9e.6dx9jUfp1bj" slidebank="false" type="slide">h10   question 11 submit what two hormones are released by cells b? </slidetext>
+      <slidetext slideid="6e4xcDQVk9e.5YgO90zXa08" slidebank="false" type="slide">h10   question 12 submit identify cell type c. </slidetext>
+      <slidetext slideid="6e4xcDQVk9e.6CKJOpPjdBb" slidebank="false" type="slide">h10   question 13 submit identify d. </slidetext>
+      <slidetext slideid="6e4xcDQVk9e.6C93UY4jcKG" slidebank="false" type="slide">h10   question 14 submit identify the structure indicated. </slidetext>
+      <slidetext slideid="6e4xcDQVk9e.5fqhtj24a7j" slidebank="false" type="slide">h10   question 15 submit identify the zone of the adrenal cortex. </slidetext>
+      <slidetext slideid="6e4xcDQVk9e.6nguAdQtjez" slidebank="false" type="slide">h10   question 16 submit identify the zone of the adrenal cortex. </slidetext>
+      <slidetext slideid="6e4xcDQVk9e.6o8oXMkmegR" slidebank="false" type="slide">h10   question 17 submit identify the zone of the adrenal cortex. </slidetext>
+      <slidetext slideid="6e4xcDQVk9e.6rcAhmbQNzX" slidebank="false" type="slide">h10   question 18 submit identify the cell type depicted. </slidetext>
+      <slidetext slideid="6e4xcDQVk9e.6b7cNQReNFK" slidebank="false" type="slide">h10   question 19 submit identify cell type a. </slidetext>
+      <slidetext slideid="6e4xcDQVk9e.6WHG0TDRdu7" slidebank="false" type="slide">h10   question 20 submit identify cell type b. </slidetext>
+      <slidetext slideid="6e4xcDQVk9e.6Qwxp98wP24" slidebank="false" type="slide">h10   question 21 submit identify cell type a. </slidetext>
+      <slidetext slideid="6e4xcDQVk9e.6LU8VKJLMst" slidebank="false" type="slide">h10   question 20 submit identify cell type b. </slidetext>
+      <slidetext slideid="6e4xcDQVk9e.6aDdWNhf2OO" slidebank="false" type="slide">congratulations on finishing h10 the histology of endocrine tissues! review h10 review h10 review h10 previous </slidetext>
+    </search>
+  </nav_data>
+  <resource_data description="" />
+  <transcript_data>
+    <slidetranscripts>
+      <slidetranscript slideid="6aorm6DVHdA.6iJyEq8eiIe" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="0">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Calibri' size='12.5pt' style="font-size:12.5pt;" color='#ffffff'&gt;need to change title&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="6aorm6DVHdA.5u2Xmu0SLdx" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="1">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Calibri' size='12.5pt' style="font-size:12.5pt;" color='#ffffff'&gt;fix this slide&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+    </slidetranscripts>
+  </transcript_data>
+  <glossary_data />
+</bwFrame>

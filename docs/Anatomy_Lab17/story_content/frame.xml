@@ -1,0 +1,1554 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="npnxabnsnfns01001000011" textdirection="ltr" device="false" fontscale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="classic">
+  <layouts>
+    <layout name="npnxnanbsnfns01001000011" font="Calibri" controllayout="npnxnanbsnfns01001000011" colorscheme="npnxabnsnfns01001000011" string_table="npnxabnsnfns01001000011" />
+    <layout name="pxabnsnfns01001000011" font="Calibri" controllayout="pxabnsnfns01001000011" colorscheme="npnxabnsnfns01001000011" string_table="npnxabnsnfns01001000011" />
+    <layout name="npxnabnsnfns01001000011" font="Calibri" controllayout="npxnabnsnfns01001000011" colorscheme="npnxabnsnfns01001000011" string_table="npnxabnsnfns01001000011" />
+    <layout name="npnxnanbnsnfns01001000011" font="Calibri" controllayout="npnxnanbnsnfns01001000011" colorscheme="npnxabnsnfns01001000011" string_table="npnxabnsnfns01001000011" />
+    <layout name="pxabnsnfns01001000010" font="Calibri" controllayout="pxabnsnfns01001000010" colorscheme="npnxabnsnfns01001000011" string_table="npnxabnsnfns01001000011" />
+    <layout name="npnxabnsnfns01001000011" font="Calibri" controllayout="npnxabnsnfns01001000011" colorscheme="npnxabnsnfns01001000011" string_table="npnxabnsnfns01001000011" />
+    <layout name="npnxanbnsnfns01001000011" font="Calibri" controllayout="npnxanbnsnfns01001000011" colorscheme="npnxabnsnfns01001000011" string_table="npnxabnsnfns01001000011" />
+  </layouts>
+  <control_options>
+    <optiongroups>
+      <optiongroup name="sidebaroptions">
+        <options>
+          <option name="title_enabled" value="true">
+            <options>
+              <option name="title_text" value="Lab 17" />
+            </options>
+          </option>
+          <option name="logo_enabled" value="true">
+            <options>
+              <option name="logo_url" value="story_content/logo.swf">
+                <properties>
+                  <property name="width" value="1024" />
+                  <property name="height" value="229" />
+                </properties>
+              </option>
+              <option name="html5_logo_url" value="mobile/6l1O94g7b0z.jpg" />
+            </options>
+          </option>
+          <option name="sidebar_enabled" value="true">
+            <options>
+              <option name="sidebarpos" value="left" />
+            </options>
+          </option>
+          <optionlist name="tabs">
+            <listitems>
+              <listitem name="customlink" value="true" group="linkleft">
+                <properties>
+                  <property name="title" value="Acknowledgments" />
+                  <property name="data" value="5toZT0PPlEg" />
+                  <property name="ignoreSlideLock" value="true" />
+                </properties>
+              </listitem>
+              <listitem name="resources" value="false" group="linkright" />
+              <listitem name="outline" value="true" group="sidebar" />
+              <listitem name="glossary" value="false" group="sidebar" />
+              <listitem name="transcript" value="false" group="sidebar" />
+            </listitems>
+          </optionlist>
+          <option name="time_enabled" value="false">
+            <options>
+              <option name="time_format" value="elapsed" />
+            </options>
+          </option>
+          <option name="video_enabled" value="false">
+            <options>
+              <option name="height" value="135" />
+            </options>
+          </option>
+        </options>
+      </optiongroup>
+      <optiongroup name="menuoptions">
+        <options>
+          <option name="flow" value="free" />
+          <option name="wraplistitems" value="false" />
+          <option name="tooltips" value="true" />
+          <option name="autocollapse" value="true" />
+          <option name="autonumber" value="false" />
+          <option name="enableresultsicons" value="true" />
+        </options>
+      </optiongroup>
+      <optiongroup name="controls">
+        <options>
+          <option name="volume" value="false" />
+          <option name="seekbar" value="false">
+            <options>
+              <option name="readonly" value="false" />
+              <option name="readonlyOnce" value="false" />
+            </options>
+          </option>
+          <option name="pauseplay" value="false" />
+          <option name="replay" value="false" />
+          <option name="search" value="true" />
+          <option name="closed_captions" value="false">
+            <options>
+              <option name="font" value="Calibri" />
+            </options>
+          </option>
+        </options>
+      </optiongroup>
+      <optiongroup name="bottombaroptions">
+        <options>
+          <option name="bottombar_enabled" value="false" />
+        </options>
+      </optiongroup>
+    </optiongroups>
+  </control_options>
+  <control_layouts>
+    <control_layout name="npnxnanbsnfns01001000011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="true" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns01001000011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npxnabnsnfns01001000011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npnxnanbnsnfns01001000011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns01001000010">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="false" />
+    </control_layout>
+    <control_layout name="npnxabnsnfns01001000011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npnxanbnsnfns01001000011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+  </control_layouts>
+  <colorschemes>
+    <colorscheme name="npnxabnsnfns01001000011">
+      <color_group name="infopanel">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x7C2280" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0000EE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0E2A45" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="title_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x999999" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="infopanelpopup">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6A98C6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x374D64" alpha="100" stop="0" />
+                <color rgb="0x142D46" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0E2A45" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6A98C6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bio_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="timer">
+        <group_colors>
+          <color name="duration">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x00D7FF" alpha="100" stop="0" />
+                <color rgb="0x00ABFF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="elapsed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFEE347" alpha="100" stop="0" />
+                <color rgb="0xFCCC2A" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="stroke">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC7C7C7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="window">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x374D64" alpha="100" stop="0" />
+                <color rgb="0x142D46" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x5776A2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x496484" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x1F3752" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="20" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="editor">
+        <group_colors>
+          <color name="slide_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="html_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0E2A45" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0E2A46" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x4A6C98" alpha="100" stop="0" />
+                <color rgb="0x243C5C" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x294260" alpha="100" stop="0" />
+                <color rgb="0x426288" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x436388" alpha="100" stop="0" />
+                <color rgb="0x294260" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="listitem">
+        <group_colors>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0E2A46" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x5379A5" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="viewed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6CA5DE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x3F5A76" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="lines">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2F465C" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="glossary">
+        <group_colors>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x5379A5" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x3F5A76" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2D4258" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2D4258" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x5479A2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x4D6E9A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="resource">
+        <group_colors>
+          <color name="separator">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2A3C50" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="outline">
+        <group_colors>
+          <color name="search_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6A98C6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x31475E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x5479A2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x31475E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="transcript">
+        <group_colors>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="div">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x283C4E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="tabs">
+        <group_colors>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0E2A45" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6596C9" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6A98C6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x47658B" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="seekcontrol">
+        <group_colors>
+          <color name="btn_icon_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x99B2CC" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2D4765" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_position">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x476A95" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x14304D" alpha="100" stop="0" />
+                <color rgb="0x4C6B96" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0E2A46" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x436388" alpha="100" stop="0" />
+                <color rgb="0x2A4360" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="searchinput">
+        <group_colors>
+          <color name="text_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2D2D2D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2D2D2D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x3C5979" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x294260" alpha="100" stop="0" />
+                <color rgb="0x426288" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icon">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x405E82" alpha="100" stop="0" />
+                <color rgb="0x0E2A45" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="scrollarea">
+        <group_colors>
+          <color name="detailb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0E2A46" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="detaila">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x7698B4" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0E2A46" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icons">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0E2A46" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x587BA1" alpha="100" stop="0" />
+                <color rgb="0x496184" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x486B94" alpha="100" stop="0" />
+                <color rgb="0x3A5579" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x527CAD" alpha="100" stop="0" />
+                <color rgb="0x527CAD" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="0">
+              <colors>
+                <color rgb="0x405E81" alpha="100" stop="0" />
+                <color rgb="0x46678C" alpha="100" stop="128" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="menu">
+        <group_colors>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x1A324A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x47658B" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="logo">
+        <group_colors>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0E2A45" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="checkbox">
+        <group_colors>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6A98C6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="check">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2BC400" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x31475E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="button">
+        <group_colors>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0E2A45" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0E2A46" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x4A6C98" alpha="100" stop="0" />
+                <color rgb="0x243C5C" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x294260" alpha="100" stop="0" />
+                <color rgb="0x426288" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x436388" alpha="100" stop="0" />
+                <color rgb="0x294260" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x253C52" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="base">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x1F3752" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x496484" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="menu_shade">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x34495E" alpha="100" stop="0" />
+                <color rgb="0x142B42" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x47617F" alpha="100" stop="0" />
+                <color rgb="0x47617F" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x374D64" alpha="100" stop="0" />
+                <color rgb="0x142D46" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slide_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x374D64" alpha="100" stop="0" />
+                <color rgb="0x142D46" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="volume">
+        <group_colors>
+          <color name="thumb_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0E2A46" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x57799E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x46678E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x4D74A3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x314B68" alpha="100" stop="0" />
+                <color rgb="0x365374" alpha="100" stop="128" />
+                <color rgb="0x314B68" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="HTML">
+        <group_colors>
+          <color name="htmlpage_bg_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+    </colorscheme>
+  </colorschemes>
+  <string_tables>
+    <string_table name="npnxabnsnfns01001000011">
+      <string id="acc_active">active</string>
+      <string id="check_include">Check to include</string>
+      <string id="clear">Clear and return to menu</string>
+      <string id="close">Close</string>
+      <string id="acc_closed_captions">Closed captions. Press the spacebar to toggle captions on and off.</string>
+      <string id="continue">Continue</string>
+      <string id="continueresponsive">Continue</string>
+      <string id="exit">Exit</string>
+      <string id="filter">Filter</string>
+      <string id="finish">FINISH</string>
+      <string id="acc_finish">finish</string>
+      <string id="definition">Definition</string>
+      <string id="acc_definition">definition</string>
+      <string id="glossary">Glossary</string>
+      <string id="terms">Terms</string>
+      <string id="outline">Menu</string>
+      <string id="disabled_orientation">Please rotate your device</string>
+      <string id="next">NEXT</string>
+      <string id="acc_next">next</string>
+      <string id="transcript_chk">Notes</string>
+      <string id="transcript">Notes</string>
+      <string id="bio">Bio</string>
+      <string id="more_info">More info</string>
+      <string id="closed_captions">Captions</string>
+      <string id="acc_pause">pause</string>
+      <string id="acc_play">play</string>
+      <string id="send_an_email">Send an email</string>
+      <string id="prev">PREV</string>
+      <string id="acc_previous">previous</string>
+      <string id="question_list">Question List</string>
+      <string id="acc_replay">replay</string>
+      <string id="resources">Resources</string>
+      <string id="acc_resources">resources</string>
+      <string id="restart">Restart</string>
+      <string id="resume">Resume</string>
+      <string id="search">Search...</string>
+      <string id="acc_search_input">search</string>
+      <string id="search_in">Search in:</string>
+      <string id="search_results">Search Results</string>
+      <string id="acc_skipnavigation">Skip navigation. Press enter to return to the slide.</string>
+      <string id="slide_text_chk">Slide Text</string>
+      <string id="submitall">SUBMIT ALL</string>
+      <string id="acc_submitall">submit all</string>
+      <string id="submit">SUBMIT</string>
+      <string id="acc_submit">submit</string>
+      <string id="acc_volume">volume</string>
+    </string_table>
+  </string_tables>
+  <fonts>
+    <font name="Calibri">
+      <files>
+        <file bold="true" italic="false" />
+        <file bold="false" italic="false" />
+      </files>
+    </font>
+  </fonts>
+  <sounds enabled="true" />
+  <nav_data>
+    <outline>
+      <links>
+        <slidelink slideid="_player.6WPJoLsOIZn" displaytext="START" expand="false" type="slide">
+          <links>
+            <slidelink slideid="_player.6WPJoLsOIZn.5tIgPuUVAkS" displaytext="Unit 5 References" expand="false" type="slide" />
+            <slidelink slideid="_player.6WPJoLsOIZn.6UiwTI2wzaq" displaytext="Using the eModule" expand="false" type="slide" />
+            <slidelink slideid="_player.6WPJoLsOIZn.6JLpZSJdiMi" displaytext="Conventions Used in the eModule" expand="false" type="slide" />
+            <slidelink slideid="_player.6WPJoLsOIZn.5UuyAxLxoDf" displaytext="Unit 5 Overview" expand="false" type="slide" />
+            <slidelink slideid="_player.6WPJoLsOIZn.6EpRmQ5Rh7a" displaytext="Lab Instructions" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6Mji4Q6ibhV.6iS1i5S7VfA" displaytext="Lab 17 Exercise Selection" expand="false" type="slide" />
+        <slidelink slideid="_player.6gj8udEV9PZ" displaytext="17A PreLab SLM: Innervation Summary" expand="false" type="slide">
+          <links>
+            <slidelink slideid="_player.6gj8udEV9PZ.5aNdukkU0Du" displaytext="1. Objectives Part 1" expand="false" type="slide" />
+            <slidelink slideid="_player.6gj8udEV9PZ.5lFPVMcg5Ki" displaytext="2. Lateral and Medial Cords: Terminal Branches" expand="false" type="slide" />
+            <slidelink slideid="_player.6gj8udEV9PZ.5dwEqHtc0Uz" displaytext="3. Posterior Cord: Terminal Branches " expand="false" type="slide" />
+            <slidelink slideid="_player.6gj8udEV9PZ.5bLfnAO3j8w" displaytext="4. Branches of the Brachial Plexus Within the Axilla" expand="false" type="slide" />
+            <slidelink slideid="_player.6gj8udEV9PZ.6nSZDtmeebC" displaytext="5. The Musculocutaneous Nerve" expand="false" type="slide" />
+            <slidelink slideid="_player.6gj8udEV9PZ.6CGgIwd4a9x" displaytext="6. The Axillary Nerve" expand="false" type="slide" />
+            <slidelink slideid="_player.6gj8udEV9PZ.6GbCbIeDSKG" displaytext="7. The Radial Nerve in the Arm" expand="false" type="slide" />
+            <slidelink slideid="_player.6gj8udEV9PZ.5mayZq406jm" displaytext="8. The Median Nerve: what you know so far..." expand="false" type="slide" />
+            <slidelink slideid="_player.6gj8udEV9PZ.5X2GTAB69KQ" displaytext="9. The Ulnar Nerve in the Forearm" expand="false" type="slide" />
+            <slidelink slideid="_player.6gj8udEV9PZ.6Jv3MeCaXCW" displaytext="10. The Radial Nerve in the Forearm" expand="false" type="slide" />
+            <slidelink slideid="_player.6gj8udEV9PZ.6UqDV33itGK" displaytext="11. Objectives Part 2" expand="false" type="slide" />
+            <slidelink slideid="_player.6gj8udEV9PZ.610vXleIAdV" displaytext="12. The Femoral Nerve " expand="false" type="slide" />
+            <slidelink slideid="_player.6gj8udEV9PZ.5yCQoMSRAjs" displaytext="13. The Obturator Nerve" expand="false" type="slide" />
+            <slidelink slideid="_player.6gj8udEV9PZ.6V5KEJiHH0h" displaytext="14. The Sciatic Nerve" expand="false" type="slide" />
+            <slidelink slideid="_player.6gj8udEV9PZ.5zeXDDSeCD6" displaytext="15. Nerves of the Gluteal Region" expand="false" type="slide" />
+            <slidelink slideid="_player.6gj8udEV9PZ.5uix61JFzVd" displaytext="16. The Tibial Nerve in the Leg" expand="false" type="slide" />
+            <slidelink slideid="_player.6gj8udEV9PZ.5Z5UvEZz3yz" displaytext="17. The Superficial Fibular Nerve " expand="false" type="slide" />
+            <slidelink slideid="_player.6gj8udEV9PZ.6g4RDAfWjdt" displaytext="18. The Deep Fibular Nerve" expand="false" type="slide" />
+            <slidelink slideid="_player.6gj8udEV9PZ.6K4Gr5yGuHa" displaytext="19. Summary of Cutaneous Nerves of the Leg and Foot " expand="false" type="slide" />
+            <slidelink slideid="_player.6gj8udEV9PZ.6OxQPH8Jzod" displaytext="20. Summary of Cutaneous Nerves of the Leg and Foot " expand="false" type="slide" />
+            <slidelink slideid="_player.6gj8udEV9PZ.5VaWgFHkedg" displaytext="21. Quiz" expand="false" type="slide" />
+            <slidelink slideid="_player.6gj8udEV9PZ.6IkOfPRJiwh" displaytext=" End of PreLab SLM 17A" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6JwNeCu1d5c" displaytext="17.1 The Hand" expand="false" type="slide">
+          <links>
+            <slidelink slideid="_player.6JwNeCu1d5c.65Td0EjFqla" displaytext="1. Resources" expand="false" type="slide" />
+            <slidelink slideid="_player.6JwNeCu1d5c.6k2we57XHGl" displaytext="2. Objectives" expand="false" type="slide" />
+            <slidelink slideid="_player.6JwNeCu1d5c.6pU0CMC3ZXe" displaytext="3. The Thenar Muscles " expand="false" type="slide" />
+            <slidelink slideid="_player.6JwNeCu1d5c.6cYceZwhYhy" displaytext="4. The Actions of the Thenar Muscles Make Sense " expand="false" type="slide" />
+            <slidelink slideid="_player.6JwNeCu1d5c.6PXCbGFldul" displaytext="5. The Opponens Pollicis and Innervation" expand="false" type="slide" />
+            <slidelink slideid="_player.6JwNeCu1d5c.6qOby4xyLkd" displaytext="6. Long Flexor Tendons and Sheaths " expand="false" type="slide" />
+            <slidelink slideid="_player.6JwNeCu1d5c.6ZiMRRfQwGr" displaytext="7. Tenosynovitis" expand="false" type="slide" />
+            <slidelink slideid="_player.6JwNeCu1d5c.6lecccKw5qb" displaytext="8. The Adductor Pollicis and Lumbricals " expand="false" type="slide" />
+            <slidelink slideid="_player.6JwNeCu1d5c.5oK1lx5r9if" displaytext="9. The Dorsal and Palmar Interossei " expand="false" type="slide" />
+            <slidelink slideid="_player.6JwNeCu1d5c.65651mwzETI" displaytext="10. Summarizing the Median Nerve " expand="false" type="slide" />
+            <slidelink slideid="_player.6JwNeCu1d5c.5Zfi0Up7mBv" displaytext="11. Carpal Tunnel Syndrome" expand="false" type="slide" />
+            <slidelink slideid="_player.6JwNeCu1d5c.5Xgxo5k42oL" displaytext="12. Summarizing the Ulnar Nerve " expand="false" type="slide" />
+            <slidelink slideid="_player.6JwNeCu1d5c.62mcxngMjOR" displaytext="13. Remember the Palmar Arches " expand="false" type="slide" />
+            <slidelink slideid="_player.6JwNeCu1d5c.5vMQytxdSDa" displaytext="14. Progress Check" expand="false" type="slide" />
+            <slidelink slideid="_player.6JwNeCu1d5c.5mEH1RUw9Tw" displaytext="15. Quiz" expand="false" type="slide" />
+            <slidelink slideid="_player.6JwNeCu1d5c.5tkdIBPer62" displaytext="16. End of Lab 17.1" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.65fXArBUAkA" displaytext="17.2 The Upper Limb" expand="false" type="slide">
+          <links>
+            <slidelink slideid="_player.65fXArBUAkA.6XwQP2k0yFu" displaytext="1. Objectives" expand="false" type="slide" />
+            <slidelink slideid="_player.65fXArBUAkA.5srdm6fTS8o" displaytext="2. 14.4 Progress Check 1" expand="false" type="slide" />
+            <slidelink slideid="_player.65fXArBUAkA.5nFT41BSLIX" displaytext="3. 14.4 Progress Check 2" expand="false" type="slide" />
+            <slidelink slideid="_player.65fXArBUAkA.6SNvsBtQHWT" displaytext="4. 15.2 Progress Check" expand="false" type="slide" />
+            <slidelink slideid="_player.65fXArBUAkA.5nA3Aqk9xYZ" displaytext="5. 15.3 Progress Check" expand="false" type="slide" />
+            <slidelink slideid="_player.65fXArBUAkA.66XkYNfe1I0" displaytext="6. 16.2 Progress Check 1" expand="false" type="slide" />
+            <slidelink slideid="_player.65fXArBUAkA.6cJt0e7gDO5" displaytext="7. 16.2 Progress Check 2" expand="false" type="slide" />
+            <slidelink slideid="_player.65fXArBUAkA.6THb4pdeWqY" displaytext="8. Quiz" expand="false" type="slide" />
+            <slidelink slideid="_player.65fXArBUAkA.64uDwWwZHYX" displaytext="End of Exercise 17.2" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.5Z3uJkUVeaq" displaytext="17.3 The Lower Limb" expand="false" type="slide">
+          <links>
+            <slidelink slideid="_player.5Z3uJkUVeaq.62Bc8Vi5qFF" displaytext="1. Objectives" expand="false" type="slide" />
+            <slidelink slideid="_player.5Z3uJkUVeaq.6F4ikAIg8pP" displaytext="2. 14.6 Progress Check 1" expand="false" type="slide" />
+            <slidelink slideid="_player.5Z3uJkUVeaq.6CgONY7T7Cr" displaytext="3. 14.6 Progress Check 2" expand="false" type="slide" />
+            <slidelink slideid="_player.5Z3uJkUVeaq.6l09VrKBNkl" displaytext="4. 15.4 Progress Check" expand="false" type="slide" />
+            <slidelink slideid="_player.5Z3uJkUVeaq.5xPtjG6FIyr" displaytext="5. 16.3 Progress Check 1" expand="false" type="slide" />
+            <slidelink slideid="_player.5Z3uJkUVeaq.6Dx4oOQK4Xa" displaytext="6. 16.3 Progress Check 2" expand="false" type="slide" />
+            <slidelink slideid="_player.5Z3uJkUVeaq.5qcIYw6XPqy" displaytext="7. Quiz" expand="false" type="slide" />
+            <slidelink slideid="_player.5Z3uJkUVeaq.6lrDWWa0UWO" displaytext="End of Lab 16.3" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.5b1Fq45UaV9" displaytext="17.4 Articulations" expand="false" type="slide">
+          <links>
+            <slidelink slideid="_player.5b1Fq45UaV9.6MNnx7uHCSp" displaytext="1. Objectives" expand="false" type="slide" />
+            <slidelink slideid="_player.5b1Fq45UaV9.6XfGyNe6IuW" displaytext="2. 14.3 Progress Check 1" expand="false" type="slide" />
+            <slidelink slideid="_player.5b1Fq45UaV9.6KVAdQLm6rV" displaytext="3. 14.3 Progress Check 2" expand="false" type="slide" />
+            <slidelink slideid="_player.5b1Fq45UaV9.6hhrM761HTQ" displaytext="4. 14.5 Progress Check 1" expand="false" type="slide" />
+            <slidelink slideid="_player.5b1Fq45UaV9.5bpyV5dw4Bm" displaytext="5. 14.5 Progress Check 2" expand="false" type="slide" />
+            <slidelink slideid="_player.5b1Fq45UaV9.6jAYXSv8FSn" displaytext="6. 15.5 Progress Check 1" expand="false" type="slide" />
+            <slidelink slideid="_player.5b1Fq45UaV9.6E6eeycSy5L" displaytext="7. 15.5 Progress Check 2" expand="false" type="slide" />
+            <slidelink slideid="_player.5b1Fq45UaV9.6YHHG7Zbgxj" displaytext="8. Quiz" expand="false" type="slide" />
+            <slidelink slideid="_player.5b1Fq45UaV9.5bvPrQ8jMAt" displaytext="End of Lab 17.4" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6GNfkjEfjtK" displaytext="17.5 Field Trip" expand="false" type="slide">
+          <links>
+            <slidelink slideid="_player.6GNfkjEfjtK.681S4QWTOJ3" displaytext="Lab 5 Field Trip" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.5lEI8c43zhW" displaytext="Quizlandia" expand="false" type="slide">
+          <links>
+            <slidelink slideid="_player.5lEI8c43zhW.6TuR2ONld8x" displaytext="Quiz Selection" expand="false" type="slide" />
+            <slidelink slideid="_player.5lEI8c43zhW.5vetKPS57tS" displaytext="17A Quiz" expand="false" type="slide">
+              <links>
+                <slidelink slideid="_player.5lEI8c43zhW.6RyxqTthttm" displaytext="Question 1" expand="false" type="slide" />
+                <slidelink slideid="_player.5lEI8c43zhW.5wveRb94fwb" displaytext="Question 2" expand="false" type="slide" />
+                <slidelink slideid="_player.5lEI8c43zhW.65A8Yk4vhjB" displaytext="Question 3" expand="false" type="slide" />
+                <slidelink slideid="_player.5lEI8c43zhW.62BlIJs0D1M" displaytext="Question 4" expand="false" type="slide" />
+                <slidelink slideid="_player.5lEI8c43zhW.6Kn6xa1oDWk" displaytext="Question 5" expand="false" type="slide" />
+                <slidelink slideid="_player.5lEI8c43zhW.5idBO5JJO0P" displaytext="Question 6" expand="false" type="slide" />
+                <slidelink slideid="_player.5lEI8c43zhW.6fG58ouXPTJ" displaytext="Question 7" expand="false" type="slide" />
+                <slidelink slideid="_player.5lEI8c43zhW.5eMV6vTmUfv" displaytext="Question 8" expand="false" type="slide" />
+                <slidelink slideid="_player.5lEI8c43zhW.6LL9TzRQe5j" displaytext="Question 9" expand="false" type="slide" />
+                <slidelink slideid="_player.5lEI8c43zhW.6dpGTvk3x03" displaytext="Question 10" expand="false" type="slide" />
+                <slidelink slideid="_player.5lEI8c43zhW.5utQ5SHSdr9" displaytext="Question 11" expand="false" type="slide" />
+                <slidelink slideid="_player.5lEI8c43zhW.6jhfmEjDBmZ" displaytext="Question 12" expand="false" type="slide" />
+                <slidelink slideid="_player.5lEI8c43zhW.67ueYhdgpHP" displaytext="Question 13" expand="false" type="slide" />
+                <slidelink slideid="_player.5lEI8c43zhW.6Hjk3MIhBht" displaytext="Question 14" expand="false" type="slide" />
+                <slidelink slideid="_player.5lEI8c43zhW.63BXrqAN8VO" displaytext="Question 15" expand="false" type="slide" />
+                <slidelink slideid="_player.5lEI8c43zhW.6jz0p7uU5oK" displaytext="Question 16" expand="false" type="slide" />
+                <slidelink slideid="_player.5lEI8c43zhW.5wXUSbBJKWM" displaytext="Question 17" expand="false" type="slide" />
+                <slidelink slideid="_player.5lEI8c43zhW.6fCpMT2XoZw" displaytext="Question 18" expand="false" type="slide" />
+                <slidelink slideid="_player.5lEI8c43zhW.6l8nkMmOjrg" displaytext="Question 19" expand="false" type="slide" />
+                <slidelink slideid="_player.5lEI8c43zhW.6ghZW8S5i4n" displaytext="Question 20" expand="false" type="slide" />
+                <slidelink slideid="_player.5lEI8c43zhW.5aKg39X7qRe" displaytext="Question 21" expand="false" type="slide" />
+                <slidelink slideid="_player.5lEI8c43zhW.5kDecxptVRz" displaytext="Question 22" expand="false" type="slide" />
+                <slidelink slideid="_player.5lEI8c43zhW.5pm0fAFkZBs" displaytext="Question 23" expand="false" type="slide" />
+                <slidelink slideid="_player.5lEI8c43zhW.5V6CVjYIrOI" displaytext="Question 24" expand="false" type="slide" />
+              </links>
+            </slidelink>
+            <slidelink slideid="_player.5lEI8c43zhW.6eB9MfTXksD" displaytext="17.1 Quiz" expand="false" type="slide">
+              <links>
+                <slidelink slideid="_player.5lEI8c43zhW.6cav05Jg1mS" displaytext="Question 1" expand="false" type="slide" />
+                <slidelink slideid="_player.5lEI8c43zhW.5VCOXNEu0Ol" displaytext="Question 2" expand="false" type="slide" />
+                <slidelink slideid="_player.5lEI8c43zhW.6d7LM7Xw03r" displaytext="Question 3" expand="false" type="slide" />
+                <slidelink slideid="_player.5lEI8c43zhW.6cTRIxB1cpp" displaytext="Question 4" expand="false" type="slide" />
+                <slidelink slideid="_player.5lEI8c43zhW.67lxf7lYE8Y" displaytext="Question 5" expand="false" type="slide" />
+                <slidelink slideid="_player.5lEI8c43zhW.6YxaicyiVqu" displaytext="Question 6" expand="false" type="slide" />
+                <slidelink slideid="_player.5lEI8c43zhW.5hvSle814y3" displaytext="Question 7" expand="false" type="slide" />
+                <slidelink slideid="_player.5lEI8c43zhW.5tGx4r33X3n" displaytext="Question 8" expand="false" type="slide" />
+                <slidelink slideid="_player.5lEI8c43zhW.6SVH02vqNzq" displaytext="Question 9" expand="false" type="slide" />
+                <slidelink slideid="_player.5lEI8c43zhW.5bauNtq50rF" displaytext="Question 10" expand="false" type="slide" />
+                <slidelink slideid="_player.5lEI8c43zhW.5WXLUoRWOkf" displaytext="Question 11" expand="false" type="slide" />
+                <slidelink slideid="_player.5lEI8c43zhW.6VbnFEHvIJn" displaytext="Question 12" expand="false" type="slide" />
+                <slidelink slideid="_player.5lEI8c43zhW.6Tc6Xy2coVm" displaytext="Question 13" expand="false" type="slide" />
+                <slidelink slideid="_player.5lEI8c43zhW.6jFlkTH4ZO7" displaytext="Question 14" expand="false" type="slide" />
+                <slidelink slideid="_player.5lEI8c43zhW.6k58xuBN7ZY" displaytext="Question 15" expand="false" type="slide" />
+                <slidelink slideid="_player.5lEI8c43zhW.6IfW8GGH5xo" displaytext="Question 16" expand="false" type="slide" />
+                <slidelink slideid="_player.5lEI8c43zhW.6PR198136ag" displaytext="Question 17" expand="false" type="slide" />
+                <slidelink slideid="_player.5lEI8c43zhW.5kFn8dlNqv3" displaytext="Question 18" expand="false" type="slide" />
+                <slidelink slideid="_player.5lEI8c43zhW.6X8mNHSs83F" displaytext="Question 19" expand="false" type="slide" />
+                <slidelink slideid="_player.5lEI8c43zhW.6giVVZQO5jT" displaytext="Question 20" expand="false" type="slide" />
+                <slidelink slideid="_player.5lEI8c43zhW.6CJY8xcD22Y" displaytext="Question 21" expand="false" type="slide" />
+                <slidelink slideid="_player.5lEI8c43zhW.5yEgGwpKbJV" displaytext="Question 22" expand="false" type="slide" />
+                <slidelink slideid="_player.5lEI8c43zhW.60Kx2lKb0Q5" displaytext="Question 23" expand="false" type="slide" />
+                <slidelink slideid="_player.5lEI8c43zhW.5c5XN65vowB" displaytext="Question 24" expand="false" type="slide" />
+                <slidelink slideid="_player.5lEI8c43zhW.6cl8OIkjW1s" displaytext="Question 25" expand="false" type="slide" />
+                <slidelink slideid="_player.5lEI8c43zhW.6Z24vNkA3YU" displaytext="Question 26" expand="false" type="slide" />
+                <slidelink slideid="_player.5lEI8c43zhW.6VybNvQ9hjk" displaytext="Question 27" expand="false" type="slide" />
+                <slidelink slideid="_player.5lEI8c43zhW.5pW0w5d31xp" displaytext="Question 28" expand="false" type="slide" />
+                <slidelink slideid="_player.5lEI8c43zhW.61c8v4R5MgO" displaytext="Question 29" expand="false" type="slide" />
+                <slidelink slideid="_player.5lEI8c43zhW.679IDEO1Z6A" displaytext="Question 30" expand="false" type="slide" />
+                <slidelink slideid="_player.5lEI8c43zhW.62KnjbxQnHc" displaytext="Question 31" expand="false" type="slide" />
+                <slidelink slideid="_player.5lEI8c43zhW.5pb3vPuWPQM" displaytext="Question 32" expand="false" type="slide" />
+                <slidelink slideid="_player.5lEI8c43zhW.5hG89hE1JUC" displaytext="Question 33" expand="false" type="slide" />
+                <slidelink slideid="_player.5lEI8c43zhW.6AVQriE1hFo" displaytext="Question 34" expand="false" type="slide" />
+              </links>
+            </slidelink>
+          </links>
+        </slidelink>
+      </links>
+    </outline>
+    <search>
+      <slidetext slideid="6WPJoLsOIZn.6NLd1ckctfn" slidebank="false" type="slide">lab 17: the hand unit 5: musculoskeletal anatomy click to begin click to begin click to begin </slidetext>
+      <slidetext slideid="6WPJoLsOIZn.5tIgPuUVAkS" slidebank="false" type="slide">unless otherwise noted, all figures in this emodule are from gray’s anatomy for students, 3e, by drake   , vogl, &amp; mitchell, © 2015 by elsevier. this is a recommended resource click to continue click to continue click to continue emodule tutorial emodule tutorial emodule tutorial </slidetext>
+      <slidetext slideid="6WPJoLsOIZn.5UuyAxLxoDf" slidebank="false" type="slide">unit 5 overview previous next the skeleton is quite sensibly divided into an axial division and an appendicular division. the axial division consists of the skull, vertebral column and bony thorax.  in unit 1, you were introduced to the vertebral column and bony thorax.  in unit 2, you learned the anatomy of the skull.   in unit 3, you studied the appendicular division of the skeleton, including the pectoral girdle and upper limb, and the pelvic girdle and lower limb. in addition, you learned the fascial compartments of the limbs and the peripheral vascular system. now, in cpc-3, unit 5, you will learn the anatomy of the musculoskeletal system, including the articulations      , movements, major muscles and nerves of the limbs. </slidetext>
+      <slidetext slideid="6WPJoLsOIZn.6UiwTI2wzaq" slidebank="false" type="slide">using the emodule use this emodule before labs to prepare for them, during labs to guide your studies, and after labs as a review tool. to complete each section, use the next button at the bottom of each page, swipe right or press the right arrow key to move forward one page at a time.  use the menu, available by clicking “menu” at the top, to navigate to specific slides. use search to quickly find instances of relevant terms. use the previous button at the bottom of the page or swipe left or press the left arrow key to move back one page at a time.  lab 17 exercise   17.1 the hand   17.2 the upper                17.3 the lower previous next </slidetext>
+      <slidetext slideid="6WPJoLsOIZn.6JLpZSJdiMi" slidebank="false" type="slide">previous got it, let’s move on conventions used in the emodule with age, wear and tear,  info information that has implications for health and disease is introduced on a blue bar and continued below the bar: and how the superior and inferior articular facets of adjacent vertebrae articulate with one another.  note how they fit together, tas k tasks, introduced on a pink bar and continued below the bar in bold, are actions that you should take to help you understand the content: an intervertebral disc can herniate, such that the nucleus pulposus…. the film button appears on the bottom bar of slides where a video accompanies tasks or explanations. the photo button appears at the bottom of slides where a photo accompanies tasks. some words are followed by an icon       ; click the icon to jump to related slides. click the       icon to jump back. some words are followed by an icon       ; click the icon to see a definition.  words / phrases in purple denote concepts with which you should become familiar.   the slide talk icon appears on the top bar of slides containing a recording of me explaining concepts </slidetext>
+      <slidetext slideid="6WPJoLsOIZn.6EpRmQ5Rh7a" slidebank="false" type="slide">lab 17 instructions previous take me to exercise selection prior to lab 17, complete exercise 17a, a short self-learning module that summarizes the cutaneous and motor innervation of the limbs. this is to be completed before the lab. the lab will begin with a lab rat on this slm. during lab you will complete exercises 17.1 - 17.4, in which you will study the anatomy of the hand and rotate through directed review stations of the upper and lower limbs.  prior to lab, you must review exercise 17.1 so that your time in lab is spent efficiently.  the material for these exercises will be placed at four different stations around your lab room. you will work and rotate with your pairs:  17.5 is a field trip to grant’s museum, where there are prosections of the hand on display. take time to study these specimens. 1:00-2:00 2:00-3:00 3:00-4:00 4:00-5:00 17.1 group 1 group 4 group 3 group 2  17.2 group 2 group 1 group 4 group 3 17.3 group 3 group 2 group 1 group 4 17.4 group 4 group 3 group 2 group 1 </slidetext>
+      <slidetext slideid="6Mji4Q6ibhV.6iS1i5S7VfA" slidebank="false" type="slide">lab 17 exercise selection select an exercise to begin: lab 17 stations if you finish early…  17.5 field trip  17.5 field trip  17.5 field trip review lab 17 quizlandia 17 quizlandia 17 quizlandia 17 pre-lab slm 17a prelab slm innervation summary 17a prelab slm innervation summary 17a prelab slm innervation summary 17.1 the hand 17.1 the hand 17.1 the hand 17.2 the upper limb 17.2 the upper limb 17.2 the upper limb 17.3 the lower limb 17.3 the lower limb 17.3 the lower limb 17.4 articulations 17.4 articulations 17.4 articulations previous </slidetext>
+      <slidetext slideid="6gj8udEV9PZ.5aNdukkU0Du" slidebank="false" type="slide">17a prelab slm: innervation summary back to exercise selection next when you have learned the material presented in this prelab slm, you will be able to: describe the motor and cutaneous distribution of the peripheral nerves of the upper limb describe the sensory and motor deficits associated with a lesion of each of the major peripheral nerves of the upper limb part 1: the upper limb </slidetext>
+      <slidetext slideid="6gj8udEV9PZ.5lFPVMcg5Ki" slidebank="false" type="slide">17a   lateral and medial cords: terminal branches the cords of the brachial plexus give rise to the major peripheral nerves of the upper limb. 2 previous next recall that the lateral and medial cords of the brachial plexus give rise to three major peripheral nerves. these are: the musculocutaneous nerve (c5-c6)*, the continuation of the lateral cord  the median nerve (c6-t1)*, formed by contributions from both the lateral and medial cord the ulnar nerve (c8-t1), the continuation of the medial cord  their motor distribution, with few exceptions     , are: musculocutaneous nerve: muscles of the anterior compartment of the arm,  median nerve: muscles of the the anterior compartment of the forearm,  ulnar nerve: the intrinsic muscles of the hand * take note!! a nerve derived from the brachial plexus does not necessarily take fibres from all the levels contained in the parent nerve. here you see this is true of the musculocutaneous and median nerves. </slidetext>
+      <slidetext slideid="6gj8udEV9PZ.5dwEqHtc0Uz" slidebank="false" type="slide">17a   posterior cord: terminal branches the cords of the brachial plexus give rise to the major peripheral nerves of the upper limb. 3 previous next recall that the posterior cord gives rise to the axillary nerve (c5-c6) before continuing as the radial nerve (c5-t1).  the axillary nerve crosses posterior to the surgical neck of the humerus to innervate the deltoid muscle, the primary abductor of the glenohumeral joint.  the radial nerve passes posterior to the humerus, in the spiral (or radial) groove. it innervates, with no exception, the muscles of the posterior compartments of the arm and forearm.  if the radial nerve were lesioned in the axilla, what movements would be affected at the: elbow joint? answer: wrist joint?? answer: mcp, pip and dip joints of the fingers? answer: mcp, pip and dip joints of the thumb? answer: </slidetext>
+      <slidetext slideid="6gj8udEV9PZ.5bLfnAO3j8w" slidebank="false" type="slide">17a   branches of the brachial plexus within the axilla the suprascapular nerve innervates two of the rotator cuff muscles, the supraspinatus and the infraspinatus     .      recall that because the rotator cuff muscles, as a group, hold the head of the humerus in the glenoid fossa, damage to the suprascapular nerve can cause instability of the glenohumeral joint, and an increased risk of dislocation. the long thoracic nerve innervates the serratus anterior muscle     . because the serratus anterior muscle holds the scapula against the thoracic wall, lesion of the long thoracic nerve causes “winged scapula”      .  4 previous next </slidetext>
+      <slidetext slideid="6gj8udEV9PZ.6nSZDtmeebC" slidebank="false" type="slide">17a   the musculocutaneous nerve the musculocutaneous nerve innervates the muscles of the anterior compartment of the arm, notably, the biceps brachii and the brachialis. do you remember their actions? recall that the musculocutaneous nerve ends as the lateral cutaneous nerve of the forearm, which monitors the skin of the lateral forearm. therefore, a lesion of the musculocutaneous nerve can cause sensory signs (pain, dysesthesia) in the lateral aspect of the forearm.  5 previous next </slidetext>
+      <slidetext slideid="6gj8udEV9PZ.6CGgIwd4a9x" slidebank="false" type="slide">17a   the axillary nerve 6 previous next recall that the axillary nerve passes posterior to the surgical neck of the humerus, accompanied by the posterior circumflex humeral artery     . the axillary nerve innervates the deltoid muscle, and the skin overlying the shoulder.  describe the motor and sensory deficits characteristic of a lesion of the axillary nerve. think, then click!  </slidetext>
+      <slidetext slideid="6gj8udEV9PZ.6GbCbIeDSKG" slidebank="false" type="slide">17a   the radial nerve in the arm 7 previous next recall that the radial nerve with its companion, the deep brachial artery, crosses the posterior aspect of the humerus in the spiral (radial) groove. the radial nerve innervates the triceps, and the skin overlying the posterior aspect of the arm. the muscular branches of the radial nerve to the three heads of the triceps arise in the proximal arm. therefore, for a lesion of the radial nerve to affect elbow extension, it must occur proximal to these branches. the radial nerve continues into the posterior compartment of the forearm to innervate all of its contained muscles. </slidetext>
+      <slidetext slideid="6gj8udEV9PZ.5mayZq406jm" slidebank="false" type="slide">17a   the median nerve: what you know so far…. 8 previous next recall that the median nerve runs in the plane between the middle and deep layers of the anterior compartment of the forearm. as it travels distally, it sends muscular branches to all muscles of the anterior compartment of the forearm, with one-and-a-half exceptions     .  at the wrist, the median nerve lies medial to the flexor carpi radialis tendon. it passes into the carpal tunnel with the long flexor tendons (flexor digitorum superficialis, flexor digitorum profundus and flexor pollicis longus). compression of the median nerve in the carpal tunnel leads to carpal tunnel syndrome.  take particular note, in this diagram, that a cutaneous palmar branch of the median nerve, which serves the skin at the base of the hand and the central palm, passes superficial to the flexor retinaculum. because this nerve does not pass through the carpal tunnel, skin in the central palm is unaffected in carpal tunnel syndrome. skin supplied by the main branch (green), which passes through the carpal tunnel, is affected. </slidetext>
+      <slidetext slideid="6gj8udEV9PZ.5X2GTAB69KQ" slidebank="false" type="slide">17a   the ulnar nerve in the forearm  9 previous next recall that the ulnar nerve passes through the anterior compartment of the forearm like the filling in a sandwich     , between the flexor carpi ulnaris and the medial (“ulnar”) half of flexor digitorum profundus.   the flexor carpi ulnaris contributes to flexion and adduction of the wrist. the “ulnar” half of flexor digitorum profundus flexes the dip joints of digits 4 and 5. recall that weakness in flexion of the dip joints of digits 4 and 5 is suggestive of an ulnar nerve damage at or above the medial epicondyle.  as you will learn in exercise 17.2, the ulnar nerve innervates most of the intrinsic muscles of the hand and is sensory over the medial portion of the hand. the ulnar nerve does not pass through the carpal tunnel. the ulnar nerve is spared in carpal tunnel syndrome. </slidetext>
+      <slidetext slideid="6gj8udEV9PZ.6Jv3MeCaXCW" slidebank="false" type="slide">17a   the radial nerve in the forearm 10 previous the radial nerve continues from the posterior compartment of the arm into the posterior compartment of the forearm. it innervates all muscles of this compartment, and therefore is responsible for extension of the wrist, thumb and fingers. its superficial branch is cutaneous to the dorsolateral aspect of the hand (green). do you recall what a “drop wrist” is? how does it present? next in exercise 17.2, you will learn further details about the motor and sensory innervation of the hand. </slidetext>
+      <slidetext slideid="6gj8udEV9PZ.6UqDV33itGK" slidebank="false" type="slide">previous next 17a prelab slm: innervation summary part 2: the leg and foot when you have learned the material presented in this prelab slm, you will be able to: describe the motor and cutaneous distribution of the peripheral nerves of the lower limb describe the sensory and motor deficits associated with a lesion of each of the major peripheral nerves of the lower limb </slidetext>
+      <slidetext slideid="6gj8udEV9PZ.610vXleIAdV" slidebank="false" type="slide">17a   the femoral nerve 12 previous next recall that when the femoral nerve passes into the anterior compartment of the thigh, it breaks up to form numerous branches, most of them are muscular branches to the muscles of the anterior thigh.  the femoral nerve innervates all muscles of the anterior compartment of the thigh, and is therefore responsible for extension of the knee. the femoral nerve does not innervate any muscles distal to the knee. the femoral nerve gives rise to two major cutaneous nerves: the anterior cutaneous nerve of the thigh and the saphenous nerve. </slidetext>
+      <slidetext slideid="6gj8udEV9PZ.5yCQoMSRAjs" slidebank="false" type="slide">the obturator nerve innervates most of the muscles of the medial compartment of the thigh, and is therefore responsible for adduction of the hip. it supplies the medial thigh with sensory fibres. previous next 17a   the obturator nerve 13 </slidetext>
+      <slidetext slideid="6gj8udEV9PZ.6V5KEJiHH0h" slidebank="false" type="slide">17a   the sciatic nerve 14 previous next recall that the sciatic nerve is composed of two divisions, which form the tibial and common fibular nerves. the tibial nerve courses through the midline of the thigh and popliteal fossa into the leg. the common fibular nerve swings laterally at the knee, in the company of the biceps femoris.  recall that the tibial nerve is responsible for innervating most of the hamstring muscles, and therefore largely responsible for flexion of the knee.  </slidetext>
+      <slidetext slideid="6gj8udEV9PZ.5zeXDDSeCD6" slidebank="false" type="slide">17a   nerves of the gluteal region 15 previous next recall that the superior gluteal nerve innervates the gluteus medius and minimus and the tensor fascia lata. what actions is it responsible for? think then click    ! the inferior gluteal nerve innervates the gluteus maximus. what movements is it responsible for? think then click     ! </slidetext>
+      <slidetext slideid="6gj8udEV9PZ.5uix61JFzVd" slidebank="false" type="slide">17a   the tibial nerve in the leg 16 previous next recall that branches of the tibial nerve supply the muscles of the posterior superficial and deep compartments of the leg. what movement of the talocrural joint is controlled by the tibial nerve? think then click:what movement of the foot is controlled by the tibial nerve? what movement of the toes is controlled by the tibial nerve? recall tracing the tibial nerve posterior to the medial malleolus to enter the foot, bifurcating to form the medial and lateral plantar nerves. cutaneous branches of the tibial nerve include the sural nerve, distributed to the lateral aspect of the distal leg and foot, and the calcaneal, and medial and lateral plantar nerves, the distribution of which is illustrate in the figure below. </slidetext>
+      <slidetext slideid="6gj8udEV9PZ.5Z5UvEZz3yz" slidebank="false" type="slide">17a   the superficial fibular nerve 17 previous next recall that the common fibular nerve gives rise to the lateral cutaneous nerve of the calf, prior to passing laterally around the neck of the fibula     , and then bifurcating into the superficial and deep fibular nerves     .  recall that the superficial fibular nerve innervates the fibularis longus and brevis, and therefore controls what movement of the foot? recall, further, that the superficial fibular nerve emerges from the lateral compartment of the leg to provide cutaneous sensation to the dorsum of the foot. from this you know the distribution of sensory symptoms associated with a lesion involving the superficial fibular nerve. </slidetext>
+      <slidetext slideid="6gj8udEV9PZ.6g4RDAfWjdt" slidebank="false" type="slide">17a   the deep fibular nerve 18 previous next recall identifying the deep fibular nerve in the anterior compartment of the leg. do you recall its bff? think, then click: recall that the deep fibular nerve supplies the muscles of the anterior compartment of the leg. what movement of the talocrural joint is controlled by the deep fibular nerve? think then click:what movement of the foot is controlled by the deep fibular nerve? what movement of the toes is controlled by the deep fibular nerve? the deep fibular nerve continues into the foot to provide cutaneous sensation to the first webspace. </slidetext>
+      <slidetext slideid="6gj8udEV9PZ.6K4Gr5yGuHa" slidebank="false" type="slide">17a   summary of cutaneous nerves of the leg and foot  19 previous next as you traced the major peripheral nerves through the lower limb, you learned the following about their cutaneous distribution. in your mind’s eye, recall tracing the nerves as follows: recall that when you followed the femoral nerve through the anterior compartment of the thigh, you found that it had only one branch that extended beyond the knee, the saphenous nerve, and that this nerve is cutaneous to the medial aspect of the leg and foot. recall that the lateral cutaneous nerve of the calf supplies the lateral aspect of the proximal leg, and that this branch arises from the common peroneal nerve proximal to the fibular head. compression of the common peroneal nerve at the fibular head therefore spares this area of skin. recall that the superficial peroneal nerve becomes cutaneous after supplying the muscles of the lateral compartment of the leg, and is distributed to the lateral aspect of the distal leg and the dorsum of the foot. the exception is the skin of the first webspace, which is supplied by the deep peroneal nerve.  </slidetext>
+      <slidetext slideid="6gj8udEV9PZ.6OxQPH8Jzod" slidebank="false" type="slide">17a   summary of cutaneous nerves of the leg and foot  20 previous next recall that in the popliteal fossa, you looked for the sural nerve, a branch of the tibial nerve, that descends with the short saphenous vein in the superficial fascia of the calf to supply cutaneous sensation to the lateral aspect of the distal leg and foot. recall that when you followed the tibial nerve into the foot, you learned of a calcaneal branch supplying cutaneous sensation to the heel. you then learned that the tibial nerve bifurcates, forming the medial and lateral plantar nerves, which supply cutaneous sensation to the medial and lateral aspects of the sole of the foot.  </slidetext>
+      <slidetext slideid="6gj8udEV9PZ.5VaWgFHkedg" slidebank="false" type="slide">17a   quiz 21 previous you’ve reached the end of this exercise. do you want to take the end-of-exercise quiz now? let’s do it! i love anatomy! go to the quiz sorry….i’ll be back..(maybe) skip the quiz next </slidetext>
+      <slidetext slideid="6gj8udEV9PZ.6IkOfPRJiwh" slidebank="false" type="slide">previous congratulations on finishing prelab slm 17a! back to exercise selection back to exercise selection back to exercise selection review 17a review 17a review 17a </slidetext>
+      <slidetext slideid="6JwNeCu1d5c.65Td0EjFqla" slidebank="false" type="slide">17.1 the hand back to exercise selection specimens an articulated bony hand 2 prosections of the wrist and hand 1 prosected hand  next </slidetext>
+      <slidetext slideid="6JwNeCu1d5c.6k2we57XHGl" slidebank="false" type="slide">when you have learned the material presented in this exercise, you will be able to identify and describe: the major muscles, nerves and blood vessels and ct structures of the hand the muscles responsible for the positioning of the fingers and thumb, and their innervation the cutaneous innervation of the hand by peripheral nerves 17.1   objectives 2 previous next </slidetext>
+      <slidetext slideid="6JwNeCu1d5c.6pU0CMC3ZXe" slidebank="false" type="slide">17.1   the thenar muscles  3 previous next identify the tendons of insertion of the superficial layer of the anterior forearm, the flexor carpi ulnaris and flexor carpi radialis.  unwrap the prosected hand. tas k note that most of the palmar aponeurosis has been removed, but the attachment of the palmaris longus to it, bound down to the flexor retinaculum, may be present. identify the thenar eminence at the base of your own thumb     ; the bulk of the thenar muscles are responsible for this surface anatomy feature.  the three thenar muscles are intrinsic muscles of the hand that act on the thumb. evaluation of the function of the thenar muscles is an important part of the neurological exam! learn them well. in the prosection, identify the two superficial thenar muscles, the abductor pollicis brevis and the flexor pollicis brevis. their names and actions make sense…. </slidetext>
+      <slidetext slideid="6JwNeCu1d5c.6cYceZwhYhy" slidebank="false" type="slide">17.1   the actions of the thenar muscles make sense  4 previous next this is a good time to review the movements of the thumb     and rectify in your minds the positions of these two muscles with their actions, as described by their names.  abduction and flexion occur at the mcp joint, with contraction of the abductor pollicis brevis and the flexor pollicis brevis, respectively. flexion of the mcp joint pulls the thumb across the palm. abduction of the mcp joint pulls the thumb out of the plane of the hand.  look at the position of each muscle and the direction of their muscle fibres. as illustrated by the blue arrow, the abductor pollicis brevis will pull the thumb out of the plane of the palm, and as illustrated by the red arrow, the flexor pollicis brevis will pull the thumb across the palm. (flexion also occurs at the ip joint of the thumb with contraction of the     flexor pollicis longus, which you identified in the deep layer of the anterior forearm.) </slidetext>
+      <slidetext slideid="6JwNeCu1d5c.6PXCbGFldul" slidebank="false" type="slide">17.1   the opponens pollicis and innervation 5 previous next median nerve on the surface of the flexor pollicis brevis. it innervates the three thenar muscles, and is therefore responsible  identify the recurrent branch of the  tas k opponens pollicis inserting into the first metacarpal. realize that since this muscle crosses only the carpometacarpal joint, it acts only on the carpometacarpal joint. recall that opposition occurs at the first carpometacarpal joint; the action of the opponens pollicis makes sense.  reflect the cut tendon of the abductor pollicis brevis proximally, and identify, deep to it, the  tas k for flexion, abduction and opposition of the thumb. these muscles are three exceptions to the general rule that intrinsic muscles of the hand are innervated by the ulnar nerve. identify, at the base of the fifth digit, the hypothenar muscles. they are intrinsic muscles of the hand dedicated to the fifth digit. realize that they are responsible for the hypothenar eminence, a surface feature of the medial aspect of the palm     . they are innervated by the ulnar nerve. </slidetext>
+      <slidetext slideid="6JwNeCu1d5c.6qOby4xyLkd" slidebank="false" type="slide">17.1   long flexor tendons and sheaths  6 previous next follow the long flexor tendons to the tip  tas k the middle finger will have been dissected for you to study the architecture of the long flexor tendons. of the middle finger. you may gently flex and extend the finger to make the tendon insertions more clear.  identify the forked tendon of the flexor digitorum superficialis inserting bilaterally to the middle phalanx. remind yourself which joints it flexes. think then click     !  identify the tendon of the flexor digitorum profundus passing through the bifurcating tendon of the flexor digitorum superficialis to reach and insert into the distal phalanx. remind yourself which joints it flexes. think then click     ! look at the tendons in the palm of the prosected hand. these tendons are palpated in the examination of the hand. realize that, as illustrated in the diagram, the long flexor tendons are normally wrapped in a synovial tendon sheath, structures too delicate to be preserved in the prosection.  </slidetext>
+      <slidetext slideid="6JwNeCu1d5c.6ZiMRRfQwGr" slidebank="false" type="slide">17.1   tenosynovitis 7 previous next when the bellies of the long flexor muscles contract, their tendons are pulled proximally, causing flexion of the digit into which it inserts.  synovial tendon sheaths are tubular bursae that prevent friction between the tendons and surrounding structures, both in the carpal tunnel and anterior to the phalanges. is tenosynovitis. it is typically caused by overuse. it may also be associated with underlying conditions such as diabetes or  inflammation of a tendon and its sheath info inflammatory arthritis. septic tenosynovitis may also occur, which is much more aggressive and inflammatory. chronic tenosynovitis may lead to fibrotic changes, including nodules, particularly at the mcp, that can cause tendons to “catch” rather than run smoothly in their synovial sheaths. this typically occurs in the flexor tendons and is called stenosing tenosynovitis or trigger finger.  </slidetext>
+      <slidetext slideid="6JwNeCu1d5c.6lecccKw5qb" slidebank="false" type="slide">the prosected hand, the lumbricals     .  these worm-shaped muscles arise from the  17.1   the adductor pollicis and lumbricals  8 previous next the hand to the thumb, the adductor pollicis. see it in isolation here:     . this muscle is a powerful adductor of the thumb, bringing it in line with the  identify, extending horizontally from the palm of  identify, in the palm of   tas k palm of the hand. it is innervated by the ulnar nerve. tendons of the fdp, as illustrated here:      , and wrap around the lateral aspect of the mcp joints, anterior to their axis of rotation.  their course and insertion into the extensor expansion allow them to simultaneously flex the mcp joints and extend the pip and dip     . the lumbricals of digits 2 and 3 are innervated by the median nerve, and those of digits 4 and 5 are innervated by the ulnar nerve.  this distinction assists in the diagnosis of ulnar vs. median neuropathies, as you will soon learn. tas k </slidetext>
+      <slidetext slideid="6JwNeCu1d5c.5oK1lx5r9if" slidebank="false" type="slide">the interossei, hypothenars and thenars are responsible for much of the appreciable bulk of the hand.  the interossei and hypothenars are innervated by the ulnar nerve, while the thenars are innervated by the median nerve. an ulnar neuropathy can cause a selective loss of bulk of the hypothenars and interossei, as seen here:  17.1   the dorsal and palmar interossei  9 previous next its dorsal aspect. first note the tendons of the long extensor muscles. deep to them, identify the dorsal interossei between the  turn the prosected hand over to study  tas k the dorsal and palmar interossei get their names from their origins: they arise from between the metacarpals     in the palm of the hand. a useful     mnemonic for remembering the actions of the interossei is dab and pad. the dorsal interossei abduct (dab) the digits and the palmar interossei adduct (pad) the digits     .  the palmar interossei are too deep for you to identify in this prosection. digits, as well as the hypothenar muscles on its medial aspect. notice how the interossei muscles fill in the spaces in the hand.  </slidetext>
+      <slidetext slideid="6JwNeCu1d5c.65651mwzETI" slidebank="false" type="slide">17.1   summarizing the median nerve 10 previous next recall that the median nerve innervates all muscles in the anterior compartment of the forearm, with one-and-a-half exceptions     . before passing through the carpal tunnel into the hand, the median nerve gives a palmar branch that passes superficial to the flexor retinaculum to the central region of the palm. this cutaneous branch is not present in your prosection, but is important. of the median nerve innervating the thenar muscles. follow the main branch distally, and you might see it innervating the lateral two lumbricals.  the thenars and the lateral two lumbricals are the only intrinsic muscles of the hand innervated by the median nerve. all others are innervated by the ulnar nerve.  any other branches of the median nerve you see are cutaneous (digital) branches. they innervate the skin over the lateral three-and-a-half digits (green region in illustration). identify the main branch of the  median nerve passing through the carpal tunnel into the palm of the hand. identify the recurrent branch tas k </slidetext>
+      <slidetext slideid="6JwNeCu1d5c.5Zfi0Up7mBv" slidebank="false" type="slide">in carpel tunnel syndrome, the median nerve is compressed within the carpal tunnel. this results in pain and tingling in the area of cutaneous distribution of the median nerve in the hand (green). the central palm is spared because the palmar branch passes superficial to the flexor retinaculum.  with time, compression of the median nerve can cause wasting of the thenar muscles and lateral two lumbricals. wasting of the thenar muscles is more easily detected (red arrow).  17.1   carpal tunnel syndrome 11 previous next </slidetext>
+      <slidetext slideid="6JwNeCu1d5c.5Xgxo5k42oL" slidebank="false" type="slide">17.1   summarizing the ulnar nerve  12 previous next flexor carpi ulnaris and the ulnar half of flexor digitorum profundus. in the prosection, follow the ulnar nerve into the prosected hand and notice its many branches.  recall that the ulnar nerve innervates the one-and-a-half exceptions in the flexor forearm,  tas k the ulnar nerve provides muscular branches to all intrinsic muscles of the hand, with the exception of the three thenar muscles and the lateral two lumbricals. it sends cutaneous branches to both sides of the medial portion of the hand (green).  because the ulnar nerve does not pass through the carpal tunnel, the medial hand is spared in carpal tunnel syndrome. the most common site of ulnar entrapment is at the medial epicondyle, where the ulnar nerve is described as passing through the cubital tunnel     . the collection of signs and symptoms of entrapment here is called cubital tunnel syndrome. numbness, pain and tingling in the medial hand is usually the first complaint. you have experienced this when you “hit your funny bone”, which is really a transient compression of the ulnar nerve when you bang your elbow against something. </slidetext>
+      <slidetext slideid="6JwNeCu1d5c.62mcxngMjOR" slidebank="false" type="slide">identify the digital vessels arising from both arches and traveling with their nervous companions     along both sides of each digit. you are finished with this prosection. moisten it and drape it over with a damp cloth     .  17.1   remember the palmar arches  13 previous before leaving this prosection, identify  tas k the superficial palmar arch. the deep palmar arch will be too deep for you to identify in this prosection. next </slidetext>
+      <slidetext slideid="6JwNeCu1d5c.5vMQytxdSDa" slidebank="false" type="slide">17.1   progress check 14 previous next since embarking on this exercise, you have identified the following structures and learned the answers to the following questions: identify the tendons of the long flexor and long extensor muscles at the wrist and / or in the hand. identify the 3 thenar muscles individually, the adductor pollicis, the lumbricals, the dorsal interossei, and the hypothenar muscles as a group. know the action and innervation of these muscles and describe the effects of their denervation with respect to the movement of the digits and the muscle bulk in the hand. identify the median nerve and the recurrent median nerve in dissection. describe the motor and sensory distribution of both and describe the pattern of weakness seen with the lesion of each. describe the effects of a lesion of the recurrent median nerve on i) movement of the digits, and ii) muscle bulk in the hand.  describe the distribution of the palmar branch of the median nerve and its importance in the diagnosis of carpal tunnel syndrome. identify the ulnar nerve in dissection and describe its motor and sensory distribution. describe the effects of a lesion of the ulnar nerve on i) movement of the digits, and ii) muscle bulk in the hand.  identify the superficial palmar arch and describe the deep palmar arch. describe their formation from branches of the ulnar and radial arteries. if you are satisfied with your ability to identify these structures and answer these questions, call your ta over for confirmation and for permission to move on. </slidetext>
+      <slidetext slideid="6JwNeCu1d5c.5mEH1RUw9Tw" slidebank="false" type="slide">17.1   quiz 15 previous you’ve reached the end of this exercise. do you want to take the end-of-lab quiz now? let’s do it! i love anatomy! go to the quiz sorry….i’ll be back..(maybe) skip the quiz next </slidetext>
+      <slidetext slideid="6JwNeCu1d5c.5tkdIBPer62" slidebank="false" type="slide">previous congratulations on finishing exercise 17.1! back to exercise selection back to exercise selection back to exercise selection review 17.1 review 17.1 review 17.1 </slidetext>
+      <slidetext slideid="65fXArBUAkA.6XwQP2k0yFu" slidebank="false" type="slide">17.2 the upper limb back to exercise selection next exercise 17.2 is a review of the muscles, nerves and blood vessels of the upper limb, not including the joints. it consists of the progress checks from the following exercises:  14.4 muscles acting at the shoulder &amp; elbow 15.2 the brachial plexus 15.3 nerves of the arm 16.2 the forearm work with your group through the progress checks, quizzing each other and ensuring that all members of the group have mastered this material. tas will circulate to provide support and to conduct pop quizzes. </slidetext>
+      <slidetext slideid="65fXArBUAkA.5srdm6fTS8o" slidebank="false" type="slide">unwrap the prosection of the back muscles which is available at the shared table, and that of the pectoral region, which is at your station. identify the following structures and answer the following questions: what is the one articulation between the upper limb and axial skeleton? what bones comprise the pectoral girdle? demonstrate and name the three movement pairs of the scapula. describe how the attachment of muscles to the scapula and their direction of pull will cause each of these movements. on the “superficial and deep back” prosection, identify the trapezius muscle. demonstrate and name its four actions on the scapula, and the subdivisions of the muscle involved in each. identify the serratus anterior. demonstrate and name its two actions on the scapula. demonstrate and name the three movement pairs of the glenohumeral joint. describe how the attachment of muscles to the humerus, and their direction of pull, will cause each of these movements. identify the latissimus dorsi and teres major. demonstrate and name their three actions at the glenohumeral joint. on the “pectoral region” prosection, identify the pectoralis major; name and identify its two subdivisions. demonstrate and name its three actions at the glenohumeral joint. identify the pectoralis minor. does it act on the glenohumeral joint? moisten the specimens and cover them with a damp cloth. if you are the last people at this station for the day, put the specimen of the back muscles in its bag and close it using the clip with the correct name on it. don’t bag the pectoral region specimen, just yet. 17.2   exercise 14.4 progress check 1 previous next 2 </slidetext>
+      <slidetext slideid="65fXArBUAkA.5nFT41BSLIX" slidebank="false" type="slide">unwrap the prosection of the rotator cuff muscles and that of the arm. identify the following structures and answer the following questions: what is the function of the rotator cuff muscles, as a group? identify the supraspinatus, infraspinatus, teres minor and subscapularis. demonstrate and name the action each of these muscles has, in isolation, at the gh joint. how do their actions make sense, given their position and direction of pull?  identify the deltoid muscle. the origin of the deltoid muscle corresponds to the insertion of what muscle? demonstrate and name the primary action of the deltoid muscle. what other muscle must initiate this movement? demonstrate and name two other actions of the deltoid muscle, those of its anterior and posterior fibres in isolation.  demonstrate and name the movement pair permitted by the elbow joint. describe how the attachment of muscles to the radius or ulna, and their direction of pull, will cause each of these movements. demonstrate and name the movement pair permitted by the proximal radioulnar joint. describe how the attachment of muscles to the radius, and their direction of pull, will cause each of these movements. identify the two heads of the biceps brachii. demonstrate and name its actions. explain how the actions of the biceps brachii are dependent on the position of the forearm. identify the brachialis. demonstrate and name its actions. explain how the action of the brachialis is not dependent on the position of the forearm. identify the triceps brachii. demonstrate and name its action. moisten the specimens and cover them with a damp cloth. if you are the last people at this station for the day, bag only the rotator cuff specimen, and close the bag using the clip with the correct name on it. 17.2   exercise 14.4 progress check 2 previous next 3 </slidetext>
+      <slidetext slideid="65fXArBUAkA.6SNvsBtQHWT" slidebank="false" type="slide">17.2   exercise 15.2 progress check previous next unwrap the prosection of the brachial plexus and uncover that of the pectoral region. identify the following structures and answer the following questions: identify the pectoralis major and minor muscles, the serratus anterior, subscapularis, teres major, latissimus dorsi, intertubercular groove. to which of the four walls of the brachial plexus does each contribute? what, in general, is contained within the axillary sheath? name of the extension of breast tissue around the inferior border of the pectoralis major. identify the coracobrachialis and tendon of origin of the short head of the biceps brachii. identify the subclavian, axillary, brachial, and deep brachial arteries. what are the superficial veins of the arm? indicate on your own arm where are they located. describe the location and region of responsibility of the humeral, pectoral, subscapular, central, apical and infraclavicular lymph nodes. name the lymphatic trunk that collects lymph from these nodes. identify the roots, trunks, divisions, cords and terminal branches of the brachial plexus. which spinal levels contribute to each of the cords?  identify the musculocutaneous, median, ulnar, axillary and radial nerves. which spinal levels are contained in each? describe the effects of a lesion of the suprascapular nerve and the long thoracic nerve. moisten the specimens and cover them with a damp cloth. if you are the last people at this station for the day, wrap them in their bags, and close each bag using the clip with the correct name on it. 4 </slidetext>
+      <slidetext slideid="65fXArBUAkA.5nA3Aqk9xYZ" slidebank="false" type="slide">17.2   exercise 15.3 progress check previous next uncover the prosection of the arm. identify the following structures and answer the following questions: identify the deltoid muscle, subscapularis, teres major, coracobrachialis, long and short heads of the biceps brachii, and brachialis muscle. state the actions of each, as described. identify the terminal branches of the brachial plexus in the anterior compartment of the arm, the musculocutaneous, median and ulnar nerves. which spinal levels are represented in each? what two movements would be significantly weakened with lesion of the musculocutaneous nerve? describe the distribution of any sensory symptoms that might accompany this lesion. describe the order of structures in the cubital fossa. describe the relationship of the ulnar nerve to the medial epicondyle. from both the anterior and posterior aspects of the arm, identify the axillary nerve and posterior circumflex humeral artery. identify the radial nerve and the deep brachial artery. identify the radial nerve at the lateral aspect of the elbow. describe the motor and sensory signs of a lesion of these nerves. you will use the same prosection in the following exercise. 5 </slidetext>
+      <slidetext slideid="65fXArBUAkA.66XkYNfe1I0" slidebank="false" type="slide">17.2   exercise 16.2 progress check 1 previous next using the prosected arm, identify the three borders of the cubital fossa. identify the radial, median and ulnar nerves in the region of the cubital fossa. identify the contents of the cubital fossa present in your prosection and describe those that have been removed in its creation. identify, and describe the action and innervation of, the muscles of the anterior compartment of the forearm. identify the nerves and blood vessels of the anterior compartments of the forearm.  identify the carpal tunnel and its contents. identify, in dissection and in surface anatomy, the tendons, nerves and blood vessels associated with the anterior aspect of the wrist. describe the motor distribution of the median nerve. describe the motor distribution of the ulnar nerve in the forearm trace the blood supply to the forearm, starting with the brachial artery in the arm. identify all pulse points. you will use the same prosection in the following exercise. 6 </slidetext>
+      <slidetext slideid="65fXArBUAkA.6cJt0e7gDO5" slidebank="false" type="slide">17.2   exercise 16.2 progress check 2 previous next unwrap the prosection of the wrist and hand. using it and the prosected arm, identify, and describe the action and innervation of, the muscles of the posterior compartment of the forearm.  describe the structure and function of the extensor expansions. identify the muscles responsible for abduction and adduction of the wrist. identify the tendons that border the anatomical snuffbox. what bone forms its floor? what artery and vein pass through it? describe the motor distribution of the radial nerve. describe the cause and appearance of “drop wrist”. describe the cutaneous distribution of the superficial branch of the radial nerve. moisten the specimens and cover them with a damp cloth. if you are the last people at this station for the day, wrap them in their bags, and close each bag using the clip with the correct name on it. 7 </slidetext>
+      <slidetext slideid="65fXArBUAkA.6THb4pdeWqY" slidebank="false" type="slide">17.2   quiz previous if you would like to review the material presented in exercise 17.2, you will find relevant quizzes in the quizlandia sections of labs 14, 15, and 16.  at this point, it is suggested that you go through the quizlandia questions in random order by using the table of contents on the left side of the page. next 8 </slidetext>
+      <slidetext slideid="65fXArBUAkA.64uDwWwZHYX" slidebank="false" type="slide">previous congratulations on finishing exercise 17.2! back to exercise selection back to exercise selection back to exercise selection review 17.2 review 17.2 review 17.2 </slidetext>
+      <slidetext slideid="5Z3uJkUVeaq.62Bc8Vi5qFF" slidebank="false" type="slide">17.3 the lower limb back to exercise selection next exercise 17.3 is a review of the muscles, nerves and blood vessels of the lower limb, excluding the joints. it consists of the progress checks from the following exercises:  14.6 muscles acting at the back, hip &amp; knee 15.4 nerves of the hip and thigh 16.3 the leg, ankle and foot work with your group through the progress checks, quizzing each other and ensuring that all members of the group have mastered this material. tas will circulate to provide support and to conduct pop quizzes. </slidetext>
+      <slidetext slideid="5Z3uJkUVeaq.6F4ikAIg8pP" slidebank="false" type="slide">unwrap the prosection of the back muscles which is available at the shared table, and  that of the gluteal region, which is at your station. identify the following structures and answer the following questions: demonstrate and name the three movement pairs of the vertebral column. describe the position of the thoracolumbar fascia wrt the intrinsic and extrinsic muscles of the back. on the prosection of the back muscles, identify the erector spinae and splenius capitis. demonstrate and describe the actions of each with unilateral and bilateral contraction. describe the actions of the transversospinalis with unilateral and bilateral contraction. describe the innervation of the intrinsic back muscles. demonstrate and name the three movement pairs of the hip joint. describe how the attachment of muscles to the femur, and their direction of pull, will cause each of these movements. moisten the specimens and cover them with a damp cloth. if you are the last people at this station for the day, put the specimen of the superficial and deep back muscles in its bag and close it using the clip with the correct name on it. don’t bag the gluteal region specimen, just yet. 17.3   exercise 14.6 progress check 1 previous next 2 </slidetext>
+      <slidetext slideid="5Z3uJkUVeaq.6CgONY7T7Cr" slidebank="false" type="slide">unwrap the prosection of the lower limb showing the muscles of the thigh and uncover that of the gluteal region. identify the following structures and answer the following questions: what is the fascia lata? what is its relationship to the iliotibial tract? identify the gluteus maximus and the tensor fascia lata. what is their relationship to the iliotibial tract? name 2 actions of each. describe the functional relationship between these muscles. on the “gluteal region” prosection, identify the gluteus medius and minimus; name their 2 actions. how do they contribute to stabilizing the pelvis when walking?   identify the piriformis muscle and the nerves and blood vessels that arise from the greater sciatic foramen above and below the piriformis. on the prosected thigh, identify and state the action of the iliacus and psoas. name and identify the four heads of the quadriceps and state the action of each. identify the adductor group of muscles in the medial compartment. state their proximal and distal attachments. identify the adductor hiatus. what two regions are connected by the adductor hiatus? name and identify the three hamstring muscles. what is their common origin? what are their actions? which passes lateral to the knee and which pass medial to the knee? you will use the same prosections in the following exercise. 17.3   exercise 14.6 progress check 2 previous next 3 </slidetext>
+      <slidetext slideid="5Z3uJkUVeaq.6l09VrKBNkl" slidebank="false" type="slide">17.3  exercise 15.4 progress check previous next using the prosected lower limb and the prosected gluteal region, identify the following structures and answer the following questions: identify and state the actions of the iliacus and psoas muscles.  identify the femoral nerve both above and below the inguinal ligament. which spinal levels contribute to the femoral nerve? identify the vessels that accompany the femoral nerve above and below the inguinal ligament. describe the sensory and motor effects of a femoral nerve lesion.  identify and describe the distribution of the deep femoral artery, the medial and lateral circumflex femoral arteries, and the perforating branches of the deep femoral artery. identify the saphenous nerve. how does its course at the knee differ from that of the femoral artery and vein? identify the obturator nerve and artery. which spinal levels contribute to the obturator nerve? describe the sensory and motor distribution of the obturator nerve, and the effects of its lesion. identify the three hamstring muscles and the sciatic nerve. which spinal levels contribute to the sciatic nerve? identify the tibial and common fibular divisions of the sciatic nerve. which division is primarily responsible for innervating the hamstrings, and what movement does it therefore control? identify and describe the origin of the perforating branches of the deep femoral artery. identify the gluteus maximus, medius and minimus and the tfl. state the action and innervation of each muscle. moisten the specimens and cover them with a damp cloth. if you are the last people at this station for the day, put the specimen of the gluteal region in its bag and close it using the clip with the correct name on it. don’t bag the prosected lower limb, just yet. 4 </slidetext>
+      <slidetext slideid="5Z3uJkUVeaq.5xPtjG6FIyr" slidebank="false" type="slide">17.3   exercise 16.3 progress check 1 previous next using the prosected lower limb, identify the following structures and answer the following questions: identify the muscular borders of the popliteal fossa, and the structures that form its floor. identify the contents of the popliteal fossa present in your prosection and describe those that have been removed in its creation. identify, and describe the action and innervation of, the muscles of the posterior superficial and deep compartments of the leg. identify the nerves and blood vessels of the posterior compartments of the leg.  describe the motor distribution of the tibial nerve. describe the cutaneous distribution of its branches, the sural nerve, calcaneal nerve, medial and lateral plantar nerve. describe the cutaneous distribution of the saphenous nerve. what is its parent nerve? identify and describe the contents of the tarsal tunnel. name the branches of the tibial nerve and posterior tibial artery in the foot. identify the plantar aponeurosis and describe the structures that support the arches of the foot. describe the cutaneous distribution of the calcaneal, and medial and lateral plantar nerves. you will use the same prosection in the following exercise. 5 </slidetext>
+      <slidetext slideid="5Z3uJkUVeaq.6Dx4oOQK4Xa" slidebank="false" type="slide">17.3   exercise 16.3 progress check 2 previous next using the prosected lower limb, identify the following structures and answer the following questions: identify, and describe the action and innervation of, the muscles of the lateral compartment of the leg. identify their tendons posterior to the lateral malleolus. describe the blood supply to the lateral compartment of the leg. identify, and describe the action and innervation of, the muscles of the anterior compartment of the leg. identify their tendons anterior to the talocrural joint and on the dorsum of the foot. describe the blood supply to the anterior compartment of the leg. describe the cutaneous distribution of the branches of the common fibular nerve: the lateral cutaneous nerve of the calf, and the superficial and deep peroneal (fibular) nerves.  describe the structure and function of the synovial tendon sheaths of the foot. identify and describe the structures of the dorsum of the foot. trace the blood supply to the leg, starting with the popliteal artery and identify all pulse points. moisten the specimen and cover it with a damp cloth. if you are the last people at this station for the day, put the prosected lower limb in its bag and close it using the clip with the correct name on it. 6 </slidetext>
+      <slidetext slideid="5Z3uJkUVeaq.5qcIYw6XPqy" slidebank="false" type="slide">17.3   quiz previous if you would like to review the material presented in exercise 17.3, you will find relevant quizzes in the quizlandia sections of labs 14, 15, and 16.  at this point, it is suggested that you go through the quizlandia questions in random order by using the table of contents on the left side of the page. next 7 </slidetext>
+      <slidetext slideid="5Z3uJkUVeaq.6lrDWWa0UWO" slidebank="false" type="slide">previous congratulations on finishing exercise 17.3! back to exercise selection back to exercise selection back to exercise selection review 17.3 review 17.3 review 17.3 </slidetext>
+      <slidetext slideid="5b1Fq45UaV9.6MNnx7uHCSp" slidebank="false" type="slide">17.4 articulations back to exercise selection   next exercise 17.4 is a review of the articulations of the joints in both the upper and lower limbs. it consists of the progress checks from the following exercises:  14.3 the shoulder &amp; elbow joints 14.5 the hip &amp; knee joints 15.5 distal limb articulations work with your group through the progress checks, quizzing each other and ensuring that all members of the group have mastered this material. tas will circulate to provide support and to conduct pop quizzes. </slidetext>
+      <slidetext slideid="5b1Fq45UaV9.6XfGyNe6IuW" slidebank="false" type="slide">unwrap the prosected shoulder joint with closed capsule and the prosected shoulder joint with open capsule. using these and the hanging skeleton, identify the following structures and answer the following questions: on the hanging skeleton, identify the sternoclavicular, acromioclavicular, glenohumeral joints. demonstrate and name the 2 movement pairs that occur at the sternoclavicular joint. what extrinsic ligament of this joint binds the medial end of the clavicle to the first rib? on the “closed shoulder joint”, identify the acromioclavicular joint and ligament. identify the coracoclavicular ligament. what are the two parts of the coracoclavicular ligament?  demonstrate and name the three movement pairs that take place at the glenohumeral joint. how do the articulating surfaces of the gh joint contribute to its great mobility? on the “closed shoulder joint”, identify the coracoacromial ligament. what three structures comprise the coracoacromial arch? the arch resists dislocation of the gh joint in what direction? what is the importance of the redundancy of the gh joint capsule? intrinsic ligaments of the gh joint resist its dislocation in what directions? identify the tendon of the biceps brachii and transverse humeral ligament. on the “open shoulder joint”, identify which surfaces are covered in hyaline cartilage, and which are covered in synovial membrane. identify the glenoid labrum. what is its function? identify the tendon of the biceps brachii. how can a tendon or collection of adipose tissue be intracapsular but excluded from the joint space? what vessels give rise to the blood supply to the gh joint? what is a bursa and what is its function? name and indicate the location of three bursae associated with the gh joint. in each case, name the two structures the bursa intervenes between. which joint in the shoulder region includes a fibrocartilagenous articular disc that subdivides the joint space? moisten the prosected specimens and cover them with a damp cloth. if you are the last people at this station for the day, put both shoulder joints in their bags and close them using the clips with the correct names on them. 17.4   exercise 14.3 progress check 1 2 previous next </slidetext>
+      <slidetext slideid="5b1Fq45UaV9.6KVAdQLm6rV" slidebank="false" type="slide">unwrap the prosected elbow joint with closed capsule and the prosected elbow joint with open capsule. using these and the hanging skeleton, identify the following structures and answer the following questions: what is a compound joint? identify and name the two articulations that comprise the elbow joint and name the specific articulating surfaces involved in each. identify and name the 3 fossae of the distal humerus and the bony features of the radius and ulna they accommodate with flexion and extension of the elbow. name the third articulation present within the capsule of the elbow joint. identify and name its articulating surfaces. what movements are permitted at this joint, and how do they affect movement of the forearm? on the “closed elbow joint”, identify the medial and lateral collateral ligaments. what is their function? identify the annular ligament. what is its function? what is subluxation of the radial head? on the “opened elbow joint”, identify the medial and lateral collateral ligaments and the annular ligament. moisten the prosected specimens and cover them with a damp cloth. if you are the last people at this station for the day, put both elbow joints in their bags and close them using the clips with the correct names on them. 17.4   exercise 14.3 progress check 2 3 previous next </slidetext>
+      <slidetext slideid="5b1Fq45UaV9.6hhrM761HTQ" slidebank="false" type="slide">unwrap the prosected hemi-pelvis with ligaments, the prosected closed hip joint, and the prosected open hip joint. using these, identify the following structures and answer the following questions: demonstrate and name the three movement pairs of the hip joint. describe how the attachment of muscles to the femur, and their direction of pull, will cause each of these movements. on the “os coxa with ligaments” prosection, identify the sacrotuberous and sacrospinous ligaments, the greater and lesser foramina, the inguinal ligament or its location. name the two regions connected by the greater and lesser sciatic foramina, the obturator canal, and the gap deep to the inguinal ligament. on the “closed hip joint” prosection, identify the joint capsule. what two movements are limited by the intrinsic ligaments of the hip joint? on the “open hip joint” prosection, identify the acetabular labrum. of what tissue type is it composed? what is its function? identify the transverse acetabular ligament and the ligament of the head of the femur. what is contained within the ligament of the head? distinguish those surfaces within the joint that are covered with articular cartilage from those covered with synovial membrane. describe the blood supply to the head of the femur and its relationship to fractures of the femur. moisten the prosected specimens and cover them with a damp cloth. if you are the last people at this station for the day, put all joints in their bags and close them using the clips with the correct names on them. 4 previous next 17.4   exercise 14.5 progress check 1 </slidetext>
+      <slidetext slideid="5b1Fq45UaV9.5bpyV5dw4Bm" slidebank="false" type="slide">unwrap the prosected knee joint. using this and the lower limb bone box, identify the following structures and answer the following questions: demonstrate and name the movement pair permitted by the knee joint. names the muscle groups responsible for each movement. describe how the attachment of these muscles to the tibia, and their direction of pull, will cause each of these movements. identify and name the articulating surfaces of the knee joint. identify the intercondylar fossa and its medial and lateral walls. identify the patellar and popliteal surfaces. identify the femoral epicondyles and the adductor tubercle. how does the shape of the femur contribute to the stability of the knee in extension? identify the anterior and posterior surfaces of the patella, its apex and base, and its medial and lateral facets. what is the function of the patella wrt movement of the knee joint? on the tibia, identify the tibial plateau, the tibial facets, the intercondylar eminence. identify the medial and lateral condyles, and tibial tuberosity. what structures attach at each? identify the head and neck of the fibula. what ligament attaches to the head of the fibula? what nerve lies adjacent to the neck of the fibula? on the “opened knee” prosection, identify the medial and lateral menisci. what is their function? which is more fixed in position? what is the significance of this? identify the medial &amp; lateral collateral ligaments. which is intrinsic, and which is extrinsic? identify the medial and lateral cruciate ligaments. how are they named? to which wall of the intercondylar fossa does each attach? explain the theory behind the anterior and posterior drawer signs, and what each indicates. what is a subcutaneous bursa vs a subtendinous bursa? name one of each wrt the knee joint. moisten the prosected specimens and cover them with a damp cloth. if you are the last people at this station for the day, put all joints in their bags and close them using the clips with the correct names on them. 5 previous next 17.4   exercise 14.5 progress check 2 </slidetext>
+      <slidetext slideid="5b1Fq45UaV9.6jAYXSv8FSn" slidebank="false" type="slide">17.4   exercise 15.5 progress check 1 previous next using the bony articulated arm and hand, the upper limb joint box, and the upper limb bone box, identify the following structures and answer the following questions: identify the features of the distal radius and ulna: the radial styloid process, the dorsal tubercle and ulnar notch; the head of the ulna and ulnar styloid process. in the wrist prosections, identify distal radius, head of the ulna, articular disc, l-shaped joint space, and carpal bones. name, and identify on a bony hand as well as your own hand the location of, the radiocarpal joint, the intercarpal joints (as a group) carpometacarpal joints i - v, metacarpophalangeal joints i-v, and the intercarpal joints. name and demonstrate the movements that occur at each joint. identify the carpal bones and their features that contribute to the carpal tunnel. what structure closes over the carpal tunnel anteriorly? correctly demonstrate flexion and extension, abduction and adduction of the thumb and fingers. correctly demonstrate opposition of the thumb. moisten and wrap all prosections and return them to the upper limb joint box. 6 </slidetext>
+      <slidetext slideid="5b1Fq45UaV9.6E6eeycSy5L" slidebank="false" type="slide">17.4   exercise 15.5 progress check 2 previous next using the bony articulated lower leg and foot, the lower limb joint box, and the lower limb bone box, identify the following structures and answer the following questions: identify the bony features of the tibia, fibula, tarsals, metatarsals, and phalanges, and the articulations that occur between them. name and demonstrate the movements that occur at each joint. identify the proximal and distal tibiofibular joints and the crural interosseous membrane.  identify the anterior and posterior tibiofibular ligaments, the deltoid, anterior and posterior talofibular and calcaneofibular ligaments. identify the bones that form the medial, lateral and transverse arches of the foot. identify the long plantar ligament and the plantar calcaneonavicular (“spring”) ligament. what is their significance? at what joint do bunions develop? how do the positions of the involved bones change with the development of bunions? moisten and wrap all prosections and return them to the lower limb joint box. 7 </slidetext>
+      <slidetext slideid="5b1Fq45UaV9.6YHHG7Zbgxj" slidebank="false" type="slide">17.4   quiz previous if you would like to review the material presented in exercise 17.4, you will find relevant quizzes in the quizlandia sections of labs 14, 15, and 16.  at this point, it is suggested that you go through the quizlandia questions in random order by using the table of contents on the left side of the page. next 8 </slidetext>
+      <slidetext slideid="5b1Fq45UaV9.5bvPrQ8jMAt" slidebank="false" type="slide">previous congratulations on finishing exercise 17.4! back to exercise selection back to exercise selection back to exercise selection review 17.4 review 17.4 review 17.4 </slidetext>
+      <slidetext slideid="6GNfkjEfjtK.681S4QWTOJ3" slidebank="false" type="slide">17.5  unit 5 field trips the specimens in grant’s museum are organized by body region. the museum section on the upper and lower limb are relevant to lab 16. review them when you have time between exercises.  previous </slidetext>
+      <slidetext slideid="5lEI8c43zhW.6TuR2ONld8x" slidebank="false" type="slide">welcome to quizlandia! here you can choose to do the quiz for any of the exercises from lab 17, or run through all of them. you will be given the results of each quiz as you go along, as well as the results of all of them at the end. exercise quizzes exercise 17.1 quiz exercise 17.1 quiz exercise 17.1 quiz prelab slm quizzes prelab slm 17a quiz prelab slm 17a quiz prelab slm 17a quiz results overall results overall results overall results </slidetext>
+      <slidetext slideid="5lEI8c43zhW.5vetKPS57tS" slidebank="false" type="slide">quiz: prelab slm 17a welcome to the quiz for slm 17a! click below to get started. begin begin begin review slm 17a review slm 17a review slm 17a review slm 17a review slm 17a quiz selection </slidetext>
+      <slidetext slideid="5lEI8c43zhW.6RyxqTthttm" slidebank="false" type="slide">1. the _______________ nerve is associated with both flexion of the elbow and supination of the forearm. 17a   quiz submit </slidetext>
+      <slidetext slideid="5lEI8c43zhW.5wveRb94fwb" slidebank="false" type="slide">2. the _______________ nerve is associated with cutaneous sensation over the lateral aspect of the forearm, as indicated by the letter a. 17a   quiz submit </slidetext>
+      <slidetext slideid="5lEI8c43zhW.65A8Yk4vhjB" slidebank="false" type="slide">3. the _______________ nerve is associated with abduction of the shoulder. 17a   quiz submit </slidetext>
+      <slidetext slideid="5lEI8c43zhW.62BlIJs0D1M" slidebank="false" type="slide">4. the _______________ nerve is associated with cutaneous sensation over the lateral aspect of the shoulder, as indicated by the letter a.  17a   quiz submit </slidetext>
+      <slidetext slideid="5lEI8c43zhW.6Kn6xa1oDWk" slidebank="false" type="slide">5. the _______________ nerve is associated with extension of the elbow, wrist, thumb and digits. 17a   quiz submit </slidetext>
+      <slidetext slideid="5lEI8c43zhW.5idBO5JJO0P" slidebank="false" type="slide">6. the _______________ nerve is associated with cutaneous sensation over the posterior aspect of the arm and lateral hand, as indicated by the letter a.  17a   quiz submit </slidetext>
+      <slidetext slideid="5lEI8c43zhW.6fG58ouXPTJ" slidebank="false" type="slide">7. the _______________ nerve is associated with flexion of the wrist, mcps and lateral digits. 17a   quiz submit </slidetext>
+      <slidetext slideid="5lEI8c43zhW.5eMV6vTmUfv" slidebank="false" type="slide">8. the _______________ nerve is associated with cutaneous sensation over the anterolateral hand, as indicated by the letter a.  17a   quiz submit </slidetext>
+      <slidetext slideid="5lEI8c43zhW.6LL9TzRQe5j" slidebank="false" type="slide">9. the _______________ nerve is associated with flexion of the wrist and medial two digits. 17a   quiz submit </slidetext>
+      <slidetext slideid="5lEI8c43zhW.6dpGTvk3x03" slidebank="false" type="slide">10. the _______________ nerve is associated with cutaneous sensation over the medial hand, as indicated by the letter a.  17a   quiz submit </slidetext>
+      <slidetext slideid="5lEI8c43zhW.5utQ5SHSdr9" slidebank="false" type="slide">11. the _______________ nerve is associated with extension of the knee. 17a   quiz submit </slidetext>
+      <slidetext slideid="5lEI8c43zhW.6jhfmEjDBmZ" slidebank="false" type="slide">12. the specific nerve branch responsible for cutaneous sensation at a is the ________________. (hint: enter six words) 17a   quiz submit </slidetext>
+      <slidetext slideid="5lEI8c43zhW.67ueYhdgpHP" slidebank="false" type="slide">13. the specific nerve branch responsible for cutaneous sensation over the medial aspect of the leg and foot, as indicated by the letter a, is the ________________ nerve. 17a   quiz submit </slidetext>
+      <slidetext slideid="5lEI8c43zhW.6Hjk3MIhBht" slidebank="false" type="slide">14. the _______________ nerve is associated with adduction of the hip. 17a   quiz submit </slidetext>
+      <slidetext slideid="5lEI8c43zhW.63BXrqAN8VO" slidebank="false" type="slide">15. the ______________ nerve is associated with cutaneous sensation over the medial thigh, as indicated by the letter a. 17a   quiz submit </slidetext>
+      <slidetext slideid="5lEI8c43zhW.6jz0p7uU5oK" slidebank="false" type="slide">16. the ________ _______ nerve is associated with abduction of the hip. 17a   quiz submit </slidetext>
+      <slidetext slideid="5lEI8c43zhW.5wXUSbBJKWM" slidebank="false" type="slide">17. the ________ _______ nerve is associated with extension of the hip. 17a   quiz submit </slidetext>
+      <slidetext slideid="5lEI8c43zhW.6fCpMT2XoZw" slidebank="false" type="slide">18. the _______ nerve is associated with plantarflexion of the talocrural joint, inversion of the foot, and flexion of the toes. 17a   quiz submit </slidetext>
+      <slidetext slideid="5lEI8c43zhW.6l8nkMmOjrg" slidebank="false" type="slide">19. the specific nerve branch responsible for cutaneous sensation over the lateral aspect of the distal leg and foot, as indicated by the letter a, is the ________________ nerve.   17a   quiz submit </slidetext>
+      <slidetext slideid="5lEI8c43zhW.6ghZW8S5i4n" slidebank="false" type="slide">20. the specific nerve branch responsible for cutaneous sensation over the heel, as indicated by the letter a, is the ________________ nerve.   17a   quiz submit </slidetext>
+      <slidetext slideid="5lEI8c43zhW.5aKg39X7qRe" slidebank="false" type="slide">21. the ______ _______ nerve is associated with eversion of the foot. 17a   quiz submit </slidetext>
+      <slidetext slideid="5lEI8c43zhW.5kDecxptVRz" slidebank="false" type="slide">22. the specific nerve branch responsible for cutaneous sensation over the dorsum of the foot, as indicated by the letter a, is the _______ _________ nerve.   17a   quiz submit </slidetext>
+      <slidetext slideid="5lEI8c43zhW.5pm0fAFkZBs" slidebank="false" type="slide">23. the ______ _______ nerve is associated with dorsiflexion of the talocrural joint, inversion of the foot, and extension of the toes. 17a   quiz submit </slidetext>
+      <slidetext slideid="5lEI8c43zhW.5V6CVjYIrOI" slidebank="false" type="slide">24. the specific nerve branch responsible for cutaneous sensation in the first webspace of the toes, as indicated by the letter a, is the _______ _________ nerve.   17a   quiz submit </slidetext>
+      <slidetext slideid="5lEI8c43zhW.6eB9MfTXksD" slidebank="false" type="slide">quiz: exercise 17.1 welcome to the quiz for exercise 17.1! click below to get started. begin begin begin review exercise 17.1 review exercise 17.1 review exercise 17.1 review exercise 17.1 review exercise 17.1 quiz selection </slidetext>
+      <slidetext slideid="5lEI8c43zhW.6cav05Jg1mS" slidebank="false" type="slide">first lumbrical first lumbrical first lumbrical first lumbrical first lumbrical first lumbrical ulnar nerve ulnar nerve ulnar nerve ulnar nerve ulnar nerve ulnar nerve median nerve median nerve median nerve median nerve median nerve median nerve 1) identify a. submit radial artery radial artery radial artery radial artery radial artery radial artery brachioradialis brachioradialis brachioradialis brachioradialis brachioradialis brachioradialis flexor carpi radialis flexor carpi radialis flexor carpi radialis flexor carpi radialis flexor carpi radialis flexor carpi radialis flexor carpi ulnaris flexor carpi ulnaris flexor carpi ulnaris flexor carpi ulnaris flexor carpi ulnaris flexor carpi ulnaris flexor digitorum superficialis flexor digitorum superficialis flexor digitorum superficialis flexor digitorum superficialis flexor digitorum superficialis flexor digitorum superficialis 17.1   quiz </slidetext>
+      <slidetext slideid="5lEI8c43zhW.5VCOXNEu0Ol" slidebank="false" type="slide">main branch of median nerve main branch of median nerve main branch of median nerve main branch of median nerve main branch of median nerve main branch of median nerve ulnar nerve ulnar nerve ulnar nerve ulnar nerve ulnar nerve ulnar nerve recurrent branch of median nerve recurrent branch of median nerve recurrent branch of median nerve recurrent branch of median nerve recurrent branch of median nerve recurrent branch of median nerve 2) what nerve supplies muscle b? submit radial nerve radial nerve radial nerve radial nerve radial nerve radial nerve musculocutaneous nerve musculocutaneous nerve musculocutaneous nerve musculocutaneous nerve musculocutaneous nerve musculocutaneous nerve axillary nerve axillary nerve axillary nerve axillary nerve axillary nerve axillary nerve 17.1   quiz </slidetext>
+      <slidetext slideid="5lEI8c43zhW.6d7LM7Xw03r" slidebank="false" type="slide">first lumbrical first lumbrical first lumbrical first lumbrical first lumbrical first lumbrical ulnar nerve ulnar nerve ulnar nerve ulnar nerve ulnar nerve ulnar nerve median nerve median nerve median nerve median nerve median nerve median nerve 3) identify c. submit radial artery radial artery radial artery radial artery radial artery radial artery brachioradialis brachioradialis brachioradialis brachioradialis brachioradialis brachioradialis flexor carpi radialis flexor carpi radialis flexor carpi radialis flexor carpi radialis flexor carpi radialis flexor carpi radialis flexor carpi ulnaris flexor carpi ulnaris flexor carpi ulnaris flexor carpi ulnaris flexor carpi ulnaris flexor carpi ulnaris flexor digitorum superficialis flexor digitorum superficialis flexor digitorum superficialis flexor digitorum superficialis flexor digitorum superficialis flexor digitorum superficialis 17.1   quiz </slidetext>
+      <slidetext slideid="5lEI8c43zhW.6cTRIxB1cpp" slidebank="false" type="slide">first lumbrical first lumbrical first lumbrical first lumbrical first lumbrical first lumbrical ulnar nerve ulnar nerve ulnar nerve ulnar nerve ulnar nerve ulnar nerve median nerve median nerve median nerve median nerve median nerve median nerve 4) identify d. submit radial artery radial artery radial artery radial artery radial artery radial artery brachioradialis brachioradialis brachioradialis brachioradialis brachioradialis brachioradialis flexor carpi radialis flexor carpi radialis flexor carpi radialis flexor carpi radialis flexor carpi radialis flexor carpi radialis flexor carpi ulnaris flexor carpi ulnaris flexor carpi ulnaris flexor carpi ulnaris flexor carpi ulnaris flexor carpi ulnaris flexor digitorum superficialis flexor digitorum superficialis flexor digitorum superficialis flexor digitorum superficialis flexor digitorum superficialis flexor digitorum superficialis 17.1   quiz </slidetext>
+      <slidetext slideid="5lEI8c43zhW.67lxf7lYE8Y" slidebank="false" type="slide">first lumbrical first lumbrical first lumbrical first lumbrical first lumbrical first lumbrical ulnar nerve ulnar nerve ulnar nerve ulnar nerve ulnar nerve ulnar nerve median nerve median nerve median nerve median nerve median nerve median nerve 5) identify e. submit radial artery radial artery radial artery radial artery radial artery radial artery brachioradialis brachioradialis brachioradialis brachioradialis brachioradialis brachioradialis flexor carpi radialis flexor carpi radialis flexor carpi radialis flexor carpi radialis flexor carpi radialis flexor carpi radialis flexor carpi ulnaris flexor carpi ulnaris flexor carpi ulnaris flexor carpi ulnaris flexor carpi ulnaris flexor carpi ulnaris flexor digitorum superficialis flexor digitorum superficialis flexor digitorum superficialis flexor digitorum superficialis flexor digitorum superficialis flexor digitorum superficialis 17.1   quiz </slidetext>
+      <slidetext slideid="5lEI8c43zhW.6YxaicyiVqu" slidebank="false" type="slide">first lumbrical first lumbrical first lumbrical first lumbrical first lumbrical first lumbrical ulnar nerve ulnar nerve ulnar nerve ulnar nerve ulnar nerve ulnar nerve median nerve median nerve median nerve median nerve median nerve median nerve 6) identify f. submit radial artery radial artery radial artery radial artery radial artery radial artery brachioradialis brachioradialis brachioradialis brachioradialis brachioradialis brachioradialis flexor carpi radialis flexor carpi radialis flexor carpi radialis flexor carpi radialis flexor carpi radialis flexor carpi radialis flexor carpi ulnaris flexor carpi ulnaris flexor carpi ulnaris flexor carpi ulnaris flexor carpi ulnaris flexor carpi ulnaris flexor digitorum superficialis flexor digitorum superficialis flexor digitorum superficialis flexor digitorum superficialis flexor digitorum superficialis flexor digitorum superficialis 17.1   quiz </slidetext>
+      <slidetext slideid="5lEI8c43zhW.5hvSle814y3" slidebank="false" type="slide">first lumbrical first lumbrical first lumbrical first lumbrical first lumbrical first lumbrical ulnar nerve ulnar nerve ulnar nerve ulnar nerve ulnar nerve ulnar nerve median nerve median nerve median nerve median nerve median nerve median nerve 7) identify g. submit radial artery radial artery radial artery radial artery radial artery radial artery brachioradialis brachioradialis brachioradialis brachioradialis brachioradialis brachioradialis flexor carpi radialis flexor carpi radialis flexor carpi radialis flexor carpi radialis flexor carpi radialis flexor carpi radialis flexor carpi ulnaris flexor carpi ulnaris flexor carpi ulnaris flexor carpi ulnaris flexor carpi ulnaris flexor carpi ulnaris flexor digitorum superficialis flexor digitorum superficialis flexor digitorum superficialis flexor digitorum superficialis flexor digitorum superficialis flexor digitorum superficialis 17.1   quiz </slidetext>
+      <slidetext slideid="5lEI8c43zhW.5tGx4r33X3n" slidebank="false" type="slide">first lumbrical first lumbrical first lumbrical first lumbrical first lumbrical first lumbrical ulnar nerve ulnar nerve ulnar nerve ulnar nerve ulnar nerve ulnar nerve median nerve median nerve median nerve median nerve median nerve median nerve 8) identify h. submit radial artery radial artery radial artery radial artery radial artery radial artery brachioradialis brachioradialis brachioradialis brachioradialis brachioradialis brachioradialis flexor carpi radialis flexor carpi radialis flexor carpi radialis flexor carpi radialis flexor carpi radialis flexor carpi radialis flexor carpi ulnaris flexor carpi ulnaris flexor carpi ulnaris flexor carpi ulnaris flexor carpi ulnaris flexor carpi ulnaris flexor digitorum superficialis flexor digitorum superficialis flexor digitorum superficialis flexor digitorum superficialis flexor digitorum superficialis flexor digitorum superficialis 17.1   quiz </slidetext>
+      <slidetext slideid="5lEI8c43zhW.6SVH02vqNzq" slidebank="false" type="slide">first lumbrical first lumbrical first lumbrical first lumbrical first lumbrical first lumbrical ulnar nerve ulnar nerve ulnar nerve ulnar nerve ulnar nerve ulnar nerve median nerve median nerve median nerve median nerve median nerve median nerve 9) identify i. submit radial artery radial artery radial artery radial artery radial artery radial artery brachioradialis brachioradialis brachioradialis brachioradialis brachioradialis brachioradialis flexor carpi radialis flexor carpi radialis flexor carpi radialis flexor carpi radialis flexor carpi radialis flexor carpi radialis flexor carpi ulnaris flexor carpi ulnaris flexor carpi ulnaris flexor carpi ulnaris flexor carpi ulnaris flexor carpi ulnaris flexor digitorum superficialis flexor digitorum superficialis flexor digitorum superficialis flexor digitorum superficialis flexor digitorum superficialis flexor digitorum superficialis 17.1   quiz </slidetext>
+      <slidetext slideid="5lEI8c43zhW.5bauNtq50rF" slidebank="false" type="slide">main branch of median nerve main branch of median nerve main branch of median nerve main branch of median nerve main branch of median nerve main branch of median nerve ulnar nerve ulnar nerve ulnar nerve ulnar nerve ulnar nerve ulnar nerve recurrent branch of median nerve recurrent branch of median nerve recurrent branch of median nerve recurrent branch of median nerve recurrent branch of median nerve recurrent branch of median nerve 10) what nerve innervates muscle j? submit radial nerve radial nerve radial nerve radial nerve radial nerve radial nerve musculocutaneous nerve musculocutaneous nerve musculocutaneous nerve musculocutaneous nerve musculocutaneous nerve musculocutaneous nerve axillary nerve axillary nerve axillary nerve axillary nerve axillary nerve axillary nerve 17.1   quiz </slidetext>
+      <slidetext slideid="5lEI8c43zhW.5WXLUoRWOkf" slidebank="false" type="slide">lumbricals lumbricals lumbricals lumbricals lumbricals lumbricals 17.1   quiz dorsal interossei dorsal interossei dorsal interossei dorsal interossei dorsal interossei dorsal interossei extensor digitorum extensor digitorum extensor digitorum extensor digitorum extensor digitorum extensor digitorum 11) what muscles are responsible for the position of the hand in this picture? submit flexor digitorum superficialis flexor digitorum superficialis flexor digitorum superficialis flexor digitorum superficialis flexor digitorum superficialis flexor digitorum superficialis flexor digitorum profundus flexor digitorum profundus flexor digitorum profundus flexor digitorum profundus flexor digitorum profundus flexor digitorum profundus </slidetext>
+      <slidetext slideid="5lEI8c43zhW.6VbnFEHvIJn" slidebank="false" type="slide">palmar interossei, ulnar nerve palmar interossei, ulnar nerve palmar interossei, ulnar nerve palmar interossei, ulnar nerve palmar interossei, ulnar nerve palmar interossei, ulnar nerve 17.1   quiz dorsal interossei, ulnar nerve dorsal interossei, ulnar nerve dorsal interossei, ulnar nerve dorsal interossei, ulnar nerve dorsal interossei, ulnar nerve dorsal interossei, ulnar nerve lumbricals, ulnar nerve lumbricals, ulnar nerve lumbricals, ulnar nerve lumbricals, ulnar nerve lumbricals, ulnar nerve lumbricals, ulnar nerve 12) the paper is being gripped between the index and middle fingers. what muscles and nerve are responsible for this action? submit lumbricals, median nerve lumbricals, median nerve lumbricals, median nerve lumbricals, median nerve lumbricals, median nerve lumbricals, median nerve palmar interossei, median nerve palmar interossei, median nerve palmar interossei, median nerve palmar interossei, median nerve palmar interossei, median nerve palmar interossei, median nerve dorsal interossei, median nerve dorsal interossei, median nerve dorsal interossei, median nerve dorsal interossei, median nerve dorsal interossei, median nerve dorsal interossei, median nerve </slidetext>
+      <slidetext slideid="5lEI8c43zhW.6Tc6Xy2coVm" slidebank="false" type="slide">opponens pollicis, median nerve opponens pollicis, median nerve opponens pollicis, median nerve opponens pollicis, median nerve opponens pollicis, median nerve opponens pollicis, median nerve 17.1   quiz opponens pollicis, ulnar nerve opponens pollicis, ulnar nerve opponens pollicis, ulnar nerve opponens pollicis, ulnar nerve opponens pollicis, ulnar nerve opponens pollicis, ulnar nerve adductor pollicis, ulnar nerve adductor pollicis, ulnar nerve adductor pollicis, ulnar nerve adductor pollicis, ulnar nerve adductor pollicis, ulnar nerve adductor pollicis, ulnar nerve 13) the paper is being pinched between the pad of the thumb and the pad of the index finger. what muscle and nerve are responsible for the action of the thumb? submit adductor pollicis, median nerve adductor pollicis, median nerve adductor pollicis, median nerve adductor pollicis, median nerve adductor pollicis, median nerve adductor pollicis, median nerve flexor pollicis longus, median nerve flexor pollicis longus, median nerve flexor pollicis longus, median nerve flexor pollicis longus, median nerve flexor pollicis longus, median nerve flexor pollicis longus, median nerve flexor pollicis longus, ulnar nerve flexor pollicis longus, ulnar nerve flexor pollicis longus, ulnar nerve flexor pollicis longus, ulnar nerve flexor pollicis longus, ulnar nerve flexor pollicis longus, ulnar nerve adductor pollicis brevis, median nerve adductor pollicis brevis, median nerve adductor pollicis brevis, median nerve adductor pollicis brevis, median nerve adductor pollicis brevis, median nerve adductor pollicis brevis, median nerve adductor pollicis brevis, ulnar nerve adductor pollicis brevis, ulnar nerve adductor pollicis brevis, ulnar nerve adductor pollicis brevis, ulnar nerve adductor pollicis brevis, ulnar nerve adductor pollicis brevis, ulnar nerve flexor pollicis brevis, median nerve flexor pollicis brevis, median nerve flexor pollicis brevis, median nerve flexor pollicis brevis, median nerve flexor pollicis brevis, median nerve flexor pollicis brevis, median nerve flexor pollicis brevis, ulnar nerve flexor pollicis brevis, ulnar nerve flexor pollicis brevis, ulnar nerve flexor pollicis brevis, ulnar nerve flexor pollicis brevis, ulnar nerve flexor pollicis brevis, ulnar nerve </slidetext>
+      <slidetext slideid="5lEI8c43zhW.6jFlkTH4ZO7" slidebank="false" type="slide">flexor retinaculum flexor retinaculum flexor retinaculum flexor retinaculum flexor retinaculum flexor retinaculum abductor pollicis brevis muscle abductor pollicis brevis muscle abductor pollicis brevis muscle abductor pollicis brevis muscle abductor pollicis brevis muscle abductor pollicis brevis muscle branch of the radial artery branch of the radial artery branch of the radial artery branch of the radial artery branch of the radial artery branch of the radial artery 14. identify a. submit flexor pollicis brevis muscle flexor pollicis brevis muscle flexor pollicis brevis muscle flexor pollicis brevis muscle flexor pollicis brevis muscle flexor pollicis brevis muscle superficial palmar arch superficial palmar arch superficial palmar arch superficial palmar arch superficial palmar arch superficial palmar arch ulnar artery ulnar artery ulnar artery ulnar artery ulnar artery ulnar artery ulnar nerve ulnar nerve ulnar nerve ulnar nerve ulnar nerve ulnar nerve median nerve median nerve median nerve median nerve median nerve median nerve 17.1   quiz </slidetext>
+      <slidetext slideid="5lEI8c43zhW.6k58xuBN7ZY" slidebank="false" type="slide">flexor retinaculum flexor retinaculum flexor retinaculum flexor retinaculum flexor retinaculum flexor retinaculum abductor pollicis brevis muscle abductor pollicis brevis muscle abductor pollicis brevis muscle abductor pollicis brevis muscle abductor pollicis brevis muscle abductor pollicis brevis muscle branch of the radial artery branch of the radial artery branch of the radial artery branch of the radial artery branch of the radial artery branch of the radial artery 15. identify b. submit flexor pollicis brevis muscle flexor pollicis brevis muscle flexor pollicis brevis muscle flexor pollicis brevis muscle flexor pollicis brevis muscle flexor pollicis brevis muscle superficial palmar arch superficial palmar arch superficial palmar arch superficial palmar arch superficial palmar arch superficial palmar arch ulnar artery ulnar artery ulnar artery ulnar artery ulnar artery ulnar artery ulnar nerve ulnar nerve ulnar nerve ulnar nerve ulnar nerve ulnar nerve median nerve median nerve median nerve median nerve median nerve median nerve 17.1   quiz </slidetext>
+      <slidetext slideid="5lEI8c43zhW.6IfW8GGH5xo" slidebank="false" type="slide">flexor retinaculum flexor retinaculum flexor retinaculum flexor retinaculum flexor retinaculum flexor retinaculum abductor pollicis brevis muscle abductor pollicis brevis muscle abductor pollicis brevis muscle abductor pollicis brevis muscle abductor pollicis brevis muscle abductor pollicis brevis muscle branch of the radial artery branch of the radial artery branch of the radial artery branch of the radial artery branch of the radial artery branch of the radial artery 16. identify c. submit flexor pollicis brevis muscle flexor pollicis brevis muscle flexor pollicis brevis muscle flexor pollicis brevis muscle flexor pollicis brevis muscle flexor pollicis brevis muscle superficial palmar arch superficial palmar arch superficial palmar arch superficial palmar arch superficial palmar arch superficial palmar arch ulnar artery ulnar artery ulnar artery ulnar artery ulnar artery ulnar artery ulnar nerve ulnar nerve ulnar nerve ulnar nerve ulnar nerve ulnar nerve median nerve median nerve median nerve median nerve median nerve median nerve 17.1   quiz </slidetext>
+      <slidetext slideid="5lEI8c43zhW.6PR198136ag" slidebank="false" type="slide">flexor retinaculum flexor retinaculum flexor retinaculum flexor retinaculum flexor retinaculum flexor retinaculum abductor pollicis brevis muscle abductor pollicis brevis muscle abductor pollicis brevis muscle abductor pollicis brevis muscle abductor pollicis brevis muscle abductor pollicis brevis muscle branch of the radial artery branch of the radial artery branch of the radial artery branch of the radial artery branch of the radial artery branch of the radial artery 17. identify d. submit flexor pollicis brevis muscle flexor pollicis brevis muscle flexor pollicis brevis muscle flexor pollicis brevis muscle flexor pollicis brevis muscle flexor pollicis brevis muscle superficial palmar arch superficial palmar arch superficial palmar arch superficial palmar arch superficial palmar arch superficial palmar arch ulnar artery ulnar artery ulnar artery ulnar artery ulnar artery ulnar artery ulnar nerve ulnar nerve ulnar nerve ulnar nerve ulnar nerve ulnar nerve median nerve median nerve median nerve median nerve median nerve median nerve 17.1   quiz </slidetext>
+      <slidetext slideid="5lEI8c43zhW.5kFn8dlNqv3" slidebank="false" type="slide">flexor retinaculum flexor retinaculum flexor retinaculum flexor retinaculum flexor retinaculum flexor retinaculum abductor pollicis brevis muscle abductor pollicis brevis muscle abductor pollicis brevis muscle abductor pollicis brevis muscle abductor pollicis brevis muscle abductor pollicis brevis muscle branch of the radial artery branch of the radial artery branch of the radial artery branch of the radial artery branch of the radial artery branch of the radial artery 18. identify e. submit flexor pollicis brevis muscle flexor pollicis brevis muscle flexor pollicis brevis muscle flexor pollicis brevis muscle flexor pollicis brevis muscle flexor pollicis brevis muscle superficial palmar arch superficial palmar arch superficial palmar arch superficial palmar arch superficial palmar arch superficial palmar arch ulnar artery ulnar artery ulnar artery ulnar artery ulnar artery ulnar artery ulnar nerve ulnar nerve ulnar nerve ulnar nerve ulnar nerve ulnar nerve median nerve median nerve median nerve median nerve median nerve median nerve 17.1   quiz </slidetext>
+      <slidetext slideid="5lEI8c43zhW.6X8mNHSs83F" slidebank="false" type="slide">flexor retinaculum flexor retinaculum flexor retinaculum flexor retinaculum flexor retinaculum flexor retinaculum abductor pollicis brevis muscle abductor pollicis brevis muscle abductor pollicis brevis muscle abductor pollicis brevis muscle abductor pollicis brevis muscle abductor pollicis brevis muscle branch of the radial artery branch of the radial artery branch of the radial artery branch of the radial artery branch of the radial artery branch of the radial artery 19. identify f. submit flexor pollicis brevis muscle flexor pollicis brevis muscle flexor pollicis brevis muscle flexor pollicis brevis muscle flexor pollicis brevis muscle flexor pollicis brevis muscle superficial palmar arch superficial palmar arch superficial palmar arch superficial palmar arch superficial palmar arch superficial palmar arch ulnar artery ulnar artery ulnar artery ulnar artery ulnar artery ulnar artery ulnar nerve ulnar nerve ulnar nerve ulnar nerve ulnar nerve ulnar nerve median nerve median nerve median nerve median nerve median nerve median nerve 17.1   quiz </slidetext>
+      <slidetext slideid="5lEI8c43zhW.6giVVZQO5jT" slidebank="false" type="slide">flexor retinaculum flexor retinaculum flexor retinaculum flexor retinaculum flexor retinaculum flexor retinaculum abductor pollicis brevis muscle abductor pollicis brevis muscle abductor pollicis brevis muscle abductor pollicis brevis muscle abductor pollicis brevis muscle abductor pollicis brevis muscle branch of the radial artery branch of the radial artery branch of the radial artery branch of the radial artery branch of the radial artery branch of the radial artery 20. identify g. submit flexor pollicis brevis muscle flexor pollicis brevis muscle flexor pollicis brevis muscle flexor pollicis brevis muscle flexor pollicis brevis muscle flexor pollicis brevis muscle superficial palmar arch superficial palmar arch superficial palmar arch superficial palmar arch superficial palmar arch superficial palmar arch ulnar artery ulnar artery ulnar artery ulnar artery ulnar artery ulnar artery ulnar nerve ulnar nerve ulnar nerve ulnar nerve ulnar nerve ulnar nerve median nerve median nerve median nerve median nerve median nerve median nerve 17.1   quiz </slidetext>
+      <slidetext slideid="5lEI8c43zhW.6CJY8xcD22Y" slidebank="false" type="slide">flexor retinaculum flexor retinaculum flexor retinaculum flexor retinaculum flexor retinaculum flexor retinaculum abductor pollicis brevis muscle abductor pollicis brevis muscle abductor pollicis brevis muscle abductor pollicis brevis muscle abductor pollicis brevis muscle abductor pollicis brevis muscle branch of the radial artery branch of the radial artery branch of the radial artery branch of the radial artery branch of the radial artery branch of the radial artery 21. identify h. submit flexor pollicis brevis muscle flexor pollicis brevis muscle flexor pollicis brevis muscle flexor pollicis brevis muscle flexor pollicis brevis muscle flexor pollicis brevis muscle superficial palmar arch superficial palmar arch superficial palmar arch superficial palmar arch superficial palmar arch superficial palmar arch ulnar artery ulnar artery ulnar artery ulnar artery ulnar artery ulnar artery ulnar nerve ulnar nerve ulnar nerve ulnar nerve ulnar nerve ulnar nerve median nerve median nerve median nerve median nerve median nerve median nerve 17.1   quiz </slidetext>
+      <slidetext slideid="5lEI8c43zhW.5yEgGwpKbJV" slidebank="false" type="slide">abduction of the thumb abduction of the thumb abduction of the thumb abduction of the thumb abduction of the thumb abduction of the thumb opposition of the thumb opposition of the thumb opposition of the thumb opposition of the thumb opposition of the thumb opposition of the thumb flexion of the thumb flexion of the thumb flexion of the thumb flexion of the thumb flexion of the thumb flexion of the thumb 22. what is the action of muscle a?. submit adduction of the thumb adduction of the thumb adduction of the thumb adduction of the thumb adduction of the thumb adduction of the thumb 17.1   quiz </slidetext>
+      <slidetext slideid="5lEI8c43zhW.60Kx2lKb0Q5" slidebank="false" type="slide">recurrent branch of the median nerve recurrent branch of the median nerve recurrent branch of the median nerve recurrent branch of the median nerve recurrent branch of the median nerve recurrent branch of the median nerve main branch of the median nerve main branch of the median nerve main branch of the median nerve main branch of the median nerve main branch of the median nerve main branch of the median nerve ulnar nerve ulnar nerve ulnar nerve ulnar nerve ulnar nerve ulnar nerve 23. what nerve innervates muscle a?. submit radial nerve radial nerve radial nerve radial nerve radial nerve radial nerve 17.1   quiz </slidetext>
+      <slidetext slideid="5lEI8c43zhW.5c5XN65vowB" slidebank="false" type="slide">abduction of the thumb abduction of the thumb abduction of the thumb abduction of the thumb abduction of the thumb abduction of the thumb opposition of the thumb opposition of the thumb opposition of the thumb opposition of the thumb opposition of the thumb opposition of the thumb flexion of the thumb flexion of the thumb flexion of the thumb flexion of the thumb flexion of the thumb flexion of the thumb 24. what is the action of muscle a? submit adduction of the thumb adduction of the thumb adduction of the thumb adduction of the thumb adduction of the thumb adduction of the thumb 17.1   quiz </slidetext>
+      <slidetext slideid="5lEI8c43zhW.6cl8OIkjW1s" slidebank="false" type="slide">opponens pollicis muscle opponens pollicis muscle opponens pollicis muscle opponens pollicis muscle opponens pollicis muscle opponens pollicis muscle flexor pollicis brevis muscle flexor pollicis brevis muscle flexor pollicis brevis muscle flexor pollicis brevis muscle flexor pollicis brevis muscle flexor pollicis brevis muscle adductor pollicis muscle adductor pollicis muscle adductor pollicis muscle adductor pollicis muscle adductor pollicis muscle adductor pollicis muscle 25. identify a. submit tendon of flexor pollicis longus muscle tendon of flexor pollicis longus muscle tendon of flexor pollicis longus muscle tendon of flexor pollicis longus muscle tendon of flexor pollicis longus muscle tendon of flexor pollicis longus muscle 17.1   quiz hypothenar group of muscles hypothenar group of muscles hypothenar group of muscles hypothenar group of muscles hypothenar group of muscles hypothenar group of muscles lumbrical muscles lumbrical muscles lumbrical muscles lumbrical muscles lumbrical muscles lumbrical muscles </slidetext>
+      <slidetext slideid="5lEI8c43zhW.6Z24vNkA3YU" slidebank="false" type="slide">opponens pollicis muscle opponens pollicis muscle opponens pollicis muscle opponens pollicis muscle opponens pollicis muscle opponens pollicis muscle flexor pollicis brevis muscle flexor pollicis brevis muscle flexor pollicis brevis muscle flexor pollicis brevis muscle flexor pollicis brevis muscle flexor pollicis brevis muscle adductor pollicis muscle adductor pollicis muscle adductor pollicis muscle adductor pollicis muscle adductor pollicis muscle adductor pollicis muscle 26. identify b. submit tendon of flexor pollicis longus muscle tendon of flexor pollicis longus muscle tendon of flexor pollicis longus muscle tendon of flexor pollicis longus muscle tendon of flexor pollicis longus muscle tendon of flexor pollicis longus muscle 17.1   quiz hypothenar group of muscles hypothenar group of muscles hypothenar group of muscles hypothenar group of muscles hypothenar group of muscles hypothenar group of muscles lumbrical muscles lumbrical muscles lumbrical muscles lumbrical muscles lumbrical muscles lumbrical muscles </slidetext>
+      <slidetext slideid="5lEI8c43zhW.6VybNvQ9hjk" slidebank="false" type="slide">opponens pollicis muscle opponens pollicis muscle opponens pollicis muscle opponens pollicis muscle opponens pollicis muscle opponens pollicis muscle flexor pollicis brevis muscle flexor pollicis brevis muscle flexor pollicis brevis muscle flexor pollicis brevis muscle flexor pollicis brevis muscle flexor pollicis brevis muscle adductor pollicis muscle adductor pollicis muscle adductor pollicis muscle adductor pollicis muscle adductor pollicis muscle adductor pollicis muscle 27. identify c. submit tendon of flexor pollicis longus muscle tendon of flexor pollicis longus muscle tendon of flexor pollicis longus muscle tendon of flexor pollicis longus muscle tendon of flexor pollicis longus muscle tendon of flexor pollicis longus muscle 17.1   quiz hypothenar group of muscles hypothenar group of muscles hypothenar group of muscles hypothenar group of muscles hypothenar group of muscles hypothenar group of muscles lumbrical muscles lumbrical muscles lumbrical muscles lumbrical muscles lumbrical muscles lumbrical muscles </slidetext>
+      <slidetext slideid="5lEI8c43zhW.5pW0w5d31xp" slidebank="false" type="slide">opponens pollicis muscle opponens pollicis muscle opponens pollicis muscle opponens pollicis muscle opponens pollicis muscle opponens pollicis muscle flexor pollicis brevis muscle flexor pollicis brevis muscle flexor pollicis brevis muscle flexor pollicis brevis muscle flexor pollicis brevis muscle flexor pollicis brevis muscle adductor pollicis muscle adductor pollicis muscle adductor pollicis muscle adductor pollicis muscle adductor pollicis muscle adductor pollicis muscle 28. identify d. submit tendon of flexor pollicis longus muscle tendon of flexor pollicis longus muscle tendon of flexor pollicis longus muscle tendon of flexor pollicis longus muscle tendon of flexor pollicis longus muscle tendon of flexor pollicis longus muscle 17.1   quiz hypothenar group of muscles hypothenar group of muscles hypothenar group of muscles hypothenar group of muscles hypothenar group of muscles hypothenar group of muscles lumbrical muscles lumbrical muscles lumbrical muscles lumbrical muscles lumbrical muscles lumbrical muscles </slidetext>
+      <slidetext slideid="5lEI8c43zhW.61c8v4R5MgO" slidebank="false" type="slide">opponens pollicis muscle opponens pollicis muscle opponens pollicis muscle opponens pollicis muscle opponens pollicis muscle opponens pollicis muscle flexor pollicis brevis muscle flexor pollicis brevis muscle flexor pollicis brevis muscle flexor pollicis brevis muscle flexor pollicis brevis muscle flexor pollicis brevis muscle adductor pollicis muscle adductor pollicis muscle adductor pollicis muscle adductor pollicis muscle adductor pollicis muscle adductor pollicis muscle 29. identify e. submit tendon of flexor pollicis longus muscle tendon of flexor pollicis longus muscle tendon of flexor pollicis longus muscle tendon of flexor pollicis longus muscle tendon of flexor pollicis longus muscle tendon of flexor pollicis longus muscle 17.1   quiz hypothenar group of muscles hypothenar group of muscles hypothenar group of muscles hypothenar group of muscles hypothenar group of muscles hypothenar group of muscles lumbrical muscles lumbrical muscles lumbrical muscles lumbrical muscles lumbrical muscles lumbrical muscles </slidetext>
+      <slidetext slideid="5lEI8c43zhW.679IDEO1Z6A" slidebank="false" type="slide">opponens pollicis muscle opponens pollicis muscle opponens pollicis muscle opponens pollicis muscle opponens pollicis muscle opponens pollicis muscle flexor pollicis brevis muscle flexor pollicis brevis muscle flexor pollicis brevis muscle flexor pollicis brevis muscle flexor pollicis brevis muscle flexor pollicis brevis muscle adductor pollicis muscle adductor pollicis muscle adductor pollicis muscle adductor pollicis muscle adductor pollicis muscle adductor pollicis muscle 30. identify f. submit tendon of flexor pollicis longus muscle tendon of flexor pollicis longus muscle tendon of flexor pollicis longus muscle tendon of flexor pollicis longus muscle tendon of flexor pollicis longus muscle tendon of flexor pollicis longus muscle 17.1   quiz hypothenar group of muscles hypothenar group of muscles hypothenar group of muscles hypothenar group of muscles hypothenar group of muscles hypothenar group of muscles lumbrical muscles lumbrical muscles lumbrical muscles lumbrical muscles lumbrical muscles lumbrical muscles </slidetext>
+      <slidetext slideid="5lEI8c43zhW.62KnjbxQnHc" slidebank="false" type="slide">flexion of the mcp joints and extension of the pip and dip joints flexion of the mcp joints and extension of the pip and dip joints flexion of the mcp joints and extension of the pip and dip joints flexion of the mcp joints and extension of the pip and dip joints flexion of the mcp joints and extension of the pip and dip joints flexion of the mcp joints and extension of the pip and dip joints flexion of the mcp, pip and dip joints flexion of the mcp, pip and dip joints flexion of the mcp, pip and dip joints flexion of the mcp, pip and dip joints flexion of the mcp, pip and dip joints flexion of the mcp, pip and dip joints extension of the mcp joints and flexion of the pip and dip joints extension of the mcp joints and flexion of the pip and dip joints extension of the mcp joints and flexion of the pip and dip joints extension of the mcp joints and flexion of the pip and dip joints extension of the mcp joints and flexion of the pip and dip joints extension of the mcp joints and flexion of the pip and dip joints 31. what is the action of muscle a? submit flexion of the mcp joints only flexion of the mcp joints only flexion of the mcp joints only flexion of the mcp joints only flexion of the mcp joints only flexion of the mcp joints only 17.1   quiz </slidetext>
+      <slidetext slideid="5lEI8c43zhW.5pb3vPuWPQM" slidebank="false" type="slide">recurrent branch of the median nerve recurrent branch of the median nerve recurrent branch of the median nerve recurrent branch of the median nerve recurrent branch of the median nerve recurrent branch of the median nerve main branch of the median nerve main branch of the median nerve main branch of the median nerve main branch of the median nerve main branch of the median nerve main branch of the median nerve ulnar nerve ulnar nerve ulnar nerve ulnar nerve ulnar nerve ulnar nerve 32. what nerve innervates a, b, and c? submit radial nerve radial nerve radial nerve radial nerve radial nerve radial nerve 17.1   quiz </slidetext>
+      <slidetext slideid="5lEI8c43zhW.5hG89hE1JUC" slidebank="false" type="slide">recurrent branch of the median nerve recurrent branch of the median nerve recurrent branch of the median nerve recurrent branch of the median nerve recurrent branch of the median nerve recurrent branch of the median nerve main branch of the median nerve main branch of the median nerve main branch of the median nerve main branch of the median nerve main branch of the median nerve main branch of the median nerve ulnar nerve ulnar nerve ulnar nerve ulnar nerve ulnar nerve ulnar nerve 33. what nerve innervates muscles a and b? submit radial nerve radial nerve radial nerve radial nerve radial nerve radial nerve 17.1   quiz </slidetext>
+      <slidetext slideid="5lEI8c43zhW.6AVQriE1hFo" slidebank="false" type="slide">recurrent branch of the median nerve recurrent branch of the median nerve recurrent branch of the median nerve recurrent branch of the median nerve recurrent branch of the median nerve recurrent branch of the median nerve main branch of the median nerve main branch of the median nerve main branch of the median nerve main branch of the median nerve main branch of the median nerve main branch of the median nerve ulnar nerve ulnar nerve ulnar nerve ulnar nerve ulnar nerve ulnar nerve 34. what nerve innervates muscle c? submit radial nerve radial nerve radial nerve radial nerve radial nerve radial nerve 17.1   quiz </slidetext>
+      <slidetext slideid="6340jkryloG.6QMBC8nISRW" slidebank="false" type="slide">acknowledgements previous author &amp; emodule development barbara ballyk, ph.d. associate professor, teaching stream division of anatomy, department of surgery faculty of medicine, university of toronto brand design: janet koecher, discovery commons university of toronto © 2019 emodule production: kristy cheung, b.sc.h. m.sc. candidate, clinical anatomy, western university valera castanov, ph.d.  m.d. candidate, class of 2022 faculty of medicine, queen’s university albert gheorghita, m.d. candidate 2t0 faculty of medicine, university of toronto </slidetext>
+    </search>
+  </nav_data>
+  <resource_data description="" />
+  <transcript_data />
+  <glossary_data />
+</bwFrame>

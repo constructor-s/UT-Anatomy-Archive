@@ -1,0 +1,1340 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="npnxnanbnsnfns01001000011" textdirection="ltr" device="false" fontscale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="classic">
+  <layouts>
+    <layout name="npnxnanbsnfns01001000011" font="Calibri" controllayout="npnxnanbsnfns01001000011" colorscheme="npnxnanbnsnfns01001000011" string_table="npnxnanbnsnfns01001000011" />
+    <layout name="pxabnsnfns01001000011" font="Calibri" controllayout="pxabnsnfns01001000011" colorscheme="npnxnanbnsnfns01001000011" string_table="npnxnanbnsnfns01001000011" />
+    <layout name="npxnabnsnfns01001000011" font="Calibri" controllayout="npxnabnsnfns01001000011" colorscheme="npnxnanbnsnfns01001000011" string_table="npnxnanbnsnfns01001000011" />
+    <layout name="npnxnanbnsnfns01001000011" font="Calibri" controllayout="npnxnanbnsnfns01001000011" colorscheme="npnxnanbnsnfns01001000011" string_table="npnxnanbnsnfns01001000011" />
+    <layout name="pxabnsnfns01001000010" font="Calibri" controllayout="pxabnsnfns01001000010" colorscheme="npnxnanbnsnfns01001000011" string_table="npnxnanbnsnfns01001000011" />
+  </layouts>
+  <control_options>
+    <optiongroups>
+      <optiongroup name="sidebaroptions">
+        <options>
+          <option name="title_enabled" value="true">
+            <options>
+              <option name="title_text" value="H16 The Urinary System" />
+            </options>
+          </option>
+          <option name="logo_enabled" value="true">
+            <options>
+              <option name="logo_url" value="story_content/logo.swf">
+                <properties>
+                  <property name="width" value="1024" />
+                  <property name="height" value="229" />
+                </properties>
+              </option>
+              <option name="html5_logo_url" value="mobile/6c3molyEEce.jpg" />
+            </options>
+          </option>
+          <option name="sidebar_enabled" value="true">
+            <options>
+              <option name="sidebarpos" value="left" />
+            </options>
+          </option>
+          <optionlist name="tabs">
+            <listitems>
+              <listitem name="customlink" value="true" group="linkleft">
+                <properties>
+                  <property name="title" value="Acknowledgments" />
+                  <property name="data" value="5toZT0PPlEg" />
+                  <property name="ignoreSlideLock" value="true" />
+                </properties>
+              </listitem>
+              <listitem name="resources" value="false" group="linkright" />
+              <listitem name="outline" value="true" group="sidebar" />
+              <listitem name="glossary" value="false" group="sidebar" />
+              <listitem name="transcript" value="false" group="sidebar" />
+            </listitems>
+          </optionlist>
+          <option name="time_enabled" value="false">
+            <options>
+              <option name="time_format" value="elapsed" />
+            </options>
+          </option>
+          <option name="video_enabled" value="false">
+            <options>
+              <option name="height" value="135" />
+            </options>
+          </option>
+        </options>
+      </optiongroup>
+      <optiongroup name="menuoptions">
+        <options>
+          <option name="flow" value="free" />
+          <option name="wraplistitems" value="false" />
+          <option name="tooltips" value="true" />
+          <option name="autocollapse" value="true" />
+          <option name="autonumber" value="false" />
+          <option name="enableresultsicons" value="true" />
+        </options>
+      </optiongroup>
+      <optiongroup name="controls">
+        <options>
+          <option name="volume" value="false" />
+          <option name="seekbar" value="false">
+            <options>
+              <option name="readonly" value="false" />
+              <option name="readonlyOnce" value="false" />
+            </options>
+          </option>
+          <option name="pauseplay" value="false" />
+          <option name="replay" value="false" />
+          <option name="search" value="true" />
+          <option name="closed_captions" value="false">
+            <options>
+              <option name="font" value="Calibri" />
+            </options>
+          </option>
+        </options>
+      </optiongroup>
+      <optiongroup name="bottombaroptions">
+        <options>
+          <option name="bottombar_enabled" value="false" />
+        </options>
+      </optiongroup>
+    </optiongroups>
+  </control_options>
+  <control_layouts>
+    <control_layout name="npnxnanbsnfns01001000011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="true" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns01001000011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npxnabnsnfns01001000011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npnxnanbnsnfns01001000011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns01001000010">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="false" />
+    </control_layout>
+  </control_layouts>
+  <colorschemes>
+    <colorscheme name="npnxnanbnsnfns01001000011">
+      <color_group name="infopanel">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x7C2280" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0000EE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC73013" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="title_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x999999" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="infopanelpopup">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFC4A2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xED5736" alpha="100" stop="0" />
+                <color rgb="0xD44120" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFC4A2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bio_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="timer">
+        <group_colors>
+          <color name="duration">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x00D7FF" alpha="100" stop="0" />
+                <color rgb="0x00ABFF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="elapsed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFEE347" alpha="100" stop="0" />
+                <color rgb="0xFCCC2A" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="stroke">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC7C7C7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="window">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xED5736" alpha="100" stop="0" />
+                <color rgb="0xD44120" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xEB8964" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF49277" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD63F21" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="20" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="editor">
+        <group_colors>
+          <color name="slide_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="html_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC23115" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC93518" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE15429" alpha="100" stop="0" />
+                <color rgb="0xC42D16" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD84121" alpha="100" stop="0" />
+                <color rgb="0xDE4C27" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE1512A" alpha="100" stop="0" />
+                <color rgb="0xD63A1D" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="listitem">
+        <group_colors>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x671B6B" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF98E6E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="viewed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFC4A2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF17D5E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="lines">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDA563A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="glossary">
+        <group_colors>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF98E6E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE85F39" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD96244" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD96244" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF98B6A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xEC7B59" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="resource">
+        <group_colors>
+          <color name="separator">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD35338" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="outline">
+        <group_colors>
+          <color name="search_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFC4A2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD35338" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xEB9471" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCF5336" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="transcript">
+        <group_colors>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="div">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD35338" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="tabs">
+        <group_colors>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC73013" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFC4A2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xED7254" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="seekcontrol">
+        <group_colors>
+          <color name="btn_icon_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFE1D0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_position">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE97D65" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD33F1F" alpha="100" stop="0" />
+                <color rgb="0xCA3416" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC32E13" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE65832" alpha="100" stop="0" />
+                <color rgb="0xDF3F23" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="searchinput">
+        <group_colors>
+          <color name="text_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2D2D2D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2D2D2D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xEB9471" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE76E52" alpha="100" stop="0" />
+                <color rgb="0xE2694D" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icon">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD7654B" alpha="100" stop="0" />
+                <color rgb="0xC42F13" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="scrollarea">
+        <group_colors>
+          <color name="detailb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCA3518" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="detaila">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xEA7C5D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCB3519" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icons">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCA3417" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE55D3B" alpha="100" stop="0" />
+                <color rgb="0xDB4D32" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE2522C" alpha="100" stop="0" />
+                <color rgb="0xD93E20" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF8795B" alpha="100" stop="0" />
+                <color rgb="0xF8795B" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="0">
+              <colors>
+                <color rgb="0xED6546" alpha="100" stop="0" />
+                <color rgb="0xEE6948" alpha="100" stop="128" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="menu">
+        <group_colors>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD35235" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xED7254" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="logo">
+        <group_colors>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC73013" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="checkbox">
+        <group_colors>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6BF8FF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="check">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2BC400" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD35338" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="button">
+        <group_colors>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC23115" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC93518" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE15429" alpha="100" stop="0" />
+                <color rgb="0xC42D16" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD84121" alpha="100" stop="0" />
+                <color rgb="0xDE4C27" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE1512A" alpha="100" stop="0" />
+                <color rgb="0xD63A1D" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="10" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="base">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD63F21" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF49277" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="menu_shade">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDD5233" alpha="100" stop="0" />
+                <color rgb="0xC53D1E" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF5674A" alpha="100" stop="0" />
+                <color rgb="0xF5674A" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xED5736" alpha="100" stop="0" />
+                <color rgb="0xD44120" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slide_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xED5736" alpha="100" stop="0" />
+                <color rgb="0xD44120" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="volume">
+        <group_colors>
+          <color name="thumb_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCB361A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE55E3B" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDB4524" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF26E50" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE75E36" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="HTML">
+        <group_colors>
+          <color name="htmlpage_bg_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x018CB0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+    </colorscheme>
+  </colorschemes>
+  <string_tables>
+    <string_table name="npnxnanbnsnfns01001000011">
+      <string id="acc_active">active</string>
+      <string id="check_include">Check to include</string>
+      <string id="clear">Clear and return to menu</string>
+      <string id="close">Close</string>
+      <string id="acc_closed_captions">Closed captions. Press the spacebar to toggle captions on and off.</string>
+      <string id="continue">Continue</string>
+      <string id="continueresponsive">Continue</string>
+      <string id="exit">Exit</string>
+      <string id="filter">Filter</string>
+      <string id="finish">FINISH</string>
+      <string id="acc_finish">finish</string>
+      <string id="definition">Definition</string>
+      <string id="acc_definition">definition</string>
+      <string id="glossary">Glossary</string>
+      <string id="terms">Terms</string>
+      <string id="outline">Menu</string>
+      <string id="disabled_orientation">Please rotate your device</string>
+      <string id="next">NEXT</string>
+      <string id="acc_next">next</string>
+      <string id="transcript_chk">Notes</string>
+      <string id="transcript">Notes</string>
+      <string id="bio">Bio</string>
+      <string id="more_info">More info</string>
+      <string id="closed_captions">Captions</string>
+      <string id="acc_pause">pause</string>
+      <string id="acc_play">play</string>
+      <string id="send_an_email">Send an email</string>
+      <string id="prev">PREV</string>
+      <string id="acc_previous">previous</string>
+      <string id="question_list">Question List</string>
+      <string id="acc_replay">replay</string>
+      <string id="resources">Resources</string>
+      <string id="acc_resources">resources</string>
+      <string id="restart">Restart</string>
+      <string id="resume">Resume</string>
+      <string id="search">Search...</string>
+      <string id="acc_search_input">search</string>
+      <string id="search_in">Search in:</string>
+      <string id="search_results">Search Results</string>
+      <string id="acc_skipnavigation">Skip navigation. Press enter to return to the slide.</string>
+      <string id="slide_text_chk">Slide Text</string>
+      <string id="submitall">SUBMIT ALL</string>
+      <string id="acc_submitall">submit all</string>
+      <string id="submit">SUBMIT</string>
+      <string id="acc_submit">submit</string>
+      <string id="acc_volume">volume</string>
+    </string_table>
+  </string_tables>
+  <fonts>
+    <font name="Calibri">
+      <files>
+        <file bold="true" italic="false" />
+        <file bold="false" italic="false" />
+      </files>
+    </font>
+  </fonts>
+  <sounds enabled="true" />
+  <nav_data>
+    <outline>
+      <links>
+        <slidelink slideid="_player.6aorm6DVHdA" displaytext="Start" expand="false" type="slide">
+          <links>
+            <slidelink slideid="_player.6aorm6DVHdA.6KMOAvxC2nP" displaytext="Using the emodule" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.5XrEcCQYved" displaytext="2.10 The Urinary System" expand="false" type="slide">
+          <links>
+            <slidelink slideid="_player.5XrEcCQYved.61O1QTp92UQ" displaytext="1. Resources" expand="false" type="slide" />
+            <slidelink slideid="_player.5XrEcCQYved.5vjwCRmlAIj" displaytext="2. Objectives" expand="false" type="slide" />
+            <slidelink slideid="_player.5XrEcCQYved.5XWYLDxoYvv" displaytext="3. Introduction to the Urinary System" expand="false" type="slide" />
+            <slidelink slideid="_player.5XrEcCQYved.6OObWlHC4rs" displaytext="4. The Gross Structure of the Kidney I" expand="false" type="slide" />
+            <slidelink slideid="_player.5XrEcCQYved.6hCGFA6ZbW0" displaytext="5. The Gross Structure of the Kidney II" expand="false" type="slide" />
+            <slidelink slideid="_player.5XrEcCQYved.5yUuRvJjSjU" displaytext="6. The Nephron" expand="false" type="slide" />
+            <slidelink slideid="_player.5XrEcCQYved.6pt62tL6QxS" displaytext="7. The Renal Tubule and Collecting System" expand="false" type="slide" />
+            <slidelink slideid="_player.5XrEcCQYved.6Jf7XteG7VU" displaytext="8. Renal Blood Supply I" expand="false" type="slide" />
+            <slidelink slideid="_player.5XrEcCQYved.6JeAuJKaqe7" displaytext="9. Renal Blood Supply II" expand="false" type="slide" />
+            <slidelink slideid="_player.5XrEcCQYved.6FgyWQOWJ9F" displaytext="10. Renal Function: Filtration, Secretion, &amp; Reabsorption" expand="false" type="slide" />
+            <slidelink slideid="_player.5XrEcCQYved.5uDoCFBKxpZ" displaytext="11. The Structure of the Renal Corpuscle" expand="false" type="slide" />
+            <slidelink slideid="_player.5XrEcCQYved.5kKPlGNV8sV" displaytext="12. Renal Corpuscles &amp; Blood Filtration I" expand="false" type="slide" />
+            <slidelink slideid="_player.5XrEcCQYved.696MSu6KRl8" displaytext="13. Renal Corpuscles &amp; Blood Filtration II" expand="false" type="slide" />
+            <slidelink slideid="_player.5XrEcCQYved.5yJ3rN9gkXz" displaytext="14. The Glomerular Filter I" expand="false" type="slide" />
+            <slidelink slideid="_player.5XrEcCQYved.61ELSQ7bJ0L" displaytext="15. The Glomerular Filter II" expand="false" type="slide" />
+            <slidelink slideid="_player.5XrEcCQYved.6dtdQipVb5S" displaytext="16. Glomerular Filtration Rate" expand="false" type="slide" />
+            <slidelink slideid="_player.5XrEcCQYved.5gPGpQOiiu9" displaytext="17. Intraglomerular Mesangial Cells" expand="false" type="slide" />
+            <slidelink slideid="_player.5XrEcCQYved.6B6tr4NU1Me" displaytext="18. Absorption in the PCT" expand="false" type="slide" />
+            <slidelink slideid="_player.5XrEcCQYved.6RUp5gJuMBa" displaytext="19. Secretion in the PCT" expand="false" type="slide" />
+            <slidelink slideid="_player.5XrEcCQYved.6reIXCebWNw" displaytext="20. The PCT is Structurally Suited to its Role" expand="false" type="slide" />
+            <slidelink slideid="_player.5XrEcCQYved.6Uw1bCTzkfy" displaytext="21. The Loop of Henle I" expand="false" type="slide" />
+            <slidelink slideid="_player.5XrEcCQYved.5plyXTpEmpS" displaytext="22. The Loop of Henle II" expand="false" type="slide" />
+            <slidelink slideid="_player.5XrEcCQYved.5qYB3UNtwgK" displaytext="23. The Vasae Rectae Parallel the Loops of Henle" expand="false" type="slide" />
+            <slidelink slideid="_player.5XrEcCQYved.6So60EJyAjs" displaytext="24. The Thick Ascending Limb Concentrates the Medullary Interstitium" expand="false" type="slide" />
+            <slidelink slideid="_player.5XrEcCQYved.625cE6U1sAO" displaytext="25. Fluid Leaving the Loop of Henle is Hypo-osmotic" expand="false" type="slide" />
+            <slidelink slideid="_player.5XrEcCQYved.6glFiDeOxfw" displaytext="26. Distal Convoluted Tubule" expand="false" type="slide" />
+            <slidelink slideid="_player.5XrEcCQYved.6QI8jR8z1FF" displaytext="27. The Juxtaglomerular Apparatus" expand="false" type="slide" />
+            <slidelink slideid="_player.5XrEcCQYved.6WvlMAS0qZb" displaytext="28. The JGA and Blood Pressure Regulation" expand="false" type="slide" />
+            <slidelink slideid="_player.5XrEcCQYved.6bTl48y4bi3" displaytext="29. The Renal Collecting System I" expand="false" type="slide" />
+            <slidelink slideid="_player.5XrEcCQYved.6BxzQbuNgx2" displaytext="30. The Renal Collecting System II" expand="false" type="slide" />
+            <slidelink slideid="_player.5XrEcCQYved.6OiXdb9W9Gs" displaytext="31. Ureters, Bladder, &amp; Urethra" expand="false" type="slide" />
+            <slidelink slideid="_player.5XrEcCQYved.5ZuZE2LIAIn" displaytext="32. The Renal Calyces and Renal Pelvis" expand="false" type="slide" />
+            <slidelink slideid="_player.5XrEcCQYved.6qZ4SBg32Tp" displaytext="33. The Ureters" expand="false" type="slide" />
+            <slidelink slideid="_player.5XrEcCQYved.6IwZEkNFhNm" displaytext="34. The Urinary Bladder" expand="false" type="slide" />
+            <slidelink slideid="_player.5XrEcCQYved.5WJfXDg9EXg" displaytext="35. The Urethra" expand="false" type="slide" />
+            <slidelink slideid="_player.5XrEcCQYved.6U6h16DGNyu" displaytext="36. The Vas Deferens" expand="false" type="slide" />
+            <slidelink slideid="_player.5XrEcCQYved.6fritJaYl1x" displaytext="37. The Seminal Vesicles" expand="false" type="slide" />
+            <slidelink slideid="_player.5XrEcCQYved.5q3vpotrTjy" displaytext="38. The Prostate Gland" expand="false" type="slide" />
+            <slidelink slideid="_player.5XrEcCQYved.6SjfIKnZ6Jm" displaytext="39. The Bulbourethral Glands" expand="false" type="slide" />
+            <slidelink slideid="_player.5XrEcCQYved.5wn21y1xPOv" displaytext="40. Quiz Start" expand="false" type="slide">
+              <links>
+                <slidelink slideid="_player.5XrEcCQYved.5kdZmvFVbwF" displaytext="Question 1" expand="false" type="slide" />
+                <slidelink slideid="_player.5XrEcCQYved.5riSI0u6FVO" displaytext="Question 2" expand="false" type="slide" />
+                <slidelink slideid="_player.5XrEcCQYved.69QD1m197AA" displaytext="Question 3" expand="false" type="slide" />
+                <slidelink slideid="_player.5XrEcCQYved.5yy8dUCuuXI" displaytext="Question 4" expand="false" type="slide" />
+                <slidelink slideid="_player.5XrEcCQYved.6ZU2lQ1Pf4f" displaytext="Question 5" expand="false" type="slide" />
+                <slidelink slideid="_player.5XrEcCQYved.6YR2Pb4WFS5" displaytext="Question 6" expand="false" type="slide" />
+                <slidelink slideid="_player.5XrEcCQYved.5VuzkBvhJY7" displaytext="Question 7" expand="false" type="slide" />
+                <slidelink slideid="_player.5XrEcCQYved.6bsrylKe8Nv" displaytext="Question 8" expand="false" type="slide" />
+                <slidelink slideid="_player.5XrEcCQYved.6nA4TxFCMZy" displaytext="Question 9" expand="false" type="slide" />
+                <slidelink slideid="_player.5XrEcCQYved.6iEcOANQr8r" displaytext="Question 10" expand="false" type="slide" />
+                <slidelink slideid="_player.5XrEcCQYved.5bOWqIyh10o" displaytext="Question 11" expand="false" type="slide" />
+                <slidelink slideid="_player.5XrEcCQYved.6Jh2y6Qc2de" displaytext="Question 12" expand="false" type="slide" />
+                <slidelink slideid="_player.5XrEcCQYved.6fy7BBZva8I" displaytext="Question 13" expand="false" type="slide" />
+                <slidelink slideid="_player.5XrEcCQYved.5W40iiFjPoC" displaytext="Question 14" expand="false" type="slide" />
+                <slidelink slideid="_player.5XrEcCQYved.5ZUy5Niw4vu" displaytext="Question 15" expand="false" type="slide" />
+                <slidelink slideid="_player.5XrEcCQYved.6hovQQRvUAG" displaytext="Question 16" expand="false" type="slide" />
+                <slidelink slideid="_player.5XrEcCQYved.5pzdQVA2Eq5" displaytext="Question 17" expand="false" type="slide" />
+                <slidelink slideid="_player.5XrEcCQYved.5vLuJNid9m8" displaytext="Question 18" expand="false" type="slide" />
+              </links>
+            </slidelink>
+            <slidelink slideid="_player.5XrEcCQYved.5VvpWVXiL5Z" displaytext="2.10 End" expand="false" type="slide" />
+          </links>
+        </slidelink>
+      </links>
+    </outline>
+    <search>
+      <slidetext slideid="6aorm6DVHdA.6iJyEq8eiIe" slidebank="false" type="slide">the urinary system click to begin click to begin click to begin  histology emodule tutorial emodule tutorial emodule tutorial </slidetext>
+      <slidetext slideid="6aorm6DVHdA.6KMOAvxC2nP" slidebank="false" type="slide">to complete each section, use the next button at the bottom of the pages or press the right arrow key to move forward one page at a time.  use the menu, available by clicking “menu” at the top, to navigate to specific slides. use search to quickly find instances of relevant terms. use the previous button at the bottom of the pages or press the left arrow key to move back one page at a time. note: you can also swipe right and left in order to navigate forward and backward, respectively. previous next using the emodule h16    1. resources    2. objectives    3. introduction </slidetext>
+      <slidetext slideid="6aorm6DVHdA.5u2Xmu0SLdx" slidebank="false" type="slide">previous start with age, wear and tear,  info an intervertebral disc can herniate, such that the nucleus pulposus…. information that has implications for health and disease is introduced on a blue bar and continued below: conventions used in the emodule some slides contain the “slide talk” icon on the title bar. click this icon to hear me explain or elaborate on slide content.  some words are followed by this icon      ; click the icon to open related content in a separate layer. click the         icon to go back to the original layer. some words are followed by this icon      ; click the icon to see a definition or explanation.  words / phrases in purple denote concepts with which you should make a point of becoming familiar. </slidetext>
+      <slidetext slideid="5oOfyNDdaiT.5Zu8QGHoVGZ" slidebank="false" type="slide">acknowledgements previous © 2018 author and emodule development: barbara ballyk, ph.d. associate professor, teaching stream division of anatomy, department of surgery faculty of medicine, university of toronto brand design: janet koecher, discovery commons university of toronto emodule production: gianluca sampieri, m.sc. md candidate class of 2021 faculty of medicine, university of toronto albert gheorghita, m.sc. md candidate class of 2020 faculty of medicine, university of toronto julian manzone, m.sc. md candidate class of 2019 faculty of medicine, university of toronto </slidetext>
+      <slidetext slideid="6ITgT0pLqit.5na92eEcibs" slidebank="false" type="slide">  next previous 2.1  </slidetext>
+      <slidetext slideid="5XrEcCQYved.61O1QTp92UQ" slidebank="false" type="slide">  next previous h16 the urinary system all images are from junqueira’s basic histology, 14th ed., © 2016 by mescher, denoted by “j”, a recommended resource, unless otherwise noted. recommended online resources:  university of minnesota histology guide university of leeds histology guide university of michigan virtual microscopy western university virtual slide box university of illinois cell and tissue biology </slidetext>
+      <slidetext slideid="5XrEcCQYved.5vjwCRmlAIj" slidebank="false" type="slide">  next previous h16   objectives when you have learned the material presented here, you will be able to describe the: structure and function of the nephron, including the renal corpuscle, renal tubule and juxtaglomerular apparatus structure and function of the renal collecting system structure and function of the ureter, bladder and urethra  2 </slidetext>
+      <slidetext slideid="5XrEcCQYved.5XWYLDxoYvv" slidebank="false" type="slide">  next previous h16   introduction to the urinary system 3 the components of the urinary system are the paired kidneys and ureters, the bladder and urethra. the urinary system primarily functions to monitor and control various properties of blood, and therefore, body fluids.  to this end, the kidneys carry out a variety of functions, including the: regulation of water and electrolyte, and acid-base balance excretion of metabolic wastes, excess water and electrolytes, and drugs production and secretion of renin, an enzyme that  functions in the regulation of blood pressure production and secretion of erythropoietin, a hormone that promotes the production of erythrocytes in bone marrow conversion of vitamin d to its active form,                 1,25-dihydroxyvitamin d3 or calcitriol </slidetext>
+      <slidetext slideid="5XrEcCQYved.6OObWlHC4rs" slidebank="false" type="slide">  next previous h16   the gross structure of the kidney i 4 the size of the kidney is variable, but, in adults, it is generally 12-cm long, 6-cm wide, and 2.5-cm thick. the kidney is convex laterally and concave medially, where its hilum is located. the kidney is enclosed in a fibrous ct capsule which extends into its hilum. like many organs you’ve studied, the hilum of the kidney contains blood vessels, nerves and lymphatics.  in the case of the kidney, the hilum also contains the renal pelvis, the first part of the ureter. the ureter transports urine, formed in the kidney, to the urinary bladder where it is stored until it is eliminated. the renal pelvis is formed by the union of several major calyces (singular, calyx), which are formed, in turn, by the union of several minor calyces. the region within the renal hilum, surrounding the renal pelvis calyces and blood vessels, is called the renal sinus. it is filled with adipose tissue. </slidetext>
+      <slidetext slideid="5XrEcCQYved.6hCGFA6ZbW0" slidebank="false" type="slide">  next previous h16   the gross structure of the kidney ii 5 like other organs you’ve studied (adrenal glands, ovaries), the parenchyma of the kidney is subdivided into a superficial region, the renal cortex, and a deeper region, the renal medulla, each with a distinct histological structure and function. the transition from cortex to medulla is abrupt, and occurs at the corticomedullary junction.  medullary tissue is organized into renal pyramids, with the bases of the pyramids facing the surface of the kidney and their apices pointed toward the hilum. the apex of each medullary pyramid, its renal papilla, inserts into a minor calyx. as urine is produced, it drips from the renal papilla into the minor calyx, where it is collected for transport to the bladder. the medullary pyramids are separated by renal columns, extensions of cortical tissue between adjacent pyramids. a single medullary pyramid and its surrounding cortical tissue is called a renal lobe.  at the microscopic level, parallel arrays of ducts and tubules extend from the medulla into the cortex. these are medullary rays      , and with their associated cortical tissue they comprise renal lobules.  </slidetext>
+      <slidetext slideid="5XrEcCQYved.5yUuRvJjSjU" slidebank="false" type="slide">  next previous h16   the nephron 6 each kidney contains 1-4 million microscopic structures called nephrons. each nephron consists of two parts: a renal corpuscle and a renal tubule. in the accompanying diagram, identify the parts of a nephron:  the renal corpuscle is the globular, initial portion of the nephron, and is always located in the renal cortex. it is composed of a glomerular (bowman’s) capsule which contains within it a tuft of capillaries called the glomerulus (g).  the glomerular capsule is composed of a visceral layer, which is applied to the glomerulus, and a parietal layer (pl), which forms the outer wall of the capsule. the space between the parietal and visceral layers of the glomerular capsule is the capsular (bowman’s) space (bs).  the renal tubule is a single, long, unbranched tubule that extends from the corpuscle in the cortex into the renal medulla; it then bends to return to the cortex. the wall of the renal tubule is composed of a simple epithelium, although the height of the epithelium varies along its length. its walls are a continuation of the parietal layer of the glomerular capsule and its lumen is a continuation of the capsular space.  </slidetext>
+      <slidetext slideid="5XrEcCQYved.6pt62tL6QxS" slidebank="false" type="slide">  next previous h16   the renal tubule and collecting system 7 the renal tubule has structural and functional subdivisions. the proximal convoluted tubule, pct, is the first part of the renal tubule. within the cortex, the pct is very tortuous. it then dives into the medulla to form the loop of henle. the first parts of the loop of henle are the proximal straight tubule and the thin descending limb. the thin descending limb makes a hairpin turn to become the thin ascending limb, which continues as the thick ascending limb. the tubule re-enters the cortex and passes between the arterioles that feed into and out of the glomerulus. there the cells lining the tubular wall are specialized as the macula densa     . beyond the macula densa, the tubule again becomes tortuous as the distal convoluted tubule, dct. the last part of the renal tubule is the short connecting tubule.  connecting tubules from many nephrons empty into collecting ducts. collecting ducts pass through the medulla toward the apex of the renal pyramid, where they open at the renal papilla. formed urine drips from the openings at the renal papilla and collect in a minor calyx. most nephrons, located almost wholly in the cortex, are called cortical nephrons. about one-seventh of nephrons have renal corpuscles located at the corticomedullary junction and have long loops of henle that extend deep within the medulla. these are called juxtamedullary nephrons. </slidetext>
+      <slidetext slideid="5XrEcCQYved.6Jf7XteG7VU" slidebank="false" type="slide">  next previous h16   renal blood supply i 8 an understanding of renal blood supply is critical for the comprehension of renal function. renal blood supply is dense and highly ordered. the names of renal blood vessels are descriptive, and therefore can easily be learned; they describe the location of the vessel or its shape. the right and left renal arteries are branches of the abdominal aorta. at the hilum of the kidney, each renal artery forms two or more segmental arteries, which themselves branch to form interlobar arteries     . at the corticomedullary junction, interlobar arteries divide to form arcuate arteries     , which arch along the base of the renal pyramid.  arcuate arteries give off branches called interlobular arteries      (or cortical radiate arteries) which radiate through the renal cortex toward its surface  </slidetext>
+      <slidetext slideid="5XrEcCQYved.6JeAuJKaqe7" slidebank="false" type="slide">  next previous h16   renal blood supply ii 9 inset: interlobular arteries give rise to afferent arterioles. each afferent arteriole enters a renal corpuscle to form a glomerulus within its renal capsule. glomerular capillaries coalesce to form an efferent arteriole, which leaves the renal corpuscle. the efferent arteriole branches as the peritubular capillaries which surround and supply the convoluted tubules of the renal cortex. in the case of juxtaglomerular nephrons near the corticomedullary junction, the peritubular capillaries give rise to capillary loops called the vasa recta      which dive deep into the medulla in conjunction with the loops of henle and collecting ducts, and then return to the cortex.  veins draining the different regions of the kidney take the same names as their companion arteries.  </slidetext>
+      <slidetext slideid="5XrEcCQYved.6FgyWQOWJ9F" slidebank="false" type="slide">  next previous h16   renal function: filtration, secretion, &amp; reabsorption 10 glomerular filtrate, formed within the renal corpuscle, is modified as it passes through the renal tubule and collecting ducts to ultimately drip, as urine, from the renal papilla into the minor calyx. the processes responsible for the modification of this fluid are the function of the epithelium that lines these tubules. in filtration, which occurs in the renal corpuscle, components of plasma pass from the lumen of the glomerulus into the capsular space.  in secretion, substances are added to the filtrate by the epithelial cells that form the walls of the renal tubule. the secreted substances are derived from the tissue fluid surrounding the tubules, and in turn from  the capillaries within the interstitium. in absorption, components of the glomerular filtrate move from the tubular lumen across its epithelial wall into the surrounding tissue fluid, and from there into the capillaries within the interstitium. once the filtrate has passed through the renal tubule and the processes of secretion and absorption have modified its composition, it enters the minor calyx and is conducted from there through the major calyx, renal pelvis and ureter to the urinary bladder for storage. ultimately it passes through the urethra for excretion. </slidetext>
+      <slidetext slideid="5XrEcCQYved.5uDoCFBKxpZ" slidebank="false" type="slide">  next previous h16   the structure of the renal corpuscle 11 the structure of the renal corpuscle, in particular the relationship between the glomerulus and the glomerular (bowman’s) capsule, is better understood by consideration of its development.  the renal tubules develop as blind-ended tubes consisting of a simple cuboidal epithelium supported by a basement membrane. the glomerulus develops from mesoderm that invaginates into the end of the developing renal tubule, and becomes enveloped by it. this forms the glomerular capsule. the capsular cells that become adhered to the glomerulus differentiate into podocytes, which form the visceral layer of the glomerular capsule. most tissue interposed between the podocytes and the endothelial cells of the glomerulus disappears, and their basement membranes fuse, thus forming the glomerular basement membrane, gbm. the small amount of intervening tissue that remains to support the capillary loops of the glomerulus differentiates to form the mesangium. the parietal layer of the glomerular capsule is separated from the visceral layer of the glomerular capsule by the capsular (bowman’s, urinary) space, which is continuous with the lumen of the renal tubule. </slidetext>
+      <slidetext slideid="5XrEcCQYved.5kKPlGNV8sV" slidebank="false" type="slide">  next previous h16   renal corpuscles &amp; blood filtration i 12 the filtrate thus produced fills the capsular (bowman’s, urinary) space, and enters the lumen of the pct at the urinary pole of the renal corpuscle. notice, at the urinary pole, the abrupt transition from the simple squamous epithelium of the parietal layer of the renal corpuscle to the simple cuboidal epithelium of the pct. the components of the blood that are unable to pass through the glomerular filter, either due to their size or charge, leave the glomerulus via the efferent arteriole. as illustrated, the renal corpuscle has a vascular pole, at which the afferent and efferent arterioles feed into and out of the glomerulus, respectively. at the vascular pole, the distal tubule of the nephron passes between the afferent and efferent arterioles, where it is modified to form the macula densa, one component of a more elaborate structure called the juxtaglomerular apparatus, jga. blood entering the corpuscle via the afferent arteriole is filtered across i) the glomerular endothelium, ii) its enveloping podocyte layer, and iii) the intervening, shared, glomerular basement membrane, gbm. these three components form the glomerular filter.  </slidetext>
+      <slidetext slideid="5XrEcCQYved.696MSu6KRl8" slidebank="false" type="slide">  next previous h16   renal corpuscles &amp; blood filtration ii 13 a closer look at the components of the glomerular filter shows that the endothelium of the glomerulus is fenestrated. podocytes extend 1° cell processes that wrap around the glomerulus and themselves give off numerous, smaller, 2° cell processes, called pedicels     . the pedicels of adjacent podocytes 1° cell processes interdigitate with each other. the narrow spaces that remain between the pedicels are called filtration slits. filtration slits are not open, but are closed over by macromolecular complexes called filtration slit diaphragms. </slidetext>
+      <slidetext slideid="5XrEcCQYved.5yJ3rN9gkXz" slidebank="false" type="slide">  next previous h16   the glomerular filter i 14 the glomerular filter is composed of the i) fenestrated capillary endothelium, ii) glomerular basement membrane (gbm), and ii) filtration slit diaphragms. the fenestrated capillary endothelium retains the formed elements of blood, i.e. the cells and platelets. the gbm provides adherence for both the glomerular endothelial cells and the podocytes. it includes an interwoven network of cross-linked collagen type iv molecules and large, anionic proteoglycans. the gbm limits the passage of proteins larger than 69 kda, thus excluding albumin from glomerular filtrate. small proteins that do pass through the glomerular filter are degraded and their constituent amino acids absorbed by the epithelium lining the pct. </slidetext>
+      <slidetext slideid="5XrEcCQYved.61ELSQ7bJ0L" slidebank="false" type="slide">  next previous h16   the glomerular filter ii 15 the filtration slits between adjacent pedicels are spanned by slit diaphragms, which are described as elaborate tight junctions. they include specialized proteins called nephrins, amongst other proteins, proteoglycans and glycoproteins, which together create a polyanionic layer with a series of small openings in it that restricts the passage of many smaller proteins and organic anions.  glomerular filtrate, therefore, is chemically similar to plasma, except that it contains very little protein. info: proteinuria the glomerular filter is altered in certain disease states (diabetes mellitus, glomerulonephritis), as evidenced by elevated levels of protein in the urine, known as proteinuria. </slidetext>
+      <slidetext slideid="5XrEcCQYved.6dtdQipVb5S" slidebank="false" type="slide">  next previous h16   glomerular filtration rate 16 note that the afferent and efferent arterioles are just that: arterioles. it is unusual that a capillary bed, such as the glomerulus, is situated between two arterioles, each with its smooth muscle tunica media. the relative resistance in the afferent and efferent arterioles determines the hydrostatic pressure in the glomerulus, which is directly proportional the amount of glomerular filtrate produced per unit time, i.e. the glomerular filtration rate, gfr.  the vascular resistance in the afferent and efferent arterioles, and therefore gfr, is under hormonal and neural control. the average gfr in an adult is estimated to be 125 ml/min or 180 l/d.  </slidetext>
+      <slidetext slideid="5XrEcCQYved.5gPGpQOiiu9" slidebank="false" type="slide">  next previous h16   intraglomerular mesangial cells 17 as introduced earlier, the mesangium is the tissue between the glomerular endothelial cells and the podocytes. this tissue includes mesangial cells, which are phagocytic, contractile and secretory. they perform a variety of functions, including i) physical support of the glomerulus; ii) cleaning the glomerular filter by phagocytosis of accumulated protein, including the antigen-antibody complexes that accrue in many disease states; iii) adjustment of the gfr by contracting in response to changes in blood pressure; iv) secretion of the acellular components of the mesangium as well as cytokines that function in maintenance and repair of the glomerulus. </slidetext>
+      <slidetext slideid="5XrEcCQYved.6B6tr4NU1Me" slidebank="false" type="slide">  next previous h16   absorption in the pct 18 at the urinary pole of the renal corpuscle, there is an abrupt transition from the simple squamous epithelium of the parietal layer of the renal corpuscle to the simple cuboidal epithelium of the pct. in any given nephron, the pct is longer than the dct, so if follows that pcts dominate in the renal cortex.  as glomerular filtrate passes through the pct, most of the water and electrolytes, and all organic molecules (glucose, amino acids, vitamins), are absorbed across its wall into the surrounding interstitium, and from there into the peritubular capillaries. these components of the glomerular filtrate are, therefore, reclaimed. absorption of these components of the glomerular filtrate in the pct occurs by both active and passive means. epithelial cells of the pct have an assortment of pumps, channels, transporters, membrane-bound enzymes and carrier proteins. passive absorption, in particular of water and cl-, occurs through the paracellular route, down osmotic and concentration gradients, respectively </slidetext>
+      <slidetext slideid="5XrEcCQYved.6RUp5gJuMBa" slidebank="false" type="slide">  next previous h16   secretion in the pct 19 while these solutes are reclaimed by the pct, others are added to the glomerular filtrate by tubular secretion. these include cations unable to pass through the glomerular filter and organic anions. such solutes pass from the peritubular capillaries into the interstitium of the renal cortex, from there are taken up across the basolateral surface of the epithelial cells of the pct, and then transferred across their apical surface into the tubular fluid. the organic anion and cation transporters involved act on physiological substances, such as bile salts and creatinine, but also transfer many antibiotics and other drugs, making tubular secretion important in drug clearance.  </slidetext>
+      <slidetext slideid="5XrEcCQYved.6reIXCebWNw" slidebank="false" type="slide">  next previous h16   the pct is structurally suited to its role 20 the epithelial lining of the pct is abundantly suited to its role in molecular transfer. the apical surfaces of these cuboidal cells are densely packed with long microvilli, which accounts for the prominent brush border seen with the light microscope. the basolateral surface area is increased by elaborate invaginations. the invaginations of the lateral surfaces of adjacent cells interdigitate with each other, resulting in their characteristic indistinct lateral borders under the light microscope     . long mitochondria pack the basal invaginations and supply the atp required for active molecular transport. with the electron microscope,  numerous endocytotic pits and vesicles, as well as lysosomes are seen at the bases of the microvilli. these illustrate the intake of proteins by both endocytosis and pinocytosis, and its lysosomal degradation. transport of the resulting amino acids across the basolateral membrane into the subadjacent interstitium completes the reclamation of protein that managed to pass through the glomerular filter. also seen under the electron microscope are the tight junctions that control paracellular molecular movement, largely limiting it to water and cl-.  </slidetext>
+      <slidetext slideid="5XrEcCQYved.6Uw1bCTzkfy" slidebank="false" type="slide">  next previous h16   loop of henle i 21 the next part of the renal tubule is the loop of henle, which leaves the cortex to enter the medulla, and then turns back on itself to re-enter the cortex. the length of the loop of henle varies; cortical nephrons have short loops that dip only a small distance into the renal medulla before returning to the cortex. juxtamedullary nephrons have long loops of henle that penetrate deep into the medulla, approaching the apex of the medullary pyramid, before turning back to re-enter the cortex.  the first part of the loop of henle is variably called the proximal straight tubule or the thick descending limb of the loop of henle. the outer diameter of the thick limb decreases abruptly, reflecting a sudden change in the tubular wall from a simple cuboidal to a simple squamous epithelium, which denotes the beginning of the thin descending limb of the loop of henle. the thin descending limb turns back toward the cortex as the thin ascending limb of the loop of henle. the structure of these portions of the renal tubule reflect their functions; the squamous epithelium lining the thin segments of the loop of henle are largely involved in passive transport functions, and the epithelium lining the thin segments respond passively to their surrounding interstitium.  </slidetext>
+      <slidetext slideid="5XrEcCQYved.5plyXTpEmpS" slidebank="false" type="slide">  next previous h16   the loop of henle ii 22 a similarly abrupt transition occurs in the structure of the ascending limb as it changes back from a squamous to a cuboidal epithelium, and is now called the thick ascending limb. the cuboidal epithelium of the thick ascending limb reflects its function in active ion transport. its apical surface has some short microvilli and its lateral surfaces have some interdigitations, but these features are much more highly developed in the pct. the basal surfaces of these epithelial cells are remarkable in the elaborate infoldings of its basal membrane and the numerous mitochondria associated with them. very functionally important are the highly-developed tight junctions between adjacent cells in this tubular segment. the functional significance of these features will be explained. the thick ascending limb returns to the cortex, and passes between the afferent and efferent arterioles of the nephron, where its lining cells are modified to form the macula densa.  </slidetext>
+      <slidetext slideid="5XrEcCQYved.5qYB3UNtwgK" slidebank="false" type="slide">  next previous h16   the vasae rectae parallel the loops of henle 23 recall that the peritubular capillaries of the juxtaglomerular nephrons give rise to the vasa recta. the course of the vasa recta parallels that of the loops of henle: they enter the medulla from the cortex, make a hairpin turn and return to the cortex to empty into the arcuate veins. between them, the loops of henle and the vasa recta function to generate a high osmotic pressure in the interstitial fluid of the renal medulla. this is achieved by the different permeability characteristics of the regions of the loops in a process known as the counter-current exchange mechanism. as you will see, the functional significance of the high osmotic pressure in the renal medullary interstitium is that it acts as a force capable of drawing water out of the renal filtrate passing through the renal collecting ducts, thus conserving water and concentrating urine.  </slidetext>
+      <slidetext slideid="5XrEcCQYved.6So60EJyAjs" slidebank="false" type="slide">  next previous h16   the thick ascending limb concentrates the medullary interstitium 24 the countercurrent exchange mechanism is best explained by starting at the thick ascending limb of the loop of henle.  as the tubular fluid in this segment flows toward the renal cortex, the epithelium lining the thick ascending limb actively transports na+, k+ and cl- out of the tubular filtrate and into the renal medullary interstitium    . the thick ascending limb is, however, impermeable to water     . this has two effects: the renal interstitium becomes hyperosmotic, and the tubular fluid becomes hypo-osmotic.  the amount of salt transferred to the interstitium decreases with the salt content of the tubular fluid as it ascends through the ascending thick limb, and thus an osmotic gradient is established in the renal medulla, such that the osmolality of the interstitial fluid is 4x plasma at the apex of the medullary pyramid and iso-osmotic with plasma at the cortico-medullary junction     . </slidetext>
+      <slidetext slideid="5XrEcCQYved.625cE6U1sAO" slidebank="false" type="slide">  next previous h16   fluid leaving the loop of henle is hypo-osmotic 25 meanwhile, back at the renal corpuscle, glomerular filtrate is iso-osmotic to plasma. in the pct, equal amounts of solute and water are absorbed, and therefore, the tubular fluid entering the loop of henle is also iso-osmotic to plasma. because the descending thin limb is freely permeable to water, water is absorbed from the filtrate as it passes through this segment, and the absorbed water is reclaimed by the vasae rectae carrying blood back toward the cortex. the tubular filtrate equilibrates with the renal interstitium and its osmolality, too, becomes 4x plasma at the apex of the renal medulla.  because the ascending thin limb is impermeable to water, but freely permeable to salts, salts move from the filtrate into the interstitium in response to the osmotic gradient as the fluid moves through the thin ascending limb. now we’re back at the thick ascending limb, where salts are actively removed from the filtrate, but water cannot follow. this creates in the hypo-osmotic tubular fluid that enters the distal convoluted tubule (dct). </slidetext>
+      <slidetext slideid="5XrEcCQYved.6glFiDeOxfw" slidebank="false" type="slide">  next previous h16   distal convoluted tubule 26 the dct is short, as compared to the pct, and much less absorption takes place here. like the thick ascending limb of the loop of henle, the cells lining the dct are cuboidal and bear a few, blunt microvilli      . however, here the basal interdigitations are less well-developed and the mitochondria less numerous. dcts empty, via their connecting tubule, to collecting tubules, which coalesce to form the collecting ducts. like the thick ascending limb of the loop of henle, the dct is impermeable to water. in response to the hormone aldosterone, these cells are capable of absorbing almost all remaining na+ (with cl- following), and secreting k+ and h+ into the tubular lumen. the filtrate that leaves the dct, and therefore the nephron, to enter the renal collecting system, is thus hypotonic. </slidetext>
+      <slidetext slideid="5XrEcCQYved.6QI8jR8z1FF" slidebank="false" type="slide">  next previous h16   the juxtaglomerular apparatus 27 the macula densa consists of modified epithelial cells of the distal tubule in the region where it contacts the vascular pole of the renal corpuscle. cells of the macula densa are tightly-packed columnar cells and their darkly-staining nuclei give it a dense appearance under the light microscope.  adjacent to the macula densa, the smooth muscle cells in the tunica media of the afferent arteriole are modified as jg cells, which are richly innervated by the sympathetic nervous system and bear the appearance of secretory cells. their granules contain the protease renin.  the third component of the jg apparatus are the extraglomerular mesangial cells., which surround and support the structures of the vascular pole of the renal corpuscle, the afferent and efferent arteriole and the macula densa of the distal tubule. the extraglomerular mesangial cells are likely continuous with the intraglomerular mesangial cells, and have many of the same supportive and contractile functions. the juxtaglomerular apparatus (jga) is a specialization of the afferent arteriole and distal tubule of the same nephron. it consists of the macula densa of the distal tubule, the juxtaglomerular cells (jg cells) of the afferent arteriole and the extraglomerular mesangial cells. the jga functions to regulate glomerular blood flow, and therefore gfr. </slidetext>
+      <slidetext slideid="5XrEcCQYved.6WvlMAS0qZb" slidebank="false" type="slide">  next previous h16   the jga and blood pressure regulation 28 renin is an enzyme that catalyzes the first step in a hormonal cascade that elevates blood pressure (bp). renin release from the jg cells is controlled by three main mechanisms.  baroreceptors in the afferent arteriole      monitor bp. a drop in bp triggers the release of renin from jg cells.  the cells of the macula densa are chemosensors that monitor the na+ concentration of the fluid in the distal tubule. decreased bp decreases gfr, which decreases the na+ ion concentration of the distal tubular fluid. this is detected by the macula densa which triggers the release of renin from the jg cells.  sympathetic input to the kidneys increases with a drop in bp, which again stimulates the release of renin from the jg cells. renin catalyzes the conversion of angiotensinogen, produced in the liver, to angiotensin i (a i). angiotensin converting enzyme (ace), present on endothelial cells, particularly in the lungs, converts ai to angiotensin ii (a ii). a ii is a potent vasoconstrictor. it also stimulates the release of aldosterone from the adrenal cortex, which promotes the adsorption of na+ and cl- in the dct. lastly, a ii stimulates the release of antidiuretic hormone, adh, from the posterior pituitary, which, as will be described next, increases the permeability of the renal collecting ducts to water, thereby promoting its retention. all of these actions elevate bp. </slidetext>
+      <slidetext slideid="5XrEcCQYved.6bTl48y4bi3" slidebank="false" type="slide">  next previous h16   the renal collecting system i 29 the nephron ends with a short segment called the connecting tubule, into which the hypotonic fluid of the dct flows. the connecting tubules of many nephrons join to form a collecting duct. many collecting ducts group together to form the medullary rays of the renal lobule. the collecting ducts pass from the renal cortex through the renal medulla and coalesce to form papillary ducts, which open at the renal papilla to  empty into a minor calyx. because the tubes of the renal collecting system run parallel to the loops of henle and vasa recta, the tubular fluid in the collecting system is exposed to the hyperosmotic interstitium of the renal medulla. the epithelial cells lining the collecting ducts include pale-staining principal cells which have short microvilli and few mitochondria. these cells have numerous basal, but not lateral, membrane infoldings and are joined by elaborate tight junctions. principle cells express aquaporin channels, which they store intracellularly in membranous vesicles. in the presence of adh, they insert the aquaporin-containing vesicles into their apical membranes, a process that is reversed in the absence of adh. aquaporin channels are constitutively present in their basal domains. </slidetext>
+      <slidetext slideid="5XrEcCQYved.6BxzQbuNgx2" slidebank="false" type="slide">  next previous h16   the renal collecting system ii 30 in the absence of adh, the collecting ducts are impermeable to water, and a large volume of dilute urine is excreted. in the presence of adh, the collecting ducts become permeable to water. the hypertonic renal interstitium is now able to absorb water from the hypotonic fluid that enters the collecting ducts from the dct, and deliver it to the vasae rectae. this results in water retention and the excretion of a smaller volume of concentrated urine. in addition to the principle cells, the renal collecting ducts include dark-staining intercalated cells, with abundant mitochondria and apical infoldings, which function in acid-base homeostasis. type a (or -intercalated) cells acidify urine through the secretion of h+, while type b (or -intercalated) cells decrease the acidity of urine through the secretion of hco3-. </slidetext>
+      <slidetext slideid="5XrEcCQYved.6OiXdb9W9Gs" slidebank="false" type="slide">  next previous h16   ureters, bladder, &amp; urethra 31 as no modification of urine occurs after it drips from the renal papilla into the minor calyx, the lower urinary tract simply functions to conduct and store urine. it starts with the minor calyx, and continues with the major calyx, renal pelvis, ureter, urinary bladder and urethra.  the components of the lower urinary tract are hollow structures with muscular walls. with the exception of the distal urethra, the lower urinary tract is lined by a mucosa that includes a transitional epithelium which, you will recall, is specialized for its ability to stretch and recoil in response to pressure. it is also protective, shielding the underlying tissues from exposure to the contained urine. the thickness of the transitional epithelium varies in different regions of the lower urinary tract. appropriately, the fibroelastic lamina propria that supports this epithelium also stretches to accommodate luminal filling. </slidetext>
+      <slidetext slideid="5XrEcCQYved.5ZuZE2LIAIn" slidebank="false" type="slide">  next previous h16   the renal calyces and renal pelvis 32 there are generally 10-15 renal lobes per kidney, each of which is served by a minor calyx. minor calyces unite, forming the 3-4 major calyces that are characteristic of each kidney. these major calyces coalesce to form the renal pelvis, which narrows to form the ureter.  the transitional epithelium lining the minor calyces is thin, consisting of only 2-3 cell layers. underlying its fibroelastic lamina propria is a smooth muscle layer that contracts to propel urine from the minor calyx to a major calyx. the wall of the minor calyx is enclosed in an adventitia. the structure of the major calyx and renal pelvis is similar, but the layers increase in thickness as the passages unite. </slidetext>
+      <slidetext slideid="5XrEcCQYved.6qZ4SBg32Tp" slidebank="false" type="slide">  next previous h16   the ureters 33 the ureters extend from the hilum of the kidney to the base of the urinary bladder. each is 3 - 4 mm in diameter and about 30 cm long. ureters are hollow tubes consisting of three layers; from the lumen outward, these are the mucosa, muscularis and an adventitia. as illustrated in the accompanying micrograph, the mucosa (m) of the ureter is thrown into longitudinal folds when its lumen is empty; it unfolds as required to accommodate the passage of urine. the transitional epithelial lining (urothelium) is thicker than that of the calyces, consisting of 3-5 layers of cells, as is its underlying fibroelastic lamina propria (lp). the muscularis (mu) of the proximal ureter consists of two layers of smooth muscle, but as it approaches the bladder, the ureter acquires a third layer of muscle. urine is conducted from the kidneys to the bladder by peristalsis.  the adventitia (a) of the ureter blends with the kidney capsule proximally and with the adventitia surrounding the bladder distally. the ureters pass through the bladder wall obliquely. because the muscular wall of the bladder is under constant tone, it compresses the intramural portions of the ureters and prevents the backflow of urine. when the bladder wall contracts during micturition     , even greater pressure is applied to the intramural portion of the ureters, ensuring the one-way flow of urine into the urethra. </slidetext>
+      <slidetext slideid="5XrEcCQYved.6IwZEkNFhNm" slidebank="false" type="slide">  next previous h16   the urinary bladder 34 the urinary bladder stores urine until a convenient time and place presents itself for excretion. the mucosal (m) surface of the bladder is long exposed to formed urine. its transitional epithelium is therefore particularly well developed, consisting of 6 to 8 layers of cells. the epithelium lining the bladder must prevent the osmotic movement of water from underlying tissues into hypertonic urine. an osmotic barrier is created by the presence of well-developed tight junctions between adjacent cells and the presence of unusual integral membrane proteins in their apical surfaces that thicken the cell membrane. the muscularis (mu) of the urinary bladder consists of three poorly-organized layers of muscle collectively called the detrusor muscle. only at the neck of the bladder are the layers of smooth muscle organized into distinct layers. here, the muscle fibres are organized into an innermost longitudinal layer, an intermediate circular layer, and an outermost longitudinal layer. the middle layer surrounds the first part of the urethra and forms the involuntary internal urethral sphincter.  while its superior surface faces the peritoneal cavity and is covered by a serosa, the bulk of the bladder is covered by an adventitia. in the micturition reflex, sensory fibres detect stretch of the bladder wall and parasympathetics stimulate contraction of the detrusor muscle and relaxation of the internal urethral sphincter, which permits bladder emptying. the sympathetic nervous system controls vascular tone in bladder tissues. it also stimulates contraction of the internal urethral sphincter during emission to prevent semen from entering the bladder. </slidetext>
+      <slidetext slideid="5XrEcCQYved.5WJfXDg9EXg" slidebank="false" type="slide">  next previous h16   the urethra 35 during the micturition reflex, the urethra conducts urine from the urinary bladder to the exterior to the body at the external urethral orifice. numerous mucous-secreting glands along its length provide a protective coat of mucous to its epithelial surface. it has a fibroelastic lamina propria and a thin muscularis. the details of its structure differs in men and women. in women, the urethra is about 5 cm long, and its inner lining of transitional epithelium quickly changes to stratified squamous epithelium. just superior to the perineal membrane, the urethra is surrounded by a skeletal muscle sphincter which is under voluntary control. this is the external urethral sphincter. in men, the urethra is approximately 20 cm long, and is divided into the: i)	prostatic urethra, 3-4 cm long, and entirely surrounded by the prostate gland. it receives the numerous openings of the ducts of the prostate gland, as well as the paired ejaculatory ducts from the male reproductive tract. ii)	membranous urethra, 1-2 com long, which passes through the perineal membrane. as in females, just superior to the perineal membrane the urethra is surrounded by the external urethral sphincter, composed of skeletal muscle and under voluntary control. iii)	 spongy urethra, 15 cm long, which passes through the length of the corpus spongiosum of the penis. the male urethra is initially lined by a transitional epithelium, which changes first to a stratified columnar and then a stratified squamous epithelium as it approaches the external urethral orifice. </slidetext>
+      <slidetext slideid="5XrEcCQYved.6U6h16DGNyu" slidebank="false" type="slide">  next previous h16 the vas deferens 36 from the tail of the epididymis, the ductus (vas) deferens ascends posterior to the testis, and leaves the scrotum as a component of the spermatic cord, along with the testicular bvs, ns and ls. these structures pass through the inguinal canal, and at the deep inguinal ring, the vas diverges from the other components of the spermatic cord, which pass retroperitoneally  to the posterior body wall, along the path taken by the testis during its descent. the vas arches over the bladder to its base, where it widens as the ampulla. it merges with the duct of the seminal vesicle, to form the short ejaculatory duct, which opens into the prostatic urethra. histologically, the vas deferens consists of a mucosa, a muscularis and an adventitia. the mucosa (m) includes a pseudostratified epithelium and an elastic lp. it is thrown into folds when empty, which allow expansion with the passage of fluid during emission. the muscularis (mu) is extraordinarily thick, and consists of three layers: outer and inner longitudinal layers with a circular layer intervening. it is capable of very strong peristaltic contractions during emission. m mucosa l-sm longitudinal layer, smooth musclec-sm circular layer, smooth muscle a adventitia j21.12 </slidetext>
+      <slidetext slideid="5XrEcCQYved.6fritJaYl1x" slidebank="false" type="slide">  next previous h16 accessory glands: the seminal vesicles 37 j21.12 the accessory glands of the male reproductive system are the prostate, the seminal vesicles and the bulbourethral glands. at emission, their secretions mix with sperm to form semen.  the histological structure and activity level of these glands is testosterone-dependent. the height of their epithelial lining increases with circulating testosterone levels, as does the manufacturing of their secretory products.  all include abundant smooth muscle that contracts during emission to expel their secretions into the reproductive tract. the seminal vesicles are paired tubular glands posterior to the bladder, inferior to the ureters. each is 15 cm in length, coiled into a compact structure ~3 cm long, enclosed in a dense ct capsule. their ducts merge with the ampullae of the vas to form the ejaculatory ducts, which open into the prostatic urethra.  the seminal vesicles are lined with a mucosa that includes a simple to pseudostratified epithelium and an elastic lp. their secretory product contributes 70% of the volume of ejaculate. it is rich in fructose, which is a major energy source for sperm, prostaglandins, which stimulate the female reproductive tract, and fibrinogen, which promotes the coagulation of sperm following ejaculation. </slidetext>
+      <slidetext slideid="5XrEcCQYved.5q3vpotrTjy" slidebank="false" type="slide">  next previous h16 accessory glands: the prostate gland 38 j21.12 the prostate gland surrounds the neck of the bladder and the initial portion of the urethra, the prostatic urethra     . it is 2 cm x 3 cm x 4 cm, and is often described as being the size of a walnut     .  it consists of 30-50 tubuloacinar glands embedded in a dense fibromuscular stroma that contracts to expel its secretory products at emission. the prostatic urethra passes through the middle of the gland, the ducts of which open into its lumen. the prostate is divided into three concentric histological zones.  the transitional zone surrounds the initial portion of the prostatic urethra and comprises 5% of its volume. it includes the periurethral mucosal glands, which are commonly implicated in benign prostatic hypertrophy, a common condition in older males that causes compression of the urethra and difficulty with urination.  the central zone comprises 25% of the gland and includes the periurethral submucosal glands.  the peripheral zone comprises 70% of the prostate and includes the main glands. glands of this zone are most commonly implicated in prostate cancer. the products of the simple or pseudostratified epithelium of the prostate gland include prostate-specific antigen (psa), a serine protease that disassociates coagulated semen after ejaculation. some psa enters the prostatic vasculature and is thus normally present in blood. elevated levels of serum psa are suggestive of abnormal glandular mucosa, commonly due to inflammation or carcinoma. j21.12 </slidetext>
+      <slidetext slideid="5XrEcCQYved.6SjfIKnZ6Jm" slidebank="false" type="slide">  next previous h16 accessory glands: the bulbourethral glands 39 j21.12 the bulbourethral (cowper’s) glands are paired, pea-sized glands located in the deep perineal pouch    . their ducts extend to open into the proximal portion of the penile urethra. each gland is composed of many lobules containing tubuloacinar secretory units. the mucosa of the secretory units includes a simple columnar epithelium which secretes a mucous product. the height and activity level of the epithelium is, again, testosterone-dependent. the bulbourethral glands produce a clear mucous secretion during erection that lubricates the wall of the urethra. this ensures the smooth passage of semen during emission. </slidetext>
+      <slidetext slideid="5XrEcCQYved.5wn21y1xPOv" slidebank="false" type="slide">  next previous h16   quiz press next to start the quiz or skip to end h16   skip 40 </slidetext>
+      <slidetext slideid="5XrEcCQYved.5kdZmvFVbwF" slidebank="false" type="slide">which vessels run parallel to the base of the renal pyramid? afferent arterioles afferent arterioles afferent arterioles afferent arterioles afferent arterioles afferent arterioles interlobar arteries interlobar arteries interlobar arteries interlobar arteries interlobar arteries interlobar arteries arcuate arteries arcuate arteries arcuate arteries arcuate arteries arcuate arteries arcuate arteries peritubular capillaries peritubular capillaries peritubular capillaries peritubular capillaries peritubular capillaries peritubular capillaries submit h16   question 1 </slidetext>
+      <slidetext slideid="5XrEcCQYved.5riSI0u6FVO" slidebank="false" type="slide">which type of epithelium lines the thick ascending limb of the loop of henle? pseudostratified columnar pseudostratified columnar pseudostratified columnar pseudostratified columnar pseudostratified columnar pseudostratified columnar simple cuboidal simple cuboidal simple cuboidal simple cuboidal simple cuboidal simple cuboidal simple columnar simple columnar simple columnar simple columnar simple columnar simple columnar stratified squamous stratified squamous stratified squamous stratified squamous stratified squamous stratified squamous transitional transitional transitional transitional transitional transitional submit h16   question 2 </slidetext>
+      <slidetext slideid="5XrEcCQYved.69QD1m197AA" slidebank="false" type="slide">from what vessels do the afferent arterioles arise? the interlobar arteries the interlobar arteries the interlobar arteries the interlobar arteries the interlobar arteries the interlobar arteries the arcuate arteries the arcuate arteries the arcuate arteries the arcuate arteries the arcuate arteries the arcuate arteries the interlobular arteries the interlobular arteries the interlobular arteries the interlobular arteries the interlobular arteries the interlobular arteries the efferent arteries the efferent arteries the efferent arteries the efferent arteries the efferent arteries the efferent arteries submit h16   question 3 </slidetext>
+      <slidetext slideid="5XrEcCQYved.5yy8dUCuuXI" slidebank="false" type="slide">which of the following is a functionally important feature of the light cells of the renal collecting ducts? a high level of aquaporin expression a high level of aquaporin expression a high level of aquaporin expression a high level of aquaporin expression a high level of aquaporin expression a high level of aquaporin expression tall, dense microvilli tall, dense microvilli tall, dense microvilli tall, dense microvilli tall, dense microvilli tall, dense microvilli elaborate infoldings of the basal plasmalemma elaborate infoldings of the basal plasmalemma elaborate infoldings of the basal plasmalemma elaborate infoldings of the basal plasmalemma elaborate infoldings of the basal plasmalemma elaborate infoldings of the basal plasmalemma abundant mitochondria abundant mitochondria abundant mitochondria abundant mitochondria abundant mitochondria abundant mitochondria submit h16   question 4 </slidetext>
+      <slidetext slideid="5XrEcCQYved.6ZU2lQ1Pf4f" slidebank="false" type="slide">which of the following is not a component of the juxtaglomerular apparatus? modified smooth muscle cells of the afferent arteriole modified smooth muscle cells of the afferent arteriole modified smooth muscle cells of the afferent arteriole modified smooth muscle cells of the afferent arteriole modified smooth muscle cells of the afferent arteriole modified smooth muscle cells of the afferent arteriole extraglomerular mesangial cells extraglomerular mesangial cells extraglomerular mesangial cells extraglomerular mesangial cells extraglomerular mesangial cells extraglomerular mesangial cells intraglomerular mesangial cells intraglomerular mesangial cells intraglomerular mesangial cells intraglomerular mesangial cells intraglomerular mesangial cells intraglomerular mesangial cells modified cells of the distal tubule modified cells of the distal tubule modified cells of the distal tubule modified cells of the distal tubule modified cells of the distal tubule modified cells of the distal tubule submit h16   question 5 </slidetext>
+      <slidetext slideid="5XrEcCQYved.6YR2Pb4WFS5" slidebank="false" type="slide">identify the structure outlined. be specific. submit h16   question 6 </slidetext>
+      <slidetext slideid="5XrEcCQYved.5VuzkBvhJY7" slidebank="false" type="slide">identify a. submit h16   question 7 </slidetext>
+      <slidetext slideid="5XrEcCQYved.6bsrylKe8Nv" slidebank="false" type="slide">identify b. submit h16   question 8 </slidetext>
+      <slidetext slideid="5XrEcCQYved.6nA4TxFCMZy" slidebank="false" type="slide">identify the structures outlined. be specific. submit h16   question 9 </slidetext>
+      <slidetext slideid="5XrEcCQYved.6iEcOANQr8r" slidebank="false" type="slide">identify a. be specific. submit h16   question 10 </slidetext>
+      <slidetext slideid="5XrEcCQYved.5bOWqIyh10o" slidebank="false" type="slide">identify region b. submit h16   question 11 </slidetext>
+      <slidetext slideid="5XrEcCQYved.6Jh2y6Qc2de" slidebank="false" type="slide">identify region c. submit h16   question 12 </slidetext>
+      <slidetext slideid="5XrEcCQYved.6fy7BBZva8I" slidebank="false" type="slide">identify d. submit h16   question 13 </slidetext>
+      <slidetext slideid="5XrEcCQYved.5W40iiFjPoC" slidebank="false" type="slide">identify a. submit h16   question 14 </slidetext>
+      <slidetext slideid="5XrEcCQYved.5ZUy5Niw4vu" slidebank="false" type="slide">identify b. submit h16   question 15 </slidetext>
+      <slidetext slideid="5XrEcCQYved.6hovQQRvUAG" slidebank="false" type="slide">identify the structure indicated by a. be specific. submit h16   question 16 </slidetext>
+      <slidetext slideid="5XrEcCQYved.5pzdQVA2Eq5" slidebank="false" type="slide">identify a. be specific. submit h16   question 17 </slidetext>
+      <slidetext slideid="5XrEcCQYved.5vLuJNid9m8" slidebank="false" type="slide">from what tissue was this cross-section obtained from? submit h16   question 18 </slidetext>
+      <slidetext slideid="5XrEcCQYved.5VvpWVXiL5Z" slidebank="false" type="slide">congratulations on finishing h16 the urinary system! back to labs selection back to labs selection back to labs selection review h16 review h16 review h16 previous </slidetext>
+    </search>
+  </nav_data>
+  <resource_data description="" />
+  <transcript_data>
+    <slidetranscripts>
+      <slidetranscript slideid="6aorm6DVHdA.6iJyEq8eiIe" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="0">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Calibri' size='12.5pt' style="font-size:12.5pt;" color='#ffffff'&gt;need to change title&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="6aorm6DVHdA.5u2Xmu0SLdx" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="1">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Calibri' size='12.5pt' style="font-size:12.5pt;" color='#ffffff'&gt;fix this slide&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+    </slidetranscripts>
+  </transcript_data>
+  <glossary_data />
+</bwFrame>

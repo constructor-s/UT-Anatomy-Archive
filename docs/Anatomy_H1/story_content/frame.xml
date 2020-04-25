@@ -1,0 +1,1409 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="npnxnanbnsnfns01001000011" textdirection="ltr" device="false" fontscale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="classic">
+  <layouts>
+    <layout name="npnxnanbsnfns01001000011" font="Calibri" controllayout="npnxnanbsnfns01001000011" colorscheme="npnxnanbnsnfns01001000011" string_table="npnxnanbnsnfns01001000011" />
+    <layout name="pxabnsnfns01001000011" font="Calibri" controllayout="pxabnsnfns01001000011" colorscheme="npnxnanbnsnfns01001000011" string_table="npnxnanbnsnfns01001000011" />
+    <layout name="npxnabnsnfns01001000011" font="Calibri" controllayout="npxnabnsnfns01001000011" colorscheme="npnxnanbnsnfns01001000011" string_table="npnxnanbnsnfns01001000011" />
+    <layout name="npnxnanbnsnfns01001000011" font="Calibri" controllayout="npnxnanbnsnfns01001000011" colorscheme="npnxnanbnsnfns01001000011" string_table="npnxnanbnsnfns01001000011" />
+    <layout name="pxabnsnfns01001000010" font="Calibri" controllayout="pxabnsnfns01001000010" colorscheme="npnxnanbnsnfns01001000011" string_table="npnxnanbnsnfns01001000011" />
+    <layout name="npnxabnsnfns01001000011" font="Calibri" controllayout="npnxabnsnfns01001000011" colorscheme="npnxnanbnsnfns01001000011" string_table="npnxnanbnsnfns01001000011" />
+    <layout name="npnxnabnsnfns01001000011" font="Calibri" controllayout="npnxnabnsnfns01001000011" colorscheme="npnxnanbnsnfns01001000011" string_table="npnxnanbnsnfns01001000011" />
+    <layout name="npnxanbnsnfns01001000011" font="Calibri" controllayout="npnxanbnsnfns01001000011" colorscheme="npnxnanbnsnfns01001000011" string_table="npnxnanbnsnfns01001000011" />
+  </layouts>
+  <control_options>
+    <optiongroups>
+      <optiongroup name="sidebaroptions">
+        <options>
+          <option name="title_enabled" value="true">
+            <options>
+              <option name="title_text" value="H01 Epithelia 2019" />
+            </options>
+          </option>
+          <option name="logo_enabled" value="true">
+            <options>
+              <option name="logo_url" value="story_content/logo.swf">
+                <properties>
+                  <property name="width" value="1024" />
+                  <property name="height" value="229" />
+                </properties>
+              </option>
+              <option name="html5_logo_url" value="mobile/6qqndjnA9Hq.jpg" />
+            </options>
+          </option>
+          <option name="sidebar_enabled" value="true">
+            <options>
+              <option name="sidebarpos" value="left" />
+            </options>
+          </option>
+          <optionlist name="tabs">
+            <listitems>
+              <listitem name="customlink" value="true" group="linkleft">
+                <properties>
+                  <property name="title" value="Acknowledgments" />
+                  <property name="data" value="5toZT0PPlEg" />
+                  <property name="ignoreSlideLock" value="true" />
+                </properties>
+              </listitem>
+              <listitem name="resources" value="false" group="linkright" />
+              <listitem name="outline" value="true" group="sidebar" />
+              <listitem name="glossary" value="false" group="sidebar" />
+              <listitem name="transcript" value="false" group="sidebar" />
+            </listitems>
+          </optionlist>
+          <option name="time_enabled" value="false">
+            <options>
+              <option name="time_format" value="elapsed" />
+            </options>
+          </option>
+          <option name="video_enabled" value="false">
+            <options>
+              <option name="height" value="135" />
+            </options>
+          </option>
+        </options>
+      </optiongroup>
+      <optiongroup name="menuoptions">
+        <options>
+          <option name="flow" value="free" />
+          <option name="wraplistitems" value="false" />
+          <option name="tooltips" value="true" />
+          <option name="autocollapse" value="true" />
+          <option name="autonumber" value="false" />
+          <option name="enableresultsicons" value="true" />
+        </options>
+      </optiongroup>
+      <optiongroup name="controls">
+        <options>
+          <option name="volume" value="false" />
+          <option name="seekbar" value="false">
+            <options>
+              <option name="readonly" value="false" />
+              <option name="readonlyOnce" value="false" />
+            </options>
+          </option>
+          <option name="pauseplay" value="false" />
+          <option name="replay" value="false" />
+          <option name="search" value="true" />
+          <option name="closed_captions" value="false">
+            <options>
+              <option name="font" value="Calibri" />
+            </options>
+          </option>
+        </options>
+      </optiongroup>
+      <optiongroup name="bottombaroptions">
+        <options>
+          <option name="bottombar_enabled" value="false" />
+        </options>
+      </optiongroup>
+    </optiongroups>
+  </control_options>
+  <control_layouts>
+    <control_layout name="npnxnanbsnfns01001000011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="true" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns01001000011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npxnabnsnfns01001000011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npnxnanbnsnfns01001000011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns01001000010">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="false" />
+    </control_layout>
+    <control_layout name="npnxabnsnfns01001000011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npnxnabnsnfns01001000011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npnxanbnsnfns01001000011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+  </control_layouts>
+  <colorschemes>
+    <colorscheme name="npnxnanbnsnfns01001000011">
+      <color_group name="infopanel">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x7C2280" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0000EE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC73013" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="title_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x999999" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="infopanelpopup">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFC4A2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xED5736" alpha="100" stop="0" />
+                <color rgb="0xD44120" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFC4A2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bio_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="timer">
+        <group_colors>
+          <color name="duration">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x00D7FF" alpha="100" stop="0" />
+                <color rgb="0x00ABFF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="elapsed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFEE347" alpha="100" stop="0" />
+                <color rgb="0xFCCC2A" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="stroke">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC7C7C7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="window">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xED5736" alpha="100" stop="0" />
+                <color rgb="0xD44120" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xEB8964" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF49277" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD63F21" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="20" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="editor">
+        <group_colors>
+          <color name="slide_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="html_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC23115" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC93518" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE15429" alpha="100" stop="0" />
+                <color rgb="0xC42D16" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD84121" alpha="100" stop="0" />
+                <color rgb="0xDE4C27" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE1512A" alpha="100" stop="0" />
+                <color rgb="0xD63A1D" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="listitem">
+        <group_colors>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x671B6B" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF98E6E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="viewed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFC4A2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF17D5E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="lines">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDA563A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="glossary">
+        <group_colors>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF98E6E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE85F39" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD96244" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD96244" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF98B6A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xEC7B59" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="resource">
+        <group_colors>
+          <color name="separator">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD35338" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="outline">
+        <group_colors>
+          <color name="search_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFC4A2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD35338" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xEB9471" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCF5336" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="transcript">
+        <group_colors>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="div">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD35338" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="tabs">
+        <group_colors>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC73013" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFC4A2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xED7254" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="seekcontrol">
+        <group_colors>
+          <color name="btn_icon_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFE1D0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_position">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE97D65" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD33F1F" alpha="100" stop="0" />
+                <color rgb="0xCA3416" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC32E13" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE65832" alpha="100" stop="0" />
+                <color rgb="0xDF3F23" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="searchinput">
+        <group_colors>
+          <color name="text_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2D2D2D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2D2D2D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xEB9471" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE76E52" alpha="100" stop="0" />
+                <color rgb="0xE2694D" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icon">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD7654B" alpha="100" stop="0" />
+                <color rgb="0xC42F13" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="scrollarea">
+        <group_colors>
+          <color name="detailb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCA3518" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="detaila">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xEA7C5D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCB3519" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icons">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCA3417" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE55D3B" alpha="100" stop="0" />
+                <color rgb="0xDB4D32" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE2522C" alpha="100" stop="0" />
+                <color rgb="0xD93E20" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF8795B" alpha="100" stop="0" />
+                <color rgb="0xF8795B" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="0">
+              <colors>
+                <color rgb="0xED6546" alpha="100" stop="0" />
+                <color rgb="0xEE6948" alpha="100" stop="128" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="menu">
+        <group_colors>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD35235" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xED7254" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="logo">
+        <group_colors>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC73013" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="checkbox">
+        <group_colors>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6BF8FF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="check">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2BC400" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD35338" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="button">
+        <group_colors>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC23115" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC93518" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE15429" alpha="100" stop="0" />
+                <color rgb="0xC42D16" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD84121" alpha="100" stop="0" />
+                <color rgb="0xDE4C27" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE1512A" alpha="100" stop="0" />
+                <color rgb="0xD63A1D" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="10" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="base">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD63F21" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF49277" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="menu_shade">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDD5233" alpha="100" stop="0" />
+                <color rgb="0xC53D1E" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF5674A" alpha="100" stop="0" />
+                <color rgb="0xF5674A" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xED5736" alpha="100" stop="0" />
+                <color rgb="0xD44120" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slide_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xED5736" alpha="100" stop="0" />
+                <color rgb="0xD44120" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="volume">
+        <group_colors>
+          <color name="thumb_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCB361A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE55E3B" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDB4524" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF26E50" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE75E36" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="HTML">
+        <group_colors>
+          <color name="htmlpage_bg_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x018CB0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+    </colorscheme>
+  </colorschemes>
+  <string_tables>
+    <string_table name="npnxnanbnsnfns01001000011">
+      <string id="acc_active">active</string>
+      <string id="check_include">Check to include</string>
+      <string id="clear">Clear and return to menu</string>
+      <string id="close">Close</string>
+      <string id="acc_closed_captions">Closed captions. Press the spacebar to toggle captions on and off.</string>
+      <string id="continue">Continue</string>
+      <string id="continueresponsive">Continue</string>
+      <string id="exit">Exit</string>
+      <string id="filter">Filter</string>
+      <string id="finish">FINISH</string>
+      <string id="acc_finish">finish</string>
+      <string id="definition">Definition</string>
+      <string id="acc_definition">definition</string>
+      <string id="glossary">Glossary</string>
+      <string id="terms">Terms</string>
+      <string id="outline">Menu</string>
+      <string id="disabled_orientation">Please rotate your device</string>
+      <string id="next">NEXT</string>
+      <string id="acc_next">next</string>
+      <string id="transcript_chk">Notes</string>
+      <string id="transcript">Notes</string>
+      <string id="bio">Bio</string>
+      <string id="more_info">More info</string>
+      <string id="closed_captions">Captions</string>
+      <string id="acc_pause">pause</string>
+      <string id="acc_play">play</string>
+      <string id="send_an_email">Send an email</string>
+      <string id="prev">PREV</string>
+      <string id="acc_previous">previous</string>
+      <string id="question_list">Question List</string>
+      <string id="acc_replay">replay</string>
+      <string id="resources">Resources</string>
+      <string id="acc_resources">resources</string>
+      <string id="restart">Restart</string>
+      <string id="resume">Resume</string>
+      <string id="search">Search...</string>
+      <string id="acc_search_input">search</string>
+      <string id="search_in">Search in:</string>
+      <string id="search_results">Search Results</string>
+      <string id="acc_skipnavigation">Skip navigation. Press enter to return to the slide.</string>
+      <string id="slide_text_chk">Slide Text</string>
+      <string id="submitall">SUBMIT ALL</string>
+      <string id="acc_submitall">submit all</string>
+      <string id="submit">SUBMIT</string>
+      <string id="acc_submit">submit</string>
+      <string id="acc_volume">volume</string>
+    </string_table>
+  </string_tables>
+  <fonts>
+    <font name="Calibri">
+      <files>
+        <file bold="true" italic="false" />
+        <file bold="false" italic="false" />
+      </files>
+    </font>
+    <font name="Arial">
+      <files>
+        <file bold="false" italic="false" />
+        <file bold="false" italic="true" />
+      </files>
+    </font>
+  </fonts>
+  <sounds enabled="true" />
+  <nav_data>
+    <outline>
+      <links>
+        <slidelink slideid="_player.6HTFG359OBF.604AHAGuDGf" displaytext="Start" expand="false" type="slide">
+          <links>
+            <slidelink slideid="_player.6HTFG359OBF.6fg17kTHFuu" displaytext="Using the emodule" expand="false" type="slide" />
+            <slidelink slideid="_player.6HTFG359OBF.62GYbTyflLZ" displaytext="Conventions Used in the eModule" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6Y7qJV6He2r" displaytext="H01 Epithelia" expand="false" type="slide">
+          <links>
+            <slidelink slideid="_player.6Y7qJV6He2r.6pZRqAL1bxP" displaytext="1. References" expand="false" type="slide" />
+            <slidelink slideid="_player.6Y7qJV6He2r.6glpBGWbqnX" displaytext="2. Objectives" expand="false" type="slide" />
+            <slidelink slideid="_player.6Y7qJV6He2r.6L5VjhSenPW" displaytext="3. Introduction to Epithelia" expand="false" type="slide" />
+            <slidelink slideid="_player.6Y7qJV6He2r.6jJ3RzRutfR" displaytext="4. Where? Epithelia Covers “Free” Body Surfaces" expand="false" type="slide" />
+            <slidelink slideid="_player.6Y7qJV6He2r.6m57jJOirgS" displaytext="5. Characteristics of Epithelia" expand="false" type="slide" />
+            <slidelink slideid="_player.6Y7qJV6He2r.6QPijZqPlzW" displaytext="6. Functions of Epithelia" expand="false" type="slide" />
+            <slidelink slideid="_player.6Y7qJV6He2r.5thyAmAIQKi" displaytext="7. Glandular Epithelia" expand="false" type="slide" />
+            <slidelink slideid="_player.6Y7qJV6He2r.6abznaRzn5A" displaytext="8. Development of Glandular Epithelia" expand="false" type="slide" />
+            <slidelink slideid="_player.6Y7qJV6He2r.5rvGm8is84P" displaytext="9. Exocrine Glands may be Unicellular: Goblet Cells" expand="false" type="slide" />
+            <slidelink slideid="_player.6Y7qJV6He2r.5g4rPKSR30T" displaytext="10. Endocrine Glands May be Unicellular" expand="false" type="slide" />
+            <slidelink slideid="_player.6Y7qJV6He2r.6ZKVjyxna02" displaytext="11. Covering Epithelia" expand="false" type="slide" />
+            <slidelink slideid="_player.6Y7qJV6He2r.6bz0Wpiqvud" displaytext="12. Specializations of the Apical Surface I: Microvilli" expand="false" type="slide" />
+            <slidelink slideid="_player.6Y7qJV6He2r.6OxcC4QqQM8" displaytext="13. Specializations of the Apical Surface II: Cilia" expand="false" type="slide" />
+            <slidelink slideid="_player.6Y7qJV6He2r.65bJr0V565r" displaytext="14. Intercellular Junctions" expand="false" type="slide" />
+            <slidelink slideid="_player.6Y7qJV6He2r.6Q3sPfwAg6X" displaytext="15. Anchoring Cells to Each Other: Zonula Adherens" expand="false" type="slide" />
+            <slidelink slideid="_player.6Y7qJV6He2r.6OW2l1uw7PV" displaytext="16. Anchoring Cells to Each Other: Desmosomes" expand="false" type="slide" />
+            <slidelink slideid="_player.6Y7qJV6He2r.5orwoOWKhXy" displaytext="17. Anchoring Epithelia to Underlying Tissue: Hemidesmosomes" expand="false" type="slide" />
+            <slidelink slideid="_player.6Y7qJV6He2r.6oIH3GZa5Kj" displaytext="18. Control of Paracellular Molecular Movement: Tight Junctions" expand="false" type="slide" />
+            <slidelink slideid="_player.6Y7qJV6He2r.66N3nQB1FpY" displaytext="19. Control of Intercellular Molecular Movement: Gap Junctions" expand="false" type="slide" />
+            <slidelink slideid="_player.6Y7qJV6He2r.6lv9QDaTRju" displaytext="20. A Classification of Epithelia" expand="false" type="slide" />
+            <slidelink slideid="_player.6Y7qJV6He2r.6F1RMUBmd90" displaytext="21. Classification of Epithelia" expand="false" type="slide" />
+            <slidelink slideid="_player.6Y7qJV6He2r.6mu4RZPUKAt" displaytext="22. Summary" expand="false" type="slide" />
+            <slidelink slideid="_player.6Y7qJV6He2r.6YYE4o0rByA" displaytext="23. Quiz Start" expand="false" type="slide">
+              <links>
+                <slidelink slideid="_player.6Y7qJV6He2r.6BAawpv9SOn" displaytext="Question 1" expand="false" type="slide" />
+                <slidelink slideid="_player.6Y7qJV6He2r.5bqPci2LKlg" displaytext="Question 2" expand="false" type="slide" />
+                <slidelink slideid="_player.6Y7qJV6He2r.66dcpaUXsH3" displaytext="Question 3" expand="false" type="slide" />
+                <slidelink slideid="_player.6Y7qJV6He2r.5jsaSvApvma" displaytext="Question 4" expand="false" type="slide" />
+                <slidelink slideid="_player.6Y7qJV6He2r.6lnOYdqdyTe" displaytext="Question 5" expand="false" type="slide" />
+                <slidelink slideid="_player.6Y7qJV6He2r.62mfBmYeed7" displaytext="Question 6" expand="false" type="slide" />
+                <slidelink slideid="_player.6Y7qJV6He2r.6ra5XPkE0Yl" displaytext="Question 7" expand="false" type="slide" />
+                <slidelink slideid="_player.6Y7qJV6He2r.63sG0wt2loi" displaytext="Question 8" expand="false" type="slide" />
+                <slidelink slideid="_player.6Y7qJV6He2r.6EXDQUuSb9v" displaytext="Question 9" expand="false" type="slide" />
+                <slidelink slideid="_player.6Y7qJV6He2r.6fnRBOlhfcg" displaytext="Question 10" expand="false" type="slide" />
+                <slidelink slideid="_player.6Y7qJV6He2r.5qiLmMtpuRp" displaytext="Question 11" expand="false" type="slide" />
+                <slidelink slideid="_player.6Y7qJV6He2r.6HtSWHKkezc" displaytext="Question 12" expand="false" type="slide" />
+                <slidelink slideid="_player.6Y7qJV6He2r.6V6ixAYuexV" displaytext="Question 13" expand="false" type="slide" />
+                <slidelink slideid="_player.6Y7qJV6He2r.5Y4rhzMjysm" displaytext="Question 14" expand="false" type="slide" />
+                <slidelink slideid="_player.6Y7qJV6He2r.6Hhh46loHKd" displaytext="Question 15" expand="false" type="slide" />
+                <slidelink slideid="_player.6Y7qJV6He2r.6SFRgvOL5FH" displaytext="Question 16" expand="false" type="slide" />
+                <slidelink slideid="_player.6Y7qJV6He2r.5XCqZxgPkvi" displaytext="Question 17" expand="false" type="slide" />
+                <slidelink slideid="_player.6Y7qJV6He2r.5cuKclbzT2v" displaytext="Question 18" expand="false" type="slide" />
+                <slidelink slideid="_player.6Y7qJV6He2r.6XakxKnANHj" displaytext="Question 19" expand="false" type="slide" />
+                <slidelink slideid="_player.6Y7qJV6He2r.5ezqwx1DIFf" displaytext="Question 20" expand="false" type="slide" />
+                <slidelink slideid="_player.6Y7qJV6He2r.6WYqo8a5w61" displaytext="Question 21" expand="false" type="slide" />
+                <slidelink slideid="_player.6Y7qJV6He2r.6DSnckmzj8s" displaytext="Question 22" expand="false" type="slide" />
+                <slidelink slideid="_player.6Y7qJV6He2r.6NT24BIKir5" displaytext="Question 23" expand="false" type="slide" />
+                <slidelink slideid="_player.6Y7qJV6He2r.6NBKOJtbhth" displaytext="Question 24" expand="false" type="slide" />
+                <slidelink slideid="_player.6Y7qJV6He2r.6fkMrcsEpPt" displaytext="Question 25" expand="false" type="slide" />
+                <slidelink slideid="_player.6Y7qJV6He2r.6VgkMS3YJc6" displaytext="Question 26" expand="false" type="slide" />
+                <slidelink slideid="_player.6Y7qJV6He2r.65Mg27yIhcf" displaytext="Question 27" expand="false" type="slide" />
+                <slidelink slideid="_player.6Y7qJV6He2r.6RdrrU3VSWf" displaytext="Question 28" expand="false" type="slide" />
+              </links>
+            </slidelink>
+            <slidelink slideid="_player.6Y7qJV6He2r.6PpHM2FVJTI" displaytext="End of H1" expand="false" type="slide" />
+          </links>
+        </slidelink>
+      </links>
+    </outline>
+    <search>
+      <slidetext slideid="6HTFG359OBF.604AHAGuDGf" slidebank="false" type="slide">epithelia click to begin click to begin click to begin  histology emodule tutorial emodule tutorial emodule tutorial </slidetext>
+      <slidetext slideid="6HTFG359OBF.6fg17kTHFuu" slidebank="false" type="slide">previous next to complete each section, use the next button at the bottom of the pages, swipe right or press the right arrow key to move forward one page at a time.  use the menu, available by clicking “menu” at the top, to navigate to specific slides. use search to quickly find instances of relevant terms. use the previous button at the bottom of the pages, swipe left or press the left arrow key to move back one page at a time.  using the emodule h1 epithelia     1. references     2. objectives     3. introduction </slidetext>
+      <slidetext slideid="6HTFG359OBF.62GYbTyflLZ" slidebank="false" type="slide">previous start with age, wear and tear,  info an intervertebral disc can herniate, such that the nucleus pulposus…. information that has implications for health and disease is introduced on a blue bar and continued below: conventions used in the emodule some slides contain the “slide talk” icon on the title bar. click this icon to hear me explain or elaborate on slide content.  some words are followed by an icon      ; click the icon to jump to related slides. some words are followed by an icon      ; click the icon to see a definition or explanation.  words / phrases in purple denote concepts with which you should make a point of becoming familiar. some slides contain the icon         which means that you are within a “layer” of the original slide, simply click this button in order to navigate back to the original layer of the slide. </slidetext>
+      <slidetext slideid="6SpHYr8KLgU.5ehnvux3cMR" slidebank="false" type="slide">acknowledgements previous © 2019 author and emodule developer: barbara ballyk, ph.d. associate professor, teaching stream division of anatomy, department of surgery faculty of medicine, university of toronto emodule production: kristy cheung, b.sc.h., m.sc. candidate, clinical anatomy, western university gianluca sampieri, m.sc.md candidate class of 2021faculty of medicine, university of toronto albert gheorghita, m.sc.md candidate class of 2020faculty of medicine, university of toronto julian manzone, m.sc. md candidate class of 2019 faculty of medicine, university of toronto </slidetext>
+      <slidetext slideid="6Y7qJV6He2r.6pZRqAL1bxP" slidebank="false" type="slide">h1 epithelia: references previous next images from wheater’s functional histology 5th ed., © 2006 by young et al. denoted by “w”. images from junqueira’s basic histology, text &amp; atlas, 14th ed., by mescher © 2016, mcgraw-hill denoted by “j”. images from histology: a text and atlas, 7th ed., by pawlina, © 2016 wolters kluwer health denoted by “p”. images from netter’s functional histology, 2nd ed., by ovalle &amp; nahirney, © 2013 by saunders denoted by “n”. images from human anatomy 3rd ed., © 2015 by mckinley and o’loughlin, denoted by “mc”. images from textbook of histology, 4th ed., by gartner, © 2017 by elsevier denoted by “g”. recommended online resources:   university of minnesota histology guide university of leeds histology guide university of michigan virtual microscopy  western university virtual slide box university of illinois cell and tissue biology </slidetext>
+      <slidetext slideid="6Y7qJV6He2r.6glpBGWbqnX" slidebank="false" type="slide">h1   objectives next previous 2 when you have learned the material presented here, you will be able to:  describe where epithelia are located in the body. describe the structural characteristics of the various classes of epithelia. describe the functions associated with the different types of epithelia. describe the relationship of exocrine and endocrine glands to epithelia. describe the structural modifications found in different epithelia and how they relate to function. describe understand and apply the classification system of epithelia. describe the logic behind the structure / function relationship of epithelia in different locations in the body. identify the various classes of epithelia, their cell types  and specializations. </slidetext>
+      <slidetext slideid="6Y7qJV6He2r.6L5VjhSenPW" slidebank="false" type="slide">next previous h1   introduction to epithelia 3 where in the body is epithelia found? what are the general characteristics of epithelia? what, in general, are its functions? </slidetext>
+      <slidetext slideid="6Y7qJV6He2r.6jJ3RzRutfR" slidebank="false" type="slide">next previous h1   where? epithelia covers “free” body surfaces 4 the external body surface is lined by an epithelium: called epidermis, a component of skin internal body surfaces are lined by epithelia: epithelium lines internal passageways that open to the exterior, e.g. the digestive, genitourinary, and respiratory tracts.  combined with its underlying ct, these epithelia form mucous membranes. epithelia lining vessels (arteries, veins, heart chambers, lymphatic vessels) is called endothelium.  epithelia lining internal body cavities that do not open to the exterior (pleural, pericardial and peritoneal cavities) is called mesothelium. combined with its underlying ct, mesothelia forms serous membranes: these are the pleura, pericardia and peritoneum these are “covering epithelia”; covering epithelium is classified as either: simple epithelia: 1 layer of cells stratified epithelia: &gt;1 layer of cells </slidetext>
+      <slidetext slideid="6Y7qJV6He2r.6m57jJOirgS" slidebank="false" type="slide">jxn jxn h1   characteristics of epithelia next previous 5 cellularity: this tissue consists of densely-packed cells with little material between them (unlike ct) polarity: apical, lateral &amp; basal surface specializations allow each surface to perform specific functions specialized intercellular junctions (jxn) join cells to each other and to underlying tissue to provide stability or to allow selective molecular movement through an epithelial sheet avascular      but innervated     : note in the diagram that the nerves (yellow) run through the underlying ct and innervate the epithelial sheet with sensory fibres; however the blood vessels (red and blue) do not cross the basement membrane; epithelial cells rely on diffusion for nutrient delivery and waste removal regeneration, by mitosis, of cells lost at the epithelial surface; e.g. skin cells shed from the body surface attachment to basement membrane       (bm) &amp; underlying connective tissue (ct)  avascular      but innervated     : note in the diagram that the nerves (yellow) run through the underlying ct and innervate the epithelial sheet with sensory fibres; however the blood vessels (red and blue) do not cross the basement membrane; epithelial cells rely on diffusion for nutrient delivery and waste removal regeneration, by mitosis, of cells lost at the epithelial surface; e.g. skin cells shed from the body surface attachment to basement membrane       (bm) &amp; underlying connective tissue (ct)  </slidetext>
+      <slidetext slideid="6Y7qJV6He2r.6QPijZqPlzW" slidebank="false" type="slide">h1   functions of epithelia a b next previous 6 a given epithelium is structurally specialized to perform a specific function, based on the requirements of its location: physical protection, e.g.against abrasion, dehydration,chemical, microbial attack controlled permeability as determined by epithelial structure; any substance that enters the body must cross an epithelium transcellular     (a) vs. paracellular     (b) molecular transport provide sensation, including general (touch, temp, pain, etc.) and special senses (vision, hearing, balance, smell, etc.) produce specialized secretions (glandular epithelia: e.g. salivary glands, sweat glands, pituitary gland, pancreas, etc.) </slidetext>
+      <slidetext slideid="6Y7qJV6He2r.5thyAmAIQKi" slidebank="false" type="slide">next previous h1   glandular epithelia 7 endocrine and exocrine glands are derived from epithelia, but specialized to produce and secrete their cell product. endocrine and exocrine glands may be multicellular or unicellular </slidetext>
+      <slidetext slideid="6Y7qJV6He2r.6abznaRzn5A" slidebank="false" type="slide">both covering epithelia and glandular epithelia develop from simple sheets: next previous h1   development of glandular epithelia 8 exocrine glands secrete outward onto an epithelial surface via a duct secretoryportion duct proliferating cells burrow into  underlying ct simple epithelium basement membrane connective tissue disappearanceof connectionto free surface covering epithelia simple stratified j4.19 glandular epithelia capillaries secretoryportion endocrine glands secrete inward, into the surrounding tissue fluid. their product, a hormone, is delivered to its target tissue by the cardiovascular system. </slidetext>
+      <slidetext slideid="6Y7qJV6He2r.5rvGm8is84P" slidebank="false" type="slide">e ct bm mucous n n n n n n n n n n next previous h1   exocrine glands may be unicellular: goblet cells 9 goblet cells are unicellular, mucous-secreting, exocrine glands interspersed amongst epithelial cells secrete mucous across their apical aspect onto the exposed surface of an epithelial sheet to protect the cells of the covering epithelia e.g. respiratory epithelium, where it traps inhaled particles; the mucous (and particles) are cleared from the respiratory tract e.g. digestive tract     , where it lubricates surfaces to ease passage of contents  *n = nucleus </slidetext>
+      <slidetext slideid="6Y7qJV6He2r.5g4rPKSR30T" slidebank="false" type="slide">a b next previous h1   endocrine glands may be unicellular 11 *n = nucleus may exist within some covering epithelia as diffuse neuroendocrine cells, inc. the enteroendocrine (ee) cells of the digestive tract secrete their cell products across their basal aspect into the tissue fluid of underlying ct their cell products may influence adjacent cells (paracrine signaling), e.g. with stomach filling, gastrin, secreted by ee cells in its epithelial lining, influences adjacent cells to secrete acid, aiding digestion their cell products may be taken up by underlying bvs for systemic distribution (endocrine signaling) e.g. cholecystokinin (cck) secreted by ee cells in the small intestine stimulates the release of digestive hormones from the pancreas and bile from the gall bladder </slidetext>
+      <slidetext slideid="6Y7qJV6He2r.6ZKVjyxna02" slidebank="false" type="slide">next previous h1   covering epithelia 11 epithelia cover body surfaces, inside and out. different surfaces serve different functions. structural specializations tailor an epithelia to its location and function. </slidetext>
+      <slidetext slideid="6Y7qJV6He2r.6bz0Wpiqvud" slidebank="false" type="slide"> surface area of epithelia that function in absorption     , secretion minimally-motile, finger-like extensions of apical surface core: actin microfilaments cross-linked to each other, to the membrane, and to the terminal web number of microvilli on the apical cell surface is proportional to the rate at which molecules move through the apical cell membrane short, sparse microvilli in tissues involved in low rates of molecular transfer tall, densely-packed microvilli in tissues involved in high rates of molecular transfer especially well-developed in the small intestine      and kidney. next previous h1   specializations of the apical surface i: microvilli 12 </slidetext>
+      <slidetext slideid="6Y7qJV6He2r.6OxcC4QqQM8" slidebank="false" type="slide">next previous h1   specializations of the apical surface ii: cilia 13 found on epithelia specialized to move fluid along their luminal surface  highly motile, synchronized, finger-like extensions of apical cell membrane core: microtubules with associated proteins, inc. dynein  taller than microvilli very well developed in respiratory epithelia      and uterine tubes  the tails of sperm are structurally similar to the core of a cilia, and this underlies the mobility of sperm; men with ciliary dyskinesia may have immotile sperm. </slidetext>
+      <slidetext slideid="6Y7qJV6He2r.65bJr0V565r" slidebank="false" type="slide">anchoring junctions provide mechanical strength and the ability to withstand shear forces attach the cytoskeletons      of adjacent epithelial cells to each other across their lateral membranes attach the cytoskeletons of epithelial cells across their basal surfaces to the underlying bm and ct occluding junctions block the intercellular space, and thereby control paracellular molecular movement communicating junctions control ionic / molecular movement between adjacent epithelial cells next previous h1   intercellular junctions jxn jxn 14 epithelial cells attach to each other &amp; to underlying tissue, forming a functional unit these contacts are present in other tissues, but most prominent in epithelia different types of attachments serve different purposes… functional classes of intercellular junctions: </slidetext>
+      <slidetext slideid="6Y7qJV6He2r.6Q3sPfwAg6X" slidebank="false" type="slide">next previous h1   anchoring cells to each other: zonula adherens 15 zonule means “belt”; zonula adherens (za) entirely surrounds cells, like a belt around your waist, binding cells together in all directions; think of a six-pack  za link the actin microfilament network of the cytoskeleton of adjacent cells; esp. well developed in the small intestine the transmembrane proteins that link across the intercellular space are cadherins present throughout an epithelial sheet; effectively links the actin microfilament network of all cells, thus distributing any applied shear forces throughout the entire sheet g5.11 </slidetext>
+      <slidetext slideid="6Y7qJV6He2r.6OW2l1uw7PV" slidebank="false" type="slide">do not form belts; they are arranged more like rivets     or spot-welds, here and there, joining the lateral surfaces of the cells desmosomes link the intermediate filament network of the cytoskeleton of adjacent cells;esp. well developed in the skin like za, the transmembrane proteins that link across the intercellular space are cadherins present throughout an epithelial sheet; effectively linking the intermediate filament network of all cells, thus distributing shear forces throughout the entire sheet the more there are, the more strongly the cells are bound together next previous h1   anchoring cells to each other: desmosomes 16 g5.11 </slidetext>
+      <slidetext slideid="6Y7qJV6He2r.5orwoOWKhXy" slidebank="false" type="slide">next previous h1   anchoring epithelia to underlying tissue: hemidesmosomes 17 as the name suggests, is like half a desmosome  links the intermediate filament network (a) of the cytoskeleton of epithelial cells across their basal surface to underlying bm (b); esp. well developed in the skin unlike za or desmosomes, the transmembrane proteins that link to molecules of the bm across the extracellular space are integrins (c) present throughout an epithelial sheet; binds the epithelium to underlying tissue, thus resisting their separation the more there are, the stronger the epithelium is bound down g5.11 </slidetext>
+      <slidetext slideid="6Y7qJV6He2r.6oIH3GZa5Kj" slidebank="false" type="slide">next previous h1   control of paracellular molecular movement: tight junctions 18 integral transmembrane glycoproteins arranged as branching, anastomosing      strips  bound to similar proteins in the adjacent cell membrane aka zonula occludens, because they are arranged in a belt-like fashion, all around the cell seal the paracellular space around the circumference of cells, controlling molecular movement between cells anatomical basis of functional tissue compartments, e.g. blood-brain barrier, blood-testis barrier, blood-thymus barrier g5.11 </slidetext>
+      <slidetext slideid="6Y7qJV6He2r.66N3nQB1FpY" slidebank="false" type="slide">next previous h1   control of intercellular molecular movement: gap junctions 19 complex of transmembrane proteins in the lateral membrane of each cell forms a pore (a)  these are joined across the intercellular space (b) this connects the cytoplasm of adjacent cells, permits the passage of ions &amp; small molecules from cell to cell  thus couples cells metabolically and electrically functions to coordinate cellular function; e.g. in a ciliated epithelium, gap junctions coordinate the beating of cilia to ensure their synchronous movement open / close with conformational change also found in e.g. bone cells, cardiac myocytes, smooth muscle cells, where they coordinate cellular function g5.11 </slidetext>
+      <slidetext slideid="6Y7qJV6He2r.6lv9QDaTRju" slidebank="false" type="slide">1.a 2.a ask yourself two questions: does every cell touch the basement membrane?  yes? then it’s “simple”: 1 cell thick found at sites of molecular transfer  no? then it’s “stratified”: &gt;1 cell thick found at sites needing protection what is the shape of the cells at the exposed surface?  if flat, then it’s “squamous” if height  width, then it’s “cuboidal” if height &gt; width, then it’s “columnar” any specializations of note? microvilli? cilia? goblet cells? include this information in the description mc4.2 1.b 2.b 2.c next previous h1   a classification of epithelia 20 </slidetext>
+      <slidetext slideid="6Y7qJV6He2r.6F1RMUBmd90" slidebank="false" type="slide">n2.1 next previous h1   classification of epithelia 21 </slidetext>
+      <slidetext slideid="6Y7qJV6He2r.6mu4RZPUKAt" slidebank="false" type="slide">next previous h1   summary 22 to summarize, this emodule has described: where epithelia are located in the body. the structural characteristics of the various classes of epithelia. the functions associated with the different types of epithelia. the relationship of exocrine and endocrine glands to epithelia. the structural modifications found in different epithelia and how they relate to function. the classification system of epithelia. the logic behind the structure / function relationship of epithelia in different locations in the body. how to identify the various classes of epithelia, their cell types  and specializations. </slidetext>
+      <slidetext slideid="6Y7qJV6He2r.6YYE4o0rByA" slidebank="false" type="slide">next previous h1   quiz skip 25 press or swipe next to start the quiz or skip to end h1. welcome to the quiz for h1!  review h1 epithelia review h1 epithelia review h1 epithelia review h1 epithelia review h1 epithelia </slidetext>
+      <slidetext slideid="6Y7qJV6He2r.6BAawpv9SOn" slidebank="false" type="slide">epithelia are very cellular tissues epithelia are very cellular tissues epithelia are very cellular tissues epithelia are very cellular tissues epithelia are very cellular tissues epithelia are very cellular tissues epithelia contain no blood vessels epithelia contain no blood vessels epithelia contain no blood vessels epithelia contain no blood vessels epithelia contain no blood vessels epithelia contain no blood vessels epithelia are not innervated epithelia are not innervated epithelia are not innervated epithelia are not innervated epithelia are not innervated epithelia are not innervated epithelia regenerate themselves through the division of stem cells epithelia regenerate themselves through the division of stem cells epithelia regenerate themselves through the division of stem cells epithelia regenerate themselves through the division of stem cells epithelia regenerate themselves through the division of stem cells epithelia regenerate themselves through the division of stem cells 1. choose one incorrect statement regarding epithelia. submit h1   quiz </slidetext>
+      <slidetext slideid="6Y7qJV6He2r.5bqPci2LKlg" slidebank="false" type="slide">desmosomes desmosomes desmosomes desmosomes desmosomes desmosomes hemidesmosomes hemidesmosomes hemidesmosomes hemidesmosomes hemidesmosomes hemidesmosomes tight junctions tight junctions tight junctions tight junctions tight junctions tight junctions gap junctions gap junctions gap junctions gap junctions gap junctions gap junctions zonula adherens zonula adherens zonula adherens zonula adherens zonula adherens zonula adherens 2. from the options listed below, choose the cell junctions that involve the cytoskeleton. submit h1   quiz </slidetext>
+      <slidetext slideid="6Y7qJV6He2r.66dcpaUXsH3" slidebank="false" type="slide">anus anus anus anus anus anus alveoli alveoli alveoli alveoli alveoli alveoli blood vessels blood vessels blood vessels blood vessels blood vessels blood vessels esophagus esophagus esophagus esophagus esophagus esophagus vagina vagina vagina vagina vagina vagina oral cavity oral cavity oral cavity oral cavity oral cavity oral cavity small intestine small intestine small intestine small intestine small intestine small intestine 3. from the options listed below, choose the organ(s), the internal surface(s) of which are not lined by stratified epithelia. submit h1   quiz </slidetext>
+      <slidetext slideid="6Y7qJV6He2r.5jsaSvApvma" slidebank="false" type="slide">tight junctions desmosomes zonula adherens gap junctions hemidesmosomes membrane-bound molecular transport proteins 4. paracellular molecular movement through an epithelial sheet is limited by _________. submit h1   quiz </slidetext>
+      <slidetext slideid="6Y7qJV6He2r.6lnOYdqdyTe" slidebank="false" type="slide">stratified squamous stratified squamous stratified squamous stratified squamous stratified squamous stratified squamous simple columnar simple columnar simple columnar simple columnar simple columnar simple columnar stratified cuboidal stratified cuboidal stratified cuboidal stratified cuboidal stratified cuboidal stratified cuboidal simple squamous simple squamous simple squamous simple squamous simple squamous simple squamous simple cuboidal simple cuboidal simple cuboidal simple cuboidal simple cuboidal simple cuboidal stratified columnar stratified columnar stratified columnar stratified columnar stratified columnar stratified columnar pseudostratified pseudostratified pseudostratified pseudostratified pseudostratified pseudostratified transitional transitional transitional transitional transitional transitional 5. which class of epithelium is several cell layers thick and has surface cells that are flat in shape? submit h1   quiz </slidetext>
+      <slidetext slideid="6Y7qJV6He2r.62mfBmYeed7" slidebank="false" type="slide">stratified squamous stratified squamous stratified squamous stratified squamous stratified squamous stratified squamous simple columnar simple columnar simple columnar simple columnar simple columnar simple columnar stratified cuboidal stratified cuboidal stratified cuboidal stratified cuboidal stratified cuboidal stratified cuboidal simple squamous simple squamous simple squamous simple squamous simple squamous simple squamous simple cuboidal simple cuboidal simple cuboidal simple cuboidal simple cuboidal simple cuboidal stratified columnar stratified columnar stratified columnar stratified columnar stratified columnar stratified columnar pseudostratified pseudostratified pseudostratified pseudostratified pseudostratified pseudostratified transitional transitional transitional transitional transitional transitional 6. which class of epithelium is one cell layer thick and has surface cells that are tall in shape? submit h1   quiz </slidetext>
+      <slidetext slideid="6Y7qJV6He2r.6ra5XPkE0Yl" slidebank="false" type="slide">stratified squamous stratified squamous stratified squamous stratified squamous stratified squamous stratified squamous simple columnar simple columnar simple columnar simple columnar simple columnar simple columnar stratified cuboidal stratified cuboidal stratified cuboidal stratified cuboidal stratified cuboidal stratified cuboidal simple squamous simple squamous simple squamous simple squamous simple squamous simple squamous simple cuboidal simple cuboidal simple cuboidal simple cuboidal simple cuboidal simple cuboidal stratified columnar stratified columnar stratified columnar stratified columnar stratified columnar stratified columnar pseudostratified pseudostratified pseudostratified pseudostratified pseudostratified pseudostratified transitional transitional transitional transitional transitional transitional 7. which class of epithelium is one cell layer thick and has surface cells that are just as tall as wide in shape? submit h1   quiz </slidetext>
+      <slidetext slideid="6Y7qJV6He2r.63sG0wt2loi" slidebank="false" type="slide">stratified squamous stratified squamous stratified squamous stratified squamous stratified squamous stratified squamous simple columnar simple columnar simple columnar simple columnar simple columnar simple columnar stratified cuboidal stratified cuboidal stratified cuboidal stratified cuboidal stratified cuboidal stratified cuboidal simple squamous simple squamous simple squamous simple squamous simple squamous simple squamous simple cuboidal simple cuboidal simple cuboidal simple cuboidal simple cuboidal simple cuboidal stratified columnar stratified columnar stratified columnar stratified columnar stratified columnar stratified columnar pseudostratified pseudostratified pseudostratified pseudostratified pseudostratified pseudostratified transitional transitional transitional transitional transitional transitional 8. this class of epithelium lines blood vessels, lymphatic vessels and chambers of the heart; in these sites, it is also referred to as “endothelium”. submit h1   quiz </slidetext>
+      <slidetext slideid="6Y7qJV6He2r.6EXDQUuSb9v" slidebank="false" type="slide">stratified squamous stratified squamous stratified squamous stratified squamous stratified squamous stratified squamous simple columnar simple columnar simple columnar simple columnar simple columnar simple columnar stratified cuboidal stratified cuboidal stratified cuboidal stratified cuboidal stratified cuboidal stratified cuboidal simple squamous simple squamous simple squamous simple squamous simple squamous simple squamous simple cuboidal simple cuboidal simple cuboidal simple cuboidal simple cuboidal simple cuboidal stratified columnar stratified columnar stratified columnar stratified columnar stratified columnar stratified columnar pseudostratified pseudostratified pseudostratified pseudostratified pseudostratified pseudostratified transitional transitional transitional transitional transitional transitional this class of epithelium appears stratified, but is in fact simple, as all cells are attached to an underlying basement membrane. submit h1   quiz </slidetext>
+      <slidetext slideid="6Y7qJV6He2r.6fnRBOlhfcg" slidebank="false" type="slide">stratified squamous stratified squamous stratified squamous stratified squamous stratified squamous stratified squamous simple columnar simple columnar simple columnar simple columnar simple columnar simple columnar stratified cuboidal stratified cuboidal stratified cuboidal stratified cuboidal stratified cuboidal stratified cuboidal simple squamous simple squamous simple squamous simple squamous simple squamous simple squamous simple cuboidal simple cuboidal simple cuboidal simple cuboidal simple cuboidal simple cuboidal stratified columnar stratified columnar stratified columnar stratified columnar stratified columnar stratified columnar pseudostratified pseudostratified pseudostratified pseudostratified pseudostratified pseudostratified transitional transitional transitional transitional transitional transitional 10. this class of epithelium consists of multiple layers of epithelial cells that allow for stretching. submit h1   quiz </slidetext>
+      <slidetext slideid="6Y7qJV6He2r.5qiLmMtpuRp" slidebank="false" type="slide">11. ‘a’ indicates a simple squamous epithelial cell lining a blood vessel. what is the name of this class of epithelium in this specific location? submit pseudostratified ciliated epithelium with goblet cells pseudostratified ciliated epithelium with goblet cells pseudostratified ciliated epithelium with goblet cells pseudostratified ciliated epithelium with goblet cells pseudostratified ciliated epithelium with goblet cells pseudostratified ciliated epithelium with goblet cells respiratory type epithelium respiratory type epithelium respiratory type epithelium respiratory type epithelium respiratory type epithelium respiratory type epithelium mesothelium mesothelium mesothelium mesothelium mesothelium mesothelium endothelium endothelium endothelium endothelium endothelium endothelium h1   quiz </slidetext>
+      <slidetext slideid="6Y7qJV6He2r.6HtSWHKkezc" slidebank="false" type="slide">12. what class of epithelium is lining structure b? submit simple cuboidal epithelium simple cuboidal epithelium simple cuboidal epithelium simple cuboidal epithelium simple cuboidal epithelium simple cuboidal epithelium simple columnar epithelium simple columnar epithelium simple columnar epithelium simple columnar epithelium simple columnar epithelium simple columnar epithelium simple squamous epithelium simple squamous epithelium simple squamous epithelium simple squamous epithelium simple squamous epithelium simple squamous epithelium transitional epithelium transitional epithelium transitional epithelium transitional epithelium transitional epithelium transitional epithelium h1   quiz </slidetext>
+      <slidetext slideid="6Y7qJV6He2r.6V6ixAYuexV" slidebank="false" type="slide">13. identify structural specializations a. submit microvilli microvilli microvilli microvilli microvilli microvilli cilia cilia cilia cilia cilia cilia goblet cells goblet cells goblet cells goblet cells goblet cells goblet cells don't know don't know don't know don't know don't know don't know h1   quiz </slidetext>
+      <slidetext slideid="6Y7qJV6He2r.5Y4rhzMjysm" slidebank="false" type="slide">14. identify the class of epithelium depicted. be specific. simple columnar epithelium with brush border simple columnar epithelium with brush border simple columnar epithelium with brush border simple columnar epithelium with brush border simple columnar epithelium with brush border simple columnar epithelium with brush border transitional epithelium transitional epithelium transitional epithelium transitional epithelium transitional epithelium transitional epithelium pseudostratified ciliated columnar epithelium with goblet cells (”respiratory epithelium”) pseudostratified ciliated columnar epithelium with goblet cells (”respiratory epithelium”) pseudostratified ciliated columnar epithelium with goblet cells (”respiratory epithelium”) pseudostratified ciliated columnar epithelium with goblet cells (”respiratory epithelium”) pseudostratified ciliated columnar epithelium with goblet cells (”respiratory epithelium”) pseudostratified ciliated columnar epithelium with goblet cells (”respiratory epithelium”) stratified columnar epithelium stratified columnar epithelium stratified columnar epithelium stratified columnar epithelium stratified columnar epithelium stratified columnar epithelium submit h1   quiz </slidetext>
+      <slidetext slideid="6Y7qJV6He2r.6Hhh46loHKd" slidebank="false" type="slide">15. identify structural specializations a. submit h1   quiz </slidetext>
+      <slidetext slideid="6Y7qJV6He2r.6SFRgvOL5FH" slidebank="false" type="slide">16. identify the class of epithelium a. be specific. simple cuboidal epithelium simple cuboidal epithelium simple cuboidal epithelium simple cuboidal epithelium simple cuboidal epithelium simple cuboidal epithelium simple columnar epithelium simple columnar epithelium simple columnar epithelium simple columnar epithelium simple columnar epithelium simple columnar epithelium stratified columnar epithelium stratified columnar epithelium stratified columnar epithelium stratified columnar epithelium stratified columnar epithelium stratified columnar epithelium transitional epithelium transitional epithelium transitional epithelium transitional epithelium transitional epithelium transitional epithelium submit h1   quiz </slidetext>
+      <slidetext slideid="6Y7qJV6He2r.5XCqZxgPkvi" slidebank="false" type="slide">17. identify the class of epithelium a. be specific. stratified squamous non-keratinized epithelium stratified squamous non-keratinized epithelium stratified squamous non-keratinized epithelium stratified squamous non-keratinized epithelium stratified squamous non-keratinized epithelium stratified squamous non-keratinized epithelium stratified columnar epithelium stratified columnar epithelium stratified columnar epithelium stratified columnar epithelium stratified columnar epithelium stratified columnar epithelium stratified squamous keratinized epithelium stratified squamous keratinized epithelium stratified squamous keratinized epithelium stratified squamous keratinized epithelium stratified squamous keratinized epithelium stratified squamous keratinized epithelium simple squamous epithelium simple squamous epithelium simple squamous epithelium simple squamous epithelium simple squamous epithelium simple squamous epithelium submit h1   quiz </slidetext>
+      <slidetext slideid="6Y7qJV6He2r.5cuKclbzT2v" slidebank="false" type="slide">18. identify the class of epithelium a. be specific. submit stratified squamous non-keratinized epithelium stratified squamous non-keratinized epithelium stratified squamous non-keratinized epithelium stratified squamous non-keratinized epithelium stratified squamous non-keratinized epithelium stratified squamous non-keratinized epithelium stratified columnar epithelium stratified columnar epithelium stratified columnar epithelium stratified columnar epithelium stratified columnar epithelium stratified columnar epithelium stratified squamous keratinized epithelium stratified squamous keratinized epithelium stratified squamous keratinized epithelium stratified squamous keratinized epithelium stratified squamous keratinized epithelium stratified squamous keratinized epithelium simple squamous epithelium simple squamous epithelium simple squamous epithelium simple squamous epithelium simple squamous epithelium simple squamous epithelium h1   quiz </slidetext>
+      <slidetext slideid="6Y7qJV6He2r.6XakxKnANHj" slidebank="false" type="slide">19. what organ will epithelium a line? be specific. submit h1   quiz </slidetext>
+      <slidetext slideid="6Y7qJV6He2r.5ezqwx1DIFf" slidebank="false" type="slide">20. identify the class of epithelium a. be specific. submit simple cuboidal epithelium simple cuboidal epithelium simple cuboidal epithelium simple cuboidal epithelium simple cuboidal epithelium simple cuboidal epithelium stratified squamous epithelium stratified squamous epithelium stratified squamous epithelium stratified squamous epithelium stratified squamous epithelium stratified squamous epithelium transitional epithelium transitional epithelium transitional epithelium transitional epithelium transitional epithelium transitional epithelium stratified columnar epithelium stratified columnar epithelium stratified columnar epithelium stratified columnar epithelium stratified columnar epithelium stratified columnar epithelium h1   quiz </slidetext>
+      <slidetext slideid="6Y7qJV6He2r.6WYqo8a5w61" slidebank="false" type="slide">21. what organ will epithelium a line? be specific. submit h1   quiz </slidetext>
+      <slidetext slideid="6Y7qJV6He2r.6DSnckmzj8s" slidebank="false" type="slide">22. identify the class of epithelium a. be specific. submit stratified columnar epithelium stratified columnar epithelium stratified columnar epithelium stratified columnar epithelium stratified columnar epithelium stratified columnar epithelium respiratory epithelium respiratory epithelium respiratory epithelium respiratory epithelium respiratory epithelium respiratory epithelium simple columnar epithelium with microvilli simple columnar epithelium with microvilli simple columnar epithelium with microvilli simple columnar epithelium with microvilli simple columnar epithelium with microvilli simple columnar epithelium with microvilli stratified squamous epithelium stratified squamous epithelium stratified squamous epithelium stratified squamous epithelium stratified squamous epithelium stratified squamous epithelium h1   quiz </slidetext>
+      <slidetext slideid="6Y7qJV6He2r.6NT24BIKir5" slidebank="false" type="slide">23. identify the class of epithelium a. be specific. submit h1   quiz </slidetext>
+      <slidetext slideid="6Y7qJV6He2r.6NBKOJtbhth" slidebank="false" type="slide">24. identify the class of epithelium a. be specific. submit stratified squamous epithelium stratified squamous epithelium stratified squamous epithelium stratified squamous epithelium stratified squamous epithelium stratified squamous epithelium stratified columnar epithelium stratified columnar epithelium stratified columnar epithelium stratified columnar epithelium stratified columnar epithelium stratified columnar epithelium endothelium endothelium endothelium endothelium endothelium endothelium stratified cuboidal epithelium stratified cuboidal epithelium stratified cuboidal epithelium stratified cuboidal epithelium stratified cuboidal epithelium stratified cuboidal epithelium h1   quiz </slidetext>
+      <slidetext slideid="6Y7qJV6He2r.6fkMrcsEpPt" slidebank="false" type="slide">25. identify the class of epithelium a. be specific. submit h1   quiz </slidetext>
+      <slidetext slideid="6Y7qJV6He2r.6VgkMS3YJc6" slidebank="false" type="slide">26. identify the class of epithelium a. be specific. submit h1   quiz </slidetext>
+      <slidetext slideid="6Y7qJV6He2r.65Mg27yIhcf" slidebank="false" type="slide">27. identify the class of epithelium a. be specific. submit h1   quiz </slidetext>
+      <slidetext slideid="6Y7qJV6He2r.6RdrrU3VSWf" slidebank="false" type="slide">h1   quiz 28. drag the correct descriptions of the epithelium onto the corresponding histological diagrams a &amp; b. (not all descriptions apply.)        lines organs of the urinary system. lines organs of the urinary system. lines organs of the urinary system. lines upper digestive tract. surface cell’s shape changes according to filling stage of the organ.  surface cell’s shape changes according to filling stage of the organ.  surface cell’s shape changes according to filling stage of the organ.  prevent abrasion and pathogen attack. prevent abrasion and pathogen attack. prevent abrasion and pathogen attack. prevent abrasion and pathogen attack. prevent abrasion and pathogen attack. prevent abrasion and pathogen attack. prevent abrasion and pathogen attack. undergoes keratinization. burn victims succumb their injury due to loss of this layer. submit a b </slidetext>
+      <slidetext slideid="6Y7qJV6He2r.6PpHM2FVJTI" slidebank="false" type="slide">congratulations on finishing h1 epithelia! review h1 review h1 review h1 previous h1   end of h1 </slidetext>
+    </search>
+  </nav_data>
+  <resource_data description="" />
+  <transcript_data>
+    <slidetranscripts>
+      <slidetranscript slideid="6HTFG359OBF.62GYbTyflLZ" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="0">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Calibri' size='12.5pt' style="font-size:12.5pt;" color='#ffffff'&gt;fix this slide&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="6Y7qJV6He2r.6m57jJOirgS" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="1">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px;margin-top: 4.32px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#04617b'&gt;1&lt;/font&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#04617b'&gt;lumen = the space inside a hollow organ (e.g. stomach, lung) or structure (e.g. blood vessel)&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px;margin-top: 4.32px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#04617b'&gt;2&lt;/font&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#04617b'&gt; avascular = has no blood supply&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px;margin-top: 4.32px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#04617b'&gt;3&lt;/font&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#04617b'&gt; innervated = has a nerve supply&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="6Y7qJV6He2r.6QPijZqPlzW" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="2">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px;margin-top: 4.32px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;1 &lt;/font&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;trans = across; transcellular molecular movement occurs &lt;/font&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;&lt;u&gt;through&lt;/u&gt;&lt;/font&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt; cells; i.e. molecules are transported into the cell on one side and then out of the cell on the other side; thus crossing the epithelial barrier&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px;margin-top: 4.32px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;2&lt;/font&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt; para = beside; paracellular molecular movement occurs &lt;/font&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;&lt;u&gt;between&lt;/u&gt;&lt;/font&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt; cells&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="6Y7qJV6He2r.6bz0Wpiqvud" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="3">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px;margin-top: 4.32px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;1&lt;/font&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt; absorption: the process by which molecules are moved INTO the body&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px;margin-top: 4.32px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;2&lt;/font&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt; secretion: the process by which molecules are moved OUT OF the body&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="6Y7qJV6He2r.65bJr0V565r" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="4">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px;margin-top: 4.32px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;1&lt;/font&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt; shear forces: forces exerted parallel to the epithelial sheet, such as abrasion&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px;margin-top: 4.32px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;2 &lt;/font&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;cytoskeleton = network of fibrous proteins (actin, intermediate filaments, etc.) that provide structural support to cells&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="6Y7qJV6He2r.6oIH3GZa5Kj" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="5">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px;margin-top: 4.32px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;to &lt;/font&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;&lt;i&gt;anastomose&lt;/i&gt;&lt;/font&gt;&lt;font face='Arial' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;, is to come together&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="6Y7qJV6He2r.6Hhh46loHKd" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="6">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Calibri' size='12.5pt' style="font-size:12.5pt;" color='#ffffff'&gt;Cilia vs. Microvilli distinguishing&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+    </slidetranscripts>
+  </transcript_data>
+  <glossary_data />
+</bwFrame>

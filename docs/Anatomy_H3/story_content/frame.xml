@@ -1,0 +1,1381 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="npnxnanbnsnfns01001000011" textdirection="ltr" device="false" fontscale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="classic">
+  <layouts>
+    <layout name="npnxnanbsnfns01001000011" font="Calibri" controllayout="npnxnanbsnfns01001000011" colorscheme="npnxnanbnsnfns01001000011" string_table="npnxnanbnsnfns01001000011" />
+    <layout name="pxabnsnfns01001000011" font="Calibri" controllayout="pxabnsnfns01001000011" colorscheme="npnxnanbnsnfns01001000011" string_table="npnxnanbnsnfns01001000011" />
+    <layout name="npxnabnsnfns01001000011" font="Calibri" controllayout="npxnabnsnfns01001000011" colorscheme="npnxnanbnsnfns01001000011" string_table="npnxnanbnsnfns01001000011" />
+    <layout name="npnxnanbnsnfns01001000011" font="Calibri" controllayout="npnxnanbnsnfns01001000011" colorscheme="npnxnanbnsnfns01001000011" string_table="npnxnanbnsnfns01001000011" />
+    <layout name="pxabnsnfns01001000010" font="Calibri" controllayout="pxabnsnfns01001000010" colorscheme="npnxnanbnsnfns01001000011" string_table="npnxnanbnsnfns01001000011" />
+    <layout name="npnxabnsnfns01001000011" font="Calibri" controllayout="npnxabnsnfns01001000011" colorscheme="npnxnanbnsnfns01001000011" string_table="npnxnanbnsnfns01001000011" />
+  </layouts>
+  <control_options>
+    <optiongroups>
+      <optiongroup name="sidebaroptions">
+        <options>
+          <option name="title_enabled" value="true">
+            <options>
+              <option name="title_text" value="H03 Cartilage and Bone 2019" />
+            </options>
+          </option>
+          <option name="logo_enabled" value="true">
+            <options>
+              <option name="logo_url" value="story_content/logo.swf">
+                <properties>
+                  <property name="width" value="1024" />
+                  <property name="height" value="229" />
+                </properties>
+              </option>
+              <option name="html5_logo_url" value="mobile/6ArkdWd6PMO.jpg" />
+            </options>
+          </option>
+          <option name="sidebar_enabled" value="true">
+            <options>
+              <option name="sidebarpos" value="left" />
+            </options>
+          </option>
+          <optionlist name="tabs">
+            <listitems>
+              <listitem name="customlink" value="true" group="linkleft">
+                <properties>
+                  <property name="title" value="Acknowledgments" />
+                  <property name="data" value="5toZT0PPlEg" />
+                  <property name="ignoreSlideLock" value="true" />
+                </properties>
+              </listitem>
+              <listitem name="resources" value="false" group="linkright" />
+              <listitem name="outline" value="true" group="sidebar" />
+              <listitem name="glossary" value="false" group="sidebar" />
+              <listitem name="transcript" value="false" group="sidebar" />
+            </listitems>
+          </optionlist>
+          <option name="time_enabled" value="false">
+            <options>
+              <option name="time_format" value="elapsed" />
+            </options>
+          </option>
+          <option name="video_enabled" value="false">
+            <options>
+              <option name="height" value="135" />
+            </options>
+          </option>
+        </options>
+      </optiongroup>
+      <optiongroup name="menuoptions">
+        <options>
+          <option name="flow" value="free" />
+          <option name="wraplistitems" value="false" />
+          <option name="tooltips" value="true" />
+          <option name="autocollapse" value="true" />
+          <option name="autonumber" value="false" />
+          <option name="enableresultsicons" value="true" />
+        </options>
+      </optiongroup>
+      <optiongroup name="controls">
+        <options>
+          <option name="volume" value="false" />
+          <option name="seekbar" value="false">
+            <options>
+              <option name="readonly" value="false" />
+              <option name="readonlyOnce" value="false" />
+            </options>
+          </option>
+          <option name="pauseplay" value="false" />
+          <option name="replay" value="false" />
+          <option name="search" value="true" />
+          <option name="closed_captions" value="false">
+            <options>
+              <option name="font" value="Calibri" />
+            </options>
+          </option>
+        </options>
+      </optiongroup>
+      <optiongroup name="bottombaroptions">
+        <options>
+          <option name="bottombar_enabled" value="true" />
+        </options>
+      </optiongroup>
+    </optiongroups>
+  </control_options>
+  <control_layouts>
+    <control_layout name="npnxnanbsnfns01001000011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="true" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns01001000011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npxnabnsnfns01001000011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npnxnanbnsnfns01001000011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns01001000010">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="false" />
+    </control_layout>
+    <control_layout name="npnxabnsnfns01001000011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+  </control_layouts>
+  <colorschemes>
+    <colorscheme name="npnxnanbnsnfns01001000011">
+      <color_group name="infopanel">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x7C2280" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0000EE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC73013" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="title_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x999999" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="infopanelpopup">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFC4A2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xED5736" alpha="100" stop="0" />
+                <color rgb="0xD44120" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFC4A2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bio_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="timer">
+        <group_colors>
+          <color name="duration">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x00D7FF" alpha="100" stop="0" />
+                <color rgb="0x00ABFF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="elapsed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFEE347" alpha="100" stop="0" />
+                <color rgb="0xFCCC2A" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="stroke">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC7C7C7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="window">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xED5736" alpha="100" stop="0" />
+                <color rgb="0xD44120" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xEB8964" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF49277" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD63F21" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="20" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="editor">
+        <group_colors>
+          <color name="slide_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="html_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC23115" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC93518" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE15429" alpha="100" stop="0" />
+                <color rgb="0xC42D16" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD84121" alpha="100" stop="0" />
+                <color rgb="0xDE4C27" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE1512A" alpha="100" stop="0" />
+                <color rgb="0xD63A1D" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="listitem">
+        <group_colors>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x671B6B" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF98E6E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="viewed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFC4A2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF17D5E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="lines">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDA563A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="glossary">
+        <group_colors>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF98E6E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE85F39" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD96244" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD96244" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF98B6A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xEC7B59" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="resource">
+        <group_colors>
+          <color name="separator">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD35338" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="outline">
+        <group_colors>
+          <color name="search_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFC4A2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD35338" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xEB9471" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCF5336" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="transcript">
+        <group_colors>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="div">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD35338" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="tabs">
+        <group_colors>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC73013" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFC4A2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xED7254" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="seekcontrol">
+        <group_colors>
+          <color name="btn_icon_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFE1D0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_position">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE97D65" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD33F1F" alpha="100" stop="0" />
+                <color rgb="0xCA3416" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC32E13" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE65832" alpha="100" stop="0" />
+                <color rgb="0xDF3F23" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="searchinput">
+        <group_colors>
+          <color name="text_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2D2D2D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2D2D2D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xEB9471" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE76E52" alpha="100" stop="0" />
+                <color rgb="0xE2694D" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icon">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD7654B" alpha="100" stop="0" />
+                <color rgb="0xC42F13" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="scrollarea">
+        <group_colors>
+          <color name="detailb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCA3518" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="detaila">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xEA7C5D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCB3519" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icons">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCA3417" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE55D3B" alpha="100" stop="0" />
+                <color rgb="0xDB4D32" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE2522C" alpha="100" stop="0" />
+                <color rgb="0xD93E20" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF8795B" alpha="100" stop="0" />
+                <color rgb="0xF8795B" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="0">
+              <colors>
+                <color rgb="0xED6546" alpha="100" stop="0" />
+                <color rgb="0xEE6948" alpha="100" stop="128" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="menu">
+        <group_colors>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD35235" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xED7254" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="logo">
+        <group_colors>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC73013" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="checkbox">
+        <group_colors>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6BF8FF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="check">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2BC400" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD35338" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="button">
+        <group_colors>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC23115" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC93518" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE15429" alpha="100" stop="0" />
+                <color rgb="0xC42D16" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD84121" alpha="100" stop="0" />
+                <color rgb="0xDE4C27" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE1512A" alpha="100" stop="0" />
+                <color rgb="0xD63A1D" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="10" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="base">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD63F21" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF49277" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="menu_shade">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDD5233" alpha="100" stop="0" />
+                <color rgb="0xC53D1E" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF5674A" alpha="100" stop="0" />
+                <color rgb="0xF5674A" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xED5736" alpha="100" stop="0" />
+                <color rgb="0xD44120" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slide_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xED5736" alpha="100" stop="0" />
+                <color rgb="0xD44120" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="volume">
+        <group_colors>
+          <color name="thumb_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCB361A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE55E3B" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDB4524" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF26E50" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE75E36" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="HTML">
+        <group_colors>
+          <color name="htmlpage_bg_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x018CB0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+    </colorscheme>
+  </colorschemes>
+  <string_tables>
+    <string_table name="npnxnanbnsnfns01001000011">
+      <string id="acc_active">active</string>
+      <string id="check_include">Check to include</string>
+      <string id="clear">Clear and return to menu</string>
+      <string id="close">Close</string>
+      <string id="acc_closed_captions">Closed captions. Press the spacebar to toggle captions on and off.</string>
+      <string id="continue">Continue</string>
+      <string id="continueresponsive">Continue</string>
+      <string id="exit">Exit</string>
+      <string id="filter">Filter</string>
+      <string id="finish">FINISH</string>
+      <string id="acc_finish">finish</string>
+      <string id="definition">Definition</string>
+      <string id="acc_definition">definition</string>
+      <string id="glossary">Glossary</string>
+      <string id="terms">Terms</string>
+      <string id="outline">Menu</string>
+      <string id="disabled_orientation">Please rotate your device</string>
+      <string id="next">NEXT</string>
+      <string id="acc_next">next</string>
+      <string id="transcript_chk">Notes</string>
+      <string id="transcript">Notes</string>
+      <string id="bio">Bio</string>
+      <string id="more_info">More info</string>
+      <string id="closed_captions">Captions</string>
+      <string id="acc_pause">pause</string>
+      <string id="acc_play">play</string>
+      <string id="send_an_email">Send an email</string>
+      <string id="prev">PREV</string>
+      <string id="acc_previous">previous</string>
+      <string id="question_list">Question List</string>
+      <string id="acc_replay">replay</string>
+      <string id="resources">Resources</string>
+      <string id="acc_resources">resources</string>
+      <string id="restart">Restart</string>
+      <string id="resume">Resume</string>
+      <string id="search">Search...</string>
+      <string id="acc_search_input">search</string>
+      <string id="search_in">Search in:</string>
+      <string id="search_results">Search Results</string>
+      <string id="acc_skipnavigation">Skip navigation. Press enter to return to the slide.</string>
+      <string id="slide_text_chk">Slide Text</string>
+      <string id="submitall">SUBMIT ALL</string>
+      <string id="acc_submitall">submit all</string>
+      <string id="submit">SUBMIT</string>
+      <string id="acc_submit">submit</string>
+      <string id="acc_volume">volume</string>
+    </string_table>
+  </string_tables>
+  <fonts>
+    <font name="Calibri">
+      <files>
+        <file bold="true" italic="false" />
+        <file bold="false" italic="false" />
+      </files>
+    </font>
+  </fonts>
+  <sounds enabled="true" />
+  <nav_data>
+    <outline>
+      <links>
+        <slidelink slideid="_player.6HTFG359OBF" displaytext="Start" expand="false" type="slide">
+          <links>
+            <slidelink slideid="_player.6HTFG359OBF.6fg17kTHFuu" displaytext="Using the emodule" expand="false" type="slide" />
+            <slidelink slideid="_player.6HTFG359OBF.5amnTpsr4vW" displaytext="Conventions Used in the eModule" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6GhRUbvy6XM" displaytext="H03 Cartilage and Bone" expand="false" type="slide">
+          <links>
+            <slidelink slideid="_player.6GhRUbvy6XM.6YsxsdpaAE5" displaytext="1. References" expand="false" type="slide" />
+            <slidelink slideid="_player.6GhRUbvy6XM.5fp0hv75GI7" displaytext="2. Supporting Connective Tissue - Cartilage: Objectives" expand="false" type="slide" />
+            <slidelink slideid="_player.6GhRUbvy6XM.63izH2I3nZv" displaytext="3. Cartilage: Characteristics &amp; Function" expand="false" type="slide" />
+            <slidelink slideid="_player.6GhRUbvy6XM.61CfZ8EKPbJ" displaytext="4. ECM Determines the Characteristics of Cartilage" expand="false" type="slide" />
+            <slidelink slideid="_player.6GhRUbvy6XM.5lxFfA0hMkw" displaytext="5. Cartilage Cells are Chondrocytes" expand="false" type="slide" />
+            <slidelink slideid="_player.6GhRUbvy6XM.6nQOgA8ByFy" displaytext="6. Perichondrium and Cartilage" expand="false" type="slide" />
+            <slidelink slideid="_player.6GhRUbvy6XM.6XzjYJu6TGG" displaytext="7. Interstitial Growth of Cartilage: “growth from within”" expand="false" type="slide" />
+            <slidelink slideid="_player.6GhRUbvy6XM.6CHJ1Wcpbgy" displaytext="8. Appositional Growth of Cartilage: “growth at the surface”" expand="false" type="slide" />
+            <slidelink slideid="_player.6GhRUbvy6XM.5hmd8C0H4Uh" displaytext="9. There are Three Subtypes of Cartilage" expand="false" type="slide" />
+            <slidelink slideid="_player.6GhRUbvy6XM.6gLQL4zzdDi" displaytext="10. Supporting Connective Tissue- Bone: Objectives" expand="false" type="slide" />
+            <slidelink slideid="_player.6GhRUbvy6XM.5sFoMTizADr" displaytext="11. Bone: Characteristics and Functions" expand="false" type="slide" />
+            <slidelink slideid="_player.6GhRUbvy6XM.6ecLDSihZsp" displaytext="12. Bone Composition: Matrix" expand="false" type="slide" />
+            <slidelink slideid="_player.6GhRUbvy6XM.5UspiFi0YmC" displaytext="13. Bone Composition: Cells" expand="false" type="slide" />
+            <slidelink slideid="_player.6GhRUbvy6XM.6Bn3r1PYWgp" displaytext="14. Bone Cells: Osteoprogenitor Cells" expand="false" type="slide" />
+            <slidelink slideid="_player.6GhRUbvy6XM.6FBvUxT882S" displaytext="15. Bone Cells: Osteoblasts" expand="false" type="slide" />
+            <slidelink slideid="_player.6GhRUbvy6XM.6ZhHJ1C7RYM" displaytext="16. Bone Cells: Osteocytes" expand="false" type="slide" />
+            <slidelink slideid="_player.6GhRUbvy6XM.6QX8o3rV2y7" displaytext="17. Bone Cells: Osteoclasts" expand="false" type="slide" />
+            <slidelink slideid="_player.6GhRUbvy6XM.5n5LxjBYZv0" displaytext="18. Osteoclasts and Osteolysis" expand="false" type="slide" />
+            <slidelink slideid="_player.6GhRUbvy6XM.6FWoKZL2OnE" displaytext="19. Putting the Pieces Together" expand="false" type="slide" />
+            <slidelink slideid="_player.6GhRUbvy6XM.616VaUUjix6" displaytext="20. Types of Bone Tissue and Bones" expand="false" type="slide" />
+            <slidelink slideid="_player.6GhRUbvy6XM.6KZjacayO32" displaytext="21. Anatomy of a Mature Long Bone" expand="false" type="slide" />
+            <slidelink slideid="_player.6GhRUbvy6XM.6Z3j6EtJXv6" displaytext="22. The Blood Supply of a Long Bone" expand="false" type="slide" />
+            <slidelink slideid="_player.6GhRUbvy6XM.5y6rZ3WIswQ" displaytext="23. Mature vs. Immature Bone" expand="false" type="slide" />
+            <slidelink slideid="_player.6GhRUbvy6XM.5so4DyCRF8S" displaytext="24. The Organization of Compact Bone" expand="false" type="slide" />
+            <slidelink slideid="_player.6GhRUbvy6XM.68VXhb8WEfX" displaytext="25. The Osteon " expand="false" type="slide" />
+            <slidelink slideid="_player.6GhRUbvy6XM.5cm1U7C7ZRo" displaytext="26. Spongy Bone" expand="false" type="slide" />
+            <slidelink slideid="_player.6GhRUbvy6XM.5skw1Pk7MRo" displaytext="27. Bone Coverings: Periosteum Consists of Two Layers" expand="false" type="slide" />
+            <slidelink slideid="_player.6GhRUbvy6XM.5fyuEmeN2wN" displaytext="28. Bone Coverings: Endosteum is Simpler" expand="false" type="slide" />
+            <slidelink slideid="_player.6GhRUbvy6XM.6cQ3aOw7FcF" displaytext="29. Ossification" expand="false" type="slide" />
+            <slidelink slideid="_player.6GhRUbvy6XM.6EqY255wLRq" displaytext="30. Intramembraneous Ossification" expand="false" type="slide" />
+            <slidelink slideid="_player.6GhRUbvy6XM.68O52WQv5cy" displaytext="31. Endochondral Ossification I" expand="false" type="slide" />
+            <slidelink slideid="_player.6GhRUbvy6XM.6eKrP8swg92" displaytext="32. Endochondral Ossification II" expand="false" type="slide" />
+            <slidelink slideid="_player.6GhRUbvy6XM.6qZE9njvhz1" displaytext="33. Increasing Bone Diameter" expand="false" type="slide" />
+            <slidelink slideid="_player.6GhRUbvy6XM.5WC7doGX24j" displaytext="34. Bone Remodelling" expand="false" type="slide" />
+            <slidelink slideid="_player.6GhRUbvy6XM.6S1noEWqwbM" displaytext="35. Summary" expand="false" type="slide" />
+            <slidelink slideid="_player.6GhRUbvy6XM.5yotfWwmLaj" displaytext="36. Quiz Start" expand="false" type="slide">
+              <links>
+                <slidelink slideid="_player.6GhRUbvy6XM.5rmUhnBEkIj" displaytext="Question 1" expand="false" type="slide" />
+                <slidelink slideid="_player.6GhRUbvy6XM.6UmPBxenRQy" displaytext="Question 2" expand="false" type="slide" />
+                <slidelink slideid="_player.6GhRUbvy6XM.6BGcCPSLPbJ" displaytext="Question 3" expand="false" type="slide" />
+                <slidelink slideid="_player.6GhRUbvy6XM.6oPot24r06T" displaytext="Question 4" expand="false" type="slide" />
+                <slidelink slideid="_player.6GhRUbvy6XM.6lxMCO8juYU" displaytext="Question 5" expand="false" type="slide" />
+                <slidelink slideid="_player.6GhRUbvy6XM.6EFpmKAWsNA" displaytext="Question 6" expand="false" type="slide" />
+                <slidelink slideid="_player.6GhRUbvy6XM.5sN9eyV1VEL" displaytext="Question 7" expand="false" type="slide" />
+                <slidelink slideid="_player.6GhRUbvy6XM.6leGy1OWbP8" displaytext="Question 8" expand="false" type="slide" />
+                <slidelink slideid="_player.6GhRUbvy6XM.5x4rKoNLkxQ" displaytext="Question 9" expand="false" type="slide" />
+                <slidelink slideid="_player.6GhRUbvy6XM.5oqCs602j4G" displaytext="Question 10" expand="false" type="slide" />
+                <slidelink slideid="_player.6GhRUbvy6XM.5wuIEIf4S1l" displaytext="Question 11" expand="false" type="slide" />
+                <slidelink slideid="_player.6GhRUbvy6XM.6hoFedmT0JI" displaytext="Question 12" expand="false" type="slide" />
+                <slidelink slideid="_player.6GhRUbvy6XM.6ohucPrFwBS" displaytext="Question 13" expand="false" type="slide" />
+                <slidelink slideid="_player.6GhRUbvy6XM.6qcxkx2vvo2" displaytext="Question 14" expand="false" type="slide" />
+                <slidelink slideid="_player.6GhRUbvy6XM.6Z5UnRu5Ndp" displaytext="Question 15" expand="false" type="slide" />
+                <slidelink slideid="_player.6GhRUbvy6XM.6BuS7jKXMk6" displaytext="Question 16" expand="false" type="slide" />
+                <slidelink slideid="_player.6GhRUbvy6XM.6CZiWyyUZfZ" displaytext="Question 17" expand="false" type="slide" />
+                <slidelink slideid="_player.6GhRUbvy6XM.6i6zaaQKi24" displaytext="Question 18" expand="false" type="slide" />
+                <slidelink slideid="_player.6GhRUbvy6XM.6VIu21rdb6m" displaytext="Question 19" expand="false" type="slide" />
+                <slidelink slideid="_player.6GhRUbvy6XM.65MQ4lIUrPn" displaytext="Question 20" expand="false" type="slide" />
+                <slidelink slideid="_player.6GhRUbvy6XM.641tWUEsVCt" displaytext="Question 21" expand="false" type="slide" />
+                <slidelink slideid="_player.6GhRUbvy6XM.5YnSD1RBkjk" displaytext="Question 22" expand="false" type="slide" />
+                <slidelink slideid="_player.6GhRUbvy6XM.5yyZoFWKvyd" displaytext="Question 23" expand="false" type="slide" />
+                <slidelink slideid="_player.6GhRUbvy6XM.5xd3FS4s6op" displaytext="Question 24" expand="false" type="slide" />
+                <slidelink slideid="_player.6GhRUbvy6XM.67abtvHIuVj" displaytext="Question 25" expand="false" type="slide" />
+                <slidelink slideid="_player.6GhRUbvy6XM.6f4OCEqKwxK" displaytext="Question 26" expand="false" type="slide" />
+                <slidelink slideid="_player.6GhRUbvy6XM.6KaOOErmGeI" displaytext="Question 27" expand="false" type="slide" />
+                <slidelink slideid="_player.6GhRUbvy6XM.6LIblOwMrND" displaytext="Question 28" expand="false" type="slide" />
+                <slidelink slideid="_player.6GhRUbvy6XM.5oM3ULqlRuV" displaytext="Question 29" expand="false" type="slide" />
+                <slidelink slideid="_player.6GhRUbvy6XM.5jZYLmzRRW2" displaytext="Question 30" expand="false" type="slide" />
+                <slidelink slideid="_player.6GhRUbvy6XM.5xWgGYljK3i" displaytext="Question 31" expand="false" type="slide" />
+              </links>
+            </slidelink>
+            <slidelink slideid="_player.6GhRUbvy6XM.6p3jZGaXofW" displaytext="End of H3" expand="false" type="slide" />
+          </links>
+        </slidelink>
+      </links>
+    </outline>
+    <search>
+      <slidetext slideid="6HTFG359OBF.604AHAGuDGf" slidebank="false" type="slide">cartilage and bone click to begin click to begin click to begin  histology emodule tutorial emodule tutorial emodule tutorial </slidetext>
+      <slidetext slideid="6HTFG359OBF.6fg17kTHFuu" slidebank="false" type="slide">to complete each section, use the next button at the bottom of the pages or press the right arrow key to move forward one page at a time.  use the menu, available by clicking “menu” at the top, to navigate to specific slides. use search to quickly find instances of relevant terms. use the previous button at the bottom of the pages or press the left arrow key to move back one page at a time. note: you can also swipe right and left in order to navigate forward and backward respectively.  previous next using the emodule h4 cartilage&amp; bone    1. references    2. objectives    3. cartilage… </slidetext>
+      <slidetext slideid="6HTFG359OBF.5amnTpsr4vW" slidebank="false" type="slide">previous start with age, wear and tear,  info an intervertebral disc can herniate, such that the nucleus pulposus…. information that has implications for health and disease is introduced on a blue bar and continued below: conventions used in the emodule some slides contain the “slide talk” icon on the title bar. click this icon to hear me explain or elaborate on slide content.  some words are followed by an icon      ; click the icon to jump to related slides. some words are followed by an icon      ; click the icon to see a definition or explanation.  words / phrases in purple denote concepts with which you should make a point of becoming familiar. some slides contain the icon        which means that you are within a “layer” of the original slide, simply click this button in order to navigate back to the original layer of the slide. </slidetext>
+      <slidetext slideid="6GhRUbvy6XM.6YsxsdpaAE5" slidebank="false" type="slide">next previous h3 cartilage and bone: references images from histology: a text and atlas 7th ed., © 2015 by ross and pawlina denoted by “rp”. images from junqueira’s basic histology, text &amp; atlas, 14th ed., 2016, by mescher, denoted by “j”. images from netter’s essential histology, 2nd ed., 2013, by ovalle and nahirney, denoted by “n”. images from textbook of histology, 4th ed., 2017, by gartner, denoted by g”. images from atlas of histology © 2011 by cui denoted by “c”. recommended online resources: university of minnesota histology guide university of leeds histology guide university of michigan virtual microscopy western university virtual slide box university of illinois cell and tissue biology </slidetext>
+      <slidetext slideid="6GhRUbvy6XM.5fp0hv75GI7" slidebank="false" type="slide">next previous h3   supporting connective tissue - cartilage: objectives 2 objectives when you have learned the material presented here, you will be able to: describe the characteristics and functions of cartilage describe the components of cartilage describe the processes of interstitial and appositional growth of cartilage. describe the functional properties of the various subtypes of cartilage. identify the various classes of cartilage and bone and their components. </slidetext>
+      <slidetext slideid="6GhRUbvy6XM.63izH2I3nZv" slidebank="false" type="slide">next previous h3   cartilage: characteristics &amp; function recall: cts are noteworthy for the volume of acellular material, extracellular matrix (ecm), that fills the spaces between cells. in cartilage, cells (chondrocytes) are sparse but essential; ecm is highly specialized: it is abundant, firm, pliable, resilient      &amp; smooth.  cartilage covers the articular surfaces of bones in synovial joints, such as the knee, elbow, shoulder and hip, where it permits the smooth movement of one surface over the other. it forms portions of the intervertebral discs which stand between adjacent vertebrae, where it withstands compressive forces, thus allow vertebrae to bear our body weight. cartilage is avascular with no lymphatic vessels or no nerves, therefore it can withstand the forces exerted on it in joints without pain or vascular damage. however, without direct blood supply, cartilage heals slowly.  cartilage gives structure to soft tissues without being rigid. for example, it forms the rings that keep your trachea and bronchi patent      at all times (see fig. it also provides structural support to the nose, pinna of the external ear and pharyngotympanic tube. cartilage also fxn. in development &amp; growth of long bones (covered under bone). 3 </slidetext>
+      <slidetext slideid="6GhRUbvy6XM.61CfZ8EKPbJ" slidebank="false" type="slide">next previous h3   ecm determines the characteristics of cartilage 4 fibres: cartilages are rich in collagen type ii,  but some types of cartilage contain other classes of fibres as well. collagen type ii is weaker than collagen type i, but still imparts tensile strength on cartilages. proteoglycans: rich in certain cartilage-specific gags     linked to core proteins, thus forming a proteoglycan monomer, aggrecan. aggrecans link to hyaluronic acid forming massive proteoglycan aggregates that avidly bind water. these enormous molecules with great volumes of tightly-bound water results in an ecm that is 60-80% water; this permits cartilages to withstand huge compressive forces. hence, even though cartilages deform under pressure, they are capable to maintain their overall volume. adhesive glycoproteins     : bind cells and components of the matrix together  the ecm of cartilages are ideally suited to withstand both tensile forces and compressive forces, due to its unique combination of fibres and ground substance. </slidetext>
+      <slidetext slideid="6GhRUbvy6XM.5lxFfA0hMkw" slidebank="false" type="slide">next previous h3   cartilage cells are chondrocytes chondrocytes are 3-5% of cartilage by volume; they are isolated from each other, surrounded by the ecm they produce. they produce, maintain fibres &amp; organic components of the ground substance (proteoglycans, adhesive glycoproteins). since cartilage is avascular, cells are nourished by nutrient/ gas diffusion through the ground substance from vessels in surrounding tissues. although chondrocytes can metabolize glucose by anaerobic glycolysis, cartilage repairs slowly if at all due to a relatively lesser nutrient support. thickness of cartilages is also limited to support diffusion of nutrient.  5 mature chondrocytes tend to be found in isogenous groups. these are daughter cells from a common precursor cell.  </slidetext>
+      <slidetext slideid="6GhRUbvy6XM.6nQOgA8ByFy" slidebank="false" type="slide">next previous h3   perichondrium and cartilage most cartilages are surrounded by perichondrium     . perichondrium forms interface between cartilage and adjacent tissues. it contains bvs, ns, ls and aids cartilage attachment and growth.  perichondrium consists of 2 layers: outer fibrous layer   dense irregular ct; contains mainly collagen type i fibres and the fibroblasts      that produce them. function to provide attachment of cartilage to adjacent tissues. in the image, the fibrous layers attach cartilage to the seromucous glands of the trachea on upper surface, and blend with the fibrous ct capsule of the thyroid gland at the lower surface. inner cellular layer  contains chondroblasts      which synthesize organic components of the ecm. the cellular layer contributes to cartilage growth; \ ¯ prominence with maturity. 6 </slidetext>
+      <slidetext slideid="6GhRUbvy6XM.6XzjYJu6TGG" slidebank="false" type="slide">next previous h3   interstitial growth of cartilage: “growth from within” cartilage, like all connective tissue types, develops from condensations of embryonic ct, called mesenchyme where cartilage is to form, mesenchymal cells differentiate into chondroblasts, which secrete the organic components of the matrix chondroblasts ultimately surround themselves with matrix, move apart, thus becoming isolated in their lacunae these chondroblasts may divide, forming isogenous cell groups, which go on to secrete matrix and grow apart, while adding to the thickness of the developing cartilage isolated chondroblasts become quiescent, maintain matrix as chondrocytes 7 compare interstitial growth (shown here) to appositional growth. </slidetext>
+      <slidetext slideid="6GhRUbvy6XM.6CHJ1Wcpbgy" slidebank="false" type="slide">appositional growth of cartilage occurs at the surface of the newly-forming cartilage, rather than from within its core, as occurs in interstitial growth of cartilage.  mesenchymal cells at the surface of the newly formed cartilage differentiate into fibroblasts, which secrete collagen type i and form the fibrous layer of the perichondrium mesenchymal cells deep to this fibrous layer differentiate into chondroblasts, forming the cellular layer of the perichondrium chondroblasts secrete cartilage matrix onto the surface of the newly forming cartilage in a process called appositional growth; this increases the thickness of the cartilage by adding matrix to the surface of the growing cartilage mesenchymal cells even deeper within the cartilage may  be undergoing interstitial growth; i.e. both processes may go on simultaneously in a growing cartilage h3   appositional growth of cartilage: “growth at the surface” next previous 8 </slidetext>
+      <slidetext slideid="6GhRUbvy6XM.5hmd8C0H4Uh" slidebank="false" type="slide">next previous h3   there are three subtypes of cartilage hyaline cartilage elastic cartilage fibrocartilage 9 </slidetext>
+      <slidetext slideid="6GhRUbvy6XM.6gLQL4zzdDi" slidebank="false" type="slide">next previous h3   supporting connective tissue- bone: objectives objectives when you have learned the material presented here, you will be able to:  describe the characteristics and functions of bone. describe the composition of bone matrix. describe the different types of bone cells and explain their roles. describe the basic parts of a long bone. describe the architecture of spongy and compact bone. describe the processes of intramembranous and endochondral bone formation. describe the growth of a long bone, the components of the epiphyseal plate and their significance. describe the purpose and mechanism of bone remodeling. identify different types of bone, their features and cell types. 10 </slidetext>
+      <slidetext slideid="6GhRUbvy6XM.5sFoMTizADr" slidebank="false" type="slide">next previous h3   bone: characteristics and functions characteristics of bone: like all other cts, bone is derived from embryonic mesenchyme; multipotential mesenchymal stem cells may differentiate into fibroblasts, osteoblasts, adipocytes and chondrocytes, amongst others cell types, under the correct molecular conditions. where bone is to form, mesenchymal stem cells differentiate into bone-forming cells. like most other cts, bone is composed overwhelmingly of matrix, with a relatively small, but vital, population of cells associated with it. unlike other cts, bone matrix is solid. while it is solid, bone matrix is also porous; there is a dense network of microscopic channels throughout bone tissue that permits the diffusion of metabolites and gases to/from cells embedded in the matrix. bone is a dynamic tissue; it turns over throughout life. bone surfaces are lined by ct layers: periosteum on external surfaces and endosteum on internal surfaces.  functions of bone: support: bone supports our body weight; it gives structure to soft tissue leverage: it alters the direction and power exerted by muscle contraction protection: vital organs, such as the brain and heart, are enclosed within bony coverings minerals storage: bone is the body’s primary storage depot for ca2+ and po4; body fluid electrolytes are maintained within narrow limits by ongoing deposition and mobilization of minerals from bone lipids storage: adipose is stored within the medullary cavities of long bones in the form of yellow bone marrow hematopoiesis: red blood cells (rbcs), white blood cells (wbcs) and platelets are produced in red bone marrow 11 </slidetext>
+      <slidetext slideid="6GhRUbvy6XM.6ecLDSihZsp" slidebank="false" type="slide">next previous h3   bone composition: matrix ~ 1/3 organic matter: osteoid the organic components of bone matrix impart tensile strength and flexibility to bone. it allows bone to bend before it breaks; without it, bone is brittle and fractures more easily.  ~ 90% of osteoid is collagen fibres, overwhelmingly collagen type i ~ 10% of osteoid is ground substance: noncollagenous proteins including adhesive glycoproteins and proteoglycans osteoid becomes mineralized in the process of matrix formation…. ~ 2/3 inorganic matter osteoid is mineralized largely by calcium phosphate in the form of hydroxyapatite crystals ca10(po4)6(oh)2. other inorganic molecules that are also present: bicarbonate, citrate, magnesium, potassium and sodium.   surface mineral hydration promotes the exchange of electrolytes between bone matrix and blood. mineralization of osteoid imparts compressional strength on bone tissue and allows bone tissue to act as a reservoir of minerals. 12 </slidetext>
+      <slidetext slideid="6GhRUbvy6XM.5UspiFi0YmC" slidebank="false" type="slide">next previous h3   bone composition: cells mesenchymal stem cells give rise to four types of bone cells which are in reality the same cell at different stages of differentiation: osteoprogenitor cells, which have begun down the path of differentiating into bone-forming cells osteoblasts, which secrete osteoid and subsequently mineralize it, thus producing bone matrix bone-lining cells, both periosteal cells on the external surface of bones and endosteal cells on the internal surfaces of bones osteocytes: fully differentiated bone cells that no longer secrete osteoid, but do maintain established bone matrix osteoclasts are a fifth type of bone cell, but are derived from the macrophage-monocyte cell lineage 13 </slidetext>
+      <slidetext slideid="6GhRUbvy6XM.6Bn3r1PYWgp" slidebank="false" type="slide">next previous h3   bone cells: osteoprogenitor cells mesenchymal cells (m) are a constituent of bone marrow, and are multipotential; they are depicted in figure (a) as stellate     cells in the spaces between the spicules of bone matrix. osteoprogenitor cells differentiate from mesenchymal cells such that they commit to becoming bone-forming cells. osteoprogenitor cells are squamous cells found on the surfaces of bone; they are a component of the periosteum on the external surface of a bone and, as depicted in figure (a), as part of the endosteum on internal surfaces of a bone; they are capable of division when appropriately stimulated. osteoprogenitor cells can differentiate further to become osteoblasts…. 14 </slidetext>
+      <slidetext slideid="6GhRUbvy6XM.6FBvUxT882S" slidebank="false" type="slide">next previous h3   bone cells: osteoblasts osteoblasts (ob) are cuboid to columnar cells located on the surface of existing bone matrix (b), and onto which they secrete osteoid (os); note in the micrograph on the right that the newly-secreted osteoid does not stain as intensely as the established, mineralized matrix onto which it is secreted. osteoblasts subsequently mineralize the osteoid they produce. osteoblasts may 1) become quiescent as bone-lining cells (periosteal or endosteal – these squamous cells resemble osteoprogenitor cells); 2) die by apoptosis; or 3) become surrounded by the matrix they produce and differentiate further into osteocytes. two osteoblasts depicted in figure (a) are becoming surrounded by the osteoid they produced and are in the process of becoming osteocytes; these two cells are marked with an asterisk *. osteoblasts extend fine cell processes into the osteoid they produce and maintain contact with adjacent bone cells (osteoblasts and osteocytes) via both adherent and gap junctions. as the osteoid around these cell processes becomes mineralized, it creates canaliculi, microscopic channels in the bone matrix containing the cell processes as well as a very small, but critically important volume of tissue fluid. 15 </slidetext>
+      <slidetext slideid="6GhRUbvy6XM.6ZhHJ1C7RYM" slidebank="false" type="slide">next previous h3   bone cells: osteocytes osteocytes (oc) are mature bone cells, differentiated from those osteoblasts that have become surrounded by the matrix they produced. the spaces within the bone matrix occupied by osteocytes are lacunae; a small amount of unmineralized matrix surrounds the osteocyte in the lacuna. osteocytes are stellate cells; their processes extend though canaliculi within the bone matrix to communicate via gap jxns with osteocytes in adjacent lacunae and with osteoblasts and bone lining cells on the surface of the matrix.  a sleeve of tissue fluid surrounds the osteocyte in its lacuna and its cell processes within the canaliculi; the canaliculi open at the surface of the bone matrix. this tissue fluid permits the diffusion of metabolites and gases between the osteocytes entrapped in the matrix and blood vessels (bv).  osteocytes function to maintain surrounding bone tissue; sense mechanical stresses and organize bone remodeling, so as to optimize bone structure to withstand applied forces. 16 </slidetext>
+      <slidetext slideid="6GhRUbvy6XM.6QX8o3rV2y7" slidebank="false" type="slide">next previous h3   bone cells: osteoclasts osteoclasts (ocl) are motile, multinuclear cells from the monocyte / macrophage cell lineage. unlike the other types of bone cells described, they are a distinct cell type unto themselves. ocl resorb bone matrix during bone growth, remodeling and repair; this leads to the release of ca2+, po4-, and other electrolytes from bone matrix, as well as the organic breakdown products of collagen digestion.  ocl are found on the surface of existing bone matrix in resorption (howship’s) lacunae created by their activity. an osteoclast on the surface of the bone matrix can be seen in the figure(b) resorbing bone! a characteristic feature of the osteoclast is its multinucleated appearance. 17 </slidetext>
+      <slidetext slideid="6GhRUbvy6XM.5n5LxjBYZv0" slidebank="false" type="slide">next previous h3   osteoclasts and osteolysis ocl form a circumferential sealing or clear zone with the bone surface, thus creating a microenvironment between their cell membrane and the matrix. ocl cell membrane facing the bone matrix displays a “ruffled border” with activity: infoldings of the cell membrane increase the surface area for molecular &amp; ionic transfer between the cytoplasm and the subcellular microenvironment. ocl pump h+ &amp; secrete lysosomal enzymes into this microenvironment, across the membrane of the ruffled border for osteolysis, the breakdown of bone matrix. osteolysis h+ decalcify the bone matrix, releasing ca2+, po4- &amp; other electrolytes, which are taken up by blood enzymes digest the organic components of bone matrix (mainly collagen type i); the breakdown products are taken up by the osteoclast for further digestion and released into circulating blood 18 </slidetext>
+      <slidetext slideid="6GhRUbvy6XM.6FWoKZL2OnE" slidebank="false" type="slide">next previous h3   putting the pieces together now that you know a bit about bone tissue, i.e. the components of the matrix and the associated cells, we can build one of the organs we call a “bone”. 19 </slidetext>
+      <slidetext slideid="6GhRUbvy6XM.616VaUUjix6" slidebank="false" type="slide">next previous h3   types of bone tissue and bones when you look at a bone in section, as in this figure, you see that the bone tissue forms a dense layer of compact (cortical) bone near the surface (a) and anastomosing spicules or trabeculae surrounding open spaces deep to the surface, called spongy (cancellous or trabecular) bone (b). bones are organs and are classified by their shape as long, short, flat, or irregular: long bones are found in your limbs short bones are found in your wrists and feet flat bones are found in the skull, and include the clavicles and scapulae irregular bones, such as the vertebrae and ossa coxae     , form from the fusion of multiple smaller bones sesamoid bones, such as the patellae     , develop within tendons due to friction. all bones have a core (medulla) of spongy bone with a cortex of compact bone. the chemical make up of the bone matrix is the same in spongy and compact bone; it’s just arranged differently, as you will see. 20 </slidetext>
+      <slidetext slideid="6GhRUbvy6XM.6KZjacayO32" slidebank="false" type="slide">next previous h3   anatomy of a mature long bone epiphyses     : the two expanded ends, the proximal epiphysis      and the distal epiphysis diaphysis: the shaft of a long bone metaphysis: the transitional zone between the diaphysis and the metaphysis; it ends at the epiphyseal line (d) cortex: composed of compact bone external surface covered with periosteum marrow (medullary) cavity within diaphysis, lined by spongy bone contains yellow marrow which consists of very vascular adipose tissue spongy bone in epiphysis and lining marrow cavity cover with endosteum; contains red marrow (hematopoietic      tissue)  articular surface with articular cartilage 21 </slidetext>
+      <slidetext slideid="6GhRUbvy6XM.6Z3j6EtJXv6" slidebank="false" type="slide">next previous h3   the blood supply of a long bone epiphyseal arteries grow into, supply the epiphysis, including the articular cartilage metaphyseal arteries grow into, supply the metaphysis the nutrient artery grows into the diaphysis and ramifies     within the marrow cavity; its branches supply the tissue of the bone marrow and also supply the cortical bone, from the inside outward perforating arteries enter the compact bone of the cortex from the internal aspect, run perpendicular to the long axis of the bone central arteries branch off the perforating arteries, and run parallel to the long axis of the bone periosteal arteries are the terminal branches of the perforating arteries there is no lymphatic drainage from bone tissue, although there is lymph produced in, and drained from, the periosteum. 22 </slidetext>
+      <slidetext slideid="6GhRUbvy6XM.5y6rZ3WIswQ" slidebank="false" type="slide">next previous h3   mature vs. immature bone mature bone tissue is highly organized to best withstand the magnitude and direction of applied forces. its matrix is organized into layers, or lamellae, with osteocytes in their lacunae located at the interface between adjacent layers.  mature bone forms both compact and spongy bone. immature bone is also called woven bone. it is secreted by osteoblasts during growth, repair and remodeling of bone. its structure is reorganized into mature bone by the concerted efforts of bone cells. 23 </slidetext>
+      <slidetext slideid="6GhRUbvy6XM.5so4DyCRF8S" slidebank="false" type="slide">next previous h3   the organization of compact bone spongy bone lines the medullary cavity, it forms trabeculae(b) compact bone forms the cortex periosteum covers the outer surface of bone; much like perichondrium, it consists of two layers:  cellular layer consisting of bone cells fibrous layer consisting of dense irregular ct in compact bone, bone tissue is arranged in osteons, which run parallel to the long axis of the bone; i.e. parallel to applied forces. osteons consist of: concentric lamellae     of bone matrix, arranged around a: central (haversian) canal, which contains the arteries, veins and nerves that service the osteon bone matrix arranged in interstitial lamellae fill the spaces between the cylindrical osteons circumferential lamellae are layers of bone matrix that encircle the cortical bone, perpendicular to its long axis perforating canal, containing arteries, veins and nerves, extend through the cortical bone from the medullary cavity to the periosteum periosteal arteries, veins and nerves supply the periosteum 24 </slidetext>
+      <slidetext slideid="6GhRUbvy6XM.68VXhb8WEfX" slidebank="false" type="slide">next previous h3   the osteon  structural organization of compact bone: compact bone runs parallel to long axis. bone matrix forms lamellae and osteocytes occupy their lacunae between adjacent lamellae. the bone matrix is riddled with canaliculi, containing the cell processes of osteocytes. a thin sleeve of tissue fluid surrounds the osteocytes in their lacunae and their cell processes in their canaliculi. the network of canaliculi opens into the central canal.  metabolites diffuse to and from the osteocytes along the canaliculi, through the thin sleeve of tissue fluid that surrounds the cells and their processes. metabolic exchange occurs between the blood vessels in the central canal and the tissue fluid that surrounds them.  bone matrix is strengthened by the alternating orientation of collagen fibres in adjacent lamellae. multiple layers of concentric lamellae form a osteon. 25 why compact bone is arranged in osteons     ?  </slidetext>
+      <slidetext slideid="6GhRUbvy6XM.5cm1U7C7ZRo" slidebank="false" type="slide">next previous h3   spongy bone similarities to compact bone:  chemical composition of matrix the same matrix forms lamellae osteocytes within lacunae between lamellae; cytoplasmic processes extend through canaliculi in matrix  osteocytes and their processes are surrounded by a sleeve of tissue fluid unlike compact bone: no central canals, therefore no osteons canaliculi open at surface of trabeculae; gases, nutrients, metabolites diffuse through tissue fluid in canaliculi to exchange with bvs in the red marrow  covered with endosteum functional implications  weight: spongy bone is lighter, per unit volume, than compact bone, but is less strong resists compression from many directions trabeculae orient along stress lines by responding to applied forces 27 </slidetext>
+      <slidetext slideid="6GhRUbvy6XM.5skw1Pk7MRo" slidebank="false" type="slide">next previous h3   bone coverings: periosteum consists of two layers superficial fibrous layer is dense irregular ct: collagen type i, produced by fibrocytes, form a dense ct capsule that attaches bone to other structures, such as skeletal muscle, tendon, or ligament 2. deep cellular (osteogenic) layer: consists of osteoprogenitor cells, osteoblasts, bone-     lining cells and osteoclasts; fxns in bone growth, repair &amp; remodeling  27 in the images to the left, the dense irregular ct of the periosteum blends with the dense irregular ct of the epimysium surrounding a skeletal muscle, thus attaching muscle to bone. collagen type i fibres of the periosteum blend with collagen type i fibres of superficial circumferential osteons and are cemented there into the bone matrix; these are called perforating or sharpey’s fibres, and are more robust at points of ligament or tendon attachment, where tensile forces are greatest. </slidetext>
+      <slidetext slideid="6GhRUbvy6XM.5fyuEmeN2wN" slidebank="false" type="slide">next previous h3   bone coverings: endosteum is simpler endosteum lines the: marrow cavity trabeculae of spongy bone central &amp; perforating canals of compact bone it is an incomplete layer consisting of osteoprogenitor cells, osteoblasts, bone-lining cells and osteoclasts. it functions in bone growth, repair, remodeling. 28 </slidetext>
+      <slidetext slideid="6GhRUbvy6XM.6cQ3aOw7FcF" slidebank="false" type="slide">next previous h3  ossification like all other mature connective tissues, bone tissue develops from embryonic connective tissue, called mesenchyme.  the process of bone formation is called ossification. bone can develop directly from mesenchyme, via a process called intramembraneous ossification. alternatively, the formation of bone can involve an intermediate step during which a hyaline cartilage model of the mature bone forms initially from mesenchyme, followed by conversion of this cartilaginous precursor into bone. this latter form of bone formation is called endochondral ossification. in both cases, the bone matrix formed is initially immature, or woven bone. conversion to mature, lamellated bone, whether compact or spongy, occurs subsequently through remodeling. 29 </slidetext>
+      <slidetext slideid="6GhRUbvy6XM.6EqY255wLRq" slidebank="false" type="slide">next previous h3   intramembraneous ossification 30 forms flat bones of the skull, sesamoid bones (e.g. the patella), contributes to the formation of long bones. in the embryo, where bone is to form, mesenchymal cells aggregate, differentiate into osteoblasts.  amassed osteoblasts form ossification centres (in pink), secrete osteoid, then mineralize it extracellularly. oosteoblasts are connected by both adherent junctions and communicating (gap) junctions; as they secrete osteoid, the cells move apart but remain physically and functionally connected by extending cell processes and maintaining these intercellular connections. as osteoblasts and their cell processes become surrounded by osteoid, they differentiate into osteocytes. osteocytes occupy lacunae, their cell processes occupy canaliculi. ossification centers fuse, forming boney spicules. as spicules interconnect, blood vessels become surrounded and entrapped. immature (non-lamellated) bone is remodeled to form lamellated compact bone at the surfaces, spongy bone within. entrapped blood vessels form the perforating, central as of compact bone or the rich vasculature of bone marrow of spongy bone     . </slidetext>
+      <slidetext slideid="6GhRUbvy6XM.68O52WQv5cy" slidebank="false" type="slide">next previous h3   endochondral ossification i 31 many skeletal elements originate embryologically as cartilaginous models that are subsequently ossified. endochondral ossification is principally responsible for the formation of long and short bones. hyaline cartilage model of long bone grows via interstitial     and appositional      means. undifferentiated mesenchymal cells of the perichondrium around the diaphysis differentiate into osteoblasts and form the bone collar via intramembranous bone formation; diaphyseal chondrocytes undergo apoptosis; cartilage matrix degenerates and calcifies blood vessels, ct invade diaphysis in response to vegf      secreted by deteriorating chondrocytes; brings mesenchymal cells, which differentiate into osteoblasts; osteoblasts deposit bone matrix onto calcified cartilage in primary ossification centre.  </slidetext>
+      <slidetext slideid="6GhRUbvy6XM.6eKrP8swg92" slidebank="false" type="slide">next previous h3   endochondral ossification ii 32 remodeling creates a medullary (marrow) cavity; osteogenesis proceeds towards both epiphyses;  a 2° ossification centre forms in each epiphysis. a cartilagenous epiphyseal plate      separates the diaphysis from the epiphyses; within the epiphyseal plate, as long as the rate of chondrogenesis equals the rate of endochondral ossification, bone length will increase. maximum bone length is attained with conversion of the epiphyseal plate to bone; the epiphyseal line remains as evidence of the epiphyseal plate; articular cartilage persists at both ends. </slidetext>
+      <slidetext slideid="6GhRUbvy6XM.6qZE9njvhz1" slidebank="false" type="slide">next previous h3   increasing bone diameter on the external surface of a growing bone, osteoblast activity in the cellular layer of the periosteum deposits bone matrix, thus increasing bone diameter. this initially forms circumferential lamellae, which are later remodeled into osteons. simultaneously, the medullary cavity is enlarged by osteoclast activity within the endosteum. this addition of bone matrix to the external surface of a growing bone, while resorbing bone from the internal surface of the marrow cavity, maintains the appropriate thickness of compact bone and the balance of bone mass to strength. 33 </slidetext>
+      <slidetext slideid="6GhRUbvy6XM.5WC7doGX24j" slidebank="false" type="slide">next previous h3   bone remodeling throughout life, there is continuous resorption and deposition of matrix. osteoclasts break down matrix, releasing cytokines and growth factors which stimulate osteoblasts to synthesize new matrix the balance in osteoblast to osteoclast activity determines the changes in bone mass: osteoblast activity &gt; osteoclast activity = increasing bone mass/hypertrophy osteoblast activity &lt; osteoclast activity = loss of bone mass/atrophy bone adapts to applied forces to achieve maximal strength with minimal mass. 34 </slidetext>
+      <slidetext slideid="6GhRUbvy6XM.6S1noEWqwbM" slidebank="false" type="slide">h3   summary we have learned about two supporting connective tissue types in this module, cartilage and bone.  by now, you should be able to identify and differentiate between the two types of connective tissue. you will know whether you have a good grasp of the material if you are able to answer the following questions:  what are the characteristics and functions of cartilage/ bone? describe the composition and components of cartilage/ bone. describe the processes of interstitial and appositional growth of cartilage. what about processes of bone     formation? lists various subtypes of cartilages, relate their properties to their functions and locations. compare compact bone to spongy bone in terms of organization, function and location. describe the purpose and mechanism of bone remodeling. how does this related to bone growth? what two processes occur in the epiphyseal plate? name the zones of the epiphyseal plate.     next previous 35 </slidetext>
+      <slidetext slideid="6GhRUbvy6XM.5yotfWwmLaj" slidebank="false" type="slide">next previous h3   quiz skip 36 press or swipe next to start the quiz or skip to end h3. welcome to the quiz for h3!  review h3 cartilage &amp; bone review h3 cartilage &amp; bone review h3 cartilage &amp; bone review h3 cartilage &amp; bone review h3 cartilage &amp; bone </slidetext>
+      <slidetext slideid="6GhRUbvy6XM.5rmUhnBEkIj" slidebank="false" type="slide">cartilage is avascular but innervated. cartilage is avascular but innervated. cartilage is avascular but innervated. cartilage is avascular but innervated. cartilage is avascular but innervated. cartilage is avascular but innervated. cartilages produce atp largely by aerobic means. cartilages produce atp largely by aerobic means. cartilages produce atp largely by aerobic means. cartilages produce atp largely by aerobic means. cartilages produce atp largely by aerobic means. cartilages produce atp largely by aerobic means. cartilages withstand compressive force because of the highly hydrated nature of its matrix. cartilages withstand compressive force because of the highly hydrated nature of its matrix. cartilages withstand compressive force because of the highly hydrated nature of its matrix. cartilages withstand compressive force because of the highly hydrated nature of its matrix. cartilages withstand compressive force because of the highly hydrated nature of its matrix. cartilages withstand compressive force because of the highly hydrated nature of its matrix. cartilage plays a role in intramembraneous ossification. cartilage plays a role in intramembraneous ossification. cartilage plays a role in intramembraneous ossification. cartilage plays a role in intramembraneous ossification. cartilage plays a role in intramembraneous ossification. cartilage plays a role in intramembraneous ossification. unlike most connective tissues, cartilages contain more cells than matrix. unlike most connective tissues, cartilages contain more cells than matrix. unlike most connective tissues, cartilages contain more cells than matrix. unlike most connective tissues, cartilages contain more cells than matrix. unlike most connective tissues, cartilages contain more cells than matrix. unlike most connective tissues, cartilages contain more cells than matrix. 1. from the options listed below, choose the correct statement(s) regarding cartilage. submit h3   quiz </slidetext>
+      <slidetext slideid="6GhRUbvy6XM.6UmPBxenRQy" slidebank="false" type="slide">in compact bone, matrix is organized in lamellae, whereas in spongy bone it is not. in compact bone, matrix is organized in lamellae, whereas in spongy bone it is not. in compact bone, matrix is organized in lamellae, whereas in spongy bone it is not. in compact bone, matrix is organized in lamellae, whereas in spongy bone it is not. in compact bone, matrix is organized in lamellae, whereas in spongy bone it is not. in compact bone, matrix is organized in lamellae, whereas in spongy bone it is not. osteocytes are derived from osteoblasts. osteocytes are derived from osteoblasts. osteocytes are derived from osteoblasts. osteocytes are derived from osteoblasts. osteocytes are derived from osteoblasts. osteocytes are derived from osteoblasts. it can withstand a certain amount of bending, owing to the inorganic salts in its matrix. it can withstand a certain amount of bending, owing to the inorganic salts in its matrix. it can withstand a certain amount of bending, owing to the inorganic salts in its matrix. it can withstand a certain amount of bending, owing to the inorganic salts in its matrix. it can withstand a certain amount of bending, owing to the inorganic salts in its matrix. it can withstand a certain amount of bending, owing to the inorganic salts in its matrix. the collagen fibre content of its matrix imparts it with compressional strength. the collagen fibre content of its matrix imparts it with compressional strength. the collagen fibre content of its matrix imparts it with compressional strength. the collagen fibre content of its matrix imparts it with compressional strength. the collagen fibre content of its matrix imparts it with compressional strength. the collagen fibre content of its matrix imparts it with compressional strength. bone tissue is avascular and therefore dependent on diffusion of metabolites from surrounding tissues for its needs. bone tissue is avascular and therefore dependent on diffusion of metabolites from surrounding tissues for its needs. bone tissue is avascular and therefore dependent on diffusion of metabolites from surrounding tissues for its needs. bone tissue is avascular and therefore dependent on diffusion of metabolites from surrounding tissues for its needs. bone tissue is avascular and therefore dependent on diffusion of metabolites from surrounding tissues for its needs. bone tissue is avascular and therefore dependent on diffusion of metabolites from surrounding tissues for its needs. osteocytes may be present on the surface of bone matrix. osteocytes may be present on the surface of bone matrix. osteocytes may be present on the surface of bone matrix. osteocytes may be present on the surface of bone matrix. osteocytes may be present on the surface of bone matrix. osteocytes may be present on the surface of bone matrix. 2. from the options listed below, choose the correct statement(s) regarding bone tissue. submit h3   quiz </slidetext>
+      <slidetext slideid="6GhRUbvy6XM.6BGcCPSLPbJ" slidebank="false" type="slide">central canal central canal central canal central canal central canal central canal interstitial lamellae interstitial lamellae interstitial lamellae interstitial lamellae interstitial lamellae interstitial lamellae concentric lamellae concentric lamellae concentric lamellae concentric lamellae concentric lamellae concentric lamellae circumferential lamellae circumferential lamellae circumferential lamellae circumferential lamellae circumferential lamellae circumferential lamellae perforating canal perforating canal perforating canal perforating canal perforating canal perforating canal osteocytes  osteocytes  osteocytes  osteocytes  osteocytes  osteocytes  osteoblasts osteoblasts osteoblasts osteoblasts osteoblasts osteoblasts osteoclasts osteoclasts osteoclasts osteoclasts osteoclasts osteoclasts canaliculi canaliculi canaliculi canaliculi canaliculi canaliculi 3. from the options listed below, choose the component(s) of an osteon. submit h3   quiz </slidetext>
+      <slidetext slideid="6GhRUbvy6XM.6oPot24r06T" slidebank="false" type="slide">4. the dominant cell type in the fibrous layer of the periosteum is the _____________. osteoprogenitor cells osteoblasts osteoclasts bone-lining cells fibrocytes submit h3   quiz </slidetext>
+      <slidetext slideid="6GhRUbvy6XM.6lxMCO8juYU" slidebank="false" type="slide">5. what substance in the ecm of cartilage binds aggrecan monomers? type ii collagen fibrils chondrocytes hyaluronic acid bone-lining cells fibrocytes submit h3   quiz </slidetext>
+      <slidetext slideid="6GhRUbvy6XM.6EFpmKAWsNA" slidebank="false" type="slide">6. identify the class of tissue. be specific. articular cartilage articular cartilage articular cartilage articular cartilage articular cartilage articular cartilage fibrocartilage fibrocartilage fibrocartilage fibrocartilage fibrocartilage fibrocartilage elastic cartilage elastic cartilage elastic cartilage elastic cartilage elastic cartilage elastic cartilage bone bone bone bone bone bone submit h3   quiz </slidetext>
+      <slidetext slideid="6GhRUbvy6XM.5sN9eyV1VEL" slidebank="false" type="slide">submit 7. name the dominant cell type in this tissue as indicated by a. h3   quiz </slidetext>
+      <slidetext slideid="6GhRUbvy6XM.6leGy1OWbP8" slidebank="false" type="slide">submit 8. what is encircled in black? be specific. h3   quiz </slidetext>
+      <slidetext slideid="6GhRUbvy6XM.5x4rKoNLkxQ" slidebank="false" type="slide">submit 9. what is the dominant fibre type in tissue a? h3   quiz </slidetext>
+      <slidetext slideid="6GhRUbvy6XM.5oqCs602j4G" slidebank="false" type="slide">submit 10. identify the class of tissue. be specific. h3   quiz </slidetext>
+      <slidetext slideid="6GhRUbvy6XM.5wuIEIf4S1l" slidebank="false" type="slide">submit 11. what is the dominant fibre type present in this tissue? h3   quiz </slidetext>
+      <slidetext slideid="6GhRUbvy6XM.6hoFedmT0JI" slidebank="false" type="slide">submit 12. identify layer a. be specific. h3   quiz </slidetext>
+      <slidetext slideid="6GhRUbvy6XM.6ohucPrFwBS" slidebank="false" type="slide">submit 13. what is the main cell type in layer a? h3   quiz </slidetext>
+      <slidetext slideid="6GhRUbvy6XM.6qcxkx2vvo2" slidebank="false" type="slide">submit 14. identify layer b. be specific. h3   quiz </slidetext>
+      <slidetext slideid="6GhRUbvy6XM.6Z5UnRu5Ndp" slidebank="false" type="slide">submit 15. what is the main cell type in layer b? h3   quiz </slidetext>
+      <slidetext slideid="6GhRUbvy6XM.6BuS7jKXMk6" slidebank="false" type="slide">submit 16. what is the specific name of space a? h3   quiz </slidetext>
+      <slidetext slideid="6GhRUbvy6XM.6CZiWyyUZfZ" slidebank="false" type="slide">submit 17. identify the structures indicated by the arrows.  h3   quiz </slidetext>
+      <slidetext slideid="6GhRUbvy6XM.6i6zaaQKi24" slidebank="false" type="slide">submit 18. identify the cell type indicated by the arrows. h3   quiz </slidetext>
+      <slidetext slideid="6GhRUbvy6XM.6VIu21rdb6m" slidebank="false" type="slide">submit 19. identify the cells indicated by the arrows. h3   quiz </slidetext>
+      <slidetext slideid="6GhRUbvy6XM.65MQ4lIUrPn" slidebank="false" type="slide">submit 20. what is the name of the spaces that contains these cells? h3   quiz </slidetext>
+      <slidetext slideid="6GhRUbvy6XM.641tWUEsVCt" slidebank="false" type="slide">submit 21. identify the cell type indicated by the arrows. h3   quiz </slidetext>
+      <slidetext slideid="6GhRUbvy6XM.5YnSD1RBkjk" slidebank="false" type="slide">submit 22. identify the cells indicated by the arrows. h3   quiz </slidetext>
+      <slidetext slideid="6GhRUbvy6XM.5yyZoFWKvyd" slidebank="false" type="slide">submit 23. identify layer a. be specific. h3   quiz </slidetext>
+      <slidetext slideid="6GhRUbvy6XM.5xd3FS4s6op" slidebank="false" type="slide">submit 24. identify layer a. be specific. h3   quiz </slidetext>
+      <slidetext slideid="6GhRUbvy6XM.67abtvHIuVj" slidebank="false" type="slide">submit 25. identify the layer indicated by the arrows. h3   quiz </slidetext>
+      <slidetext slideid="6GhRUbvy6XM.6f4OCEqKwxK" slidebank="false" type="slide">26. identify the structure on the right. be specific. submit h3   quiz </slidetext>
+      <slidetext slideid="6GhRUbvy6XM.6KaOOErmGeI" slidebank="false" type="slide">27. from the options listed below, identify zone b.  zone of reserve/zone of resting cartilage  zone of reserve/zone of resting cartilage  zone of reserve/zone of resting cartilage  zone of reserve/zone of resting cartilage  zone of reserve/zone of resting cartilage  zone of reserve/zone of resting cartilage  zone of proliferation zone of proliferation zone of proliferation zone of proliferation zone of proliferation zone of proliferation zone of cell maturation and hypertrophy zone of cell maturation and hypertrophy zone of cell maturation and hypertrophy zone of cell maturation and hypertrophy zone of cell maturation and hypertrophy zone of cell maturation and hypertrophy zone of calcifying cartilage  zone of calcifying cartilage  zone of calcifying cartilage  zone of calcifying cartilage  zone of calcifying cartilage  zone of calcifying cartilage  zone of ossification zone of ossification zone of ossification zone of ossification zone of ossification zone of ossification h3   quiz submit </slidetext>
+      <slidetext slideid="6GhRUbvy6XM.6LIblOwMrND" slidebank="false" type="slide">28. from the options listed below, identify zone e.  zone of reserve/zone of resting cartilage  zone of reserve/zone of resting cartilage  zone of reserve/zone of resting cartilage  zone of reserve/zone of resting cartilage  zone of reserve/zone of resting cartilage  zone of reserve/zone of resting cartilage  zone of proliferation zone of proliferation zone of proliferation zone of proliferation zone of proliferation zone of proliferation zone of cell maturation and hypertrophy zone of cell maturation and hypertrophy zone of cell maturation and hypertrophy zone of cell maturation and hypertrophy zone of cell maturation and hypertrophy zone of cell maturation and hypertrophy zone of calcifying cartilage  zone of calcifying cartilage  zone of calcifying cartilage  zone of calcifying cartilage  zone of calcifying cartilage  zone of calcifying cartilage  zone of ossification zone of ossification zone of ossification zone of ossification zone of ossification zone of ossification h3   quiz submit </slidetext>
+      <slidetext slideid="6GhRUbvy6XM.5oM3ULqlRuV" slidebank="false" type="slide">29. from the options listed below, identify zone a.  zone of reserve/zone of resting cartilage  zone of reserve/zone of resting cartilage  zone of reserve/zone of resting cartilage  zone of reserve/zone of resting cartilage  zone of reserve/zone of resting cartilage  zone of reserve/zone of resting cartilage  zone of proliferation zone of proliferation zone of proliferation zone of proliferation zone of proliferation zone of proliferation zone of cell maturation and hypertrophy zone of cell maturation and hypertrophy zone of cell maturation and hypertrophy zone of cell maturation and hypertrophy zone of cell maturation and hypertrophy zone of cell maturation and hypertrophy zone of calcifying cartilage  zone of calcifying cartilage  zone of calcifying cartilage  zone of calcifying cartilage  zone of calcifying cartilage  zone of calcifying cartilage  zone of ossification zone of ossification zone of ossification zone of ossification zone of ossification zone of ossification h3   quiz submit </slidetext>
+      <slidetext slideid="6GhRUbvy6XM.5jZYLmzRRW2" slidebank="false" type="slide">30. from the options listed below, identify zone c.  zone of reserve/zone of resting cartilage  zone of reserve/zone of resting cartilage  zone of reserve/zone of resting cartilage  zone of reserve/zone of resting cartilage  zone of reserve/zone of resting cartilage  zone of reserve/zone of resting cartilage  zone of proliferation zone of proliferation zone of proliferation zone of proliferation zone of proliferation zone of proliferation zone of cell maturation and hypertrophy zone of cell maturation and hypertrophy zone of cell maturation and hypertrophy zone of cell maturation and hypertrophy zone of cell maturation and hypertrophy zone of cell maturation and hypertrophy zone of calcifying cartilage  zone of calcifying cartilage  zone of calcifying cartilage  zone of calcifying cartilage  zone of calcifying cartilage  zone of calcifying cartilage  zone of ossification zone of ossification zone of ossification zone of ossification zone of ossification zone of ossification h3   quiz submit </slidetext>
+      <slidetext slideid="6GhRUbvy6XM.5xWgGYljK3i" slidebank="false" type="slide">31. from the options listed below, identify zone d.  zone of reserve/zone of resting cartilage  zone of reserve/zone of resting cartilage  zone of reserve/zone of resting cartilage  zone of reserve/zone of resting cartilage  zone of reserve/zone of resting cartilage  zone of reserve/zone of resting cartilage  zone of proliferation zone of proliferation zone of proliferation zone of proliferation zone of proliferation zone of proliferation zone of cell maturation and hypertrophy zone of cell maturation and hypertrophy zone of cell maturation and hypertrophy zone of cell maturation and hypertrophy zone of cell maturation and hypertrophy zone of cell maturation and hypertrophy zone of calcifying cartilage  zone of calcifying cartilage  zone of calcifying cartilage  zone of calcifying cartilage  zone of calcifying cartilage  zone of calcifying cartilage  zone of ossification zone of ossification zone of ossification zone of ossification zone of ossification zone of ossification h3   quiz submit </slidetext>
+      <slidetext slideid="6GhRUbvy6XM.6p3jZGaXofW" slidebank="false" type="slide">congratulations on finishing h3 cartilage and bone! review h3 review h3 review h3 previous h3   end of h3 </slidetext>
+      <slidetext slideid="6SpHYr8KLgU.5ehnvux3cMR" slidebank="false" type="slide">acknowledgements previous © 2019 author and emodule developer: barbara ballyk, ph.d. associate professor, teaching stream division of anatomy, department of surgery faculty of medicine, university of toronto emodule production: kristy cheung, b.sc.h., m.sc. candidate, clinical anatomy, western university gianluca sampieri, m.sc.md candidate class of 2021faculty of medicine, university of toronto albert gheorghita, m.sc.md candidate class of 2020faculty of medicine, university of toronto julian manzone, m.sc. md candidate class of 2019 faculty of medicine, university of toronto </slidetext>
+    </search>
+  </nav_data>
+  <resource_data description="" />
+  <transcript_data>
+    <slidetranscripts>
+      <slidetranscript slideid="6GhRUbvy6XM.5fp0hv75GI7" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="0">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Calibri' size='12.5pt' style="font-size:12.5pt;" color='#ffffff'&gt;we need objectives&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+    </slidetranscripts>
+  </transcript_data>
+  <glossary_data />
+</bwFrame>

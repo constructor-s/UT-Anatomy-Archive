@@ -1,0 +1,1323 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="npnxnanbnsnfns01001000011" textdirection="ltr" device="false" fontscale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="classic">
+  <layouts>
+    <layout name="npnxnanbsnfns01001000011" font="Calibri" controllayout="npnxnanbsnfns01001000011" colorscheme="npnxnanbnsnfns01001000011" string_table="npnxnanbnsnfns01001000011" />
+    <layout name="pxabnsnfns01001000011" font="Calibri" controllayout="pxabnsnfns01001000011" colorscheme="npnxnanbnsnfns01001000011" string_table="npnxnanbnsnfns01001000011" />
+    <layout name="npxnabnsnfns01001000011" font="Calibri" controllayout="npxnabnsnfns01001000011" colorscheme="npnxnanbnsnfns01001000011" string_table="npnxnanbnsnfns01001000011" />
+    <layout name="npnxnanbnsnfns01001000011" font="Calibri" controllayout="npnxnanbnsnfns01001000011" colorscheme="npnxnanbnsnfns01001000011" string_table="npnxnanbnsnfns01001000011" />
+    <layout name="pxabnsnfns01001000010" font="Calibri" controllayout="pxabnsnfns01001000010" colorscheme="npnxnanbnsnfns01001000011" string_table="npnxnanbnsnfns01001000011" />
+    <layout name="npnxabnsnfns01001000011" font="Calibri" controllayout="npnxabnsnfns01001000011" colorscheme="npnxnanbnsnfns01001000011" string_table="npnxnanbnsnfns01001000011" />
+  </layouts>
+  <control_options>
+    <optiongroups>
+      <optiongroup name="sidebaroptions">
+        <options>
+          <option name="title_enabled" value="true">
+            <options>
+              <option name="title_text" value="H05 Neural Tissue 2019" />
+            </options>
+          </option>
+          <option name="logo_enabled" value="true">
+            <options>
+              <option name="logo_url" value="story_content/logo.swf">
+                <properties>
+                  <property name="width" value="1024" />
+                  <property name="height" value="229" />
+                </properties>
+              </option>
+              <option name="html5_logo_url" value="mobile/5qF9qYLQ1Dx.jpg" />
+            </options>
+          </option>
+          <option name="sidebar_enabled" value="true">
+            <options>
+              <option name="sidebarpos" value="left" />
+            </options>
+          </option>
+          <optionlist name="tabs">
+            <listitems>
+              <listitem name="customlink" value="true" group="linkleft">
+                <properties>
+                  <property name="title" value="Acknowledgments" />
+                  <property name="data" value="5toZT0PPlEg" />
+                  <property name="ignoreSlideLock" value="true" />
+                </properties>
+              </listitem>
+              <listitem name="resources" value="false" group="linkright" />
+              <listitem name="outline" value="true" group="sidebar" />
+              <listitem name="glossary" value="false" group="sidebar" />
+              <listitem name="transcript" value="false" group="sidebar" />
+            </listitems>
+          </optionlist>
+          <option name="time_enabled" value="false">
+            <options>
+              <option name="time_format" value="elapsed" />
+            </options>
+          </option>
+          <option name="video_enabled" value="false">
+            <options>
+              <option name="height" value="135" />
+            </options>
+          </option>
+        </options>
+      </optiongroup>
+      <optiongroup name="menuoptions">
+        <options>
+          <option name="flow" value="free" />
+          <option name="wraplistitems" value="false" />
+          <option name="tooltips" value="true" />
+          <option name="autocollapse" value="true" />
+          <option name="autonumber" value="false" />
+          <option name="enableresultsicons" value="true" />
+        </options>
+      </optiongroup>
+      <optiongroup name="controls">
+        <options>
+          <option name="volume" value="false" />
+          <option name="seekbar" value="false">
+            <options>
+              <option name="readonly" value="false" />
+              <option name="readonlyOnce" value="false" />
+            </options>
+          </option>
+          <option name="pauseplay" value="false" />
+          <option name="replay" value="false" />
+          <option name="search" value="true" />
+          <option name="closed_captions" value="true">
+            <options>
+              <option name="font" value="Calibri" />
+            </options>
+          </option>
+        </options>
+      </optiongroup>
+      <optiongroup name="bottombaroptions">
+        <options>
+          <option name="bottombar_enabled" value="false" />
+        </options>
+      </optiongroup>
+    </optiongroups>
+  </control_options>
+  <control_layouts>
+    <control_layout name="npnxnanbsnfns01001000011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="true" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns01001000011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npxnabnsnfns01001000011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npnxnanbnsnfns01001000011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns01001000010">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="false" />
+    </control_layout>
+    <control_layout name="npnxabnsnfns01001000011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+  </control_layouts>
+  <colorschemes>
+    <colorscheme name="npnxnanbnsnfns01001000011">
+      <color_group name="infopanel">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x7C2280" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0000EE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC73013" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="title_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x999999" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="infopanelpopup">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFC4A2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xED5736" alpha="100" stop="0" />
+                <color rgb="0xD44120" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFC4A2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bio_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="timer">
+        <group_colors>
+          <color name="duration">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x00D7FF" alpha="100" stop="0" />
+                <color rgb="0x00ABFF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="elapsed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFEE347" alpha="100" stop="0" />
+                <color rgb="0xFCCC2A" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="stroke">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC7C7C7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="window">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xED5736" alpha="100" stop="0" />
+                <color rgb="0xD44120" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xEB8964" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF49277" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD63F21" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="20" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="editor">
+        <group_colors>
+          <color name="slide_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="html_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC23115" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC93518" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE15429" alpha="100" stop="0" />
+                <color rgb="0xC42D16" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD84121" alpha="100" stop="0" />
+                <color rgb="0xDE4C27" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE1512A" alpha="100" stop="0" />
+                <color rgb="0xD63A1D" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="listitem">
+        <group_colors>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x671B6B" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF98E6E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="viewed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFC4A2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF17D5E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="lines">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDA563A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="glossary">
+        <group_colors>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF98E6E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE85F39" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD96244" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD96244" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF98B6A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xEC7B59" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="resource">
+        <group_colors>
+          <color name="separator">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD35338" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="outline">
+        <group_colors>
+          <color name="search_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFC4A2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD35338" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xEB9471" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCF5336" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="transcript">
+        <group_colors>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="div">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD35338" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="tabs">
+        <group_colors>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC73013" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFC4A2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xED7254" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="seekcontrol">
+        <group_colors>
+          <color name="btn_icon_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFE1D0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_position">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE97D65" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD33F1F" alpha="100" stop="0" />
+                <color rgb="0xCA3416" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC32E13" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE65832" alpha="100" stop="0" />
+                <color rgb="0xDF3F23" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="searchinput">
+        <group_colors>
+          <color name="text_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2D2D2D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2D2D2D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xEB9471" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE76E52" alpha="100" stop="0" />
+                <color rgb="0xE2694D" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icon">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD7654B" alpha="100" stop="0" />
+                <color rgb="0xC42F13" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="scrollarea">
+        <group_colors>
+          <color name="detailb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCA3518" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="detaila">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xEA7C5D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCB3519" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icons">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCA3417" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE55D3B" alpha="100" stop="0" />
+                <color rgb="0xDB4D32" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE2522C" alpha="100" stop="0" />
+                <color rgb="0xD93E20" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF8795B" alpha="100" stop="0" />
+                <color rgb="0xF8795B" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="0">
+              <colors>
+                <color rgb="0xED6546" alpha="100" stop="0" />
+                <color rgb="0xEE6948" alpha="100" stop="128" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="menu">
+        <group_colors>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD35235" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xED7254" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="logo">
+        <group_colors>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC73013" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="checkbox">
+        <group_colors>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6BF8FF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="check">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2BC400" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD35338" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="button">
+        <group_colors>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC23115" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC93518" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE15429" alpha="100" stop="0" />
+                <color rgb="0xC42D16" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD84121" alpha="100" stop="0" />
+                <color rgb="0xDE4C27" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE1512A" alpha="100" stop="0" />
+                <color rgb="0xD63A1D" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="10" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="base">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD63F21" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF49277" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="menu_shade">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDD5233" alpha="100" stop="0" />
+                <color rgb="0xC53D1E" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF5674A" alpha="100" stop="0" />
+                <color rgb="0xF5674A" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xED5736" alpha="100" stop="0" />
+                <color rgb="0xD44120" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slide_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xED5736" alpha="100" stop="0" />
+                <color rgb="0xD44120" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="volume">
+        <group_colors>
+          <color name="thumb_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCB361A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE55E3B" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDB4524" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF26E50" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE75E36" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="HTML">
+        <group_colors>
+          <color name="htmlpage_bg_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x018CB0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+    </colorscheme>
+  </colorschemes>
+  <string_tables>
+    <string_table name="npnxnanbnsnfns01001000011">
+      <string id="acc_active">active</string>
+      <string id="check_include">Check to include</string>
+      <string id="clear">Clear and return to menu</string>
+      <string id="close">Close</string>
+      <string id="acc_closed_captions">Closed captions. Press the spacebar to toggle captions on and off.</string>
+      <string id="continue">Continue</string>
+      <string id="continueresponsive">Continue</string>
+      <string id="exit">Exit</string>
+      <string id="filter">Filter</string>
+      <string id="finish">FINISH</string>
+      <string id="acc_finish">finish</string>
+      <string id="definition">Definition</string>
+      <string id="acc_definition">definition</string>
+      <string id="glossary">Glossary</string>
+      <string id="terms">Terms</string>
+      <string id="outline">Menu</string>
+      <string id="disabled_orientation">Please rotate your device</string>
+      <string id="next">NEXT</string>
+      <string id="acc_next">next</string>
+      <string id="transcript_chk">Notes</string>
+      <string id="transcript">Notes</string>
+      <string id="bio">Bio</string>
+      <string id="more_info">More info</string>
+      <string id="closed_captions">Captions</string>
+      <string id="acc_pause">pause</string>
+      <string id="acc_play">play</string>
+      <string id="send_an_email">Send an email</string>
+      <string id="prev">PREV</string>
+      <string id="acc_previous">previous</string>
+      <string id="question_list">Question List</string>
+      <string id="acc_replay">replay</string>
+      <string id="resources">Resources</string>
+      <string id="acc_resources">resources</string>
+      <string id="restart">Restart</string>
+      <string id="resume">Resume</string>
+      <string id="search">Search...</string>
+      <string id="acc_search_input">search</string>
+      <string id="search_in">Search in:</string>
+      <string id="search_results">Search Results</string>
+      <string id="acc_skipnavigation">Skip navigation. Press enter to return to the slide.</string>
+      <string id="slide_text_chk">Slide Text</string>
+      <string id="submitall">SUBMIT ALL</string>
+      <string id="acc_submitall">submit all</string>
+      <string id="submit">SUBMIT</string>
+      <string id="acc_submit">submit</string>
+      <string id="acc_volume">volume</string>
+    </string_table>
+  </string_tables>
+  <fonts>
+    <font name="Calibri">
+      <files>
+        <file bold="true" italic="false" />
+        <file bold="false" italic="false" />
+      </files>
+    </font>
+  </fonts>
+  <sounds enabled="true" />
+  <nav_data>
+    <outline>
+      <links>
+        <slidelink slideid="_player.6HTFG359OBF.604AHAGuDGf" displaytext="Start" expand="false" type="slide">
+          <links>
+            <slidelink slideid="_player.6HTFG359OBF.6fg17kTHFuu" displaytext="Using the emodule" expand="false" type="slide" />
+            <slidelink slideid="_player.6HTFG359OBF.5amnTpsr4vW" displaytext="Using the emodule" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.5jVOeqyTY3T" displaytext="H05 Neural Tissue" expand="false" type="slide">
+          <links>
+            <slidelink slideid="_player.5jVOeqyTY3T.6XyglXlx52D" displaytext="1. References" expand="false" type="slide" />
+            <slidelink slideid="_player.5jVOeqyTY3T.6SsvPJ5CZUq" displaytext="2. Objectives" expand="false" type="slide" />
+            <slidelink slideid="_player.5jVOeqyTY3T.6lTLLbu4oAT" displaytext="3. Introduction to Histology" expand="false" type="slide" />
+            <slidelink slideid="_player.5jVOeqyTY3T.5fWRCEMjGkX" displaytext="4. Functions and Cells of the Nervous System" expand="false" type="slide" />
+            <slidelink slideid="_player.5jVOeqyTY3T.5lNlg2DH1mz" displaytext="5. Neuronal Structure and Signaling I" expand="false" type="slide" />
+            <slidelink slideid="_player.5jVOeqyTY3T.5oJMBiOqNdj" displaytext="6. Neuronal Structure and Signaling II" expand="false" type="slide" />
+            <slidelink slideid="_player.5jVOeqyTY3T.5XODnhbQVSJ" displaytext="7. Neuronal Structure" expand="false" type="slide" />
+            <slidelink slideid="_player.5jVOeqyTY3T.6AYWFx47Y35" displaytext="8. Variations in Neuronal Structure" expand="false" type="slide" />
+            <slidelink slideid="_player.5jVOeqyTY3T.6kS4rBr0Ph4" displaytext="9. Steps in Synaptic Transmission" expand="false" type="slide" />
+            <slidelink slideid="_player.5jVOeqyTY3T.5cX4fE3L9N3" displaytext="10. Anatomical and Histological Subdivisions of the Nervous System" expand="false" type="slide" />
+            <slidelink slideid="_player.5jVOeqyTY3T.5V2NjPH397P" displaytext="11. Glia of the CNS: Astrocytes" expand="false" type="slide" />
+            <slidelink slideid="_player.5jVOeqyTY3T.5dY3lYqkKMD" displaytext="12. Glia of the CNS: Oligodendrocytes" expand="false" type="slide" />
+            <slidelink slideid="_player.5jVOeqyTY3T.5sjjO2EIQKr" displaytext="13. Glia of the CNS: Microglia" expand="false" type="slide" />
+            <slidelink slideid="_player.5jVOeqyTY3T.6NMZ7HNWRNd" displaytext="14. Glia of the CNS: Ependymal Cells" expand="false" type="slide" />
+            <slidelink slideid="_player.5jVOeqyTY3T.6mDSgpLLOtt" displaytext="15. Glia of the PNS: Satellite Cells" expand="false" type="slide" />
+            <slidelink slideid="_player.5jVOeqyTY3T.6dr3bjK3i1B" displaytext="16. Glia in the PNS: Schwann Cells" expand="false" type="slide" />
+            <slidelink slideid="_player.5jVOeqyTY3T.6CH3u6I62aQ" displaytext="17. Important Characteristics of the Different Cells of the CNS/PNS" expand="false" type="slide" />
+            <slidelink slideid="_player.5jVOeqyTY3T.6BnE5XKCmj0" displaytext="18. Quiz Start" expand="false" type="slide">
+              <links>
+                <slidelink slideid="_player.5jVOeqyTY3T.68mSGuvqu2s" displaytext="Question 1" expand="false" type="slide" />
+                <slidelink slideid="_player.5jVOeqyTY3T.6g0scU3yglB" displaytext="Question 2" expand="false" type="slide" />
+                <slidelink slideid="_player.5jVOeqyTY3T.5hxNC9bG60v" displaytext="Question 3" expand="false" type="slide" />
+                <slidelink slideid="_player.5jVOeqyTY3T.6cOXzKDcR1L" displaytext="Question 4" expand="false" type="slide" />
+                <slidelink slideid="_player.5jVOeqyTY3T.6oW0F5yMF7q" displaytext="Question 5" expand="false" type="slide" />
+                <slidelink slideid="_player.5jVOeqyTY3T.6EHmkF893Gm" displaytext="Question 6" expand="false" type="slide" />
+                <slidelink slideid="_player.5jVOeqyTY3T.60CPhu54Zds" displaytext="Question 7" expand="false" type="slide" />
+                <slidelink slideid="_player.5jVOeqyTY3T.6HjNhEDTsZS" displaytext="Question 8" expand="false" type="slide" />
+                <slidelink slideid="_player.5jVOeqyTY3T.5tEt1JjH4PG" displaytext="Question 9" expand="false" type="slide" />
+                <slidelink slideid="_player.5jVOeqyTY3T.5jMnL2NAZnd" displaytext="Question 10" expand="false" type="slide" />
+                <slidelink slideid="_player.5jVOeqyTY3T.6aaTnnvDUHl" displaytext="Question 11" expand="false" type="slide" />
+                <slidelink slideid="_player.5jVOeqyTY3T.5lQzIxjsQqO" displaytext="Question 12" expand="false" type="slide" />
+                <slidelink slideid="_player.5jVOeqyTY3T.6ke8Zpyy0kg" displaytext="Question 13" expand="false" type="slide" />
+                <slidelink slideid="_player.5jVOeqyTY3T.6IYfFJmMlJC" displaytext="Question 14" expand="false" type="slide" />
+                <slidelink slideid="_player.5jVOeqyTY3T.6SNdwqBezkP" displaytext="Question 15" expand="false" type="slide" />
+                <slidelink slideid="_player.5jVOeqyTY3T.69Uq0uXpwpE" displaytext="Question 16" expand="false" type="slide" />
+                <slidelink slideid="_player.5jVOeqyTY3T.6WK6IkWBesz" displaytext="Question 17" expand="false" type="slide" />
+                <slidelink slideid="_player.5jVOeqyTY3T.6ev4psCpId0" displaytext="Question 18" expand="false" type="slide" />
+              </links>
+            </slidelink>
+            <slidelink slideid="_player.5jVOeqyTY3T.6c9OXOsQKEJ" displaytext="End of H5" expand="false" type="slide" />
+          </links>
+        </slidelink>
+      </links>
+    </outline>
+    <search>
+      <slidetext slideid="6HTFG359OBF.604AHAGuDGf" slidebank="false" type="slide">neural tissue click to begin click to begin click to begin  histology emodule tutorial emodule tutorial emodule tutorial </slidetext>
+      <slidetext slideid="6HTFG359OBF.6fg17kTHFuu" slidebank="false" type="slide">to complete each section, use the next button at the bottom of the pages or press the right arrow key to move forward one page at a time.  use the menu, available by clicking “menu” at the top, to navigate to specific slides. use search to quickly find instances of relevant terms. use the previous button at the bottom of the pages or press the left arrow key to move back one page at a time. note: you can also swipe right and left in order to navigate forward and backward respectively.  previous next using the emodule case 1      introduction      approach      diagnosis </slidetext>
+      <slidetext slideid="6HTFG359OBF.5amnTpsr4vW" slidebank="false" type="slide">previous start with age, wear and tear,  info an intervertebral disc can herniate, such that the nucleus pulposus…. information that has implications for health and disease is introduced on a blue bar and continued below: conventions used in the emodule some slides contain the “slide talk” icon on the title bar. click this icon to hear me explain or elaborate on slide content.  some words are followed by an icon      ; click the icon to jump to related slides. some words are followed by an icon      ; click the icon to see a definition or explanation.  words / phrases in purple denote concepts with which you should make a point of becoming familiar. some slides contain the icon         which means that you are within a “layer” of the original slide, simply click this button in order to navigate back to the original layer of the slide. </slidetext>
+      <slidetext slideid="6SpHYr8KLgU.5ehnvux3cMR" slidebank="false" type="slide">acknowledgements previous author and emodule developer: barbara ballyk, ph.d. associate professor, teaching stream division of anatomy, department of surgery faculty of medicine, university of toronto © 2019 emodule production: kristy cheung, b.sc.h., m.sc. candidate, clinical anatomy, western university gianluca sampieri, m.sc.md candidate class of 2021faculty of medicine, university of toronto albert gheorghita, m.sc.md candidate class of 2020faculty of medicine, university of toronto julian manzone, m.sc. md candidate class of 2019 faculty of medicine, university of toronto </slidetext>
+      <slidetext slideid="5jVOeqyTY3T.6XyglXlx52D" slidebank="false" type="slide">h5 neural tissue: references previous next images from wheater’s functional histology 6th ed., © 2014 by young et al. denoted by “w”. images from junquiera’s basic histology, 14th ed., 2016, by mescher denoted by “j”. images from histology: a text and atlas 7th ed., © 2016 pawlina denoted by “p”. recommended online resources:   university of minnesota histology guide university of leeds histology guide university of michigan virtual microscopy western university virtual slide box university of illinois cell and tissue biology </slidetext>
+      <slidetext slideid="5jVOeqyTY3T.6SsvPJ5CZUq" slidebank="false" type="slide">next previous h5   objectives 2 when you have learned the material presented here, you will be able to:  describe the basic structural features of neurons and their functions in information transfer. describe how these vary between the three common structural classes of neurons. describe the basic structural features of a synapse and the sequence of steps in synaptic transmission. describe the structural differences between grey and white matter. describe the basic structure and function of glial cells of the cns and pns. describe the relationships between schwann cells and nerve fibres in myelinated and unmyelinated neurons of the pns. describe the relationships between nerve fibres and connective tissues in a peripheral nerve. identify grey matter and white matter of the cns and pns and their associated cells. </slidetext>
+      <slidetext slideid="5jVOeqyTY3T.6lTLLbu4oAT" slidebank="false" type="slide">next previous h5   introduction to histology 3 tissue: a relatively homogeneous collection of structurally and / or functionally similar cells and cell products histology: the study of anatomy at the microscopic level 4 primary tissue types: epithelial tissue connective tissue (ct), including cartilage and bone muscle tissue neural tissue tissues combine to form organs with distinct structures and functions </slidetext>
+      <slidetext slideid="5jVOeqyTY3T.5fWRCEMjGkX" slidebank="false" type="slide">next previous h5   functions and cells of the nervous system 4 functions of the nervous system sense monitor internal &amp; external environments, detecting any changes; “input” integrate compare inputs from various sensory modalities in light of past experience predict outcome of various responses, which influences decision-making re. choice of response respond via control of muscle; “output” \ communication is the defining function of nervous tissue  cells of the nervous system neurons are specialized for communication by electrical means within a cell via changes in transmembrane potential by chemical means between cells via synaptic transmission neuroglia (glia) do not participate directly in information transfer; as a group, these cells: provide structural support; there are no reticular fibres in neural tissues, so glia fulfill this role provide chemical support; they control the composition of interstitial fluid and cerebrospinal fluid (csf) and mediate metabolic exchange between blood and neurons provide immunological defense form an insulating layer, the myelin sheath around some axons </slidetext>
+      <slidetext slideid="5jVOeqyTY3T.5lNlg2DH1mz" slidebank="false" type="slide">next previous h5   neuronal structure and signaling i 5 neurons are specialized for information transfer &amp; processing at both the cellular &amp; molecular levels. histologically, there is great diversity between neuronal cell types, but the basic structural components of most neurons are similar. this structural consistency underlies the uniformity in the mechanisms of signaling regardless of whether the modality  being conveyed is vision, touch, smell, the control of muscular contraction, a thought or a prediction. the origin of signals determines the modality     , while the amplitude or frequency &amp; pattern of signaling determines intensity. </slidetext>
+      <slidetext slideid="5jVOeqyTY3T.5oJMBiOqNdj" slidebank="false" type="slide">unidirectional communication occurs electrically within a neuron via changes in transmembrane potential vm. all body cells have a vm that is used like a battery to drive biochemical processes. however, muscle cells and neurons are “excitable”; i.e. they can generate current flow across their membranes, resulting in changes in vm that propagate over the surface of the cell. in some parts of neurons these changes in vm are graded     and decremental     (e.g. receptor or synaptic potentials). in others parts, changes in vm are rapid, transient, “all or none”     electrical signals called action potentials (aps); unlike receptor or synaptic potentials, aps are non-decremental    . changes in the membrane potential of excitable cells are possible due to the specialized proteins expressed by, and present in, different regions of their membranes. unidirectional communication occurs chemically between cells at synapses via: release of neurotransmitters (nts); nts may be peptides, small molecules, etc. chemical signaling, like electrical signaling, is due to protein expression: nts are produced by enzymatic action in one cell and specific receptors (rs) for these nts are expressed by the target cell. next previous h5   neuronal structure and signaling ii 6 </slidetext>
+      <slidetext slideid="5jVOeqyTY3T.5XODnhbQVSJ" slidebank="false" type="slide">next previous h5   neuronal structure 7 neurons function in information transfer &amp; processing. there are a variety of different structurally and functionally distinct types of neurons, but their basic mechanism of signaling is constant, whether communicating visual input or controlling the mvt of a muscle. within a neuron, communication occurs unidirectionally,  neurons are “polarized”; their two ends differ in structure and fxn. dendrites: input, receptive graded electrical signals code the strength of stimulus usually numerous, highly branched, short cell body (soma): input genetic and metabolic centre of cell axon (“nerve fibre”):  integration, output begins at the axon hillock (e) fixed amplitude aps start at the initial segment usually one axon / cell; permit unidirectional flow of info vary greatly in length, so might fxn. locally or distantly may be myelinated; may be unmyelinated may branch distally, forming axon collaterals; end as: synaptic terminals: chemical transfer of information target cell type varies (other neuron, muscle, gland) w 7.1 </slidetext>
+      <slidetext slideid="5jVOeqyTY3T.6AYWFx47Y35" slidebank="false" type="slide">next previous h5   variations in neuronal structure 8 multipolar neurons are the most common. these include somatic and visceral (autonomic) motor neurons, and interneurons. bipolar neurons are involved in the reception of the “special senses” of sight, sound and balance, and as such are found in the retina, cochlea, vestibular apparatus in bipolar neurons, two processes arise from the soma; one extends peripherally, ending in dendrites, the other extends centrally to end at a synapse in the cns. pseudounipolar neurons are general sensory neurons.  their dendrites and initial segment are located in the periphery, e.g. in the skin or in the wall of a visceral organ. their axon extends from the initial segment in the periphery to end at a synapse in the cns. their cell body hangs off the axon, and is located in a sensory ganglion e.g. the dorsal root ganglion (drg), trigeminal ganglion or geniculate ganglion. </slidetext>
+      <slidetext slideid="5jVOeqyTY3T.6kS4rBr0Ph4" slidebank="false" type="slide">next previous h5   steps in synaptic transmission p12.7 9 ap arrival at terminal opens voltage-gated ca2+ channels triggers vesicular docking in the active zone neurotransmitter (nt) release by exocytosis membrane retrieved presynaptically by endocytosis postsynaptically, nt binds either ligand-gated ion channels or g-protein-coupled receptors the receptor determines the response, e.g. acetylcholine receptors (achrs)  nt removed from cleft either via reuptake or enzymatic degradation </slidetext>
+      <slidetext slideid="5jVOeqyTY3T.5cX4fE3L9N3" slidebank="false" type="slide">previous h5   anatomical and histological subdivisions of the nervous system next 10 anatomically, the nervous system is subdivided into two subdivisions: central nervous system (cns), consisting of the brain and spinal cord  peripheral nervous system (pns), consisting of all neural tissue outside of the brain and spinal cord histologically, the nervous system can be subdivided into those tissues that contain neuronal cell bodies (grey matter), and those tissues that are devoid of neuronal cell bodies (white matter). glia greatly outnumber neurons. they do not participate directly in information transfer, but play a variety of critically important roles in neural tissue.  glia of the cns are the astrocytes, oligodendrocytes, microglia and ependyma.  glia of the pns are the satellite cells and schwann cells. in the cns, the relationship of white and grey matter differs between the brain and spinal cord     . in the pns, grey and white matter is segregated between ganglia and peripheral nerves     . </slidetext>
+      <slidetext slideid="5jVOeqyTY3T.5V2NjPH397P" slidebank="false" type="slide">next previous h5   glia of the cns: astrocytes p12.17 11 astrocytes are named for their “star” shape. there are two major types: protoplasmic astrocytes predominate in grey matter and fibrous astrocytes predominate in white matter. the cellular extensions of astrocytes end in “foot processes” which contact blood vessels (bvs) &amp; neurons. astrocytes are rich in intermediate filaments composed of glial fibrillary acidic protein, gfap; antibodies to gfap are used for identification. fibrous astrocytomas (~80% of adult primary brain tumors) can be identified by their gfap specificity     . functions of astrocytes: the contact of astrocytic foot processes with bvs induces the formation of tight junctions between capillary endothelial cells, which is the histological structure of the blood-brain barrier (bbb)     . astrocytes provide structural support to the tissues of the brain and spinal cord. thus, astrocytes perform the role of reticular connective tissue     in the cns. astrocytes maintain the chemical homeostasis of ecf, e.g. by buffering k+ . </slidetext>
+      <slidetext slideid="5jVOeqyTY3T.5dY3lYqkKMD" slidebank="false" type="slide">next previous h5   glia of the cns: oligodendrocytes p12.20 12 oligodendrocytes form the myelin sheath in the cns: many layers of oligodendrocyte cell membrane wrap around an axon. one oligodendrocyte may contribute to the myelin sheath of up to 50 axons. many oligodendrocytes are required to myelinate each axon, the number determined by the length of the axon. nodes of ranvier separate oligodendrocytes along the length of an axon, and permit exposure of the axonal membrane to the extracellular fluid. they function to increase the rate of ap conduction along the length of the axon. </slidetext>
+      <slidetext slideid="5jVOeqyTY3T.5sjjO2EIQKr" slidebank="false" type="slide">next previous h5   glia of the cns: microglia p12.21 13 microglia are phagocytic cells of the macrophage / monocyte cell lineage.  normally they are few in number (~5% of glia) but when activated by damage, or infection they proliferate and become phagocytic. diffuse microgliosis results in the large number of microglial cells seen here with h&amp;e. notice the  elongated nuclei of the microglia. </slidetext>
+      <slidetext slideid="5jVOeqyTY3T.6NMZ7HNWRNd" slidebank="false" type="slide">next previous h5   glia in the cns: ependymal cells ependymal cells are ciliated cuboidal epithelial cells that line the free surfaces within the cns: the walls of the ventricles (fluid-filled spaces in the brain) and the central canal of the spinal cord. their cilia help propel csf through the ventricular system     . ependymal cells also cover the blood vessels of the choroid plexus, a brain structure that actively secretes cerebrospinal fluid (csf) into the ventricles. csf fills the spaces within the cns (i.e. the ventricles) and around the cns (i.e. the cisterns).  j9.9 14 </slidetext>
+      <slidetext slideid="5jVOeqyTY3T.6mDSgpLLOtt" slidebank="false" type="slide">next previous h5   glia of the pns: satellite cells satellite cells surround neuronal cell bodies in the pns; i.e. in ganglia, including the sensory dorsal root ganglia (as depicted on the left) and the motor autonomic (sympathetic and parasympathetic) ganglia. satellite cells regulate the cell environment by  electrically and chemically insulating the cell body. j9.9 15 n = neuronal cell body s = satellite cell l = lipofuscin (composed of the pigmented byproducts of cellular digestion that accumulate in stable, nondividing cells, such as neurons and cardiac myocytes)  </slidetext>
+      <slidetext slideid="5jVOeqyTY3T.6dr3bjK3i1B" slidebank="false" type="slide">next previous h5   glia in the pns: schwann cells schwann cells form the myelin sheath surrounding myelinated axons in the pns. each schwann cell wraps itself around a length of axon, squeezing out its cytoplasm and leaving the axon surrounded by numerous layers of schwann cell membrane. - unlike o-cytes, each schwann cell dedicates itself to a single axon - like o-cytes, many schwann cells are needed to myelinate a given axon schwann cells also have the ability to “envelope” unmyelinated axons in the pns. however, here, schwann cells do not wrap their membrane around the axon, but merely enfold it into a groove that results in the axon being surrounded by a single layer of schwann cell membrane and cytoplasm     . w7.6 w7.5 a b 16 </slidetext>
+      <slidetext slideid="5jVOeqyTY3T.6CH3u6I62aQ" slidebank="false" type="slide">h5   important characteristics of the different cells of the cns/pns neurons   neurons are “polarized”; their two ends differ in structure and fxn. astrocytes  astrocytes provide structural support to the tissues of the brain and spinal cord. thus, astrocytes perform the role of reticular connective tissue in the cns. oligodendrocytes  form the myelin sheath in the cns: many layers of oligodendrocyte cell membrane wrap around an axon (one oligodendrocyte may contribute to the myelin sheath of up to 50 axons) microglia  phagocytic cells of the macrophage / monocyte cell lineage ependymal cells  line free surfaces within the cns: the walls of the ventricles (fluid-filled spaces in the brain) and the central canal of the spinal cord satellite cells  surround neuronal cell bodies in the pns; i.e. in ganglia, including the sensory dorsal root ganglia (as depicted on the left) and the motor autonomic (sympathetic and parasympathetic) ganglia schwann cells  unlike o-cytes, each schwann cell dedicates itself to a single axon like o-cytes, many schwann cells are needed to myelinate a given axon  17 next previous </slidetext>
+      <slidetext slideid="5jVOeqyTY3T.6BnE5XKCmj0" slidebank="false" type="slide">next previous h5   quiz press or swipe next to start the quiz or skip to end h5. skip 18 welcome to the quiz for h5!  review h5 neural tissue review h5 neural tissue review h5 neural tissue review h5 neural tissue review h5 neural tissue </slidetext>
+      <slidetext slideid="5jVOeqyTY3T.68mSGuvqu2s" slidebank="false" type="slide">may be myelinated or unmyelinated may be myelinated or unmyelinated may be myelinated or unmyelinated may be myelinated or unmyelinated may be myelinated or unmyelinated may be myelinated or unmyelinated can be very long and therefore transmit information between different regions of the body can be very long and therefore transmit information between different regions of the body can be very long and therefore transmit information between different regions of the body can be very long and therefore transmit information between different regions of the body can be very long and therefore transmit information between different regions of the body can be very long and therefore transmit information between different regions of the body the amplitude of electrical signals in this region codes intensity the amplitude of electrical signals in this region codes intensity the amplitude of electrical signals in this region codes intensity the amplitude of electrical signals in this region codes intensity the amplitude of electrical signals in this region codes intensity the amplitude of electrical signals in this region codes intensity are highly branched are highly branched are highly branched are highly branched are highly branched are highly branched usually one per cell usually one per cell usually one per cell usually one per cell usually one per cell usually one per cell 1. from the following options, choose all statements that correctly describe dendrites. submit h5   quiz </slidetext>
+      <slidetext slideid="5jVOeqyTY3T.6g0scU3yglB" slidebank="false" type="slide">oligodendrocyte oligodendrocyte oligodendrocyte oligodendrocyte oligodendrocyte oligodendrocyte 2. which cell contributes to the myelin sheath surrounding numerous axons? schwann cell schwann cell schwann cell schwann cell schwann cell schwann cell microglia  microglia  microglia  microglia  microglia  microglia  ependymal cell ependymal cell ependymal cell ependymal cell ependymal cell ependymal cell satellite cell satellite cell satellite cell satellite cell satellite cell satellite cell astrocyte astrocyte astrocyte astrocyte astrocyte astrocyte submit h5   quiz </slidetext>
+      <slidetext slideid="5jVOeqyTY3T.5hxNC9bG60v" slidebank="false" type="slide">oligodendrocyte oligodendrocyte oligodendrocyte oligodendrocyte oligodendrocyte oligodendrocyte 3. which cell is derived from blood monocytes? schwann cell schwann cell schwann cell schwann cell schwann cell schwann cell microglia  microglia  microglia  microglia  microglia  microglia  ependymal cell ependymal cell ependymal cell ependymal cell ependymal cell ependymal cell satellite cell satellite cell satellite cell satellite cell satellite cell satellite cell astrocyte astrocyte astrocyte astrocyte astrocyte astrocyte submit h5   quiz </slidetext>
+      <slidetext slideid="5jVOeqyTY3T.6cOXzKDcR1L" slidebank="false" type="slide">oligodendrocyte oligodendrocyte oligodendrocyte oligodendrocyte oligodendrocyte oligodendrocyte 4. which cell provides structural support to neural tissue? schwann cell schwann cell schwann cell schwann cell schwann cell schwann cell microglia  microglia  microglia  microglia  microglia  microglia  ependymal cell ependymal cell ependymal cell ependymal cell ependymal cell ependymal cell satellite cell satellite cell satellite cell satellite cell satellite cell satellite cell astrocyte astrocyte astrocyte astrocyte astrocyte astrocyte submit h5   quiz </slidetext>
+      <slidetext slideid="5jVOeqyTY3T.6oW0F5yMF7q" slidebank="false" type="slide">oligodendrocyte oligodendrocyte oligodendrocyte oligodendrocyte oligodendrocyte oligodendrocyte 5. many of which cell type is required to completely myelinate a given axon in a peripheral nerve? schwann cell schwann cell schwann cell schwann cell schwann cell schwann cell microglia  microglia  microglia  microglia  microglia  microglia  ependymal cell ependymal cell ependymal cell ependymal cell ependymal cell ependymal cell satellite cell satellite cell satellite cell satellite cell satellite cell satellite cell astrocyte astrocyte astrocyte astrocyte astrocyte astrocyte submit h5   quiz </slidetext>
+      <slidetext slideid="5jVOeqyTY3T.6EHmkF893Gm" slidebank="false" type="slide">oligodendrocyte oligodendrocyte oligodendrocyte oligodendrocyte oligodendrocyte oligodendrocyte 6. which cell lines the free surfaces (i.e. ventricles and central canal of the spinal cord) within the cns? schwann cell schwann cell schwann cell schwann cell schwann cell schwann cell microglia  microglia  microglia  microglia  microglia  microglia  ependymal cell ependymal cell ependymal cell ependymal cell ependymal cell ependymal cell satellite cell satellite cell satellite cell satellite cell satellite cell satellite cell astrocyte astrocyte astrocyte astrocyte astrocyte astrocyte submit h5   quiz </slidetext>
+      <slidetext slideid="5jVOeqyTY3T.60CPhu54Zds" slidebank="false" type="slide">oligodendrocyte oligodendrocyte oligodendrocyte oligodendrocyte oligodendrocyte oligodendrocyte 7. which of the following is the most numerous cell that resides in the ganglia? schwann cell schwann cell schwann cell schwann cell schwann cell schwann cell microglia  microglia  microglia  microglia  microglia  microglia  ependymal cell ependymal cell ependymal cell ependymal cell ependymal cell ependymal cell satellite cell satellite cell satellite cell satellite cell satellite cell satellite cell astrocyte astrocyte astrocyte astrocyte astrocyte astrocyte submit h5   quiz </slidetext>
+      <slidetext slideid="5jVOeqyTY3T.6HjNhEDTsZS" slidebank="false" type="slide">8. identify cell type a. neuron neuron neuron neuron neuron neuron astrocyte astrocyte astrocyte astrocyte astrocyte astrocyte microglial cell microglial cell microglial cell microglial cell microglial cell microglial cell ependymal cell ependymal cell ependymal cell ependymal cell ependymal cell ependymal cell oligodendrocyte oligodendrocyte oligodendrocyte oligodendrocyte oligodendrocyte oligodendrocyte submit h5   quiz </slidetext>
+      <slidetext slideid="5jVOeqyTY3T.5tEt1JjH4PG" slidebank="false" type="slide">9. identify the structural class of cell a. be specific. multipolar neuron multipolar neuron multipolar neuron multipolar neuron multipolar neuron multipolar neuron pseudounipolar neuron pseudounipolar neuron pseudounipolar neuron pseudounipolar neuron pseudounipolar neuron pseudounipolar neuron bipolar neuron bipolar neuron bipolar neuron bipolar neuron bipolar neuron bipolar neuron astrocyte astrocyte astrocyte astrocyte astrocyte astrocyte submit h5   quiz </slidetext>
+      <slidetext slideid="5jVOeqyTY3T.5jMnL2NAZnd" slidebank="false" type="slide">10. the majority of the smaller nuclei (see arrow) belong to a specific type of cell. what is it? microglia microglia microglia microglia microglia microglia ependymal cell ependymal cell ependymal cell ependymal cell ependymal cell ependymal cell oligodendrocyte oligodendrocyte oligodendrocyte oligodendrocyte oligodendrocyte oligodendrocyte schwann cell schwann cell schwann cell schwann cell schwann cell schwann cell astrocyte astrocyte astrocyte astrocyte astrocyte astrocyte submit h5   quiz </slidetext>
+      <slidetext slideid="5jVOeqyTY3T.6aaTnnvDUHl" slidebank="false" type="slide"> 11. identify the histological feature a. be specific. dendrite dendrite dendrite dendrite dendrite dendrite soma soma soma soma soma soma axon axon axon axon axon axon axon hillock axon hillock axon hillock axon hillock axon hillock axon hillock submit h5   quiz </slidetext>
+      <slidetext slideid="5jVOeqyTY3T.5lQzIxjsQqO" slidebank="false" type="slide">12. for the cells indicated by a, identify their structural class. be specific. pseudounipolar pseudounipolar pseudounipolar pseudounipolar pseudounipolar pseudounipolar bipolar bipolar bipolar bipolar bipolar bipolar unipolar unipolar unipolar unipolar unipolar unipolar multipolar multipolar multipolar multipolar multipolar multipolar submit h5   quiz </slidetext>
+      <slidetext slideid="5jVOeqyTY3T.6ke8Zpyy0kg" slidebank="false" type="slide">13. identify the histological features indicated by b. be specific. axon hillock axon hillock axon hillock axon hillock axon hillock axon hillock axons axons axons axons axons axons soma soma soma soma soma soma dendrites dendrites dendrites dendrites dendrites dendrites submit h5   quiz </slidetext>
+      <slidetext slideid="5jVOeqyTY3T.6IYfFJmMlJC" slidebank="false" type="slide">14. identify the cell indicated by. be specific. schwann cell schwann cell schwann cell schwann cell schwann cell schwann cell oligodendrocyte oligodendrocyte oligodendrocyte oligodendrocyte oligodendrocyte oligodendrocyte myelin myelin myelin myelin myelin myelin astrocyte astrocyte astrocyte astrocyte astrocyte astrocyte satellite cell satellite cell satellite cell satellite cell satellite cell satellite cell  submit h5   quiz </slidetext>
+      <slidetext slideid="5jVOeqyTY3T.6SNdwqBezkP" slidebank="false" type="slide">endoneurium endoneurium endoneurium endoneurium endoneurium endoneurium 15. identify layer a. be specific. perineurium perineurium perineurium perineurium perineurium perineurium epineurium epineurium epineurium epineurium epineurium epineurium myelin myelin myelin myelin myelin myelin submit h5   quiz </slidetext>
+      <slidetext slideid="5jVOeqyTY3T.69Uq0uXpwpE" slidebank="false" type="slide">16. identify layer a. be specific. endoneurium endoneurium endoneurium endoneurium endoneurium endoneurium perineurium perineurium perineurium perineurium perineurium perineurium epineurium epineurium epineurium epineurium epineurium epineurium myelin myelin myelin myelin myelin myelin submit h5   quiz </slidetext>
+      <slidetext slideid="5jVOeqyTY3T.6WK6IkWBesz" slidebank="false" type="slide">endoneurium endoneurium endoneurium endoneurium endoneurium endoneurium 17. identify layer a. be specific. epineurium epineurium epineurium epineurium epineurium epineurium perineurium perineurium perineurium perineurium perineurium perineurium myelin myelin myelin myelin myelin myelin submit h5   quiz </slidetext>
+      <slidetext slideid="5jVOeqyTY3T.6ev4psCpId0" slidebank="false" type="slide">18. to what cell type do nuclei a belong? be specific. astrocytes astrocytes astrocytes astrocytes astrocytes astrocytes microglial cell microglial cell microglial cell microglial cell microglial cell microglial cell schwann cells schwann cells schwann cells schwann cells schwann cells schwann cells oligodendrocytes oligodendrocytes oligodendrocytes oligodendrocytes oligodendrocytes oligodendrocytes ependymal cells ependymal cells ependymal cells ependymal cells ependymal cells ependymal cells neurons neurons neurons neurons neurons neurons submit h5   quiz </slidetext>
+      <slidetext slideid="5jVOeqyTY3T.6c9OXOsQKEJ" slidebank="false" type="slide">congratulations on finishing h5 neural tissue! review h5 review h5 review h5 previous h5   end of h5 </slidetext>
+    </search>
+  </nav_data>
+  <resource_data description="" />
+  <transcript_data>
+    <slidetranscripts>
+      <slidetranscript slideid="5jVOeqyTY3T.5lNlg2DH1mz" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="0">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Calibri' size='12.5pt' style="font-size:12.5pt;" color='#ffffff'&gt;insert pic&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="5jVOeqyTY3T.5oJMBiOqNdj" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="1">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Calibri' size='12.5pt' style="font-size:12.5pt;" color='#ffffff'&gt;pic?&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="5jVOeqyTY3T.5XODnhbQVSJ" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="2">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Calibri' size='12.5pt' style="font-size:12.5pt;" color='#ffffff'&gt;insert footnote&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="5jVOeqyTY3T.68mSGuvqu2s" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="3">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Calibri' size='12.5pt' style="font-size:12.5pt;" color='#ffffff'&gt;Review slide 6 to learn the correct response&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="5jVOeqyTY3T.6HjNhEDTsZS" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="4">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Calibri' size='12.5pt' style="font-size:12.5pt;" color='#ffffff'&gt;Slide 6A is reference slide for learning&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+    </slidetranscripts>
+  </transcript_data>
+  <glossary_data />
+</bwFrame>

@@ -1,0 +1,1368 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="npnxabnsnfns01001000011" textdirection="ltr" device="false" fontscale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="classic">
+  <layouts>
+    <layout name="npnxnanbsnfns01001000011" font="Calibri" controllayout="npnxnanbsnfns01001000011" colorscheme="npnxabnsnfns01001000011" string_table="npnxabnsnfns01001000011" />
+    <layout name="pxabnsnfns01001000011" font="Calibri" controllayout="pxabnsnfns01001000011" colorscheme="npnxabnsnfns01001000011" string_table="npnxabnsnfns01001000011" />
+    <layout name="npxnabnsnfns01001000011" font="Calibri" controllayout="npxnabnsnfns01001000011" colorscheme="npnxabnsnfns01001000011" string_table="npnxabnsnfns01001000011" />
+    <layout name="npnxnanbnsnfns01001000011" font="Calibri" controllayout="npnxnanbnsnfns01001000011" colorscheme="npnxabnsnfns01001000011" string_table="npnxabnsnfns01001000011" />
+    <layout name="pxabnsnfns01001000010" font="Calibri" controllayout="pxabnsnfns01001000010" colorscheme="npnxabnsnfns01001000011" string_table="npnxabnsnfns01001000011" />
+    <layout name="npnxabnsnfns01001000011" font="Calibri" controllayout="npnxabnsnfns01001000011" colorscheme="npnxabnsnfns01001000011" string_table="npnxabnsnfns01001000011" />
+    <layout name="npnxanbnsnfns01001000011" font="Calibri" controllayout="npnxanbnsnfns01001000011" colorscheme="npnxabnsnfns01001000011" string_table="npnxabnsnfns01001000011" />
+  </layouts>
+  <control_options>
+    <optiongroups>
+      <optiongroup name="sidebaroptions">
+        <options>
+          <option name="title_enabled" value="true">
+            <options>
+              <option name="title_text" value="H12 The Female Reproductive System" />
+            </options>
+          </option>
+          <option name="logo_enabled" value="true">
+            <options>
+              <option name="logo_url" value="story_content/logo.swf">
+                <properties>
+                  <property name="width" value="1024" />
+                  <property name="height" value="245" />
+                </properties>
+              </option>
+              <option name="html5_logo_url" value="mobile/5e17zouqomw.png" />
+            </options>
+          </option>
+          <option name="sidebar_enabled" value="true">
+            <options>
+              <option name="sidebarpos" value="left" />
+            </options>
+          </option>
+          <optionlist name="tabs">
+            <listitems>
+              <listitem name="customlink" value="true" group="linkleft">
+                <properties>
+                  <property name="title" value="Acknowledgements" />
+                  <property name="data" value="62WilxHnbdW" />
+                  <property name="ignoreSlideLock" value="true" />
+                </properties>
+              </listitem>
+              <listitem name="resources" value="false" group="linkright" />
+              <listitem name="outline" value="true" group="sidebar" />
+              <listitem name="glossary" value="false" group="sidebar" />
+              <listitem name="transcript" value="false" group="sidebar" />
+            </listitems>
+          </optionlist>
+          <option name="time_enabled" value="false">
+            <options>
+              <option name="time_format" value="" />
+            </options>
+          </option>
+          <option name="video_enabled" value="false">
+            <options>
+              <option name="height" value="135" />
+            </options>
+          </option>
+        </options>
+      </optiongroup>
+      <optiongroup name="menuoptions">
+        <options>
+          <option name="flow" value="free" />
+          <option name="wraplistitems" value="true" />
+          <option name="tooltips" value="true" />
+          <option name="autocollapse" value="false" />
+          <option name="autonumber" value="false" />
+          <option name="enableresultsicons" value="true" />
+        </options>
+      </optiongroup>
+      <optiongroup name="controls">
+        <options>
+          <option name="volume" value="false" />
+          <option name="seekbar" value="false">
+            <options>
+              <option name="readonly" value="false" />
+            </options>
+          </option>
+          <option name="search" value="true" />
+          <option name="pauseplay" value="false" />
+          <option name="replay" value="false" />
+          <option name="closed_captions" value="false">
+            <options>
+              <option name="font" value="Calibri" />
+            </options>
+          </option>
+        </options>
+      </optiongroup>
+      <optiongroup name="bottombaroptions">
+        <options>
+          <option name="bottombar_enabled" value="false" />
+        </options>
+      </optiongroup>
+    </optiongroups>
+  </control_options>
+  <control_layouts>
+    <control_layout name="npnxnanbsnfns01001000011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="true" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns01001000011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npxnabnsnfns01001000011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npnxnanbnsnfns01001000011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns01001000010">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="false" />
+    </control_layout>
+    <control_layout name="npnxabnsnfns01001000011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npnxanbnsnfns01001000011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+  </control_layouts>
+  <colorschemes>
+    <colorscheme name="npnxabnsnfns01001000011">
+      <color_group name="infopanel">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x7C2280" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0000EE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC73013" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="title_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x999999" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="infopanelpopup">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFC4A2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xED5736" alpha="100" stop="0" />
+                <color rgb="0xD44120" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFC4A2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bio_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="timer">
+        <group_colors>
+          <color name="duration">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x00D7FF" alpha="100" stop="0" />
+                <color rgb="0x00ABFF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="elapsed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFEE347" alpha="100" stop="0" />
+                <color rgb="0xFCCC2A" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="stroke">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC7C7C7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="window">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xED5736" alpha="100" stop="0" />
+                <color rgb="0xD44120" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xEB8964" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF49277" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD63F21" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="20" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="editor">
+        <group_colors>
+          <color name="slide_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="html_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC23115" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC93518" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE15429" alpha="100" stop="0" />
+                <color rgb="0xC42D16" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD84121" alpha="100" stop="0" />
+                <color rgb="0xDE4C27" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE1512A" alpha="100" stop="0" />
+                <color rgb="0xD63A1D" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="listitem">
+        <group_colors>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x671B6B" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF98E6E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="viewed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFC4A2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF17D5E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="lines">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDA563A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="glossary">
+        <group_colors>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF98E6E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE85F39" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD96244" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD96244" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF98B6A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xEC7B59" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="resource">
+        <group_colors>
+          <color name="separator">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD35338" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="outline">
+        <group_colors>
+          <color name="search_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFC4A2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD35338" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xEB9471" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCF5336" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="transcript">
+        <group_colors>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="div">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD35338" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="tabs">
+        <group_colors>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC73013" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFC4A2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xED7254" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="seekcontrol">
+        <group_colors>
+          <color name="btn_icon_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFE1D0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_position">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE97D65" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD33F1F" alpha="100" stop="0" />
+                <color rgb="0xCA3416" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC32E13" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE65832" alpha="100" stop="0" />
+                <color rgb="0xDF3F23" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="searchinput">
+        <group_colors>
+          <color name="text_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2D2D2D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2D2D2D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xEB9471" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE76E52" alpha="100" stop="0" />
+                <color rgb="0xE2694D" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icon">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD7654B" alpha="100" stop="0" />
+                <color rgb="0xC42F13" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="scrollarea">
+        <group_colors>
+          <color name="detailb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCA3518" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="detaila">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xEA7C5D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCB3519" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icons">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCA3417" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE55D3B" alpha="100" stop="0" />
+                <color rgb="0xDB4D32" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE2522C" alpha="100" stop="0" />
+                <color rgb="0xD93E20" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF8795B" alpha="100" stop="0" />
+                <color rgb="0xF8795B" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="0">
+              <colors>
+                <color rgb="0xED6546" alpha="100" stop="0" />
+                <color rgb="0xEE6948" alpha="100" stop="128" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="menu">
+        <group_colors>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD35235" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xED7254" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="logo">
+        <group_colors>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC73013" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="checkbox">
+        <group_colors>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6BF8FF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="check">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2BC400" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD35338" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="button">
+        <group_colors>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC23115" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC93518" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE15429" alpha="100" stop="0" />
+                <color rgb="0xC42D16" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD84121" alpha="100" stop="0" />
+                <color rgb="0xDE4C27" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE1512A" alpha="100" stop="0" />
+                <color rgb="0xD63A1D" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="10" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="base">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD63F21" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF49277" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="menu_shade">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDD5233" alpha="100" stop="0" />
+                <color rgb="0xC53D1E" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF5674A" alpha="100" stop="0" />
+                <color rgb="0xF5674A" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xED5736" alpha="100" stop="0" />
+                <color rgb="0xD44120" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slide_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xED5736" alpha="100" stop="0" />
+                <color rgb="0xD44120" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="volume">
+        <group_colors>
+          <color name="thumb_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCB361A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE55E3B" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDB4524" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF26E50" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE75E36" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="HTML">
+        <group_colors>
+          <color name="htmlpage_bg_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x018CB0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+    </colorscheme>
+  </colorschemes>
+  <string_tables>
+    <string_table name="npnxabnsnfns01001000011">
+      <string id="acc_active">active</string>
+      <string id="check_include">Check to include</string>
+      <string id="clear">Clear and return to Menu</string>
+      <string id="close">Close</string>
+      <string id="acc_closed_captions">Closed captions. Press the spacebar to toggle captions on and off.</string>
+      <string id="continue">Continue</string>
+      <string id="continueresponsive">Continue</string>
+      <string id="exit">Exit</string>
+      <string id="filter">Filter</string>
+      <string id="finish">FINISH</string>
+      <string id="acc_finish">finish</string>
+      <string id="definition">Definition</string>
+      <string id="acc_definition">definition</string>
+      <string id="glossary">Glossary</string>
+      <string id="terms">Terms</string>
+      <string id="outline">Menu</string>
+      <string id="disabled_orientation">Please rotate your device</string>
+      <string id="next">NEXT</string>
+      <string id="acc_next">next</string>
+      <string id="transcript_chk">Notes</string>
+      <string id="transcript">Notes</string>
+      <string id="bio">Bio</string>
+      <string id="more_info">More info</string>
+      <string id="closed_captions">Captions</string>
+      <string id="acc_pause">pause</string>
+      <string id="acc_play">play</string>
+      <string id="send_an_email">Send an email</string>
+      <string id="prev">PREV</string>
+      <string id="acc_previous">previous</string>
+      <string id="question_list">Question List</string>
+      <string id="acc_replay">replay</string>
+      <string id="resources">Resources</string>
+      <string id="acc_resources">resources</string>
+      <string id="restart">Restart</string>
+      <string id="resume">Resume</string>
+      <string id="search">Search...</string>
+      <string id="acc_search_input">search</string>
+      <string id="search_in">Search in:</string>
+      <string id="search_results">Search Results</string>
+      <string id="acc_skipnavigation">Skip Navigation. Hit enter to return to the slide.</string>
+      <string id="slide_text_chk">Slide Text</string>
+      <string id="submitall">SUBMIT ALL</string>
+      <string id="acc_submitall">submit all</string>
+      <string id="submit">SUBMIT</string>
+      <string id="acc_submit">submit</string>
+      <string id="acc_volume">volume</string>
+    </string_table>
+  </string_tables>
+  <fonts>
+    <font name="Calibri">
+      <files>
+        <file bold="true" italic="false" />
+        <file bold="false" italic="false" />
+      </files>
+    </font>
+  </fonts>
+  <sounds enabled="true" />
+  <nav_data>
+    <outline>
+      <links>
+        <slidelink slideid="_player.6aorm6DVHdA" displaytext="Start" expand="false" type="slide">
+          <links>
+            <slidelink slideid="_player.6aorm6DVHdA.6O56eKJcFGx" displaytext="Using the emodule" expand="false" type="slide" />
+            <slidelink slideid="_player.6aorm6DVHdA.5uDw5Dk7paG" displaytext="Conventions Used in the eModule" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6BCA5eaOrnK" displaytext="H12 The Female Reproductive System" expand="false" type="slide">
+          <links>
+            <slidelink slideid="_player.6BCA5eaOrnK.6gIlRIFF1qS" displaytext="1. Resources" expand="false" type="slide" />
+            <slidelink slideid="_player.6BCA5eaOrnK.6cbUQRlTxov" displaytext="2. Objectives" expand="false" type="slide" />
+            <slidelink slideid="_player.6BCA5eaOrnK.5YdGtYaPGJY" displaytext="3. Components of The Female Reproductive System" expand="false" type="slide" />
+            <slidelink slideid="_player.6BCA5eaOrnK.5f604PyuxvW" displaytext="4. The Uterus and Fallopian Tubes are Intraperitoneal" expand="false" type="slide" />
+            <slidelink slideid="_player.6BCA5eaOrnK.61tYWGVa4eH" displaytext="5. Prenatally, the Ovaries Descend from the Posterior Body Wall" expand="false" type="slide" />
+            <slidelink slideid="_player.6BCA5eaOrnK.6dVG63DrvoJ" displaytext="6. Ovaries" expand="false" type="slide" />
+            <slidelink slideid="_player.6BCA5eaOrnK.6aiOkETE9Ix" displaytext="7. Atresia" expand="false" type="slide" />
+            <slidelink slideid="_player.6BCA5eaOrnK.67ff1ItjLwo" displaytext="8. An Overview of the Ovarian Cycle" expand="false" type="slide" />
+            <slidelink slideid="_player.6BCA5eaOrnK.5WZhAj3S62G" displaytext="9. The Follicular Phase of the Ovarian Cycle I" expand="false" type="slide" />
+            <slidelink slideid="_player.6BCA5eaOrnK.5XkBoN4PGWh" displaytext="10. The Follicular Phase of the Ovarian Cycle II" expand="false" type="slide" />
+            <slidelink slideid="_player.6BCA5eaOrnK.6f2ZIBocabI" displaytext="11. Ovulation" expand="false" type="slide" />
+            <slidelink slideid="_player.6BCA5eaOrnK.68YMoJfclPY" displaytext="12. The Luteal Phase of the Ovarian Cycle" expand="false" type="slide" />
+            <slidelink slideid="_player.6BCA5eaOrnK.5ZtoVSHuKjC" displaytext="13. Subdivisions of the Uterine Tubes" expand="false" type="slide" />
+            <slidelink slideid="_player.6BCA5eaOrnK.656l9p4Ywa2" displaytext="14. The Histology of the Uterine Tubes" expand="false" type="slide" />
+            <slidelink slideid="_player.6BCA5eaOrnK.6GeNtSgrDx3" displaytext="15. Organization of the Uterus" expand="false" type="slide" />
+            <slidelink slideid="_player.6BCA5eaOrnK.6lva90xNA5N" displaytext="16. Myometrium" expand="false" type="slide" />
+            <slidelink slideid="_player.6BCA5eaOrnK.6n5COl387YI" displaytext="17. Endometrium" expand="false" type="slide" />
+            <slidelink slideid="_player.6BCA5eaOrnK.6IZ9sZiXbtw" displaytext="18. The Endometrial Blood Supply" expand="false" type="slide" />
+            <slidelink slideid="_player.6BCA5eaOrnK.624toSjF6eK" displaytext="19. The Uterine (Menstrual) Cycle" expand="false" type="slide" />
+            <slidelink slideid="_player.6BCA5eaOrnK.5WgCMnMwVPS" displaytext="20. The Proliferative Phase" expand="false" type="slide" />
+            <slidelink slideid="_player.6BCA5eaOrnK.6Xz2NQbuVDm" displaytext="21. The Secretory Phase" expand="false" type="slide" />
+            <slidelink slideid="_player.6BCA5eaOrnK.6OW01oVg96S" displaytext="22. The Menstrual Phase" expand="false" type="slide" />
+            <slidelink slideid="_player.6BCA5eaOrnK.6nIHtcUIJKi" displaytext="23. The Cervix" expand="false" type="slide" />
+            <slidelink slideid="_player.6BCA5eaOrnK.6eMsWhpzdvH" displaytext="24. The Mammary Glands" expand="false" type="slide" />
+            <slidelink slideid="_player.6BCA5eaOrnK.5bHav99sYp1" displaytext="25. The Terminal Duct Lobar Unit" expand="false" type="slide" />
+            <slidelink slideid="_player.6BCA5eaOrnK.6btiyvyBkpf" displaytext="26. Quiz Start" expand="false" type="slide">
+              <links>
+                <slidelink slideid="_player.6BCA5eaOrnK.6FqCOzjkcHK" displaytext="Question 1" expand="false" type="slide" />
+                <slidelink slideid="_player.6BCA5eaOrnK.6URvOpAFGlt" displaytext="Question 2" expand="false" type="slide" />
+                <slidelink slideid="_player.6BCA5eaOrnK.5wijp6AvsFF" displaytext="Question 3" expand="false" type="slide" />
+                <slidelink slideid="_player.6BCA5eaOrnK.6pYWE5bICwY" displaytext="Question 4" expand="false" type="slide" />
+                <slidelink slideid="_player.6BCA5eaOrnK.6NXvzR4SafC" displaytext="Question 5" expand="false" type="slide" />
+                <slidelink slideid="_player.6BCA5eaOrnK.5VYzkQaUQLK" displaytext="Question 6" expand="false" type="slide" />
+                <slidelink slideid="_player.6BCA5eaOrnK.5kpDUZm7re0" displaytext="Question 7" expand="false" type="slide" />
+                <slidelink slideid="_player.6BCA5eaOrnK.5bFgyTFhHie" displaytext="Question 8" expand="false" type="slide" />
+                <slidelink slideid="_player.6BCA5eaOrnK.5yLQ5mOYddN" displaytext="Question 9" expand="false" type="slide" />
+                <slidelink slideid="_player.6BCA5eaOrnK.6M4j9gKY4fG" displaytext="Question 10" expand="false" type="slide" />
+                <slidelink slideid="_player.6BCA5eaOrnK.5VpfZhlVmwV" displaytext="Question 11" expand="false" type="slide" />
+                <slidelink slideid="_player.6BCA5eaOrnK.5nyaNVWI4vy" displaytext="Question 12" expand="false" type="slide" />
+                <slidelink slideid="_player.6BCA5eaOrnK.5w9WSu5rrOw" displaytext="Question 13" expand="false" type="slide" />
+                <slidelink slideid="_player.6BCA5eaOrnK.5aDjyXwYnTR" displaytext="Question 14" expand="false" type="slide" />
+                <slidelink slideid="_player.6BCA5eaOrnK.61iYAM46z5I" displaytext="Question 15" expand="false" type="slide" />
+                <slidelink slideid="_player.6BCA5eaOrnK.6XeUPtvvD6U" displaytext="Question 16" expand="false" type="slide" />
+                <slidelink slideid="_player.6BCA5eaOrnK.6EXocsIzqw5" displaytext="Question 17" expand="false" type="slide" />
+                <slidelink slideid="_player.6BCA5eaOrnK.6mD0P05gvwt" displaytext="Question 18" expand="false" type="slide" />
+                <slidelink slideid="_player.6BCA5eaOrnK.5jKqCMWo2xL" displaytext="Question 19" expand="false" type="slide" />
+                <slidelink slideid="_player.6BCA5eaOrnK.6G1fz1gjoIU" displaytext="Question 20" expand="false" type="slide" />
+                <slidelink slideid="_player.6BCA5eaOrnK.6FD32vKuoAt" displaytext="Question 22" expand="false" type="slide" />
+                <slidelink slideid="_player.6BCA5eaOrnK.5pQ5iBEL42l" displaytext="Question 21" expand="false" type="slide" />
+              </links>
+            </slidelink>
+            <slidelink slideid="_player.6BCA5eaOrnK.5x9HaMdpNWN" displaytext="H12: End" expand="false" type="slide" />
+          </links>
+        </slidelink>
+      </links>
+    </outline>
+    <search>
+      <slidetext slideid="6aorm6DVHdA.6iJyEq8eiIe" slidebank="false" type="slide">the female reproductive system click to begin click to begin click to begin  histology emodule tutorial emodule tutorial emodule tutorial </slidetext>
+      <slidetext slideid="6aorm6DVHdA.6O56eKJcFGx" slidebank="false" type="slide">to complete each section, use the next button at the bottom of the pages or press the right arrow key to move forward one page at a time.  use the menu, available by clicking “menu” at the top, to navigate to specific slides. use search to quickly find instances of relevant terms. use the previous button at the bottom of the pages or press the left arrow key to move back one page at a time. note: you can also swipe right and left in order to navigate forward and backward, respectively.  previous next using the emodule case 1      introduction      approach      diagnosis </slidetext>
+      <slidetext slideid="6aorm6DVHdA.5uDw5Dk7paG" slidebank="false" type="slide">previous start with age, wear and tear,  info an intervertebral disc can herniate, such that the nucleus pulposus…. information that has implications for health and disease is introduced on a blue bar and continued below: conventions used in the emodule some slides contain the “slide talk” icon on the title bar. click this icon to hear me explain or elaborate on slide content.  some words are followed by this icon      ; click the icon to open related content in a separate layer. click the         icon to go back to the original layer. some words are followed by this icon      ; click the icon to see a definition or explanation.  words / phrases in purple denote concepts with which you should make a point of becoming familiar. </slidetext>
+      <slidetext slideid="5erGKTk1Mis.60u6KW8QPEQ" slidebank="false" type="slide">acknowledgements previous © 2018 author and emodule development: barbara ballyk, ph.d. associate professor, teaching stream division of anatomy, department of surgery faculty of medicine, university of toronto brand design: janet koecher, discovery commons university of toronto emodule production: gianluca sampieri, m.sc. md candidate class of 2021 faculty of medicine, university of toronto albert gheorghita, m.sc. md candidate class of 2020 faculty of medicine, university of toronto julian manzone, m.sc. md candidate class of 2019 faculty of medicine, university of toronto </slidetext>
+      <slidetext slideid="6ITgT0pLqit.5na92eEcibs" slidebank="false" type="slide">  next previous 2.1  </slidetext>
+      <slidetext slideid="6BCA5eaOrnK.6gIlRIFF1qS" slidebank="false" type="slide">next previous h12 the female reproductive system all images are from junqueira’s basic histology, 14th ed., © 2016 by mescher, denoted by “j”, a recommended resource, unless otherwise noted. recommended online resources:  university of minnesota histology guide university of leeds histology guide university of michigan virtual microscopy western university virtual slide box university of illinois cell and tissue biology </slidetext>
+      <slidetext slideid="6BCA5eaOrnK.6cbUQRlTxov" slidebank="false" type="slide">next previous h12   objectives when you have learned the material presented here, you will be able to describe the: histological structure of the ovary; histological structure and function of the ovarian follicle, and how these change over the course of the ovarian cycle; histology and blood supply of the uterine tube and uterus, including the cervix, and the changes that accompany the uterine cycle; the histological features of the breast. 2 </slidetext>
+      <slidetext slideid="6BCA5eaOrnK.5YdGtYaPGJY" slidebank="false" type="slide">next previous h12   components of the female reproductive system 3 the female reproductive system is composed of the: gonads, which produce gametes     and hormones; these are the ovaries.  reproductive tract, which, because it opens to the exterior of the body, is lined by mucous membrane. it consists of the uterine (fallopian) tubes, uterus and vagina. external genitalia (not shown) female reproductive organsposterior view </slidetext>
+      <slidetext slideid="6BCA5eaOrnK.5f604PyuxvW" slidebank="false" type="slide">next previous h12   the uterus and fallopian tubes are intraperitoneal 4 the uterus and fallopian tubes are intraperitoneal organs, covered by a visceral peritoneum. this serous membrane extends, lateral to the uterus, as the broad ligament. it is the mesentery of the uterus, and contains uterine blood vessels, nerves and lymphatics (bvs, ns, ls). the serous membranes of the broad ligament are continuous with the parietal peritoneum lining the pelvic wall. uterine bvs are derived from the internal iliac vessels, as are those of other pelvic organs. female reproductive organsposterior view </slidetext>
+      <slidetext slideid="6BCA5eaOrnK.61tYWGVa4eH" slidebank="false" type="slide">next previous h12   prenatally, the ovaries descend from the posterior body wall 5 the ovaries descend to their position in the pelvis prenatally, much like the testes descend to the scrotum. therefore, their bvs, ns, ls, like those of the testes, are all associated with the posterior body wall. they access the ovary via its suspensory ligament. the ovaries are attached to the posterior aspect of the broad ligament by the mesovarium, the mesentery of the ovary. this is illustrated in the inset, to the left. female reproductive organsposterior view </slidetext>
+      <slidetext slideid="6BCA5eaOrnK.6dVG63DrvoJ" slidebank="false" type="slide">next previous h12   ovaries 6 ovaries are nodular, paired organs, 5 cm x 2.5 cm x &lt;1 cm. they function to produce female gametes, ova    , and to produce female sex hormones. the surface epithelium of the ovary is continuous with the serous membrane of the mesovarium     . deep to the surface epithelium is the tunica albuginea, the dense ct capsule of the ovary. deep to the tunica albuginea, the ovary is seen to be divided into a cortex and a medulla.  bvs, ns &amp; ls access the ovary at its hilum from the suspensory ligament to enter the ovarian medulla. like any endocrine structure, the ovaries are richly vascularized. in the ovarian cortex, oogenesis     occurs in ovarian follicles. </slidetext>
+      <slidetext slideid="6BCA5eaOrnK.6aiOkETE9Ix" slidebank="false" type="slide">next previous h12   atresia 7 oogenesis is the production of ova. it occurs on a roughly monthly basis during the ovarian cycle. oogenesis begins prenatally when primordial cells, oogonia, enter the first meiotic division but halt in prophase. these cells, now called 1° oocytes, are surrounded by a single layer of flattened follicular cells. a 1° oocyte with its surrounding layer of flattened follicular cells is a primordial follicle. it is separated from the highly vascular ovarian stroma that surrounds it by a basement membrane.  many million 1° oocytes and primordial follicles develop prenatally. atresia is a process of degeneration of 1° oocytes, which also begins prenatally. the resulting cellular debris is removed through phagocytosis. by puberty, ~300,000 1° oocytes remain; by age 40-45, 8,000 are left. during a woman’s reproductive life, a total of roughly 450 ova are released. the remaining 1° oocytes are destroyed though atresia. </slidetext>
+      <slidetext slideid="6BCA5eaOrnK.67ff1ItjLwo" slidebank="false" type="slide">next previous h12   an overview of the ovarian cycle 8 starting at puberty, each month, a small number of primordial follicles      grows larger, but usually only one becomes the dominant follicle, and its egg is released from the ovary at ovulation. this phase of the ovarian cycle is called the follicular phase. the follicular phase lasts, on average, 14 days, although it varies from 7 to 21 days between individuals.  this is followed by the luteal phase, during which time, as the ovum travels down the fallopian tube toward the uterus, the empty follicle becomes a temporary endocrine structure, the                corpus luteum           . hormones secreted by the corpus luteum prepare the uterine mucosa for implantation, should pregnancy occur. if pregnancy does not occur, the corpus luteum degenerates after 14 days, forming the corpus albicans            , and another group of primordial follicles begin to enlarge with the onset of the next follicular phase. thus, the ovarian cycle lasts for a total of 21-35 days, depending on the duration of the follicular phase in a given individual. </slidetext>
+      <slidetext slideid="6BCA5eaOrnK.5WZhAj3S62G" slidebank="false" type="slide">next previous h12   the follicular phase of the ovarian cycle i 9 primordial follicles occupy the superficial ovarian cortex      . a small number, each month, respond to elevated fsh levels: the oocyte enlarges, and both the follicular cells and the fibroblasts in the surrounding ovarian stroma proliferate and differentiate. the follicular cells form a simple, cuboidal epithelium, and these follicles are now called unilaminar primary follicles     . multilaminar primary follicles further mitoses of the follicular cells forms  multilaminar primary follicles. the follicular cells are now termed granulosa cells. these follicles are still separated from the vascular ovarian stroma by a basement membrane.  the zona pellucida    , an accumulation of extracellular material, forms between the oocyte and the granulosa. it contains the sperm receptors zp3 and zp4. the oocyte and the granulosa cells maintain contact via gap junctions across the zona pellucida.  the ovarian stromal cells surrounding the follicle form the follicular theca     , which, with further proliferation and differentiation, forms a theca interna and a theca externa. the theca interna becomes a steroid-secreting endocrine tissue, producing androstenedione, which diffuses into the follicle where it is converted to estradiol by the aromatase activity of the granulosa cells. estradiol diffuses into the highly vascular ovarian stroma, where it enters capillaries for systemic distribution. the theca externa, containing fibroblasts and smooth muscle cells, blends with the ovarian stroma. </slidetext>
+      <slidetext slideid="6BCA5eaOrnK.5XkBoN4PGWh" slidebank="false" type="slide">next previous h12   the follicular phase of the ovarian cycle ii 10 secondary (antral) follicles granulosa cells secrete follicular fluid, which accumulates in the extracellular space and forces the cells apart. as the fluid accumulates, the spaces coalesce, forming an antrum. follicular fluid contains many factors, including steroids, growth factors, and anticoagulants. mature (graafian) follicle a mature follicle may be 2 cm or more in diameter, and is visible on ultrasound. the oocyte is surrounded by a halo of granulosa cells, the corona radiata    , which will accompany it upon ovulation. the corona radiata is attached to the follicular wall by granulosa cells termed the cumulus     oophorus. the development of a mature follicle from a primordial follicle takes about 90 days. many develop, but only one survives     (usually) each month, many primordial follicles are stimulated to begin the process described. of these, usually only one becomes a mature follicle, and a single oocyte is released at ovulation. the remaining follicles degenerate through atresia at various stages. they do, however, play a significant role, in that the estrogens they produce contribute to the rise in circulating estrogen levels that occurs during the follicular phase of the ovarian cycle, and which stimulates the reproductive tract to transport and nourish the embryo, should fertilization occur. </slidetext>
+      <slidetext slideid="6BCA5eaOrnK.6f2ZIBocabI" slidebank="false" type="slide">next previous h12   ovulation 11 the oocyte is released from the mature follicle at ovulation, which marks the end of the follicular phase of the ovarian cycle. a stigma is formed on the surface of the ovary as the mature follicle presses against the tunica albuginea, and obstructs blood flow to the area.  immediately prior to ovulation, the oocyte completes the first meiotic division, giving rise to the first polar body (which degenerates) and a 2° oocyte. the haploid 2° oocyte enters the second meiotic division, but halts at metaphase.  only upon fertilization will it complete the second meiotic division, giving rise to the second polar body (which degenerates    ) and the ovum. if fertilization does not occur, the 2° oocyte degenerates. fsh, from the anterior pituitary, stimulates the processes that occur during the follicular phase of the ovarian cycle, including the rise in circulating estrogen levels. just prior to ovulation the dominant follicle secretes a large amount of estrogen, which feeds back on the hypothalamus, causing a surge in luteinizing hormone (lh) release from the anterior pituitary. lh stimulates the completion of meiosis i, and accelerates the production of prostaglandin-rich follicular fluid, which increases pressure on the stigma. plasmin, from ruptured capillaries at the stigma, degrades the ct fibres of the tunica albuginea. prostaglandin stimulates the contraction of smooth muscle fibres in the theca externa, which increases pressure on the follicle. this culminates in the rupture of the ovarian surface at the stigma, and of the follicle, resulting in ovulation, the release of the 2° oocyte from the ovary. </slidetext>
+      <slidetext slideid="6BCA5eaOrnK.68YMoJfclPY" slidebank="false" type="slide">next previous h12   the luteal phase of the ovarian cycle 12 after ovulation, in response to the same surge in lh that triggered ovulation, the remnants of the dominant follicle in the ovarian cortex become a temporary endocrine structure, the corpus luteum. progestins are its dominant product, in addition to estrogens. this 14-day phase of the ovarian cycle is the luteal phase. following ovulation, the follicular remnants collapse and blood fills its cavity. capillaries invade, providing the dense vascularization required of endocrine tissue. lh stimulates the differentiation of the theca interna and granulosa cells, and to become theca lutein cells, and granulosa lutein cells, respectively. granulosa lutein cells accelerate their aromatase activity and increase estradiol production. theca lutein cells begin to produce large amounts of progesterone, as well as androstenedione. progesterone prepares the uterine mucosa for implantation, and estrogen inhibits fsh release from the anterior pituitary. the corpus luteum is programmed to secrete for 10-12 days, in response to the ovulatory surge in lh. after this time, if pregnancy does not occur, the corpus luteum degenerates, and its hormone production ceases. this is the corpus luteum of menstruation. decreased progesterone levels triggers menstruation. decreased estrogen levels free the anterior pituitary to again release fsh, which triggers the onset of the next follicular phase. the remains of the degenerated corpus luteum are phagocytosed, and fibroblasts form a dense ct scar, the corpus albicans.  menstruation must not take place if pregnancy occurs. to sustain the requisite progesterone levels, trophoblastic cells of the implanted embryo secrete  human chorionic gonadotropin (hcg), which has lh-like effects on the corpus luteum, ensuring its continued function and the preservation of the uterine lining. this corpus luteum of pregnancy functions for 4-5 months, until progesterone production by the placenta is sufficient to preserve the uterine lining. its remnants form a large corpus albicans. </slidetext>
+      <slidetext slideid="6BCA5eaOrnK.5ZtoVSHuKjC" slidebank="false" type="slide">next previous h12   subdivisions of the uterine tubes the uterine tubes are 10 – 12 cm long. they connect the peritoneal cavity, adjacent to the ovaries, to the lumen of the uterus. they are muscular tubes, covered with a serosa and supported by ligaments and mesenteries. the uterine tubes are subdivided into the: infundibulum, which is ringed with finger-like extensions called fimbriae. at ovulation, the sweeping movements of the fimbria help draw the 2° oocyte into the os     of the uterine tube;  ampulla, in which fertilization usually takes place; isthmus; uterine, or intramural     part, which opens into the lumen of the uterus. 13 j22.14 </slidetext>
+      <slidetext slideid="6BCA5eaOrnK.656l9p4Ywa2" slidebank="false" type="slide">next previous h12   the histology of the uterine tubes      the wall of the uterine tube includes: a mucosa with a simple columnar epithelium and a thick lamina propria (lp). the columnar epithelium includes two cell types: ciliated cells (cc), which helps propel the luminal fluid toward the uterus, and peg cells (pc), the glycoprotein secretions of which coat the luminal wall with mucous that supports the egg and sperm. the epithelial cells respond to the cyclical secretions of the ovary. estrogens secreted during the follicular phase promote cellular hypertrophy and ciliary elongation. atrophy occurs as the end of the luteal phase nears. a muscularis (m) with spiral and longitudinal muscle fibres. wave-like contractions of the muscularis draws fluid through the tubes, toward the uterine lumen, thus promoting the transport of an ovum. a serosa (s) forming a visceral peritoneum. 14 j22.14 </slidetext>
+      <slidetext slideid="6BCA5eaOrnK.6GeNtSgrDx3" slidebank="false" type="slide">next previous h12   organization of the uterus the uterine tubes open into the lumen of the  body of the uterus. above their openings is the curved fundus. the uterus narrows at its isthmus to form the cervix. the lumen of the cervix is the cervical canal. the lumen of the uterus opens into the cervical canal at the internal os. the cervical canal opens into the vagina at the external os. the wall of the uterus includes: the endometrium, a mucosa consisting of a simple columnar epithelium lying on a thick lamina propria (lp), the myometrium, a thick layer of richly vascularized smooth muscle organized into three layers, and  the perimetrium, which is serosa over most of the uterus, forming a visceral peritoneum. 15 j22.14 </slidetext>
+      <slidetext slideid="6BCA5eaOrnK.6lva90xNA5N" slidebank="false" type="slide">next previous h12   myometrium myometrium (m) the three layers of smooth muscle that comprise the myometrium are organized such that the inner and outer layers run parallel to the long axis of the organ, while the intermediate layer encircles it. the uterus enlarges greatly during pregnancy due to both hyperplasia      and hypertrophy     of smooth muscle cells. increased production of collagen strengthens its wall. thus, the uterus is able to generate the forces required to expel an infant during parturition    . after delivery, the uterus decreases in size due to both atrophy and apoptosis    . 16 j22.14 </slidetext>
+      <slidetext slideid="6BCA5eaOrnK.6n5COl387YI" slidebank="false" type="slide">next previous h12   endometrium endometrium the mucosa of the uterus is its endometrium. it consists of a simple columnar epithelium lying on a thick lamina propria (lp).  the lp is rich in fibroblasts, type iii collagen (reticular) fibres, and copious ground substance.  the simple columnar epithelium (e) invaginates into the underlying lp, forming tubular uterine glands which extend though the entire thickness of the endometrium. some epithelial cells are ciliated, while others are secretory. secretory cells line the walls of the uterine glands. the endometrium is divided into two distinct regions: the basal layer and the functional layer. the basal layer (bl), adjacent to the myometrium, contains a more cellular lp and the bases of the uterine glands. the functional layer (fl) is more superficial and includes the surface epithelial cells, superficial portions of the glands, and a lp rich in ground substance. 17 j22.14 </slidetext>
+      <slidetext slideid="6BCA5eaOrnK.6IZ9sZiXbtw" slidebank="false" type="slide">next previous h12   the endometrial blood supply understanding the blood supply to the endometrium is critical to understanding its structural changes during the uterine cycle. uterine arteries, branches of the internal iliac arteries, penetrate the myometrium and give rise to arcuate arteries within the myometrium. radial branches of the arcuate artery give rise to straight arteries, which supply the basalis, and spiral arteries, which extend into, and supply, the functionalis. the spiral arteries feed into dense, superficial capillary beds with numerous wide channels called lacunae. smooth muscle cells of the tunica media of the spiral arteries are progesterone-sensitive. 18 j22.14 </slidetext>
+      <slidetext slideid="6BCA5eaOrnK.624toSjF6eK" slidebank="false" type="slide">next previous h12   the uterine (menstrual) cycle 19 j22.14 during a woman’s reproductive years, the endometrium undergoes monthly structural changes, in synchrony with the ovarian cycle. the menstrual and proliferative phases of the uterine cycle align with the follicular phase of the ovarian cycle. the secretory phase of the uterine cycle is aligned with the luteal phase of the ovarian cycle. by convention, and because it is easy to mark, day 1 of the uterine cycle is taken as the onset of menstruation. what is shed during menstruation is blood and endometrial tissue from the functional layer. the menstrual phase lasts, on average, 3-4 days. the proliferative phase averages 8 - 10 days in length. it varies between individuals, however, as does the length of the follicular phase of the ovarian cycle, with which it is aligned. ovulation marks the beginning of the secretory phase, which lasts a more reliable 14 days, as does the luteal phase, with which it is aligned. j22.17 </slidetext>
+      <slidetext slideid="6BCA5eaOrnK.5WgCMnMwVPS" slidebank="false" type="slide">next previous h12   the proliferative phase 20 following the menstrual phase, only the basalis remains of the endometrium, consisting of the simple columnar epithelial cells at the bases of the uterine glands and the remaining cellular lp.  rising levels of estrogen from developing ovarian follicles stimulates the regeneration of the functionalis. epithelial cells at the bases of the uterine glands proliferate and grow over the surface of the endometrium . as the lp thickens with regeneration of its volume, the uterine glands increase in length. spiral arteries reform and grow into the newly formed functionalis, regenerating the capillary beds of the superficial functionalis. the endometrium reaches a thickness of 2-3 mm. j22.17 </slidetext>
+      <slidetext slideid="6BCA5eaOrnK.6Xz2NQbuVDm" slidebank="false" type="slide">next previous h12   the secretory phase following ovulation, the corpus luteum forms and progesterone levels rise. this triggers the onset of the secretory phase of the uterine cycle. glandular cells respond to rising progesterone levels by increasing their production and secretion of a glycogen-rich mucous. this is the major nutrient source for an implanting embryo, should fertilization occur. the vascular lacunae in the superficial functionalis reform. the endometrium reaches a maximum thickness of 5 mm at the end of the secretory phase due to edema in the lp and continued proliferation of, and secretion by, the epithelium.  typically, fertilization of the ovum takes place the day after ovulation, and it takes 5 days for the embryo to reach the uterine cavity. by then, the uterine mucosa is physically and functionally primed to receive and nourish the embryo.  with implantation, trophoblastic cells of the embryo secrete human chorionic gonadotropin (hcg), which maintains the corpus luteum and circulating progesterone levels. 21 j22.17 </slidetext>
+      <slidetext slideid="6BCA5eaOrnK.6OW01oVg96S" slidebank="false" type="slide">next previous h12   the menstrual phase in the absence of implantation of the embryo, the corpus luteum degenerates and progesterone and estrogen levels fall.  decreased progesterone levels causes i) vasospasm in the spiral arteries, which limits blood flow to the functionalis, and ii) elevated prostaglandin synthesis by arteriolar cells, which stimulates vasoconstriction and hypoxia localized to the functionalis. menses ensues as the hypoxic tissues of the functionalis are lost. however, the basal layer, which is not dependent on the progesterone-sensitive spiral arteries, remains intact to give rise to a new functionalis with the onset of the next proliferative phase. 22 j22.17 </slidetext>
+      <slidetext slideid="6BCA5eaOrnK.6nIHtcUIJKi" slidebank="false" type="slide">next previous h12   the cervix histologically, the cervix is distinct from the remainder of the uterus. the cervical canal (cc) is lined by a simple columnar epithelium (sc), which lies on a thick lp. it includes many large, branched cervical glands (cg) (arrows) which secrete mucous. the endocervical mucosa does not respond to the hormonal changes of the ovarian cycle in the same way the endometrium does, and is not shed during menstruation. the secretions of the cervical glands, however, do respond to circulating progesterone. at ovulation, sperm passage through the cervical canal is facilitated by the secretion of a thin, watery mucous. at other times during the cycle, the mucous thickens, limiting access by pathogens (and sperm) to the reproductive tract. during pregnancy, the cervical canal is blocked by a highly viscous mucous plug, formed by the secretions of the cervical glands. at the external os of the cervical canal there is an abrupt transition zone (tz) from endocervical mucosa to exocervical mucosa, and thus from simple cuboidal epithelium to stratified squamous nonkeratinized epithelium (ss), as lines the vagina. the cervical wall deep to the mucosa contains less smooth muscle and is dominated by dense ct. this tissue stiffens during pregnancy, which helps retain the fetus in the uterus. it softens as parturition approaches, in a process called cervical effacement, which eases the passage of the neonate. 23 j22.14 j22.23 t </slidetext>
+      <slidetext slideid="6BCA5eaOrnK.6eMsWhpzdvH" slidebank="false" type="slide">next previous h12   the mammary glands histologist include the mammary glands with the skin because they are modified apocrine sweat glands. others include them with the female reproductive system, because of their function. mammary glands are bilaterally-paired in humans, and develop along milk lines      . supranumary nipples commonly persist anywhere along these lines. the parenchyma        of the gland is derived from epithelia and is supported by the surrounding ct stroma      . each mammary gland consists of 15-25 lobes, served by a lactiferous duct system which forms expanded lactiferous sinuses before opening independently at the nipple. the nipples, areolae      , lactiferous sinuses and rudimentary duct systems are present in both sexes until puberty. at puberty, in females, the nipples and areolae enlarge, as do  sebaceous follicles in the areolae, which form montgomery’s tubercles. adipose accumulates in the pectoral region and the lactiferous duct systems expand.  the duct systems are surrounded by loose ct. dense ct septa called cooper’s ligaments develop between the duct systems, and extend from the dermis to the dense fascia overlying the pectoralis major to support the weight of the breast.  each lobe consists of numerous separate lobules, connected to the lactiferous duct system by an extralobular terminal duct. 24 </slidetext>
+      <slidetext slideid="6BCA5eaOrnK.5bHav99sYp1" slidebank="false" type="slide">next previous h12   the terminal duct lobar unit a lobule and its extralobular terminal duct is called a terminal duct lobular unit (tdlu). within the lobule, intralobular terminal ducts open into dead-ended terminal ductules. in the nonpregnant, non-lactating female, terminal ductules are rudimentary; they develop into functional secretory acini during pregnancy and lactation. the loose ct lobular stroma becomes edematous in the premenstrual period, causing slight, transient breast enlargement. myoepithelial cells and smooth muscle fibres encircle the lactiferous ducts and sinuses, and contract to expel milk in the lactating female. carcinoma of the breast info the various epithelial components of the mammary glands may undergo cancerous change.  lobar carcinomas arise from the terminal ductules ductal carcinomas arise from the terminal ducts, either intralobular or extralobular. since men are also equipped with rudimentary mammary glands, they, too, can develop breast cancer, although the incidence is lower in men. 25 </slidetext>
+      <slidetext slideid="6BCA5eaOrnK.6btiyvyBkpf" slidebank="false" type="slide">next previous h12    quiz press next to start the quiz or skip to end h12.   skip 26 </slidetext>
+      <slidetext slideid="6BCA5eaOrnK.6FqCOzjkcHK" slidebank="false" type="slide">choose one incorrect statement regarding the uterine cycle. the bases of the uterine glands remain intact following menstruation. the bases of the uterine glands remain intact following menstruation. the bases of the uterine glands remain intact following menstruation. the bases of the uterine glands remain intact following menstruation. the bases of the uterine glands remain intact following menstruation. the bases of the uterine glands remain intact following menstruation. the proliferative phase of the uterine cycle coincides with the follicular phase of the ovarian cycle. the proliferative phase of the uterine cycle coincides with the follicular phase of the ovarian cycle. the proliferative phase of the uterine cycle coincides with the follicular phase of the ovarian cycle. the proliferative phase of the uterine cycle coincides with the follicular phase of the ovarian cycle. the proliferative phase of the uterine cycle coincides with the follicular phase of the ovarian cycle. the proliferative phase of the uterine cycle coincides with the follicular phase of the ovarian cycle. during the proliferative phase, the functional zone of the endometrium regenerates from the basal zone. during the proliferative phase, the functional zone of the endometrium regenerates from the basal zone. during the proliferative phase, the functional zone of the endometrium regenerates from the basal zone. during the proliferative phase, the functional zone of the endometrium regenerates from the basal zone. during the proliferative phase, the functional zone of the endometrium regenerates from the basal zone. during the proliferative phase, the functional zone of the endometrium regenerates from the basal zone. the secretory phase of the uterine cycle is stimulated primarily by rising estrogen levels. the secretory phase of the uterine cycle is stimulated primarily by rising estrogen levels. the secretory phase of the uterine cycle is stimulated primarily by rising estrogen levels. the secretory phase of the uterine cycle is stimulated primarily by rising estrogen levels. the secretory phase of the uterine cycle is stimulated primarily by rising estrogen levels. the secretory phase of the uterine cycle is stimulated primarily by rising estrogen levels. submit h12   question 1 </slidetext>
+      <slidetext slideid="6BCA5eaOrnK.6URvOpAFGlt" slidebank="false" type="slide">2. choose one incorrect statement regarding the follicular phase of the ovarian cycle. granulosa cells secrete follicular fluid. granulosa cells secrete follicular fluid. granulosa cells secrete follicular fluid. granulosa cells secrete follicular fluid. granulosa cells secrete follicular fluid. granulosa cells secrete follicular fluid. between individuals, it's duration is reliably 14 days long. between individuals, it's duration is reliably 14 days long. between individuals, it's duration is reliably 14 days long. between individuals, it's duration is reliably 14 days long. between individuals, it's duration is reliably 14 days long. between individuals, it's duration is reliably 14 days long. thecal cells are derived from the stroma surrounding the follicle. thecal cells are derived from the stroma surrounding the follicle. thecal cells are derived from the stroma surrounding the follicle. thecal cells are derived from the stroma surrounding the follicle. thecal cells are derived from the stroma surrounding the follicle. thecal cells are derived from the stroma surrounding the follicle. in a given cycle, while many primordial follicles become primary follicles, usually only one becomes a tertiary follicle. in a given cycle, while many primordial follicles become primary follicles, usually only one becomes a tertiary follicle. in a given cycle, while many primordial follicles become primary follicles, usually only one becomes a tertiary follicle. in a given cycle, while many primordial follicles become primary follicles, usually only one becomes a tertiary follicle. in a given cycle, while many primordial follicles become primary follicles, usually only one becomes a tertiary follicle. in a given cycle, while many primordial follicles become primary follicles, usually only one becomes a tertiary follicle. submit h12  question 2 </slidetext>
+      <slidetext slideid="6BCA5eaOrnK.5wijp6AvsFF" slidebank="false" type="slide">which of the following statements is true of the basal layer of the endometrium, but not its functional layer? epithelial cells are absent. epithelial cells are absent. epithelial cells are absent. epithelial cells are absent. epithelial cells are absent. epithelial cells are absent. it relies primarily on the spiral arteries for its blood supply. it relies primarily on the spiral arteries for its blood supply. it relies primarily on the spiral arteries for its blood supply. it relies primarily on the spiral arteries for its blood supply. it relies primarily on the spiral arteries for its blood supply. it relies primarily on the spiral arteries for its blood supply. it contains the cells that replace the surface epithelium after menstruation. it contains the cells that replace the surface epithelium after menstruation. it contains the cells that replace the surface epithelium after menstruation. it contains the cells that replace the surface epithelium after menstruation. it contains the cells that replace the surface epithelium after menstruation. it contains the cells that replace the surface epithelium after menstruation. it goes through regular cycles of thickening and shedding. it goes through regular cycles of thickening and shedding. it goes through regular cycles of thickening and shedding. it goes through regular cycles of thickening and shedding. it goes through regular cycles of thickening and shedding. it goes through regular cycles of thickening and shedding. submit h12  question 3 </slidetext>
+      <slidetext slideid="6BCA5eaOrnK.6pYWE5bICwY" slidebank="false" type="slide">choose one incorrect statement regarding the structure / function of the uterine tubes. their outermost layer is an adventitia. their outermost layer is an adventitia. their outermost layer is an adventitia. their outermost layer is an adventitia. their outermost layer is an adventitia. their outermost layer is an adventitia. peristaltic contraction of its muscularis propels fluid and the ovum toward the uterus. peristaltic contraction of its muscularis propels fluid and the ovum toward the uterus. peristaltic contraction of its muscularis propels fluid and the ovum toward the uterus. peristaltic contraction of its muscularis propels fluid and the ovum toward the uterus. peristaltic contraction of its muscularis propels fluid and the ovum toward the uterus. peristaltic contraction of its muscularis propels fluid and the ovum toward the uterus. the fallopian tube opens into the peritoneal cavity. the fallopian tube opens into the peritoneal cavity. the fallopian tube opens into the peritoneal cavity. the fallopian tube opens into the peritoneal cavity. the fallopian tube opens into the peritoneal cavity. the fallopian tube opens into the peritoneal cavity. the ovum is nourished by the secretions of the ovarian mucosa. the ovum is nourished by the secretions of the ovarian mucosa. the ovum is nourished by the secretions of the ovarian mucosa. the ovum is nourished by the secretions of the ovarian mucosa. the ovum is nourished by the secretions of the ovarian mucosa. the ovum is nourished by the secretions of the ovarian mucosa. submit h12  question 4 </slidetext>
+      <slidetext slideid="6BCA5eaOrnK.6NXvzR4SafC" slidebank="false" type="slide">identify a. h12  question 5 submit </slidetext>
+      <slidetext slideid="6BCA5eaOrnK.5VYzkQaUQLK" slidebank="false" type="slide">identify structures b. be specific. h12  question 6 submit </slidetext>
+      <slidetext slideid="6BCA5eaOrnK.5kpDUZm7re0" slidebank="false" type="slide">identify a. h12  question 7 submit </slidetext>
+      <slidetext slideid="6BCA5eaOrnK.5bFgyTFhHie" slidebank="false" type="slide">identify b. h12  question 8 submit </slidetext>
+      <slidetext slideid="6BCA5eaOrnK.5yLQ5mOYddN" slidebank="false" type="slide">identify c. h12  question 9 submit </slidetext>
+      <slidetext slideid="6BCA5eaOrnK.6M4j9gKY4fG" slidebank="false" type="slide">identify a. h12  question 10 submit </slidetext>
+      <slidetext slideid="6BCA5eaOrnK.5VpfZhlVmwV" slidebank="false" type="slide">identify this structure. h12  question 11 submit </slidetext>
+      <slidetext slideid="6BCA5eaOrnK.5nyaNVWI4vy" slidebank="false" type="slide">identify a. h12  question 12 submit </slidetext>
+      <slidetext slideid="6BCA5eaOrnK.5w9WSu5rrOw" slidebank="false" type="slide">identify b. h12  question 13 submit </slidetext>
+      <slidetext slideid="6BCA5eaOrnK.5aDjyXwYnTR" slidebank="false" type="slide">identify c. h12  question 14 submit </slidetext>
+      <slidetext slideid="6BCA5eaOrnK.61iYAM46z5I" slidebank="false" type="slide">identify d. h12  question 15 submit </slidetext>
+      <slidetext slideid="6BCA5eaOrnK.6XeUPtvvD6U" slidebank="false" type="slide">identify e. h12  question 16 submit </slidetext>
+      <slidetext slideid="6BCA5eaOrnK.6EXocsIzqw5" slidebank="false" type="slide">identify cell type a. be specific. h12  question 17 submit </slidetext>
+      <slidetext slideid="6BCA5eaOrnK.6mD0P05gvwt" slidebank="false" type="slide">identify cell type b. be specific. h12  question 18 submit </slidetext>
+      <slidetext slideid="6BCA5eaOrnK.5jKqCMWo2xL" slidebank="false" type="slide">identify a. be specific. h12  question 19 submit </slidetext>
+      <slidetext slideid="6BCA5eaOrnK.6G1fz1gjoIU" slidebank="false" type="slide">identify class of epithelium a. h12  question 20 submit </slidetext>
+      <slidetext slideid="6BCA5eaOrnK.5pQ5iBEL42l" slidebank="false" type="slide">identify class of epithelium c. h12  question 21 submit </slidetext>
+      <slidetext slideid="6BCA5eaOrnK.6FD32vKuoAt" slidebank="false" type="slide">identify b. h12  question 22 submit </slidetext>
+      <slidetext slideid="6BCA5eaOrnK.5x9HaMdpNWN" slidebank="false" type="slide">congratulations on finishing h12 the female reproductive system! review h12 review h12 review h12 previous </slidetext>
+    </search>
+  </nav_data>
+  <resource_data description="" />
+  <transcript_data>
+    <slidetranscripts>
+      <slidetranscript slideid="6aorm6DVHdA.6iJyEq8eiIe" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="0">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Calibri' size='12.5pt' style="font-size:12.5pt;" color='#ffffff'&gt;need to change title&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="6aorm6DVHdA.5uDw5Dk7paG" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="1">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Calibri' size='12.5pt' style="font-size:12.5pt;" color='#ffffff'&gt;fix this slide&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+    </slidetranscripts>
+  </transcript_data>
+  <glossary_data />
+</bwFrame>

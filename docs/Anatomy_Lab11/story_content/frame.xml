@@ -1,0 +1,1477 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="npnxnanbnsnfns01001000011" textdirection="ltr" device="false" fontscale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="classic">
+  <layouts>
+    <layout name="npnxnanbsnfns01001000011" font="Calibri" controllayout="npnxnanbsnfns01001000011" colorscheme="npnxnanbnsnfns01001000011" string_table="npnxnanbnsnfns01001000011" />
+    <layout name="pxabnsnfns01001000011" font="Calibri" controllayout="pxabnsnfns01001000011" colorscheme="npnxnanbnsnfns01001000011" string_table="npnxnanbnsnfns01001000011" />
+    <layout name="npxnabnsnfns01001000011" font="Calibri" controllayout="npxnabnsnfns01001000011" colorscheme="npnxnanbnsnfns01001000011" string_table="npnxnanbnsnfns01001000011" />
+    <layout name="npnxnanbnsnfns01001000011" font="Calibri" controllayout="npnxnanbnsnfns01001000011" colorscheme="npnxnanbnsnfns01001000011" string_table="npnxnanbnsnfns01001000011" />
+    <layout name="pxabnsnfns01001000010" font="Calibri" controllayout="pxabnsnfns01001000010" colorscheme="npnxnanbnsnfns01001000011" string_table="npnxnanbnsnfns01001000011" />
+    <layout name="npnxabnsnfns01001000011" font="Calibri" controllayout="npnxabnsnfns01001000011" colorscheme="npnxnanbnsnfns01001000011" string_table="npnxnanbnsnfns01001000011" />
+    <layout name="npnxanbnsnfns01001000011" font="Calibri" controllayout="npnxanbnsnfns01001000011" colorscheme="npnxnanbnsnfns01001000011" string_table="npnxnanbnsnfns01001000011" />
+  </layouts>
+  <control_options>
+    <optiongroups>
+      <optiongroup name="sidebaroptions">
+        <options>
+          <option name="title_enabled" value="true">
+            <options>
+              <option name="title_text" value="Lab 11 2020" />
+            </options>
+          </option>
+          <option name="logo_enabled" value="true">
+            <options>
+              <option name="logo_url" value="story_content/logo.swf">
+                <properties>
+                  <property name="width" value="1024" />
+                  <property name="height" value="229" />
+                </properties>
+              </option>
+              <option name="html5_logo_url" value="mobile/5poEoVZ0vfk.jpg" />
+            </options>
+          </option>
+          <option name="sidebar_enabled" value="true">
+            <options>
+              <option name="sidebarpos" value="left" />
+            </options>
+          </option>
+          <optionlist name="tabs">
+            <listitems>
+              <listitem name="customlink" value="true" group="linkleft">
+                <properties>
+                  <property name="title" value="Acknowledgments" />
+                  <property name="data" value="5toZT0PPlEg" />
+                  <property name="ignoreSlideLock" value="true" />
+                </properties>
+              </listitem>
+              <listitem name="resources" value="false" group="linkright" />
+              <listitem name="outline" value="true" group="sidebar" />
+              <listitem name="glossary" value="false" group="sidebar" />
+              <listitem name="transcript" value="false" group="sidebar" />
+            </listitems>
+          </optionlist>
+          <option name="time_enabled" value="false">
+            <options>
+              <option name="time_format" value="elapsed" />
+            </options>
+          </option>
+          <option name="video_enabled" value="false">
+            <options>
+              <option name="height" value="135" />
+            </options>
+          </option>
+        </options>
+      </optiongroup>
+      <optiongroup name="menuoptions">
+        <options>
+          <option name="flow" value="free" />
+          <option name="wraplistitems" value="false" />
+          <option name="tooltips" value="true" />
+          <option name="autocollapse" value="true" />
+          <option name="autonumber" value="false" />
+          <option name="enableresultsicons" value="true" />
+        </options>
+      </optiongroup>
+      <optiongroup name="controls">
+        <options>
+          <option name="volume" value="false" />
+          <option name="seekbar" value="false">
+            <options>
+              <option name="readonly" value="false" />
+              <option name="readonlyOnce" value="false" />
+            </options>
+          </option>
+          <option name="pauseplay" value="false" />
+          <option name="replay" value="false" />
+          <option name="search" value="true" />
+          <option name="closed_captions" value="false">
+            <options>
+              <option name="font" value="Calibri" />
+            </options>
+          </option>
+        </options>
+      </optiongroup>
+      <optiongroup name="bottombaroptions">
+        <options>
+          <option name="bottombar_enabled" value="true" />
+        </options>
+      </optiongroup>
+    </optiongroups>
+  </control_options>
+  <control_layouts>
+    <control_layout name="npnxnanbsnfns01001000011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="true" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns01001000011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npxnabnsnfns01001000011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npnxnanbnsnfns01001000011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns01001000010">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="false" />
+    </control_layout>
+    <control_layout name="npnxabnsnfns01001000011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npnxanbnsnfns01001000011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+  </control_layouts>
+  <colorschemes>
+    <colorscheme name="npnxnanbnsnfns01001000011">
+      <color_group name="infopanel">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x7C2280" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0000EE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0E2A45" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="title_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x999999" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="infopanelpopup">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6A98C6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x374D64" alpha="100" stop="0" />
+                <color rgb="0x142D46" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0E2A45" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6A98C6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bio_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="timer">
+        <group_colors>
+          <color name="duration">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x00D7FF" alpha="100" stop="0" />
+                <color rgb="0x00ABFF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="elapsed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFEE347" alpha="100" stop="0" />
+                <color rgb="0xFCCC2A" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="stroke">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC7C7C7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="window">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x374D64" alpha="100" stop="0" />
+                <color rgb="0x142D46" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x5776A2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x496484" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x1F3752" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="20" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="editor">
+        <group_colors>
+          <color name="slide_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="html_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0E2A45" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0E2A46" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x4A6C98" alpha="100" stop="0" />
+                <color rgb="0x243C5C" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x294260" alpha="100" stop="0" />
+                <color rgb="0x426288" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x436388" alpha="100" stop="0" />
+                <color rgb="0x294260" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="listitem">
+        <group_colors>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0E2A46" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x5379A5" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="viewed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6CA5DE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x3F5A76" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="lines">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2F465C" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="glossary">
+        <group_colors>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x5379A5" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x3F5A76" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2D4258" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2D4258" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x5479A2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x4D6E9A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="resource">
+        <group_colors>
+          <color name="separator">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2A3C50" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="outline">
+        <group_colors>
+          <color name="search_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6A98C6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x31475E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x5479A2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x31475E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="transcript">
+        <group_colors>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="div">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x283C4E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="tabs">
+        <group_colors>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0E2A45" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6596C9" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6A98C6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x47658B" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="seekcontrol">
+        <group_colors>
+          <color name="btn_icon_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x99B2CC" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2D4765" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_position">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x476A95" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x14304D" alpha="100" stop="0" />
+                <color rgb="0x4C6B96" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0E2A46" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x436388" alpha="100" stop="0" />
+                <color rgb="0x2A4360" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="searchinput">
+        <group_colors>
+          <color name="text_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2D2D2D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2D2D2D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x3C5979" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x294260" alpha="100" stop="0" />
+                <color rgb="0x426288" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icon">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x405E82" alpha="100" stop="0" />
+                <color rgb="0x0E2A45" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="scrollarea">
+        <group_colors>
+          <color name="detailb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0E2A46" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="detaila">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x7698B4" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0E2A46" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icons">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0E2A46" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x587BA1" alpha="100" stop="0" />
+                <color rgb="0x496184" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x486B94" alpha="100" stop="0" />
+                <color rgb="0x3A5579" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x527CAD" alpha="100" stop="0" />
+                <color rgb="0x527CAD" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="0">
+              <colors>
+                <color rgb="0x405E81" alpha="100" stop="0" />
+                <color rgb="0x46678C" alpha="100" stop="128" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="menu">
+        <group_colors>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x1A324A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x47658B" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="logo">
+        <group_colors>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0E2A45" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="checkbox">
+        <group_colors>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6A98C6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="check">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2BC400" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x31475E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="button">
+        <group_colors>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0E2A45" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0E2A46" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x4A6C98" alpha="100" stop="0" />
+                <color rgb="0x243C5C" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x294260" alpha="100" stop="0" />
+                <color rgb="0x426288" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x436388" alpha="100" stop="0" />
+                <color rgb="0x294260" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x253C52" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="base">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x1F3752" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x496484" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="menu_shade">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x34495E" alpha="100" stop="0" />
+                <color rgb="0x142B42" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x47617F" alpha="100" stop="0" />
+                <color rgb="0x47617F" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x374D64" alpha="100" stop="0" />
+                <color rgb="0x142D46" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slide_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x374D64" alpha="100" stop="0" />
+                <color rgb="0x142D46" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="volume">
+        <group_colors>
+          <color name="thumb_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0E2A46" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x57799E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x46678E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x4D74A3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x314B68" alpha="100" stop="0" />
+                <color rgb="0x365374" alpha="100" stop="128" />
+                <color rgb="0x314B68" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="HTML">
+        <group_colors>
+          <color name="htmlpage_bg_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+    </colorscheme>
+  </colorschemes>
+  <string_tables>
+    <string_table name="npnxnanbnsnfns01001000011">
+      <string id="acc_active">active</string>
+      <string id="check_include">Check to include</string>
+      <string id="clear">Clear and return to menu</string>
+      <string id="close">Close</string>
+      <string id="acc_closed_captions">Closed captions. Press the spacebar to toggle captions on and off.</string>
+      <string id="continue">Continue</string>
+      <string id="continueresponsive">Continue</string>
+      <string id="exit">Exit</string>
+      <string id="filter">Filter</string>
+      <string id="finish">FINISH</string>
+      <string id="acc_finish">finish</string>
+      <string id="definition">Definition</string>
+      <string id="acc_definition">definition</string>
+      <string id="glossary">Glossary</string>
+      <string id="terms">Terms</string>
+      <string id="outline">Menu</string>
+      <string id="disabled_orientation">Please rotate your device</string>
+      <string id="next">NEXT</string>
+      <string id="acc_next">next</string>
+      <string id="transcript_chk">Notes</string>
+      <string id="transcript">Notes</string>
+      <string id="bio">Bio</string>
+      <string id="more_info">More info</string>
+      <string id="closed_captions">Captions</string>
+      <string id="acc_pause">pause</string>
+      <string id="acc_play">play</string>
+      <string id="send_an_email">Send an email</string>
+      <string id="prev">PREV</string>
+      <string id="acc_previous">previous</string>
+      <string id="question_list">Question List</string>
+      <string id="acc_replay">replay</string>
+      <string id="resources">Resources</string>
+      <string id="acc_resources">resources</string>
+      <string id="restart">Restart</string>
+      <string id="resume">Resume</string>
+      <string id="search">Search...</string>
+      <string id="acc_search_input">search</string>
+      <string id="search_in">Search in:</string>
+      <string id="search_results">Search Results</string>
+      <string id="acc_skipnavigation">Skip navigation. Press enter to return to the slide.</string>
+      <string id="slide_text_chk">Slide Text</string>
+      <string id="submitall">SUBMIT ALL</string>
+      <string id="acc_submitall">submit all</string>
+      <string id="submit">SUBMIT</string>
+      <string id="acc_submit">submit</string>
+      <string id="acc_volume">volume</string>
+    </string_table>
+  </string_tables>
+  <fonts>
+    <font name="Calibri">
+      <files>
+        <file bold="true" italic="false" />
+        <file bold="false" italic="false" />
+      </files>
+    </font>
+  </fonts>
+  <sounds enabled="true" />
+  <nav_data>
+    <outline>
+      <links>
+        <slidelink slideid="_player.6HTFG359OBF.604AHAGuDGf" displaytext="Start" expand="false" type="slide">
+          <links>
+            <slidelink slideid="_player.6HTFG359OBF.6fg17kTHFuu" displaytext="Using the emodule" expand="false" type="slide" />
+            <slidelink slideid="_player.6HTFG359OBF.6U1m8HYNosj" displaytext="Unit 4 Overview and Instructions" expand="false" type="slide" />
+            <slidelink slideid="_player.6HTFG359OBF.6MccOCtRBtX" displaytext="Unit 4 Summary Schedule" expand="false" type="slide" />
+            <slidelink slideid="_player.6HTFG359OBF.6h8CmklmJS3" displaytext="Exercise Selection" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6Lw6XTSphNx" displaytext="11A Innervation of the GI system" expand="false" type="slide">
+          <links>
+            <slidelink slideid="_player.6Lw6XTSphNx.651idABzeq3" displaytext="1. Instructions" expand="false" type="slide" />
+            <slidelink slideid="_player.6Lw6XTSphNx.6EjXnj44Ll0" displaytext="2. Objectives" expand="false" type="slide" />
+            <slidelink slideid="_player.6Lw6XTSphNx.69qnFTMa71j" displaytext="3. The Enteric Nervous System" expand="false" type="slide" />
+            <slidelink slideid="_player.6Lw6XTSphNx.6kDaZ82XnRs" displaytext="4. Autonomic Plexuses of the Abdomen and Pelvis" expand="false" type="slide" />
+            <slidelink slideid="_player.6Lw6XTSphNx.6JFVri78yQr" displaytext="5. Vagal Contribution to the Innervation of the Gut" expand="false" type="slide" />
+            <slidelink slideid="_player.6Lw6XTSphNx.6aZT509MUpP" displaytext="6. Parasympathetic Innervation of the Foregut and Midgut " expand="false" type="slide" />
+            <slidelink slideid="_player.6Lw6XTSphNx.69BCvS0M8Jd" displaytext="7. Parasympathetic Innervation of the Hindgut" expand="false" type="slide" />
+            <slidelink slideid="_player.6Lw6XTSphNx.5Zu28aUYOvX" displaytext="8. Sympathetic Innervation of the GI Tract " expand="false" type="slide" />
+            <slidelink slideid="_player.6Lw6XTSphNx.6gwcMhkIhZQ" displaytext="9. Sensory Autonomic Fibres " expand="false" type="slide" />
+            <slidelink slideid="_player.6Lw6XTSphNx.5gWCdzxAILV" displaytext="10. Referred Pain from the GI Tract " expand="false" type="slide" />
+            <slidelink slideid="_player.6Lw6XTSphNx.6UVxr5qV7X5" displaytext="11. Summary: Innervation of the GI Tract" expand="false" type="slide" />
+            <slidelink slideid="_player.6Lw6XTSphNx.5j9rzOWcfp5" displaytext="12. Summary: Parasympathetic Innervation of the Hindgut" expand="false" type="slide" />
+            <slidelink slideid="_player.6Lw6XTSphNx.64s5xxIKPR6" displaytext="13. Quiz Start" expand="false" type="slide" />
+            <slidelink slideid="_player.6Lw6XTSphNx.6VJgnoAeJed" displaytext="14. 11A The End" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.5XOMtTSVpFP" displaytext="11.1 Dissection of the Foregut" expand="false" type="slide">
+          <links>
+            <slidelink slideid="_player.5XOMtTSVpFP.5mVbgtS9Bry" displaytext="1. Resources" expand="false" type="slide" />
+            <slidelink slideid="_player.5XOMtTSVpFP.5l0ZU27W0eG" displaytext="2. Objectives" expand="false" type="slide" />
+            <slidelink slideid="_player.5XOMtTSVpFP.6jRmO7Gs2XP" displaytext="3. The Subdivisions of the Digestive Tract and their Blood Supply" expand="false" type="slide" />
+            <slidelink slideid="_player.5XOMtTSVpFP.6F6r5UY6syf" displaytext="4. Preparing to Dissect " expand="false" type="slide" />
+            <slidelink slideid="_player.5XOMtTSVpFP.5p0WrB53p0F" displaytext="5. The Diaphragmatic Surface of the Liver" expand="false" type="slide" />
+            <slidelink slideid="_player.5XOMtTSVpFP.6Nxs6Kpx4ig" displaytext="6. The Visceral Surface of the Liver" expand="false" type="slide" />
+            <slidelink slideid="_player.5XOMtTSVpFP.6fxMVoA8ilb" displaytext="7. The Spleen" expand="false" type="slide" />
+            <slidelink slideid="_player.5XOMtTSVpFP.6Bg1yVFZR3I" displaytext="8. The Stomach" expand="false" type="slide" />
+            <slidelink slideid="_player.5XOMtTSVpFP.6FYcZXJp8lc" displaytext="9. The Pyloric Sphincter" expand="false" type="slide" />
+            <slidelink slideid="_player.5XOMtTSVpFP.5tlGvCQZOFQ" displaytext="10.  The Duodenum and Pancreas " expand="false" type="slide" />
+            <slidelink slideid="_player.5XOMtTSVpFP.5vS5ArMyjLk" displaytext="11.  The Celiac Trunk" expand="false" type="slide" />
+            <slidelink slideid="_player.5XOMtTSVpFP.6JtsWgkijY7" displaytext="12. Summary: The Blood Supply to the Stomach " expand="false" type="slide" />
+            <slidelink slideid="_player.5XOMtTSVpFP.5qMK1ycPhUe" displaytext="13. Progress Check 1" expand="false" type="slide" />
+            <slidelink slideid="_player.5XOMtTSVpFP.6F6cvkHvCK8" displaytext="14. Preparing the Field of Dissection " expand="false" type="slide" />
+            <slidelink slideid="_player.5XOMtTSVpFP.66zhjtbwmxh" displaytext="15. The Contents of the Hepatoduodenal Ligament " expand="false" type="slide" />
+            <slidelink slideid="_player.5XOMtTSVpFP.6EWpLYWRiOh" displaytext="16. The Right Gastric Artery" expand="false" type="slide" />
+            <slidelink slideid="_player.5XOMtTSVpFP.6mpcACDzp6F" displaytext="17. Bile Ducts within the Hepatoduodenal Ligament " expand="false" type="slide" />
+            <slidelink slideid="_player.5XOMtTSVpFP.6SHMXLFwb2r" displaytext="18. Arteries within the Hepatoduodenal Ligament " expand="false" type="slide" />
+            <slidelink slideid="_player.5XOMtTSVpFP.6k7FGWKNDJW" displaytext="19. The Gastroduodenal Artery and Branches " expand="false" type="slide" />
+            <slidelink slideid="_player.5XOMtTSVpFP.5gJzNcWIzdj" displaytext="20. The Celiac Trunk " expand="false" type="slide" />
+            <slidelink slideid="_player.5XOMtTSVpFP.5ag2kYLBH9x" displaytext="21. Progress Check 2" expand="false" type="slide" />
+            <slidelink slideid="_player.5XOMtTSVpFP.6IxKxRzwR9g" displaytext="22. The Left Gastric Artery " expand="false" type="slide" />
+            <slidelink slideid="_player.5XOMtTSVpFP.6bkfxwMUthG" displaytext="23. The Splenic Artery " expand="false" type="slide" />
+            <slidelink slideid="_player.5XOMtTSVpFP.6H7VhSPsbtT" displaytext="24. The Gastro-omental Arteries " expand="false" type="slide" />
+            <slidelink slideid="_player.5XOMtTSVpFP.6MNVjrFustE" displaytext="25. The Spleen " expand="false" type="slide" />
+            <slidelink slideid="_player.5XOMtTSVpFP.6l4hBosdSNg" displaytext="26. The Hepatic Portal Vein " expand="false" type="slide" />
+            <slidelink slideid="_player.5XOMtTSVpFP.5iBO2woRhXa" displaytext="27. Gallbladder" expand="false" type="slide" />
+            <slidelink slideid="_player.5XOMtTSVpFP.5eGUuFK3WzZ" displaytext="28. Progress Check 3" expand="false" type="slide" />
+            <slidelink slideid="_player.5XOMtTSVpFP.5Vx6110etPN" displaytext="29. Quiz Start" expand="false" type="slide" />
+            <slidelink slideid="_player.5XOMtTSVpFP.5YbFs6gVp0N" displaytext="30. 11.1 The End" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.5oQzzTv4PkK" displaytext="11.2 Study of Abdominal Organs Prosections" expand="false" type="slide">
+          <links>
+            <slidelink slideid="_player.5oQzzTv4PkK.6Xk34d9OGVp" displaytext="1. Resources" expand="false" type="slide" />
+            <slidelink slideid="_player.5oQzzTv4PkK.6CgASAYY9UK" displaytext="2. Objectives" expand="false" type="slide" />
+            <slidelink slideid="_player.5oQzzTv4PkK.649Yd8vqfL6" displaytext="3. Part II Prosected Organs" expand="false" type="slide" />
+            <slidelink slideid="_player.5oQzzTv4PkK.67gDw5uZFly" displaytext="4. Internal Features of the Stomach" expand="false" type="slide" />
+            <slidelink slideid="_player.5oQzzTv4PkK.5hfUPw9ywIZ" displaytext="5. The Hepatic Portal System" expand="false" type="slide" />
+            <slidelink slideid="_player.5oQzzTv4PkK.6fHsiZUmwWP" displaytext="6. The Coronary Ligament" expand="false" type="slide" />
+            <slidelink slideid="_player.5oQzzTv4PkK.5gpcAWL8gGa" displaytext="7. The Bare Area of the Liver" expand="false" type="slide" />
+            <slidelink slideid="_player.5oQzzTv4PkK.6UdKlLodNRn" displaytext="8. The Visceral Surface of the Liver" expand="false" type="slide" />
+            <slidelink slideid="_player.5oQzzTv4PkK.6HY5asOjvkQ" displaytext="9. Segmental Anatomy of the Liver  " expand="false" type="slide" />
+            <slidelink slideid="_player.5oQzzTv4PkK.6A2dUinngUp" displaytext="10. Progress Check 4" expand="false" type="slide" />
+            <slidelink slideid="_player.5oQzzTv4PkK.6hbKjau3glv" displaytext="11. Internal Features of the Small Intestine I" expand="false" type="slide" />
+            <slidelink slideid="_player.5oQzzTv4PkK.6bYkXV0OByx" displaytext="12. Internal Features of the Small Intestine II" expand="false" type="slide" />
+            <slidelink slideid="_player.5oQzzTv4PkK.5ok8uL5nvb1" displaytext="13. The Spleen" expand="false" type="slide" />
+            <slidelink slideid="_player.5oQzzTv4PkK.6lBucn5q3D0" displaytext="14. Pancreas Complex" expand="false" type="slide" />
+            <slidelink slideid="_player.5oQzzTv4PkK.6TbEID6MP9f" displaytext="15. Progress Check 2" expand="false" type="slide" />
+            <slidelink slideid="_player.5oQzzTv4PkK.6Hv9OWK3k80" displaytext="16. Quiz Start" expand="false" type="slide" />
+            <slidelink slideid="_player.5oQzzTv4PkK.5em9bQW9AFk" displaytext="17. 11.2 The End" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="" displaytext="Unit 4 Field Trips" expand="true" type="slide" />
+        <slidelink slideid="_player.5yYCXYKEFAc" displaytext="Quizlandia 11" expand="false" type="slide">
+          <links>
+            <slidelink slideid="_player.5yYCXYKEFAc.5aPDdig9lB3" displaytext="Quiz Selection" expand="true" type="slide" />
+            <slidelink slideid="_player.5yYCXYKEFAc.6V4onYiWxep" displaytext="11A Quiz" expand="false" type="slide">
+              <links>
+                <slidelink slideid="_player.5yYCXYKEFAc.63Vwa6vP2cv" displaytext="Question 1" expand="false" type="slide" />
+                <slidelink slideid="_player.5yYCXYKEFAc.6D2V4UWdP7V" displaytext="Question 2" expand="false" type="slide" />
+                <slidelink slideid="_player.5yYCXYKEFAc.66Y1EBZqpTq" displaytext="Question 3" expand="false" type="slide" />
+                <slidelink slideid="_player.5yYCXYKEFAc.5xKIrDWsaZk" displaytext="Question 4" expand="false" type="slide" />
+                <slidelink slideid="_player.5yYCXYKEFAc.5jkPYq4rx1w" displaytext="Question 5" expand="false" type="slide" />
+                <slidelink slideid="_player.5yYCXYKEFAc.5W3psuatJVM" displaytext="Question 6" expand="false" type="slide" />
+                <slidelink slideid="_player.5yYCXYKEFAc.6dgzsBuGd6g" displaytext="Question 7" expand="false" type="slide" />
+                <slidelink slideid="_player.5yYCXYKEFAc.6ZdlY6Iq9aU" displaytext="Question 8" expand="false" type="slide" />
+              </links>
+            </slidelink>
+            <slidelink slideid="_player.5yYCXYKEFAc.68ML2VrXKnW" displaytext="11.1 Quiz" expand="false" type="slide">
+              <links>
+                <slidelink slideid="_player.5yYCXYKEFAc.5XFas7tK3Gw" displaytext="Question 1" expand="false" type="slide" />
+                <slidelink slideid="_player.5yYCXYKEFAc.6hqRdAMblCR" displaytext="Question 2" expand="false" type="slide" />
+                <slidelink slideid="_player.5yYCXYKEFAc.5xftHWDYXUg" displaytext="Question 3" expand="false" type="slide" />
+                <slidelink slideid="_player.5yYCXYKEFAc.5ZfmK4oYC0w" displaytext="Question 4" expand="false" type="slide" />
+                <slidelink slideid="_player.5yYCXYKEFAc.6aHOIVb6ETz" displaytext="Question 5" expand="false" type="slide" />
+                <slidelink slideid="_player.5yYCXYKEFAc.5jcRnARN24v" displaytext="Question 6" expand="false" type="slide" />
+                <slidelink slideid="_player.5yYCXYKEFAc.6cvflCA9NKq" displaytext="Question 7" expand="false" type="slide" />
+                <slidelink slideid="_player.5yYCXYKEFAc.5ZXRrdr9MPB" displaytext="Question 8" expand="false" type="slide" />
+                <slidelink slideid="_player.5yYCXYKEFAc.6SzFhFw5LU1" displaytext="Question 9" expand="false" type="slide" />
+                <slidelink slideid="_player.5yYCXYKEFAc.6Ig0aR9Bouq" displaytext="Question 10" expand="false" type="slide" />
+              </links>
+            </slidelink>
+            <slidelink slideid="_player.5yYCXYKEFAc.61yvHL3bWnu" displaytext="11.2 Quiz" expand="false" type="slide">
+              <links>
+                <slidelink slideid="_player.5yYCXYKEFAc.5mIxHbHjkze" displaytext="Question 1" expand="false" type="slide" />
+                <slidelink slideid="_player.5yYCXYKEFAc.6hmFzD5VN01" displaytext="Question 2" expand="false" type="slide" />
+                <slidelink slideid="_player.5yYCXYKEFAc.6pxqvUivIqp" displaytext="Question 3" expand="false" type="slide" />
+                <slidelink slideid="_player.5yYCXYKEFAc.66bAjCY9VDL" displaytext="Question 4" expand="false" type="slide" />
+                <slidelink slideid="_player.5yYCXYKEFAc.5kYeJ64GQJH" displaytext="Question 5" expand="false" type="slide" />
+                <slidelink slideid="_player.5yYCXYKEFAc.6DjoZljE8ud" displaytext="Question 6" expand="false" type="slide" />
+                <slidelink slideid="_player.5yYCXYKEFAc.5lRyMyJztKy" displaytext="Question 7" expand="false" type="slide" />
+                <slidelink slideid="_player.5yYCXYKEFAc.5VQpyHB0lka" displaytext="Question 8" expand="false" type="slide" />
+                <slidelink slideid="_player.5yYCXYKEFAc.6FoYgaLuVJZ" displaytext="Question 9" expand="false" type="slide" />
+              </links>
+            </slidelink>
+          </links>
+        </slidelink>
+      </links>
+    </outline>
+    <search>
+      <slidetext slideid="6HTFG359OBF.604AHAGuDGf" slidebank="false" type="slide">     click to enter click to enter click to enter   anatomy  unit 4: abdomen, pelvis &amp; perineum lab 11</slidetext>
+      <slidetext slideid="6HTFG359OBF.6eRgsFpcCb7" slidebank="false" type="slide">  unless otherwise noted, all figures in this emodule are from gray’s anatomy for students, 3e, by drake   , vogl and mitchell, © 2015 by elsevier. this is a recommended resource.    click to begin click to begin click to begin  emodule tutorial emodule tutorial emodule tutorial no, not that drake. even his talents have limits.   anatomy lab 11 </slidetext>
+      <slidetext slideid="6HTFG359OBF.6U1m8HYNosj" slidebank="false" type="slide"> unit 4 overview and instructions  previous next in unit 4, you will learn the anatomy of the abdomen, retroperitoneum, pelvis and perineum. unit 4 consists of four labs, labs 10 through 13, spread over 18 hours of lab time.  labs 10, 11 and 12 cover the anatomy of the gi tract and associated organs, their blood supply, nerve supply and lymphatic drainage. they are designed to support your learning in the gi block of cpc-2. lab 13 covers the anatomy of the the retroperitoneum, pelvis and perineum. it is designed to support your learning in the urinary system block of cpc-2. the assignment of histology modules on the digestive and urinary systems are aligned with the gross anatomy sessions and their contents will be assessed on the unit 4 bell-ringer. lab 10 includes a pre-lab slm that introduces students to the anatomy of the gi system. the lab session consists of a single, 3-hour lab period. the session begins with an opportunity to review, from lab 3, the structure of the anterolateral abdominal wall and the peritoneal cavity, abdominal organs, mesenteries and ligaments. you will, however, go beyond what you learned in lab 3, because an introduction to the blood supply of the digestive tract is woven throughout. a clear understanding of this information is a prerequisite for a successful dissection of the digestive tract. during the second half of lab 10, you will embark upon the dissection of the foregut.  lab 11 includes a pre-lab slm on the nerve supply of the gi tract. the session consists of a single, 6-hour lab period. you will continue the dissection of the foregut started in lab 10 and have sufficient time to complete an excellent dissection from which every member of your group can learn. throughout the course of the day, students will take turns completing exercise 11.2, a study of prosected abdominal organs. lab 12 includes a pre-lab slm on the midgut and hindgut. it is a single, 3-hour lab period. during the lab you will complete a dissection of the midgut, hindgut, duodenum, pancreas and hepatic portal vein.  lab 13 includes a pre-lab slm on the pelvis and perineum. it consists of two, 3-hour lab periods during which you will learn the anatomy of the retroperitoneum, pelvis and perineum. during the first session, half the class will remove the digestive tracts from four of the eight cadavers in their labs and dissect the retroperitoneum and kidneys. the other half of the class will learn the anatomy of the pelvis and perineum using bones, models and prosected specimens. during the second lab period, students will switch tasks.</slidetext>
+      <slidetext slideid="6HTFG359OBF.6MccOCtRBtX" slidebank="false" type="slide">instructions 11.2 over the course of this full-day lab, students will in turn take a break from working on their dissection of the foregut to study the prosected abdominal organs that are available on the table in front of the big screen. this will occur as follows:  9:00 - 10:30 am 10:30 am – 12 noon 1:00 - 2:30 pm 2:30 - 4:00 pm exercise 11.2 pairs 1 pairs 3 pairs 2 pairs 4     previous next unit 4 summary schedule lab 10 	           	week 28 (3-hour lab) initially, all students review the anterolateral abdominal wall on cadaver 1, then: pairs 1 &amp; 2: review the peritoneal cavity, then start the dissection of the foregut on cadaver 1  pairs 3 &amp; 4: review the peritoneal cavity, then start the dissection of the foregut on cadaver 2   		 lab 11		week 29 (6-hour lab) pairs 1 &amp; 2: complete dissection of the foregut on cadaver 1 pairs 3 &amp; 4: complete dissection of the foregut on cadaver 2 students will take turns completing exercise 11.2, a study of prosected abdominal organs, as outlined here. lab 12 		week 30 (3-hour lab) pairs 1 &amp; 2: dissection of the midgut, hindgut duodenum, pancreas and hepatic portal vein on cadaver 1 pairs 3 &amp; 4: dissection of the midgut hindgut, duodenum, pancreas and hepatic portal vein  on cadaver 2 lab 13 		week 31 (3-hour lab)  half of class: dissection of retroperitoneum on 4 of the 8 cadavers (leaving the 4 best dissections of the digestive tract for review) half of the class: pelvis and peritoneum using prosections week 32 (3-hour lab)  switch anatomy assessment monday of week 33</slidetext>
+      <slidetext slideid="6HTFG359OBF.6h8CmklmJS3" slidebank="false" type="slide"> previous  lab 11: exercise selection select an exercise to begin: 11.1 dissection of the foregut 11.1 dissection of the foregut 11.1 dissection of the foregut 11a prelab slm: innervation of the gi system 11a prelab slm: innervation of the gi system 11a prelab slm: innervation of the gi system 11.3 field trip 11.3 field trip 11.3 field trip quizlandia 11 quizlandia 11 quizlandia 11 lab 11 exercises pre-lab slm if you finish any exercise early… 11.2 study of prosectioned organs 11.2 study of prosectioned organs 11.2 study of prosectioned organs</slidetext>
+      <slidetext slideid="6HTFG359OBF.6fg17kTHFuu" slidebank="false" type="slide"> to complete each section, use the next button at the bottom of the pages, swipe next or press the right arrow key to move forward one page at a time.  use the menu, available by clicking “menu” at the top, to navigate to specific slides. use search to quickly find instances of relevant terms. use the previous button at the bottom of the pages, swipe previous or press the left arrow key to move back one page at a time.   previous next using the emodule  menu 11a pre-lab slm 11.1 exercise 1 11.2 exercise 2    use this emodule before labs to prepare for them, during labs to guide your studies, and after labs as a review tool.</slidetext>
+      <slidetext slideid="6HTFG359OBF.5amnTpsr4vW" slidebank="false" type="slide"> previous  conventions used in the emodule with age, wear and tear,  info information that has implications for health and disease is introduced on a blue bar and continued below the bar: and how the superior and inferior articular facets of adjacent vertebrae articulate with one another.  note how they fit together, tas k tasks, introduced on a pink bar and continued below the bar in bold, are actions that you should take to help you understand the content: an intervertebral disc can herniate, such that the nucleus pulposus….       the film button appears on the bottom bar of slides where a video accompanies tasks or explanations. the photo button appears at the bottom of slides where a photo accompanies tasks. some words are followed by an icon       ; click the icon to jump to related information. click the       icon to close it. some words are followed by an icon       ; click the icon to see a definition.  words / phrases in purple denote concepts with which you should become familiar.         the slide talk icon appears on the top bar of slides containing a recording of me explaining concepts. info this is where i will share my thoughts, tips and tricks with you!         got it! let’s move on</slidetext>
+      <slidetext slideid="5oQzzTv4PkK.6Xk34d9OGVp" slidebank="false" type="slide"> 11.2 study of abdominal organs prosections  previous specimens two abdominal organs teaching bins next what you’ll need: instructions 11.2 over the course of this full-day lab, students will in turn take a break from working on their dissection of the foregut to study the prosected abdominal organs that are available on the table in front of the big screen. this will occur as follows:  9:00 - 10:30 am 10:30 am – 12 noon 1:00 - 2:30 pm 2:30 - 4:00 pm exercise 11.2 pairs 1 pairs 3 pairs 2 pairs 4</slidetext>
+      <slidetext slideid="5oQzzTv4PkK.6CgASAYY9UK" slidebank="false" type="slide"> 11.2   objectives  next previous 2 when you have completed this dissection, you will be able to identify and / or describe: the anatomy of the stomach including its internal features the difference between systemic (caval), pulmonary and hepatic portal veins the formation of the hepatic portal vein the features of the liver including its surfaces, their features, its bare area and ligaments hepatic segments the distinguishing features, external and internal of the duodenum, jejunum and ileum the surfaces and features of the spleen the subdivisions of the pancreas and their relationship to adjacent organs and vessels</slidetext>
+      <slidetext slideid="5oQzzTv4PkK.649Yd8vqfL6" slidebank="false" type="slide"> 11.2   prosected organs  next previous 3 the abdominal organs teaching bin contains a variety of prosected specimens, each wrapped in a moist cloth and tied in a bag with minimal air. note that the appropriate tag is on the bag. this is how the specimens should be put into the bin at the end of the day. the first persons to complete this exercise today will remove the specimens from the bin, unwrap them and place them on the table for study covered by their cloth. place the plastic bags and tags in the bin, replace its lid and put the bin under the table.  two livers, one with the diaphragm attached and the other in isolation open stomach three prosections of the small intestine: i) the gastroduodenal junction, ii) the duodenal-jejunal junction, and iii the ileocecal junction isolated spleen pancreas complex uncover each specimen as needed, and when you’re done with it, moisten it and cover it with its cloth. the lasts persons to complete this exercise today will replace the specimens in the bin as they were found: moistened, wrapped, bagged with minimal air and with the correct tag on the bag. when you are finished studying them, you must moisten them, wrap them in cloths, put them back in their bags with minimal air, tie the bags with the appropriate tags so that they can be found by others, put them in the bin and seal it.</slidetext>
+      <slidetext slideid="5oQzzTv4PkK.67gDw5uZFly" slidebank="false" type="slide"> 11.2   internal features of the stomach  next previous 4  review the features of stomach. identify the: tas k body  greater curvature  lesser curvature  cardia  cardial notch  fundus  pylorus (inc. pyloric antrum and canal     ) pyloric orifice and sphincter identify the: tas k open the stomach and inspect its internal surface. rugae rugae are longitudinal folds of the gastric mucosa and submucosa. they flatten out as the stomach fills, and thus function to permit expansion and increased volume as needed.   moisten the specimen and cover it with a damp cloth; it needs to be handy for your progress check. unwrap the specimen marked “stomach”. lay it out on a table. the pylorus the pyloris connects the body of the stomach to the duodenum. the pyloric antrum is that part adjacent to the body that narrows rapidly into the more cylindrical pyloric canal.  </slidetext>
+      <slidetext slideid="5oQzzTv4PkK.5hfUPw9ywIZ" slidebank="false" type="slide"> 11.2   the hepatic portal system   next previous 5 systemic veins drain into the svc or ivc. systemic veins are thus, sometimes, called “caval” veins. examples are the veins draining the head and neck, limbs and body wall. pulmonary veins drain the lungs.  veins of the hepatic portal system (“portal veins”) drain the digestive tract first to the liver, and only after processing in this organ, does the venous blood then drain into the ivc. in this way, portal veins are distinct from systemic veins. as illustrated, portal veins respect the division of the digestive tract into the foregut, midgut and hindgut. the hindgut is drained by the inferior mesenteric vein. the midgut is drained by the superior mesenteric vein. the foregut is drained by a combination of vessels that includes the splenic vein, the gastric veins and the gastro-omental veins.  all of these veins ultimately combine to form the hepatic portal vein, which runs in the hepatoduodenal ligament and drains into the liver at the porta hepatis. </slidetext>
+      <slidetext slideid="5oQzzTv4PkK.6fHsiZUmwWP" slidebank="false" type="slide"> 11.2   the coronary ligament  next previous 6  uncover the liver with the attached diaphragm. tas k identify the right and left lobes, covered by visceral peritoneum. identify the falciform ligament, formed as the serous membrane reflects off the right and left lobes and onto the underside of the diaphragm. follow the falciform ligament to the point where its two laminae diverge to place one hand on each of the anterior and posterior surfaces of the left lobe. as you slide your hands up toward the diaphragm to touch the left coronary ligament, you’ll find your hands are close together.  repeat this with the right lobe, and you will find that when you touch the right coronary ligament, your hands are quite far apart!  the surface of the liver between your hands is directly attached to the underside of the diaphragm. it is therefore not covered by visceral peritoneum. this is the bare area of the liver, largely located on the superior surface of the right lobe. form the right and left coronary ligaments which attach the liver to the underside of the diaphragm.</slidetext>
+      <slidetext slideid="5oQzzTv4PkK.5gpcAWL8gGa" slidebank="false" type="slide"> 11.2   the bare area of the liver  next previous 7 on the posterior aspect of the diaphragmatic surface, identify the bare area. this surface was fixed by ct to the inferior surface of the diaphragm, and thus is not covered by visceral peritoneum. around the bare area, note the cut edges of the coronary ligaments, which form the margins   note the sharp anterior border of the liver that separates the diaphragmatic surface from the visceral surface. on the visceral surface, note the h-shaped structures and creases that separate the four anatomical lobes of the liver; identify the right lobe, left lobe, caudate lobe and quadrate lobe. uncover the isolated liver without the diaphragm. tas k of the bare area. identify the lateral extensions of the coronary ligaments, which are the right and left triangular ligaments.</slidetext>
+      <slidetext slideid="5oQzzTv4PkK.6UdKlLodNRn" slidebank="false" type="slide"> the fetal circulation this diagram, from an early edition of gray’s anatomy, shows the fetal circulation, and explains the formation of both the round ligament of the liver and the ligamentum venosum. the round ligament of the liver is a remnant of the umbilical vein, which carried oxygenated blood from the placenta, through the umbilicus, to the fetal liver. it is located in the free edge of the falciform ligament. the ductus venosus collected blood from the umbilical vein and carried it to the ivc, which delivered it to the right atrium. postnatally, the ductus venosus degenerates, forming the ligamentum venosum, which you see on the visceral surface of the liver under study.    11.2   the visceral surface of the liver  next previous 8 look at the left pillar of the h: it is formed by the falciform ligament and the ligamentum venosum     . the two pillars of the h are joined by the porta hepatis and its contents, the hepatic ducts, the hepatic arteries and the hepatic portal vein. look for the hepatic veins, which drain the liver into the ivc. there are usually three.  do not confuse the hepatic veins with the hepatic portal vein. the hepatic portal vein carries venous blood from the digestive tract to the liver. after this blood has been processed by the liver, the hepatic veins carry venous blood from the liver to the ivc. look at the right pillar of the h; it is formed by the ivc and gallbladder.  tas k      </slidetext>
+      <slidetext slideid="5oQzzTv4PkK.6HY5asOjvkQ" slidebank="false" type="slide"> 11.2   segmental anatomy of the liver   next previous 9 segmental anatomy of the liver info clinically, the liver is divided into eight segments, which can be compared to the bronchopulmonary segments of the lungs.  each liver segment is independent of the others, being fed by its own branches of the hepatic portal vein and hepatic artery proper, and being drained by a dedicated tributary of the hepatic duct.  thus, surgical resection of diseased segments can leave, intact, the healthy segments. *you are not responsible for identifying or learning the names of the liver segments</slidetext>
+      <slidetext slideid="5oQzzTv4PkK.6A2dUinngUp" slidebank="false" type="slide"> 11.2   progress check 1  next previous since embarking on this exercise, you have identified in a prosection, the following structures: stomach: body, greater curvature, lesser curvature, cardia, cardial notch, fundus, pylorus, pyloric canal, pyloric antrum, pyloric orifice, pyloric sphincter, rugae. what is the function of the rugae? what is meant by the terms caval veins? how do these differ from portal veins and pulmonary veins? why are portal and pulmonary veins not caval veins? falciform ligament, right and left coronary and triangular ligaments the bare area of the liver on the visceral surface of the liver, its anatomical lobes: the right, left , quadrate and caudate lobes on the visceral surface of the liver, the ivc and hepatic veins, gallbladder, falciform ligament, round ligament, ligamentum venosum, porta hepatis containing hepatic ducts, arteries and the portal vein what were the round ligament and ligamentum venosum in the fetus? describe the fetal circulation. describe what is meant by the term segment as it applies to the liver. why is this clinically important? pause here to assess your learning. quiz each other thoroughly. if you are satisfied with your ability to identify these structures and answer these questions, move on to the next phase of the exercise. 10</slidetext>
+      <slidetext slideid="5oQzzTv4PkK.6hbKjau3glv" slidebank="false" type="slide"> 11.2   internal features of the small intestine i  next previous 11 identify, in the specimen of the gastroduodenal junction, tas k the pylorus, pyloric sphincter, the major duodenal papilla and the plicae circulares. the hepatopancreatic ampulla      opens into the duodenum at the major duodenal papilla.  uncover the three segments of small intestine. lay the specimens out so that you can compare them.  the papilla is formed by a ring of smooth muscle, the hepatopancreatic sphincter     , which controls the flow of bile and pancreatic juice into the duodenum. a.k.a. the ampulla of vater  a.k.a. the sphincter of oddi  plicae circulares      are transverse folds of mucosa and submucosa. they are permanent, and do not flatten out as the lumen fills, as is the case with the rugae of the stomach. their purpose is different from that of rugae of the stomach; the plicae circulares are found only in the small intestine and function to increase surface area for nutrient absorption. plicae circulares “circular folds” </slidetext>
+      <slidetext slideid="5oQzzTv4PkK.6bYkXV0OByx" slidebank="false" type="slide">   plicae circulares are most prominent in the jejunum  11.2   internal features of the small intestine ii  next previous 12 compare the plicae circulares in the three specimens. tas k you might be able to notice with the naked eye that they are tallest and most tightly-packed in the jejunum     . this is logical; the plicae circulares increase surface area for nutrient absorption. the majority of nutrient absorption occurs in the jejunum because of its greater surface area per unit length. surface area is maximized in the jejunum not only because of its tall, tightly-packed plicae circulares; as explained in the emodule on the histology of the digestive tract, microscopic features that increase surface area, the villi and microvilli, are also most well-developed in the jejunum.        in the specimen of the ileocecal junction (right), identify the ileocecal sphincter by feel. visually identify the ileocecal fold flaps. identify the cecum, defined as that portion of the ascending colon inferior to the ileocecal junction. finally, identify the appendix. moisten these specimens and cover them with a damp cloth.</slidetext>
+      <slidetext slideid="5oQzzTv4PkK.5ok8uL5nvb1" slidebank="false" type="slide"> 11.2   the spleen  next previous 13 unwrap the specimen of the spleen. tas k identify its convex diaphragmatic surface, marked by costal impressions, and its irregular,  concave visceral surface. distinguish its sharp anterior border from its rounded posterior border     .  on the visceral surface of the spleen, identify its hilum, containing splenic arteries and veins. notice the contact impressions made by adjacent organs.  the spleen is a left-sided organ lying adjacent to the 9th - 11th ribs. it is largely located between the fundus of the stomach and the diaphragm. only when enlarged can the spleen be palpated inferior to the costal margin. like the lungs! you might recall that each lung has a sharp anterior border that occupies the costomediastinal recess, and a rounded posterior border formed by contact with the vertebral bodies and the angle of the ribs  the gastric impression is the largest and  most anterior, formed by the fundus of the stomach. the renal impression is posterior, and is made by the superior pole of the left kidney. the colic impression is formed by the left (splenic) flexure of the large intestine. the pancreatic impression is formed by the tail of the pancreas contacting its visceral surface inferior to the hilum. moisten the specimen and cover it with a damp cloth.</slidetext>
+      <slidetext slideid="5oQzzTv4PkK.6lBucn5q3D0" slidebank="false" type="slide"> 11.2   pancreas complex  next previous 14 unwrap the specimen labeled pancreas complex. tas k lay it out on the table with the ivc and aorta posterior and the spleen extending to the left. identify the subdivisions of the pancreas, its uncinate process, head, neck, body and tail. note the relationship of its head to the curve of the duodenum. notice that the neck of the pancreas lies anterior to the smv and sma, while the uncinate process and third part of duodenum lie posterior to the smv and sma, and anterior to the ivc and aorta. if the splenic artery and/or vein is present, notice their relationship to the body and tail of the pancreas. notice the tail of the pancreas ends at the hilum of the spleen moisten the specimen and cover it with a damp cloth. the specimen labeled pancreas complex consist of a pancreas, the curve of the duodenum, the spleen, the ivc with the smv, and the aorta with the sma.</slidetext>
+      <slidetext slideid="5oQzzTv4PkK.6TbEID6MP9f" slidebank="false" type="slide"> 11.2   progress check 2  next previous 15 since the last progress check, you should have identified the following structures and learned the answers to the following questions: gastroduodenal junction: pyloric sphincter and orifice, major duodenal papilla, plicae circulares. what are the relationships between the major duodenal papilla, the hepatopancreatic sphincter and the hepatopancreatic ampulla? what is the purpose of the plicae circulares? how does this compare to the purpose of the rugae? duodenojejunal junction: plicae circulares; what are two microscopic structures that also increase the surface area of the small intestine? ileocecal junction: plicae circulares, ileocecal valve, ileocecal folds, cecum, appendix. how is the cecum defined? spleen: diaphragmatic surface, visceral surface, anterior and posterior borders, hilum, contact impressions (in general). what forms the grooves on the diaphragmatic surface of the liver? adjacent to what ribs is the spleen located? what four organs contact the visceral surface of the spleen? pancreas complex: uncinate process, head, neck, body and tail of the spleen; identify the parts of the duodenum present in your prosection; what part of the pancreas passes posterior to the smv and sma? what part of the duodenum passes posterior to the smv and sma? what part of the pancreas passes to the right of the smv and sma? what part of the pancreas passes anterior to the smv and sma? what parts of the pancreas are adjacent to the splenic artery and vein? if you are satisfied with the quality of your dissection, and your ability to identify these structures and answer these questions, call you ta over for confirmation and for permission to clean up     . if you are the last group of the day, be sure to return the specimens as you found them: moisten specimens and wrap them in cloths. put them back in the bag they came out of. squeeze out as much air as possible. tie the bag with the correct tag, so that others can find the specimens when looking for them. </slidetext>
+      <slidetext slideid="5oQzzTv4PkK.6Hv9OWK3k80" slidebank="false" type="slide">  next previous 11.2   quiz press next to start the quiz or skip to end exercise 11.2 skip 16</slidetext>
+      <slidetext slideid="5oQzzTv4PkK.5em9bQW9AFk" slidebank="false" type="slide">congratulations on finishing exercise 11.2 abdominal organs prosections! back to exercise selection back to exercise selection back to exercise selection review exercise 11.2 review exercise 11.2 review exercise 11.2   previous 17</slidetext>
+      <slidetext slideid="6SpHYr8KLgU.5ehnvux3cMR" slidebank="false" type="slide"> previous   author &amp; emodule developer: barbara ballyk, ph.d. associate professor, teaching stream division of anatomy, department of surgery faculty of medicine, university of toronto acknowledgements brand design: janet koecher, discovery commons university of toronto © 2020 emodule production: kristy cheung, b.sc.h., m.sc. candidate, clinical anatomy, western university albert gheorghita, m.d. candidate, 2t0 faculty of medicine, university of toronto valera castanov, ph.d., m.d. candidate, class of 2022 faculty of medicine, queen’s university julian manzone, m.d., class of 2t9 faculty of medicine, university of toronto</slidetext>
+      <slidetext slideid="6Lw6XTSphNx.651idABzeq3" slidebank="false" type="slide"> 11a pre-lab slm:innervation of the gi system  previous complete this pre-lab slm prior to lab 11. you will be quizzed on its contents at the start of the lab period. next</slidetext>
+      <slidetext slideid="6Lw6XTSphNx.6EjXnj44Ll0" slidebank="false" type="slide"> 11a   objectives  next previous 2 when you have completed this self-learning module, you will be able to describe: the autonomic nerve supply to the organs of the abdomen the typical patterns of referred pain from the organs of the gi system</slidetext>
+      <slidetext slideid="6Lw6XTSphNx.69qnFTMa71j" slidebank="false" type="slide"> 11a   the enteric nervous system  next previous 3  the enteric nervous system functions autonomously to control activity within and between regions of the gut, activities such as gut motility, secretion and vascular tone. it does, however, receive input from, and is modulated by, the autonomic nervous system. gut motility and secretion are increased and decreased, respectively, by parasympathetic and sympathetic input. sensory information from the gut wall feeds back to the cns. along most of the length of the gut, visceral pain is conducted centrally alongside sympathetic efferents. homeostatic feedback travels with parasympathetic efferents. as also discussed in h13, the histology of the digestive system part 1, the digestive system includes the enteric nervous system. it consists of the submucosal (meissner’s) and myenteric (auerbach’s) plexuses, the fibres that connect them and the fibres that innervate the tissues of the gut wall. </slidetext>
+      <slidetext slideid="6Lw6XTSphNx.6kDaZ82XnRs" slidebank="false" type="slide"> 11a   autonomic plexuses of the abdomen and pelvis  next previous 4 sympathetic ganglia are associated with these mixed (sympathetic and parasympathetic) autonomic plexuses. the larger ganglia are named.  the celiac, superior mesenteric and aorticorenal ganglia are considered components of the celiac plexus     .  the inferior mesenteric ganglion is a component of the aortic plexus     . numerous, smaller, unnamed ganglia are distributed throughout these plexuses, including in the superior and inferior hypogastric plexuses. parasympathetic ganglia, containing parasympathetic postganglionic neurons, are microscopic components of the submucosal and myenteric plexuses within the walls of the gi tract. the enteric nervous system receives sympathetic postganglionic and parasympathetic preganglionic inputs from autonomic plexuses of the abdomen and pelvis. these are the prevertebral plexuses (inc. the celiac, aortic and superior hypogastric plexuses), and, in the pelvis, the inferior hypogastric plexus     . autonomic plexuses of the abdomen and pelvis identify the celiac, aortic, superior and inferior hypogastric plexuses in the accompanying figure.  ganglia of the celiac plexus identify the celiac, superior mesenteric and aorticorenal ganglia in the accompanying figure.  identify the inferior mesenteric ganglion in the accompanying figure. it is a component of the aortic plexus. </slidetext>
+      <slidetext slideid="6Lw6XTSphNx.6JFVri78yQr" slidebank="false" type="slide"> 11a   vagal contribution to the innervation of the gut  next previous 5 the vagus nerve, cranial nerve x, supplies parasympathetic preganglionic fibres to the foregut and midgut; i.e. to the gi tract as far as the distal portion of the transverse colon.  the fibres of the left and right vagus nerves overlap in the esophageal plexus. the esophageal plexus gives rise to anterior and posterior vagal trunks, each of which includes fibres from both the left and right vagus nerves. the vagal trunks are named according to their position relative to the esophagus, and they pass into the abdomen through the esophageal hiatus of the diaphragm.</slidetext>
+      <slidetext slideid="6Lw6XTSphNx.6aZT509MUpP" slidebank="false" type="slide"> 11a   parasympathetic innervation of the foregut and midgut   next previous 6 the parasympathetic innervation of the stomach is largely derived from the anterior vagal trunk.  the vagal contribution to the prevertebral plexus, on the other hand, is primarily derived from fibres of the posterior vagal trunk     .      vagal fibres from the prevertebral plexus pass along the celiac and superior mesenteric arteries, and their branches, to supply the remaining organs of the foregut, as well as those of the midgut. in the gut wall, vagal fibres synapse onto postganglionic parasympathetic neurons in the submucosal (meissner’s) and myenteric (auerbach’s) plexuses, to control secretion and motility, respectively. this makes sense! the aortic hiatus is posterior to the esophageal hiatus!  </slidetext>
+      <slidetext slideid="6Lw6XTSphNx.69BCvS0M8Jd" slidebank="false" type="slide"> 11a   parasympathetic innervation of the hindgut  next previous 7 parasympathetic innervation of the hindgut and pelvic organs originates from preganglionic neuronal cell bodies in the s2 - s4 segments of the spinal cord. axons arising from these neurons travel first with the s2 - s4 spinal nerves and their ventral rami, which enter the pelvis through the anterior sacral foramen. there, the parasympathetic preganglionic fibres branch off the ventral rami to form the pelvic splanchnic nerves. the pelvic splanchnic nerves contribute parasympathetic preganglionic fibres to the inferior hypogastric plexus.  from the inferior hypogastric plexus, some of these parasympathetic preganglionic fibres innervate pelvic structures. others ascend through the superior hypogastric plexus to the aortic plexus. these fibres then travel along the inferior mesenteric artery to their target organs of the hindgut.  there again in the gut wall, parasympathetic preganglionic fibres synapse onto postganglionic parasympathetic neurons in the submucosal (meissner’s) and myenteric (auerbach’s) plexuses, to control secretion and motility, respectively.  </slidetext>
+      <slidetext slideid="6Lw6XTSphNx.5Zu28aUYOvX" slidebank="false" type="slide"> sacral splanchnic nerves sacral splanchnic nerves originate from sympathetic preganglionic neuronal cell bodies at the l1 and l2 spinal levels. axons of these neurons pass into the sympathetic chain and descend to sacral levels.  sacral splanchnic nerves arise from the sympathetic chain ganglia associated with the sacrum. thus, like some lumbar splanchnic nerves, these axons descend to arise from the chain below their level of origin.  sacral splanchnic nerves feed into the inferior hypogastric plexus, where they synapse with postganglionic sympathetic neuronal cell bodies located within numerous small, unnamed ganglia. their postsynaptic fibres largely target pelvic structures.    lumbar splanchnic nerves originate from sympathetic preganglionic neuronal cell bodies at the l1 and l2 spinal levels. axons of these neurons pass through the sympathetic chain without synapsing lumbar splanchnic nerves may arise from all of the sympathetic chain ganglia associated with lumbar vertebrae, not just those associated with the l1 and l2 vertebrae. this means that these sympathetic preganglionic axons can descend to emerge from the chain below their level of origin.  lumbar splanchnic nerves feed into the aortic plexus. they largely target hindgut structures. lumbar splanchnic nerves     named sympathetic ganglia of the abdomen and pelvis  11a   sympathetic innervation of the gi tract   next previous 8 sympathetic preganglionic neurons destined to control abdominal and pelvic targets arise from spinal cord segments t5 to l2.  their axons pass through sympathetic chain ganglia without synapsing, and then form the: thoracic (greater, lesser and least) splanchnic nerves lumbar splanchnic nerves sacral splanchnic nerves  which deliver sympathetic preganglionic fibres to the autonomic plexuses of the abdomen and pelvis     . there, these preganglionic axons synapse onto sympathetic postganglionic neuronal cell bodies contained within ganglia associated with these autonomic plexuses. named ganglia are the celiac, aorticorenal, superior mesenteric and inferior mesenteric ganglia     , although there are numerous smaller, unnamed sympathetic ganglia within the plexuses as well, including in the superior and inferior hypogastric plexuses.  postganglionic sympathetic axons arise from these ganglia, enter the autonomic plexuses and travel with the arteries supplying the gut to their target organ.                    to summarize: all of these splanchnic nerves, the greater, lesser, least, lumbar and sacral splanchnic nerves, contain sympathetic preganglionic fibres. this is unlike the cardiac and esophageal splanchnic nerves, which contain sympathetic postganglionic fibres and the pelvic splanchnic nerves, which contain parasympathetic preganglionic fibres. </slidetext>
+      <slidetext slideid="6Lw6XTSphNx.6gwcMhkIhZQ" slidebank="false" type="slide">sensory fibres are a component of all autonomic nerves: the vagi, the pelvic splanchnic nerves and the sympathetic splanchnic nerves. these fibres carry information to the cns regarding the viscera they serve.  in general, sensory fibres in the parasympathetic nerves carry homeostatic information, including that needed to coordinate reflexive visceral activities.  in general, sensory fibres in sympathetic nerves carry nociceptive impulses     . thus, nociceptive signals from a given viscus are conveyed back to the spinal segments that gives rise to its sympathetic motor input.  for example, sympathetic motor innervation of the midgut arises from roughly the t10 spinal level. nociceptive impulses due to an inflamed appendix, for example, is received in the spinal cord at this same level, t10. the pain is referred to the body wall in the dermatome corresponding to this spinal level, and the patient experiences visceral-type pain      in the region of the umbilicus, which is the level of the t10 dermatome.  11a   sensory autonomic fibres   previous 9 next nociceptive noxious sensations; i.e sensations regarding tissue damage, irritation and inflammation.  visceral pain diffuse (poorly localized) and colicky (comes and goes in waves); this is in contrast with somatic pain, as might occur with tissue damage in the body wall or limbs, which is sharp and well-localized. </slidetext>
+      <slidetext slideid="6Lw6XTSphNx.5gWCdzxAILV" slidebank="false" type="slide"> 11a   referred pain from the gi tract   previous 10 next the gi tract and its associated organs develop from a midline embryonic gut tube that is bilaterally innervated by the sympathetic nervous system. therefore, nociceptive signals from the gi tract are typically referred to the midline.  pain due to irritation of:  foregut structures refers to the epigastric region,  midgut structures refers to the umbilical region, and  hindgut structures refers to the hypogastric (pubic) region.  these dermatomal levels correspond to the spinal levels of origin of the sympathetic innervation of each:  the foregut from t5 - t9,  the midgut from t10 &amp; t11, and the hindgut from t12 and below. if the parietal peritoneum lining the internal surface of the body wall is irritated by an inflamed viscus, for example, nerves of the body wall report this pain which is somatic in nature – sharp and well-localized.</slidetext>
+      <slidetext slideid="6Lw6XTSphNx.6UVxr5qV7X5" slidebank="false" type="slide"> 11a   summary: innervation of the gi tract  previous 11 next sympathetic innervation of the gi tract originates from preganglionic neuronal cell bodies in spinal segments t5 - l2. preganglionic fibres pass through the sympathetic chain to emerge as splanchnic nerves (greater, lesser, least, lumbar and sacral). fibres may descend within the chain before emerging to form a splanchnic nerve. these splanchnic nerves contribute sympathetic preganglionic fibres to the prevertebral plexus and its pelvic continuation, the inferior hypogastric plexus. their fibres synapse in ganglia associated with these plexuses. postganglionic fibres arise from these ganglia and join plexuses surrounding the arteries that supply their target organs. the vagus nerves contribute parasympathetic preganglionic fibres to the prevertebral plexus. its fibres join the extensions of these plexuses along blood vessels to their target organs of the foregut and midgut.</slidetext>
+      <slidetext slideid="6Lw6XTSphNx.5j9rzOWcfp5" slidebank="false" type="slide"> 11a   summary: parasympathetic innervation of the hindgut  previous 12 next parasympathetic innervation of the hindgut originates with preganglionic neuronal cell bodies in the spinal cord at the s2 - s4 levels. their axons travel as a component of the s2-s4 spinal nerves and their ventral rami. in the pelvis, they branch from the ventral rami to form the pelvic splanchnic nerves, which contribute parasympathetic preganglionic fibres to the inferior hypogastric plexus. from the inferior hypogastric plexus, some of these parasympathetic preganglionic fibres are distributed to pelvic structures. others ascend through the superior hypogastric plexus to the aortic plexus, where they join its extension along the inferior mesenteric artery to the hindgut.</slidetext>
+      <slidetext slideid="6Lw6XTSphNx.64s5xxIKPR6" slidebank="false" type="slide">  next previous 11a   quiz press next to start the quiz or skip to end exercise 12a. skip 13</slidetext>
+      <slidetext slideid="6Lw6XTSphNx.6VJgnoAeJed" slidebank="false" type="slide">congratulations on finishing exercise 11a innervation of the gi system! back to exercise selection back to exercise selection back to exercise selection review exercise 11a review exercise 11a review exercise 11a   previous 14</slidetext>
+      <slidetext slideid="5sIY9WcahNZ.5hhMXWxH4mh" slidebank="false" type="slide"> unit 4 field trips  previous take a trip to grant’s museum of anatomy, ms1150, and examine the specimens in the abdomen area to gain a clearer understanding of the material outlined in your lab tasks.  </slidetext>
+      <slidetext slideid="5XOMtTSVpFP.5mVbgtS9Bry" slidebank="false" type="slide"> 11.1 dissection of the foregut  previous specimens cadavers 1 &amp; 2 abdominal organs teaching bin next what you’ll need: instructions you will now pick up where you left off at the end of lab 10 and complete the foregut dissection. the following slides are repeated from exercise 10.3. review what you’ve done so far and then carry on. it should take you the full six hours to complete this dissection properly. check in with your ta regularly to ensure you are revealing all structures adequately.</slidetext>
+      <slidetext slideid="5XOMtTSVpFP.5l0ZU27W0eG" slidebank="false" type="slide"> 11.1   objectives  next previous 2 when you have completed this dissection, you will be able to identify and describe the: gross features of the stomach. hepatoduodenal and hepatogastric ligaments and the structures contained therein. celiac trunk and its branches that supply the stomach, spleen, liver, gallbladder, duodenum and pancreas. hepatic portal vein and its tributaries.</slidetext>
+      <slidetext slideid="5XOMtTSVpFP.6jRmO7Gs2XP" slidebank="false" type="slide"> 11.1   the subdivisions of the digestive tract and their blood supply  next previous 3 the digestive tract is a single (albeit convoluted) tube that has three subdivisions: the foregut, midgut and hindgut. it receives its blood supply from three, unpaired, visceral branches of the abdominal aorta. the foregut receives its blood supply from the celiac trunk, the midgut from the superior mesenteric artery and the hindgut from the inferior mesenteric artery.  these vessels arise from the aorta in the posterior body wall. in order for their branches to gain access to intraperitoneal organs, they must pass through mesenteries or ligaments,  the latter being structures analogous to mesenteries, but smaller. like mesenteries, ligaments consist of two layers of serous membrane with loose ct, adipose, ns, bvs and ls sandwiched between them. the focus of this dissection is the foregut. you will dissect the branches of the celiac trunk that supply the liver, gallbladder, stomach, spleen, the proximal duodenum and a portion of the pancreas.</slidetext>
+      <slidetext slideid="5XOMtTSVpFP.6F6r5UY6syf" slidebank="false" type="slide"> 11.1   preparing to dissect   next previous 4 remove the lungs and heart from your cadaver, wrap them in moist cloths, and set them aside for the  before dissecting,  tas k duration of the session. doing so will allow you to retract the costal margin superiorly to improve your access to the foregut. replace these organs when you clean up at the end of the session.  try retracting the costal margin and liver superiorly. if this proves to be difficult, use bone snippers or a small saw from the tool box to cut the costal margin in the midaxial line, bilaterally. this will create a “hinge” that will permit greater elevation of the costal margin and liver. now, place the greater omentum in its correct anatomical position, and get your bearings by identifying the structures that comprise the foregut.</slidetext>
+      <slidetext slideid="5XOMtTSVpFP.5p0WrB53p0F" slidebank="false" type="slide"> g4.102   the bile duct system  11.1   the diaphragmatic surface of the liver  next previous 5 start with the diaphragmatic surface  tas k the liver produces bile, which is transported to the duodenum by a series of ducts. bile emulsifies dietary fats, thus facilitating their enzymatic digestion by pancreatic lipases. the liver produces bile constantly. the gall bladder stores and concentrates bile until the contents of the duodenum necessitates its delivery via the bile duct system. of the liver. identify its right and left lobe, the falciform ligament that separates them, and the inferior border of the liver. notice the gall         bladder (if it is not present, it was surgically removed via a cholecystectomy), which extends beyond the inferior border of the liver at the level of the ninth costal cartilage.</slidetext>
+      <slidetext slideid="5XOMtTSVpFP.6Nxs6Kpx4ig" slidebank="false" type="slide"> g4.093    11.1   the visceral surface of the liver  next previous 6 one member of your group should raise the inferior border of the liver,  tas k thus exposing its visceral surface. there, identify the hilus of the liver, the porta hepatis     , through which vessels, ducts, lymphatics, and nerves enter the liver. take note of the structures in contact  with the visceral surface of the liver: the gall bladder (if present), the stomach, the duodenum, the colon, and through the parietal peritoneum lining the posterior wall of the hepatorenal recess, the right kidney and right suprarenal gland     .  porta hepatis door to the liver       </slidetext>
+      <slidetext slideid="5XOMtTSVpFP.6fxMVoA8ilb" slidebank="false" type="slide"> 11.1   the spleen   next previous 7 reach around to the left of the stomach and wrap your hand around the spleen. the tip of  from the cadaver’s right side, and with your right hand,  tas k your thumb will be touching the gastrosplenic ligament and the tips of your fingers will be touching the splenorenal ligament.  these ligaments contain blood vessels that arise from the celiac trunk to supply the spleen and portions of the stomach. remember, the celiac trunk is retroperitoneal. its branch, the splenic artery, accesses the spleen, an intraperitoneal organ, by passing through the splenorenal ligament. look at the illustration and notice that the name of the ligament is easy to remember because it describes its points of attachment. branches of the splenic artery access the greater curvature of the stomach by passing through the gastrosplenic ligament. again, the ligament is named according to its points of attachment. notice again, from the illustration that these ligaments form the left border of the lesser sac.</slidetext>
+      <slidetext slideid="5XOMtTSVpFP.6Bg1yVFZR3I" slidebank="false" type="slide"> next previous  11.1   the stomach 8 body  greater curvature  lesser curvature  cardia  cardial notch  fundus  pylorus      (inc. pyloric antrum, canal) pyloric sphincter pylorus gr. “gatekeeper”  identify the tas k turn your attention to the stomach and its gross anatomical features.  cut a flap  tas k in the anterior wall of the stomach, as illustrated by the red dotted lines in the figure. if there is fluid in the stomach lumen, use a rag to absorb it. on the internal surface of the stomach, identify the rugae, longitudinal folds in the stomach wall that flatten out as the stomach fills, increasing its capacity     . rugae can also be seen in the prosected stomach found in the abdominal organ teaching bin. </slidetext>
+      <slidetext slideid="5XOMtTSVpFP.6FYcZXJp8lc" slidebank="false" type="slide"> 11.1   the pyloric sphincter  next previous 9 pinch the thickness of the stomach wall between your index finger and thumb.  identify the pyloric sphincter as follows:  tas k note that your thumb and finger are, perhaps 0.5 cm apart, which gives you some idea of the thickness of the wall of this muscular sack. now feel the thickness of the pyloric sphincter by pinching it between your thumb and finger. you will find that your thumb and finger are now 2.5 - 3 cm apart! this is a very strong sphincter. the pyloric sphincter controls the passage of chyme (partially digested food) from the stomach into the duodenum. anatomically, it consists of a thickening of the circular layer of smooth muscle within the wall of the gut at the gastroduodenal junction.</slidetext>
+      <slidetext slideid="5XOMtTSVpFP.5tlGvCQZOFQ" slidebank="false" type="slide"> 11.1   the duodenum and pancreas   next previous 10 the dividing line between the foregut and midgut passes through the duodenum and pancreas.  the duodenum is subdivided into 1st (superior), 2nd (descending), 3rd (transverse) and 4th (ascending) parts. the proximal 2 cm of the 1st part is intraperitoneal and therefore mobile. this is the portion that is attached to the hepatoduodenal ligament. the remainder of the duodenum is secondarily retroperitoneal. explore the intraperitoneal portion  tas k of the duodenum. insert your index finger though the epiploic foramen and observe that the  hepatoduodenal ligament is anterior to your finger and the duodenum is inferior to your finger as it passes into the posterior body wall where it becomes secondarily retroperitoneal and therefore fixed.  as illustrated, the pancreas, also secondarily retroperitoneal, lies in the curve of the duodenum and extends toward the spleen. the proximal duodenum and portions of the pancreas are supplied by branches of the celiac trunk. the distal duodenum and portions of the pancreas are supplied by branches of the superior mesenteric artery. the details will come later in the dissection.</slidetext>
+      <slidetext slideid="5XOMtTSVpFP.5vS5ArMyjLk" slidebank="false" type="slide"> i) the short gastric arteries, which ascend along the greater curvature of the stomach, within the greater omentum, to its fundus, and  ii) the left gastro-omental (gastro-epiploic) artery, which descends along the greater curvature of the stomach, in the greater omentum. the latter artery anastomoses with the right gastro-omental (gastro-epiploic) artery within the greater omentum.  the splenic artery the splenic artery arises from the celiac trunk. it runs to the left, retroperitoneally, toward the spleen. it passes through the splenorenal ligament to access the hilum of the spleen. before entering the hilum of the spleen, it gives rise to the following branches that pass through the gastrosplenic ligament to access the greater curvature of the stomach.    the left gastric artery the left gastric artery arises from the celiac trunk, and is therefore, initially, retroperitoneal.  it ascends to the left to the point where the esophagus emerges through the diaphragm to become intraperitoneal. it gives an esophageal branch which ascends to supply the retroperitoneal portion of the distal 1/3 of the esophagus.  the left gastric artery then accompanies the intraperitoneal terminus of the esophagus to the lesser curvature of the stomach. it runs within the lesser omentum and forms an arterial anastomosis with the right gastric artery along the lesser curvature of the stomach.    greater curvature of the stomach within the greater omentum. the hepatic artery proper runs in the hepatoduodenal ligament toward the porta hepatis. it gives rise to  i) the right gastric artery, which descends to the lesser curvature of the stomach within the lesser omentum, and  ii) the cystic artery, which supplies the gall bladder.  the hepatic artery proper ends by bifurcating into the right and left hepatic arteries. the common hepatic artery the common hepatic artery arises from the celiac trunk. it runs to the right, retroperitoneally, toward the duodenum and bifurcates into the gastroduodenal artery and the hepatic artery proper.  the gastroduodenal artery remains retroperitoneal and passes posterior to the 1st part of the duodenum. it continues as the right gastro-omental (gastro-epiploic) artery. the right gastro-omental (gastro-epiploic) artery runs along the    the branches of the celiac trunk are named for their area of distribution, which helps you to remember this important information. the three branches of the celiac trunk are the common hepatic artery     , the left gastric artery     and the splenic artery     .  11.1   the celiac trunk   next previous 11 the focus of this dissection is the foregut. you will learn the anatomy of the foregut using its blood supply to guide the progress of your dissection.  thus, start by learning the major branches of the celiac trunk.                  </slidetext>
+      <slidetext slideid="5XOMtTSVpFP.6JtsWgkijY7" slidebank="false" type="slide"> 11.1   summary:  the blood supply to the stomach   next previous 12 the vessels supplying the stomach run along its lesser and greater curvatures, within the lesser and greater omenta, respectively.  within the lesser omentum are the left and right gastric arteries, the former branching from the celiac trunk and the latter usually arising from the hepatic artery proper.  within the greater omentum are the left and right gastro-omental (gastro-epiploic) arteries, the former branching from the splenic artery and the latter arising as the continuation of the gastroduodenal artery. the short gastric arteries arise from the splenic artery and ascend in the greater omentum toward the fundus of the stomach. from these parent arteries running along the margins of the stomach, vessels arise and run within the visceral peritoneum of the stomach to anastomose on both its anterior and posterior surfaces, as illustrated in the accompanying figure. it would be a good idea for one member of your group to draw the vessels described on a white board or chalk board adjacent to your table before embarking on the dissection.</slidetext>
+      <slidetext slideid="5XOMtTSVpFP.5qMK1ycPhUe" slidebank="false" type="slide">  10.4 progress check 1 © elsevier    11.1   progress check 1  next previous in order to complete a dissection successfully, it is critical to know the anatomy of the region prior to taking your instruments to the cadaver. you should identify the following structures and be able to answer the following questions: can you identify the gross anatomical features of the stomach: the body, greater and lesser curvature, cardia, cardial notch, fundus, pylorus and pyloric sphincter? what are rugae and what is their function? what is chyme? if any of these structures are difficult to demonstrate in your cadaver, use the prosected stomach in the abdominal organs teaching bin. your ta will ask you to identify the branches of the celiac trunk, using a diagram, such as this:     . be able to state whether each artery is retroperitoneal or intraperitoneal. if it is intraperitoneal, be able to name the ligament or mesentery that contains the artery. what structures form the left lateral border of the lesser sac? if you feel you are ready to proceed, ask your ta to check that you understand the preceding content adequately enough to move on to the next slide and the dissection of the common hepatic artery, its branches, and related structures.       13</slidetext>
+      <slidetext slideid="5XOMtTSVpFP.6F6cvkHvCK8" slidebank="false" type="slide">    11.1   preparing the field of dissection   next previous 14 out of the anterior border of the left lobe of the liver. this will allow you to  cut a notch tas k more clearly see the structures of the foregut.  be careful not to cut into the porta hepatis, but remove enough tissue to more easily see the lesser omentum and the relationship between the stomach and the porta hepatis. this is one of the few times that i will suggest that you use a scalpel on any structure deep to the dermis!  it is best to remove the liver tissue in pieces until you are satisfied with your field of view, although one member of your group will still need to retract the inferior border of the right lobe of the liver.      </slidetext>
+      <slidetext slideid="5XOMtTSVpFP.66zhjtbwmxh" slidebank="false" type="slide"> 11.1   the contents of the hepatoduodenal ligament   next previous 15 insert your left index finger into the omental foramen. what structure is anterior to your finger? inferior to  from the cadaver’s right side,  tas k your finger? superior to your finger?  note the position of these structures within the hepatoduodenal ligament: the hepatic portal vein is posterior to the hepatic artery proper and bile duct, and the bile duct is lateral to the artery. know that the hepatoduodenal ligament also contains autonomic nerves and lymphatic vessels.  realize, with the help of the accompanying figure, that the ivc is posterior to your finger. also, see from the illustration that the hepatoduodenal ligament contains the common bile duct, hepatic artery proper and the hepatic portal vein. </slidetext>
+      <slidetext slideid="5XOMtTSVpFP.6EWpLYWRiOh" slidebank="false" type="slide">    11.1   the right gastric artery  next previous 16 dissection     , remove the serous membrane from the anterior surface of the lesser omentum on the right side  carefully, using blunt  tas k info: i suggest large forceps and either a blunt probe or large, closed scissors  of the lesser curvature of the stomach. running parallel to the lesser curvature, and about 1 cm from it, you will encounter the right gastric artery. trace the right gastric artery to the right, and into the hepatogastric ligament, to find its origin, dissecting the serous membrane carefully as you go. the right gastric artery will lead you to either the common hepatic artery or the hepatic artery proper.       you will start the dissection by exposing the right gastric artery located between the serous layers of the lesser omentum, along the right side of the lesser curvature of the stomach. the reason we start with this vessel is because it is small and easily broken. once identified, you will trace it toward its origin from either the hepatic artery proper or the common hepatic artery     . info: its origin is variable. </slidetext>
+      <slidetext slideid="5XOMtTSVpFP.6mpcACDzp6F" slidebank="false" type="slide">    11.1   bile ducts within the hepatoduodenal ligament   next previous 17 continue to remove serous membrane from the anterior surface of the hepatoduodenal  carefully, using blunt dissection      ,      tas k info: i suggest large forceps and either a blunt probe or large, closed scissors  ligament to expose the hepatic artery proper and the common bile duct. the artery is medial to the duct. posterior to these two structures, you will encounter the hepatic portal vein. the artery is robust, but the bile duct and portal vein are thin-walled, so exercise particular caution in cleaning these latter two structures. trace the bile duct toward the liver and gall bladder, dissecting carefully as you go     .    find the point at which the common bile duct is formed by the union of the cystic duct, which drains the gall bladder, and the common hepatic duct, which drains the liver. continue to dissect the common hepatic duct toward the porta hepatis until you observe its formation from the union of the right and left hepatic ducts.       info: it is very thin-walled </slidetext>
+      <slidetext slideid="5XOMtTSVpFP.6SHMXLFwb2r" slidebank="false" type="slide">    11.1   arteries within the hepatoduodenal ligament   next previous 18 it will appear to be surrounded by tough ct, which is really autonomic fibres of the celiac plexus that  now dissect the hepatic artery proper. tas k innervate the liver. remove these nerve fibres in order to create a clean dissection     . exercise caution, however, because the right gastric artery often arises from the hepatic artery proper to descend within the hepatogastric ligament to the lesser curvature of the stomach. maintain the integrity of the right gastric artery. trace the hepatic artery proper toward the porta hepatis, where it bifurcates to form the left and right hepatic arteries. the cystic artery usually arises from the right hepatic artery. it is small and fragile; if possible, identify the cystic artery and clean it as it travels with the cystic duct to the gallbladder.  lymphatic vessels are too small and delicate to dissect, but you might notice hepatic lymph nodes as you work. remove these lymph nodes in order to create a clean dissection.        info: i suggest large forceps and large, closed scissors. insert the large, closed scissors between the nerve fibres and the vessel and then open the scissors to clean the vessel. </slidetext>
+      <slidetext slideid="5XOMtTSVpFP.6k7FGWKNDJW" slidebank="false" type="slide"> 11.1   the gastroduodenal artery and branches   next previous 19 as a branch of the retroperitoneal common hepatic artery. identify the other branch of the common hepatic artery, the gastroduodenal artery.  continue to clean the gastroduodenal artery as it passes posterior to the first part of the duodenum, and until it bifurcates to form the  follow the hepatic artery proper inferiorly until you find its origin tas k right gastro- omental (gastroepiploic) artery and the anterior superior pancreaticoduodenal artery.</slidetext>
+      <slidetext slideid="5XOMtTSVpFP.5gJzNcWIzdj" slidebank="false" type="slide"> 11.1   the celiac trunk   next previous 20 as a branch of the celiac trunk. clean the celiac trunk and notice that it is very short, usually less than 2 cm in length. the celiac trunk arises from the anterior surface of the abdominal aorta as it  identify the other two branches of the celiac trunk, the left gastric artery and the splenic artery. again, i recommend blunt dissection with large forceps and large scissors. turn your attention to the common hepatic artery and clean it toward its origin  tas k passes through the aortic hiatus of the diaphragm. since you know the vertebral level at which the aortic hiatus is located, you know the vertebral level at which the celiac artery is located.  </slidetext>
+      <slidetext slideid="5XOMtTSVpFP.5ag2kYLBH9x" slidebank="false" type="slide"> 11.1   progress check 2  next previous since the last progress check, you have dissected and clearly exposed the following structures: right gastric artery hepatic artery proper, common bile duct,  and hepatic portal vein cystic artery and cystic duct  common hepatic duct, right and left hepatic ducts, right and left hepatic arteries gastroduodenal artery and the origin of the right gastro-omental artery common hepatic artery celiac trunk and the origins of the splenic artery and left gastric artery pause here to assess your learning. quiz each other thoroughly. if you are satisfied with your ability to identify these structures, move on to the next phase of the exercise. 21</slidetext>
+      <slidetext slideid="5XOMtTSVpFP.6IxKxRzwR9g" slidebank="false" type="slide">    11.1   the left gastric artery   next previous 22 there, identify its esophageal branch ascending through the esophageal hiatus to supply the terminal third of the esophagus. trace the continuation of the left gastric artery through the  clean the left gastric artery toward the junction of the esophagus and stomach.  tas k       lesser omentum, along the lesser curvature of the stomach. ideally, you will find the point of arterial anastomosis between the left and right gastric arteries along the lesser curvature. </slidetext>
+      <slidetext slideid="5XOMtTSVpFP.6bkfxwMUthG" slidebank="false" type="slide"> 11.1   the splenic artery   next previous 23 the splenic artery runs to the left retroperitoneally, in close association with the superior border of the pancreas.  clean the splenic artery with blunt dissection and note its relationship to the  return to the celiac trunk and clean the splenic artery tas k superior edge of the pancreas.  you will find that the splenic artery is characteristically helical in its course, and is thus reminiscent of a pig’s tail. </slidetext>
+      <slidetext slideid="5XOMtTSVpFP.6H7VhSPsbtT" slidebank="false" type="slide">       11.1   the gastro-omental arteries   next previous 24 turn your attention to the greater omentum. running within the greater omentum, about 2 cm from the greater curvature of the stomach, are the left and right gastro-omental (gastro-epiploic) arteries.  about 2 cm from the greater curvature of the stomach, in the region of the pylorus, break through the greater omentum to identify the right gastro-omental artery. clean it to the left along the greater curvature; ideally you will find the point of anastomosis of the right and left gastro-omental arteries. now follow the right gastro-omental artery to the right until you find its continuation with the gastroduodenal artery, which you identified earlier. adjacent to the body of the stomach, break through the greater omentum using  tas k blunt dissection and identify the left gastro-omental (gastroepiploic) artery. trace it back toward the left until you find its origin as a branch of the splenic artery. clean the splenic artery in the  hilum of the spleen as well as back toward the celiac trunk. look for the short gastric arteries which ascend within the greater omentum to the fundus of the stomach.            </slidetext>
+      <slidetext slideid="5XOMtTSVpFP.6MNVjrFustE" slidebank="false" type="slide">    11.1   the spleen   next previous 25 diaphragmatic surface of the spleen, which lies at the level of ribs 9, 10 and 11. identify its sharp borders and its visceral surface. you have already observed the four organs adjacent to the visceral surface of the spleen: the stomach, the pancreas, the left kidney and the transverse colon at its left colic flexure.  the spleen, as you know from your understanding of the immune system, processes blood for antigen and for spent formed elements. the spleen is wholly intraperitoneal, except at its hilus.  spleen info to the right and grasp the spleen with your right hand. pull the spleen anteriorly in order to identify its features. note the smooth  thus, the spleen’s relationship to ribs 9, 10, and 11 of clinical importance in rib fractures and thoracentesis. a variety of infections and disease processes might cause an enlarged spleen   using your left hand, retract the fundus of the stomach tas k because of its large blood volume, the spleen, if lacerated, bleeds profusely into the peritoneal cavity, as may occur as a result of a rib fracture or a penetrating wound. also, it is important to remember that the spleen may be punctured accidentally during a pleural tap (thoracentesis).        (splenomegaly).  if, during physical examination, the spleen can be palpated inferior to the costal margin, it is considered to be enlarged. </slidetext>
+      <slidetext slideid="5XOMtTSVpFP.6l4hBosdSNg" slidebank="false" type="slide"> 11.1   the hepatic portal vein   next previous 26 into the porta hepatis and identify its terminus as the right and left portal veins. now clean the hepatic portal  now revisit the hepatoduodenal ligament and again identify the hepatic portal vein where it lies posterior to both the hepatic artery proper and the bile duct.  clean the hepatic portal vein superiorly,  tas k vein inferiorly until it becomes retroperitoneal and passes posterior to the first part of the duodenum. </slidetext>
+      <slidetext slideid="5XOMtTSVpFP.5iBO2woRhXa" slidebank="false" type="slide"> 11.1   gallbladder  next previous 27 the inferior border of the right lobe of the liver, and the other can work the gall bladder free using blunt  one colleague should retract tas k the gallbladder stores and concentrates bile. after death, the active processes that contain bile within the lumen of the gallbladder cease, and bile leaches across the wall of the gall bladder, staining adjacent organs dark green.  dissection. identify the fundus, body and neck of the gallbladder. using scissors, cut through the wall of the gallbladder, starting at the fundus and continuing through the body and neck, and into the cystic duct. gallstones might be present; if so, remove them. </slidetext>
+      <slidetext slideid="5XOMtTSVpFP.5eGUuFK3WzZ" slidebank="false" type="slide"> 11.1   progress check 3  next previous since the last progress check, you have dissected and clearly exposed the following structures: the esophageal branch of the left gastric artery passing through the esophageal hiatus the full course of left gastric artery and its anastomosis with the right gastric artery the splenic artery adjacent to the superior border of the pancreas, and into the hilum of the spleen the short gastric arteries ascending to the fundus of the stomach the full course of the left gastro-omental artery, from its origin as a branch of the splenic artery to its anastomosis with the right gastro-omental artery the full course of the right gastro-omental artery from its origin as a branch of the gastroduodenal artery to its anastomosis with the left gastro-omental artery  hepatic portal vein and right and left portal veins the fundus, body and neck of the gall bladder if you are satisfied with the quality of your dissection, and your ability to identify these structures and answer these questions, call your ta over for confirmation and for permission to clean up. 28</slidetext>
+      <slidetext slideid="5XOMtTSVpFP.5Vx6110etPN" slidebank="false" type="slide">  next previous 11.1   quiz press next to start the quiz or skip to end exercise 11.1   skip 29</slidetext>
+      <slidetext slideid="5XOMtTSVpFP.5YbFs6gVp0N" slidebank="false" type="slide">congratulations on finishing exercise 11.1 dissection of the foregut! back to exercise selection back to exercise selection back to exercise selection review exercise 11.1 review exercise 11.1 review exercise 11.1   previous 30</slidetext>
+      <slidetext slideid="5yYCXYKEFAc.5aPDdig9lB3" slidebank="false" type="slide">here you can choose to do the quiz for either of the exercises from lab 11, or run through all of them. you will be given the results of each quiz as you go along, as well as the combined results of both at the end. exercise quiz exercise 11.1 quiz exercise 11.1 quiz exercise 11.1 quiz prelab slm quiz prelab slm 11a quiz prelab slm 11a quiz prelab slm 11a quiz results overall results overall results overall results   welcome to quizlandia! previous exercise 11.2 quiz exercise 11.2 quiz exercise 11.2 quiz</slidetext>
+      <slidetext slideid="5yYCXYKEFAc.6V4onYiWxep" slidebank="false" type="slide">  quiz: prelab slm 11a welcome to the quiz for slm 11a! click below to get started. begin begin begin review slm  11a review slm  11a review slm  11a review slm  11a review slm  11a quiz selection </slidetext>
+      <slidetext slideid="5yYCXYKEFAc.63Vwa6vP2cv" slidebank="false" type="slide">incorrect try again try again try again try again try again try again that is incorrect. click here      to learn the answer, then come back to try again.       sympathetic preganglionic neurons destined to control abdominal and pelvic targets arise from spinal cord segments t5 to l2.  their axons pass through sympathetic chain ganglia without synapsing, and then form the: thoracic (greater, lesser and least) splanchnic nerves lumbar splanchnic nerves sacral splanchnic nerves  which deliver sympathetic preganglionic fibres to the autonomic plexuses of the abdomen and pelvis     . there, these preganglionic axons synapse onto sympathetic postganglionic neuronal cell bodies contained within ganglia associated with these autonomic plexuses. named ganglia are the celiac, aorticorenal, superior mesenteric and inferior mesenteric ganglia, although there are numerous smaller, unnamed sympathetic ganglia within the plexuses as well, including in the superior and inferior hypogastric plexuses.  postganglionic sympathetic axons arise from these ganglia, enter the autonomic plexuses and travel with the arteries supplying the gut to their target organ.  to summarize: all of these splanchnic nerves, the greater, lesser, least, lumbar and sacral splanchnic nerves, contain sympathetic preganglionic fibres. this is unlike the cardiac and esophageal splanchnic nerves, which contain sympathetic postganglionic fibres and the pelvic splanchnic nerves, which contain parasympathetic preganglionic fibres.  correct that's right!  thoracic splanchnic nerves (greater, lesser and least), lumbar splanchnic nerves and sacral splanchnic nerves all contain sympathetic preganglionic fibres. continue continue continue continue continue continue  1. which of the following nerves contain sympathetic preganglionic fibres?choose all that apply. the lesser splanchnic nerve the lesser splanchnic nerve the lesser splanchnic nerve the lesser splanchnic nerve the lesser splanchnic nerve the lesser splanchnic nerve the pelvic splanchnic nerves the pelvic splanchnic nerves the pelvic splanchnic nerves the pelvic splanchnic nerves the pelvic splanchnic nerves the pelvic splanchnic nerves the lumbar splanchnic nerves the lumbar splanchnic nerves the lumbar splanchnic nerves the lumbar splanchnic nerves the lumbar splanchnic nerves the lumbar splanchnic nerves the sacral splanchnic nerves the sacral splanchnic nerves the sacral splanchnic nerves the sacral splanchnic nerves the sacral splanchnic nerves the sacral splanchnic nerves   11a   quiz submit</slidetext>
+      <slidetext slideid="5yYCXYKEFAc.6D2V4UWdP7V" slidebank="false" type="slide">incorrect try again try again try again try again try again try again that is incorrect. click here      to learn the answer, then come back to try again.       the gi tract and its associated organs develop from a midline embryonic gut tube that is bilaterally innervated by the sympathetic nervous system. therefore, nociceptive signals from the gi tract are typically referred to the midline.  pain due to irritation of:  foregut structures refers to the epigastric region,  midgut structures refers to the umbilical region, and  hindgut structures refers to the hypogastric (pubic) region.  these dermatomal levels correspond to the spinal levels of origin of the sympathetic innervation of each:  the foregut from t5 - t9,  the midgut from t10 &amp; t11, and the hindgut from t12 and below.       sensory fibres are a component of all autonomic nerves: the vagi, the pelvic splanchnic nerves and the sympathetic splanchnic nerves. these fibres carry information to the cns regarding the viscera they serve.  in general, sensory fibres in the parasympathetic nerves carry homeostatic information, including that needed to coordinate reflexive visceral activities.  in general, sensory fibres in sympathetic nerves carry nociceptive impulses     . thus, nociceptive signals from a given viscus are conveyed back to the spinal segments that gives rise to its sympathetic motor input.  for example, sympathetic motor innervation of the midgut arises from roughly the t10 spinal level. nociceptive impulses due to an inflamed appendix, for example, is received in the spinal cord at this same level, t10. the pain is referred to the body wall in the dermatome corresponding to this spinal level, and the patient experiences visceral-type pain      in the region of the umbilicus, which is the level of the t10 dermatome. nociceptive noxious sensations; i.e sensations regarding tissue damage, irritation and inflammation.  visceral pain diffuse (poorly localized) and colicky (comes and goes in waves); this is in contrast with somatic pain, as might occur with tissue damage in the body wall or limbs, which is sharp and well-localized.  correct that's right!  ulcer pain might also be described as “burning” pain, instead of dull and achy. continue continue continue continue continue continue  2. a duodenal ulcer erodes the gut wall, but does not perforate it. which of the following describes the resulting pain? choose all that apply. the pain will be felt in the pubic (hypogastric) region. the pain will be felt in the pubic (hypogastric) region. the pain will be felt in the pubic (hypogastric) region. the pain will be felt in the pubic (hypogastric) region. the pain will be felt in the pubic (hypogastric) region. the pain will be felt in the pubic (hypogastric) region. the pain will be felt in the epigastric region. the pain will be felt in the epigastric region. the pain will be felt in the epigastric region. the pain will be felt in the epigastric region. the pain will be felt in the epigastric region. the pain will be felt in the epigastric region. the pain will be felt in the umbilical region. the pain will be felt in the umbilical region. the pain will be felt in the umbilical region. the pain will be felt in the umbilical region. the pain will be felt in the umbilical region. the pain will be felt in the umbilical region. the patient might describe the pain as sharp and severe. the patient might describe the pain as sharp and severe. the patient might describe the pain as sharp and severe. the patient might describe the pain as sharp and severe. the patient might describe the pain as sharp and severe. the patient might describe the pain as sharp and severe.   the patient might describe the pain as dull and achy the patient might describe the pain as dull and achy the patient might describe the pain as dull and achy the patient might describe the pain as dull and achy the patient might describe the pain as dull and achy the patient might describe the pain as dull and achy the patient will be vague in describing the location of the pain  the patient will be vague in describing the location of the pain  the patient will be vague in describing the location of the pain  the patient will be vague in describing the location of the pain  the patient will be vague in describing the location of the pain  the patient will be vague in describing the location of the pain  the patient will be very precise in describing the location of the pain the patient will be very precise in describing the location of the pain the patient will be very precise in describing the location of the pain the patient will be very precise in describing the location of the pain the patient will be very precise in describing the location of the pain the patient will be very precise in describing the location of the pain submit 11a   quiz</slidetext>
+      <slidetext slideid="5yYCXYKEFAc.66Y1EBZqpTq" slidebank="false" type="slide">incorrect try again try again try again try again try again try again that is incorrect. click here      to learn the answer, then come back to try again.       the gi tract and its associated organs develop from a midline embryonic gut tube that is bilaterally innervated by the sympathetic nervous system. therefore, nociceptive signals from the gi tract are typically referred to the midline.  pain due to irritation of:  foregut structures refers to the epigastric region,  midgut structures refers to the umbilical region, and  hindgut structures refers to the hypogastric (pubic) region.  these dermatomal levels correspond to the spinal levels of origin of the sympathetic innervation of each:  the foregut from t5 - t9,  the midgut from t10 &amp; t11, and the hindgut from t12 and below. if the parietal peritoneum lining the internal surface of the body wall is irritated by an inflamed viscus, for example, nerves of the body wall report this pain which is somatic in nature – sharp and well-localized. correct that's right! the lower intercostal nerves cross the costal margin to innervate the body wall overlying the epigastric region. continue continue continue continue continue continue  3. a duodenal ulcer perforates the gut wall, and the luminal contents irritate the parietal peritoneum lining the internal surface of abdominal wall in the epigastric region, causing excruciating pain. sensory fibres in which of the following nerves reports this pain? the vagus nerve the vagus nerve the vagus nerve the vagus nerve the vagus nerve the vagus nerve lower intercostal nerves lower intercostal nerves lower intercostal nerves lower intercostal nerves lower intercostal nerves lower intercostal nerves thoracic splanchnic nerves thoracic splanchnic nerves thoracic splanchnic nerves thoracic splanchnic nerves thoracic splanchnic nerves thoracic splanchnic nerves lumbar splanchnic nerves lumbar splanchnic nerves lumbar splanchnic nerves lumbar splanchnic nerves lumbar splanchnic nerves lumbar splanchnic nerves   submit 11a   quiz</slidetext>
+      <slidetext slideid="5yYCXYKEFAc.5xKIrDWsaZk" slidebank="false" type="slide">incorrect try again try again try again try again try again try again that is incorrect. click here      to learn the answer, then come back to try again.       the parasympathetic innervation of the stomach is largely derived from the anterior vagal trunk.  the vagal contribution to the prevertebral plexus, on the other hand, is primarily derived from fibres of the posterior vagal trunk     .      vagal fibres from the prevertebral plexus pass along the celiac and superior mesenteric arteries, and their branches, to supply the remaining organs of the foregut, as well as those of the midgut. in the gut wall, vagal fibres synapse onto postganglionic parasympathetic neurons in the submucosal (meissner’s) and myenteric (auerbach’s) plexuses, to control secretion and motility, respectively. this makes sense! the aortic hiatus is posterior to the esophageal hiatus!   correct that's right! the vagal fibres synapse onto postganglionic parasympathetic neurons in the submucosal (meissner’s) and myenteric (auerbach’s) plexuses. continue continue continue continue continue continue  4. which of the following functional types of neuronal cell bodies are present in the submucosal and myenteric plexuses? choose all that apply. parasympathetic preganglionic  parasympathetic preganglionic  parasympathetic preganglionic  parasympathetic preganglionic  parasympathetic preganglionic  parasympathetic preganglionic  parasympathetic postganglionic parasympathetic postganglionic parasympathetic postganglionic parasympathetic postganglionic parasympathetic postganglionic parasympathetic postganglionic sympathetic preganglionic  sympathetic preganglionic  sympathetic preganglionic  sympathetic preganglionic  sympathetic preganglionic  sympathetic preganglionic  sympathetic postganglionic sympathetic postganglionic sympathetic postganglionic sympathetic postganglionic sympathetic postganglionic sympathetic postganglionic   submit 11a   quiz</slidetext>
+      <slidetext slideid="5yYCXYKEFAc.5jkPYq4rx1w" slidebank="false" type="slide">incorrect try again try again try again try again try again try again that is incorrect. click here      to learn the answer, then come back to try again.       sympathetic preganglionic neurons destined to control abdominal and pelvic targets arise from spinal cord segments t5 to l2.  their axons pass through sympathetic chain ganglia without synapsing, and then form the: thoracic (greater, lesser and least) splanchnic nerves lumbar splanchnic nerves sacral splanchnic nerves  which deliver sympathetic preganglionic fibres to the autonomic plexuses of the abdomen and pelvis     . there, these preganglionic axons synapse onto sympathetic postganglionic neuronal cell bodies contained within ganglia associated with these autonomic plexuses. named ganglia are the celiac, aorticorenal, superior mesenteric and inferior mesenteric ganglia, although there are numerous smaller, unnamed sympathetic ganglia within the plexuses as well, including in the superior and inferior hypogastric plexuses.  postganglionic sympathetic axons arise from these ganglia, enter the autonomic plexuses and travel with the arteries supplying the gut to their target organ.  to summarize: all of these splanchnic nerves, the greater, lesser, least, lumbar and sacral splanchnic nerves, contain sympathetic preganglionic fibres. this is unlike the cardiac and esophageal splanchnic nerves, which contain sympathetic postganglionic fibres and the pelvic splanchnic nerves, which contain parasympathetic preganglionic fibres.  correct that's right! postganglionic sympathetic neurons populate the ganglia associated with the autonomic plexuses of the abdomen. continue continue continue continue continue continue  5. which type of neuronal cell bodies are located in the ganglia associated with the prevertebral and inferior hypogastric plexuses? parasympathetic preganglionic  parasympathetic preganglionic  parasympathetic preganglionic  parasympathetic preganglionic  parasympathetic preganglionic  parasympathetic preganglionic  parasympathetic postganglionic parasympathetic postganglionic parasympathetic postganglionic parasympathetic postganglionic parasympathetic postganglionic parasympathetic postganglionic sympathetic preganglionic  sympathetic preganglionic  sympathetic preganglionic  sympathetic preganglionic  sympathetic preganglionic  sympathetic preganglionic  sympathetic postganglionic sympathetic postganglionic sympathetic postganglionic sympathetic postganglionic sympathetic postganglionic sympathetic postganglionic   submit 11a   quiz</slidetext>
+      <slidetext slideid="5yYCXYKEFAc.5W3psuatJVM" slidebank="false" type="slide">the parasympathetic innervation of the stomach is largely derived from the anterior vagal trunk.  the vagal contribution to the prevertebral plexus, on the other hand, is primarily derived from fibres of the posterior vagal trunk     .      vagal fibres from the prevertebral plexus pass along the celiac and superior mesenteric arteries, and their branches, to supply the remaining organs of the foregut, as well as those of the midgut. in the gut wall, vagal fibres synapse onto postganglionic parasympathetic neurons in the submucosal (meissner’s) and myenteric (auerbach’s) plexuses, to control secretion and motility, respectively. this makes sense! the aortic hiatus is posterior to the esophageal hiatus!   incorrect try again try again try again try again try again try again that is incorrect. click here      to learn the answer, then come back to try again.       correct that's right! the vagus nerves deliver parasympathetic preganglionic fibres to foregut and midgut derivatives. continue continue continue continue continue continue  6. which nerves carry parasympathetic preganglionic fibres destined to innervate foregut and midgut derivatives? the pelvic splanchnic nerves the pelvic splanchnic nerves the pelvic splanchnic nerves the pelvic splanchnic nerves the pelvic splanchnic nerves the pelvic splanchnic nerves the sacral splanchnic nerves the sacral splanchnic nerves the sacral splanchnic nerves the sacral splanchnic nerves the sacral splanchnic nerves the sacral splanchnic nerves the vagus nerves the vagus nerves the vagus nerves the vagus nerves the vagus nerves the vagus nerves the greater and lesser splanchnic nerves the greater and lesser splanchnic nerves the greater and lesser splanchnic nerves the greater and lesser splanchnic nerves the greater and lesser splanchnic nerves the greater and lesser splanchnic nerves   submit 11a   quiz</slidetext>
+      <slidetext slideid="5yYCXYKEFAc.6dgzsBuGd6g" slidebank="false" type="slide">incorrect try again try again try again try again try again try again that is incorrect. click here      to learn the answer, then come back to try again.       correct that's right! the lumbar splanchnic nerves contribute sympathetic preganglionic fibres to the prevertebral plexus where they synapse largely on postganglionic neurons of the inferior mesenteric ganglion. continue continue continue continue continue continue  lumbar splanchnic nerves originate from sympathetic preganglionic neuronal cell bodies at the l1 and l2 spinal levels. axons of these neurons pass through the sympathetic chain without synapsing lumbar splanchnic nerves may arise from all of the sympathetic chain ganglia associated with lumbar vertebrae, not just those associated with the l1 and l2 vertebrae. this means that these sympathetic preganglionic axons can descend to emerge from the chain below their level of origin.  lumbar splanchnic nerves feed into the aortic plexus. they largely target hindgut structures. lumbar splanchnic nerves  7. which nerves are primarily responsible for contributing sympathetic preganglionic fibres to the prevertebral plexus that ultimately influence hindgut function? the pelvic splanchnic nerves the pelvic splanchnic nerves the pelvic splanchnic nerves the pelvic splanchnic nerves the pelvic splanchnic nerves the pelvic splanchnic nerves the sacral splanchnic nerves the sacral splanchnic nerves the sacral splanchnic nerves the sacral splanchnic nerves the sacral splanchnic nerves the sacral splanchnic nerves the lumbar splanchnic nerves the lumbar splanchnic nerves the lumbar splanchnic nerves the lumbar splanchnic nerves the lumbar splanchnic nerves the lumbar splanchnic nerves the greater and lesser splanchnic nerves the greater and lesser splanchnic nerves the greater and lesser splanchnic nerves the greater and lesser splanchnic nerves the greater and lesser splanchnic nerves the greater and lesser splanchnic nerves   submit 11a   quiz</slidetext>
+      <slidetext slideid="5yYCXYKEFAc.6ZdlY6Iq9aU" slidebank="false" type="slide">parasympathetic innervation of the hindgut and pelvic organs originates from preganglionic neuronal cell bodies in the s2 - s4 segments of the spinal cord. axons arising from these neurons travel first with the s2 - s4 spinal nerves and their ventral rami, which enter the pelvis through the anterior sacral foramen. there, the parasympathetic preganglionic fibres branch off the ventral rami to form the pelvic splanchnic nerves. the pelvic splanchnic nerves contribute parasympathetic preganglionic fibres to the inferior hypogastric plexus.  from the inferior hypogastric plexus, some of these parasympathetic preganglionic fibres innervate pelvic structures. others ascend through the superior hypogastric plexus to the aortic plexus. these fibres then travel along the inferior mesenteric artery to their target organs of the hindgut.  there again in the gut wall, parasympathetic preganglionic fibres synapse onto postganglionic parasympathetic neurons in the submucosal (meissner’s) and myenteric (auerbach’s) plexuses, to control secretion and motility, respectively.   incorrect try again try again try again try again try again try again that is incorrect. click here      to learn the answer, then come back to try again.       correct that's right! the pelvic splanchnic nerves deliver parasympathetic preganglionic fibres to hindgut derivatives. continue continue continue continue continue continue  8. which nerves carry parasympathetic preganglionic fibres destined to innervate hindgut derivatives? the pelvic splanchnic nerves the pelvic splanchnic nerves the pelvic splanchnic nerves the pelvic splanchnic nerves the pelvic splanchnic nerves the pelvic splanchnic nerves the sacral splanchnic nerves the sacral splanchnic nerves the sacral splanchnic nerves the sacral splanchnic nerves the sacral splanchnic nerves the sacral splanchnic nerves the vagus nerves the vagus nerves the vagus nerves the vagus nerves the vagus nerves the vagus nerves the greater and lesser splanchnic nerves the greater and lesser splanchnic nerves the greater and lesser splanchnic nerves the greater and lesser splanchnic nerves the greater and lesser splanchnic nerves the greater and lesser splanchnic nerves   submit 11a   quiz</slidetext>
+      <slidetext slideid="5yYCXYKEFAc.68ML2VrXKnW" slidebank="false" type="slide">  quiz: exercise 11.1 welcome to the quiz for exercise 11.1! click below to get started. begin begin begin review exercise 11.1 review exercise 11.1 review exercise 11.1 review exercise 11.1 review exercise 11.1 quiz selection </slidetext>
+      <slidetext slideid="5yYCXYKEFAc.5XFas7tK3Gw" slidebank="false" type="slide">incorrect try again try again try again try again try again try again that is incorrect. click here      to learn the answer, then come back to try again.        greater curvature of the stomach within the greater omentum. the hepatic artery proper runs in the hepatoduodenal ligament toward the porta hepatis. it gives rise to  i) the right gastric artery, which descends to the lesser curvature of the stomach within the lesser omentum, and  ii) the cystic artery, which supplies the gall bladder.  the hepatic artery proper ends by bifurcating into the right and left hepatic arteries. the common hepatic artery the common hepatic artery arises from the celiac trunk. it runs to the right, retroperitoneally, toward the duodenum and bifurcates into the gastroduodenal artery and the hepatic artery proper.  the gastroduodenal artery remains retroperitoneal and passes posterior to the 1st part of the duodenum. it continues as the right gastro-omental (gastro-epiploic) artery. the right gastro-omental (gastro-epiploic) artery runs along the  correct that's right! the common hepatic artery is one of the three branches of the celiac trunk. it bifurcates to give rise to the gastroduodenal artery and the hepatic artery proper. continue continue continue continue continue continue   1. identify vessel a.   11.1    quiz submit</slidetext>
+      <slidetext slideid="5yYCXYKEFAc.6hqRdAMblCR" slidebank="false" type="slide">incorrect try again try again try again try again try again try again that is incorrect. click here      to learn the answer, then come back to try again.        i) the short gastric arteries, which ascend along the greater curvature of the stomach, within the greater omentum, to its fundus, and  ii) the left gastro-omental (gastro-epiploic) artery, which descends along the greater curvature of the stomach, in the greater omentum. the latter artery anastomoses with the right gastro-omental (gastro-epiploic) artery within the greater omentum.  the splenic artery the splenic artery arises from the celiac trunk. it runs to the left, retroperitoneally, toward the spleen. it passes through the splenorenal ligament to access the hilum of the spleen. before entering the hilum of the spleen, it gives rise to the following branches that pass through the gastrosplenic ligament to access the greater curvature of the stomach. correct that's right! the splenic artery is one of the three branches of the celiac trunk. it spirals to the left and passes through the splenorenal ligament to reach the the hilus of the spleen. continue continue continue continue continue continue   2. identify vessel a.   11.1    quiz submit</slidetext>
+      <slidetext slideid="5yYCXYKEFAc.5xftHWDYXUg" slidebank="false" type="slide">incorrect try again try again try again try again try again try again that is incorrect. click here      to learn the answer, then come back to try again.        the left gastric artery the left gastric artery arises from the celiac trunk, and is therefore, initially, retroperitoneal.  it ascends to the left to the point where the esophagus emerges through the diaphragm to become intraperitoneal. it gives an esophageal branch which ascends to supply the retroperitoneal portion of the distal 1/3 of the esophagus.  the left gastric artery then accompanies the intraperitoneal terminus of the esophagus to the lesser curvature of the stomach. it runs within the lesser omentum and forms an arterial anastomosis with the right gastric artery along the lesser curvature of the stomach. correct that's right! the left gastric artery is one of the three branches of the celiac trunk. it ascends to the gastroesophageal junction and runs along the lesser curvature within the lesser omentum. continue continue continue continue continue continue   3. identify vessel a.   11.1    quiz submit</slidetext>
+      <slidetext slideid="5yYCXYKEFAc.5ZfmK4oYC0w" slidebank="false" type="slide">incorrect try again try again try again try again try again try again that is incorrect. click here      to learn the answer, then come back to try again.       as a branch of the celiac trunk. clean the celiac trunk and notice that it is very short, usually less than 2 cm in length. the celiac trunk arises from the anterior surface of the abdominal aorta as it  identify the other two branches of the celiac trunk, the left gastric artery and the splenic artery. again, i recommend blunt dissection with large forceps and large scissors. turn your attention to the common hepatic artery and clean it toward its origin  tas k passes through the aortic hiatus of the diaphragm. since you know the vertebral level at which the aortic hiatus is located, you know the vertebral level at which the celiac artery is located.   correct that's right! the celiac trunk is a short branch of the abdominal aorta that arises immediately after the aorta passes through the aortic hiatus of the diaphragm. continue continue continue continue continue continue   4. identify vessel a.   11.1    quiz submit</slidetext>
+      <slidetext slideid="5yYCXYKEFAc.6aHOIVb6ETz" slidebank="false" type="slide">incorrect try again try again try again try again try again try again that is incorrect. click here      to learn the answer, then come back to try again.        greater curvature of the stomach within the greater omentum. the hepatic artery proper runs in the hepatoduodenal ligament toward the porta hepatis. it gives rise to  i) the right gastric artery, which descends to the lesser curvature of the stomach within the lesser omentum, and  ii) the cystic artery, which supplies the gall bladder.  the hepatic artery proper ends by bifurcating into the right and left hepatic arteries. the common hepatic artery the common hepatic artery arises from the celiac trunk. it runs to the right, retroperitoneally, toward the duodenum and bifurcates into the gastroduodenal artery and the hepatic artery proper.  the gastroduodenal artery remains retroperitoneal and passes posterior to the 1st part of the duodenum. it continues as the right gastro-omental (gastro-epiploic) artery. the right gastro-omental (gastro-epiploic) artery runs along the  correct that's right! the common hepatic artery branches from the celiac trunk and runs to the right. it ends by bifurcating into the hepatic artery proper and the gastroduodenal artery. continue continue continue continue continue continue   5. identify vessel a.   11.1    quiz submit</slidetext>
+      <slidetext slideid="5yYCXYKEFAc.5jcRnARN24v" slidebank="false" type="slide">incorrect try again try again try again try again try again try again that is incorrect. click here      to learn the answer, then come back to try again.       continue to remove serous membrane from the anterior surface of the hepatoduodenal  info: it is very thin-walled  carefully, using blunt dissection      ,      tas k info: i suggest large forceps and either a blunt probe or large, closed scissors  ligament to expose the hepatic artery proper and the common bile duct. the artery is medial to the duct. posterior to these two structures, you will encounter the hepatic portal vein. the artery is robust, but the bile duct and portal vein are thin-walled, so exercise particular caution in cleaning these latter two structures. trace the bile duct toward the liver and gall bladder, dissecting carefully as you go     .    find the point at which the common bile duct is formed by the union of the cystic duct, which drains the gall bladder, and the common hepatic duct, which drains the liver. continue to dissect the common hepatic duct toward the porta hepatis until you observe its formation from the union of the right and left hepatic ducts. correct that's right! the hepatic artery proper branches from the common hepatic artery and passes through the hepatoduodenal ligament to reach the porta hepatis where it bifurcates into the right and left hepatic arteries. continue continue continue continue continue continue   6. identify vessel a.   11.1    quiz submit</slidetext>
+      <slidetext slideid="5yYCXYKEFAc.6cvflCA9NKq" slidebank="false" type="slide">incorrect try again try again try again try again try again try again that is incorrect. click here      to learn the answer, then come back to try again.       as a branch of the retroperitoneal common hepatic artery. identify the other branch of the common hepatic artery, the gastroduodenal artery.  continue to clean the gastroduodenal artery as it passes posterior to the first part of the duodenum, and until it bifurcates to form the  follow the hepatic artery proper inferiorly until you find its origin tas k right gastro- omental (gastroepiploic) artery and the anterior superior pancreaticoduodenal artery. correct that's right! the gastroduodenal artery branches from the common hepatic artery and descends posterior to the duodenum to give rise to the right gastro-omental artery. continue continue continue continue continue continue   7. identify vessel a.   11.1    quiz submit</slidetext>
+      <slidetext slideid="5yYCXYKEFAc.5ZXRrdr9MPB" slidebank="false" type="slide">incorrect try again try again try again try again try again try again that is incorrect. click here      to learn the answer, then come back to try again.       continue to remove serous membrane from the anterior surface of the hepatoduodenal  info: it is very thin-walled  carefully, using blunt dissection      ,      tas k info: i suggest large forceps and either a blunt probe or large, closed scissors  ligament to expose the hepatic artery proper and the common bile duct. the artery is medial to the duct. posterior to these two structures, you will encounter the hepatic portal vein. the artery is robust, but the bile duct and portal vein are thin-walled, so exercise particular caution in cleaning these latter two structures. trace the bile duct toward the liver and gall bladder, dissecting carefully as you go     .    find the point at which the common bile duct is formed by the union of the cystic duct, which drains the gall bladder, and the common hepatic duct, which drains the liver. continue to dissect the common hepatic duct toward the porta hepatis until you observe its formation from the union of the right and left hepatic ducts. correct that's right! the hepatic portal vein lies posterior to the hepatic artery proper. it is much larger in caliber and is very thin-walled. continue continue continue continue continue continue   8. identify vessel a.   11.1    quiz submit</slidetext>
+      <slidetext slideid="5yYCXYKEFAc.6SzFhFw5LU1" slidebank="false" type="slide">incorrect try again try again try again try again try again try again that is incorrect. click here      to learn the answer, then come back to try again.       the dividing line between the foregut and midgut passes through the duodenum and pancreas.  the duodenum is subdivided into 1st (superior), 2nd (descending), 3rd (transverse) and 4th (ascending) parts. the proximal 2 cm of the 1st part is intraperitoneal and therefore mobile. this is the portion that is attached to the hepatoduodenal ligament. the remainder of the duodenum is secondarily retroperitoneal. explore the intraperitoneal portion  tas k of the duodenum. insert your index finger though the epiploic foramen and observe that the  hepatoduodenal ligament is anterior to your finger and the duodenum is inferior to your finger as it passes into the posterior body wall where it becomes secondarily retroperitoneal and therefore fixed.  as illustrated, the pancreas, also secondarily retroperitoneal, lies in the curve of the duodenum and extends toward the spleen. the proximal duodenum and portions of the pancreas are supplied by branches of the celiac trunk. the distal duodenum and portions of the pancreas are supplied by branches of the superior mesenteric artery. the details will come later in the dissection. correct that's right! the pancreas lies in the curve of the duodenum. continue continue continue continue continue continue   9. identify organ a.   11.1    quiz submit</slidetext>
+      <slidetext slideid="5yYCXYKEFAc.6Ig0aR9Bouq" slidebank="false" type="slide">incorrect try again try again try again try again try again try again that is incorrect. click here      to learn the answer, then come back to try again.       correct that's right! the spleen is located in the upper left quadrant. the splenic artery is seen extending to it from the celiac trunk. continue continue continue continue continue continue diaphragmatic surface of the spleen, which lies at the level of ribs 9, 10 and 11. identify its sharp borders and its visceral surface. you have already observed the four organs adjacent to the visceral surface of the spleen: the stomach, the pancreas, the left kidney and the transverse colon at its left colic flexure.  the spleen, as you know from your understanding of the immune system, processes blood for antigen and for spent formed elements. the spleen is wholly intraperitoneal, except at its hilus.  spleen info to the right and grasp the spleen with your right hand. pull the spleen anteriorly in order to identify its features. note the smooth  thus, the spleen’s relationship to ribs 9, 10, and 11 of clinical importance in rib fractures and thoracentesis. a variety of infections and disease processes might cause an enlarged spleen   using your left hand, retract the fundus of the stomach tas k because of its large blood volume, the spleen, if lacerated, bleeds profusely into the peritoneal cavity, as may occur as a result of a rib fracture or a penetrating wound. also, it is important to remember that the spleen may be punctured accidentally during a pleural tap (thoracentesis).  (splenomegaly).  if, during physical examination, the spleen can be palpated inferior to the costal margin, it is considered to be enlarged.    10. identify organ a.   11.1    quiz submit</slidetext>
+      <slidetext slideid="5yYCXYKEFAc.61yvHL3bWnu" slidebank="false" type="slide">  quiz: exercise 11.2 welcome to the quiz for exercise 11.2! click below to get started. begin begin begin review exercise 11.2 review exercise 11.2 review exercise 11.2 review exercise 11.2 review exercise 11.2 quiz selection </slidetext>
+      <slidetext slideid="5yYCXYKEFAc.5mIxHbHjkze" slidebank="false" type="slide">incorrect try again try again try again try again try again try again that is incorrect. click here      to learn the answer, then come back to try again.       review the features of stomach. identify the: tas k body  greater curvature  lesser curvature  cardia  cardial notch  fundus  pylorus (inc. pyloric antrum and canal     ) pyloric orifice and sphincter identify the: tas k open the stomach and inspect its internal surface. rugae rugae are longitudinal folds of the gastric mucosa and submucosa. they flatten out as the stomach fills, and thus function to permit expansion and increased volume as needed.   moisten the specimen and cover it with a damp cloth; it needs to be handy for your progress check. unwrap the specimen marked “stomach”. lay it out on a table. the pylorus the pyloris connects the body of the stomach to the duodenum. the pyloric antrum is that part adjacent to the body that narrows rapidly into the more cylindrical pyloric canal.   correct that's right! rugae disappear as the stomach fills. continue continue continue continue continue continue   1. what are the features of the internal surface of the stomach that flatten with stomach filling to increase its volume? 11.2   quiz  submit</slidetext>
+      <slidetext slideid="5yYCXYKEFAc.6hmFzD5VN01" slidebank="false" type="slide">incorrect try again try again try again try again try again try again that is incorrect. click here      to learn the answer, then come back to try again.       systemic veins drain into the svc or ivc. systemic veins are thus, sometimes, called “caval” veins. examples are the veins draining the head and neck, limbs and body wall. pulmonary veins drain the lungs.  veins of the hepatic portal system (“portal veins”) drain the digestive tract first to the liver, and only after processing in this organ, does the venous blood then drain into the ivc. in this way, portal veins are distinct from systemic veins. as illustrated, portal veins respect the division of the digestive tract into the foregut, midgut and hindgut. the hindgut is drained by the inferior mesenteric vein. the midgut is drained by the superior mesenteric vein. the foregut is drained by a combination of vessels that includes the splenic vein, the gastric veins and the gastro-omental veins.  all of these veins ultimately combine to form the hepatic portal vein, which runs in the hepatoduodenal ligament and drains into the liver at the porta hepatis.  correct that's right! caval veins drain into the svc or ivc. continue continue continue continue continue continue   2. systemic veins drain into the svc or ivc, and thus are often referred to as _____________________ veins. 11.2   quiz  submit</slidetext>
+      <slidetext slideid="5yYCXYKEFAc.6pxqvUivIqp" slidebank="false" type="slide">incorrect try again try again try again try again try again try again that is incorrect. click here      to learn the answer, then come back to try again.        uncover the liver with the attached diaphragm. tas k identify the right and left lobes, covered by visceral peritoneum. identify the falciform ligament, formed as the serous membrane reflects off the right and left lobes and onto the underside of the diaphragm. follow the falciform ligament to the point where its two laminae diverge to  place one hand on each of the anterior and posterior surfaces of the left lobe. as you slide your hands up toward the diaphragm to touch the left coronary ligament, you’ll find your hands are close together.  repeat this with the right lobe, and you will find that when you touch the right coronary ligament, your hands are quite far apart!  the surface of the liver between your hands is directly attached to the underside of the diaphragm. it is therefore not covered by visceral peritoneum. this is the bare area of the liver, largely located on the superior surface of the right lobe. form the right and left coronary ligaments which attach the liver to the underside of the diaphragm. correct that's right! the right and left coronary ligaments attach the liver to the underside of the diaphragm. continue continue continue continue continue continue   3. the liver is attached to the underside of the diaphragm by the right and left _____________________ ligaments. 11.2   quiz  submit</slidetext>
+      <slidetext slideid="5yYCXYKEFAc.66bAjCY9VDL" slidebank="false" type="slide">incorrect try again try again try again try again try again try again that is incorrect. click here      to learn the answer, then come back to try again.       on the posterior aspect of the diaphragmatic surface, identify the bare area. this surface was fixed by ct to the inferior surface of the diaphragm, and thus is not covered by visceral peritoneum. around the bare area, note the cut edges of the coronary ligaments, which form the margins   note the sharp anterior border of the liver that separates the diaphragmatic surface from the visceral surface. on the visceral surface, note the h-shaped structures and creases that separate the four anatomical lobes of the liver; identify the right lobe, left lobe, caudate lobe and quadrate lobe. uncover the isolated liver without the diaphragm. tas k of the bare area. identify the lateral extensions of the coronary ligaments, which are the right and left triangular ligaments. correct that's right! the bare area is in direct contact with the underside of the diaphragm and is bound to it by ct. continue continue continue continue continue continue   4. the only surface of the liver not covered by visceral peritoneum is its  ____________  ____________, where connective tissue binds the liver to the underside of the diaphragm. 11.2   quiz  submit</slidetext>
+      <slidetext slideid="5yYCXYKEFAc.5kYeJ64GQJH" slidebank="false" type="slide">incorrect try again try again try again try again try again try again that is incorrect. click here      to learn the answer, then come back to try again.        the fetal circulation this diagram, from an early edition of gray’s anatomy, shows the fetal circulation, and explains the formation of both the round ligament of the liver and the ligamentum venosum. the round ligament of the liver is a remnant of the umbilical vein, which carried oxygenated blood from the placenta, through the umbilicus, to the fetal liver. it is located in the free edge of the falciform ligament. the ductus venosus collected blood from the umbilical vein and carried it to the ivc, which delivered it to the right atrium. postnatally, the ductus venosus degenerates, forming the ligamentum venosum, which you see on the visceral surface of the liver under study. correct that's right! the ductus venosus degenerates postnatally, forming the ligamentum venosum. continue continue continue continue continue continue   5. the ligamentum venosum is a remnant of the ____________  ____________, which carried fetal blood from the umbilical vein to the inferior vena cava. 11.2   quiz  submit</slidetext>
+      <slidetext slideid="5yYCXYKEFAc.6DjoZljE8ud" slidebank="false" type="slide">incorrect try again try again try again try again try again try again that is incorrect. click here      to learn the answer, then come back to try again.       identify, in the specimen of the gastroduodenal junction, tas k the pylorus, pyloric sphincter, the major duodenal papilla and the plicae circulares. the hepatopancreatic ampulla      opens into the duodenum at the major duodenal papilla.  uncover the three segments of small intestine. lay the specimens out so that you can compare them.  the papilla is formed by a ring of smooth muscle, the hepatopancreatic sphincter     , which controls the flow of bile and pancreatic juice into the duodenum. a.k.a. the ampulla of vater  a.k.a. the sphincter of oddi  plicae circulares      are transverse folds of mucosa and submucosa. they are permanent, and do not flatten out as the lumen fills, as is the case with the rugae of the stomach. their purpose is different from that of rugae of the stomach; the plicae circulares are found only in the small intestine and function to increase surface area for nutrient absorption. plicae circulares “circular folds”  correct that's right! the hepatopancreatic sphincter, also known as the sphincter of oddi, underlies the duodenal papilla and controls bile secretion into the duodenum. continue continue continue continue continue continue   6. the major duodenal papilla is formed by a ring of smooth muscle, the  ____________  ____________, which controls the emptying of the hepatopancreatic ampulla. 11.2   quiz  submit</slidetext>
+      <slidetext slideid="5yYCXYKEFAc.5lRyMyJztKy" slidebank="false" type="slide">incorrect try again try again try again try again try again try again that is incorrect. click here      to learn the answer, then come back to try again.       compare the plicae circulares in the three specimens. tas k you might be able to notice with the naked eye that they are tallest and most tightly-packed in the jejunum. this is logical; the plicae circulares increase surface area for nutrient absorption. the majority of nutrient absorption occurs in the jejunum because of its greater surface area per unit length. surface area is maximized in the jejunum not only because of its tall, tightly-packed plicae circulares; as explained in the emodule on the histology of the digestive tract, microscopic features that increase surface area, the villi and microvilli, are also most well-developed in the jejunum.  in the specimen of the ileocecal junction (right), identify the ileocecal sphincter by feel. visually identify the ileocecal fold flaps. identify the cecum, defined as that portion of the ascending colon inferior to the ileocecal junction. finally, identify the appendix. moisten these specimens and cover them with a damp cloth. correct that's right! the plicae circulares are tallest in the jejunum. the plicae increase surface area for nutrient absorption, most of which takes place in the jejunum. continue continue continue continue continue continue   7. in which subdivision of the small intestine are the plicae circulares tallest? 11.2   quiz  submit</slidetext>
+      <slidetext slideid="5yYCXYKEFAc.5VQpyHB0lka" slidebank="false" type="slide">incorrect try again try again try again try again try again try again that is incorrect. click here      to learn the answer, then come back to try again.       unwrap the specimen of the spleen. tas k identify its convex diaphragmatic surface, marked by costal impressions, and its irregular,  concave visceral surface. distinguish its sharp anterior border from its rounded posterior border     .  on the visceral surface of the spleen, identify its hilum, containing splenic arteries and veins. notice the contact impressions made by adjacent organs.  the spleen is a left-sided organ lying adjacent to the 9th - 11th ribs. it is largely located between the fundus of the stomach and the diaphragm. only when enlarged can the spleen be palpated inferior to the costal margin. like the lungs! you might recall that each lung has a sharp anterior border that occupies the costomediastinal recess, and a rounded posterior border formed by contact with the vertebral bodies and the angle of the ribs  the gastric impression is the largest and  most anterior, formed by the fundus of the stomach. the renal impression is posterior, and is made by the superior pole of the left kidney. the colic impression is formed by the left (splenic) flexure of the large intestine. the pancreatic impression is formed by the tail of the pancreas contacting its visceral surface inferior to the hilum. moisten the specimen and cover it with a damp cloth. correct that's right! the spleen lies on the left side, largely between fundus of the stomach and the diaphragm, and adjacent to the 9th to 11th ribs.  continue continue continue continue continue continue   8. the spleen is a left-sided organ that lies adjacent to the ____th to ____th ribs. 11.2   quiz  submit</slidetext>
+      <slidetext slideid="5yYCXYKEFAc.6FoYgaLuVJZ" slidebank="false" type="slide">incorrect try again try again try again try again try again try again that is incorrect. click here      to learn the answer, then come back to try again.       unwrap the specimen labeled pancreas complex. tas k lay it out on the table with the ivc and aorta posterior and the spleen extending to the left. identify the subdivisions of the pancreas, its uncinate process, head, neck, body and tail. note the relationship of its head to the curve of the duodenum. notice that the neck of the pancreas lies anterior to the smv and sma, while the uncinate process and third part of duodenum lie posterior to the smv and sma, and anterior to the ivc and aorta. if the splenic artery and/or vein is present, notice their relationship to the body and tail of the pancreas. notice the tail of the pancreas ends at the hilum of the spleen moisten the specimen and cover it with a damp cloth. the specimen labeled pancreas complex consist of a pancreas, the curve of the duodenum, the spleen, the ivc with the smv, and the aorta with the sma. correct that's right! the pancreas wraps around the sma and smv such that its neck is anterior to these vessels and its uncinate process is posterior. continue continue continue continue continue continue   9. the superior mesenteric artery and vein lie ___________ to the uncinate process of the pancreas. 11.2   quiz  submit</slidetext>
+    </search>
+  </nav_data>
+  <resource_data description="" />
+  <transcript_data />
+  <glossary_data />
+</bwFrame>
