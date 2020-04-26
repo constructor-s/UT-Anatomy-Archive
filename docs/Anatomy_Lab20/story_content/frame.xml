@@ -1,0 +1,1418 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="npnxabnsnfns01001000011" textdirection="ltr" device="false" fontscale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="classic">
+  <layouts>
+    <layout name="npnxnanbsnfns01001000011" font="Calibri" controllayout="npnxnanbsnfns01001000011" colorscheme="npnxabnsnfns01001000011" string_table="npnxabnsnfns01001000011" />
+    <layout name="pxabnsnfns01001000011" font="Calibri" controllayout="pxabnsnfns01001000011" colorscheme="npnxabnsnfns01001000011" string_table="npnxabnsnfns01001000011" />
+    <layout name="npxnabnsnfns01001000011" font="Calibri" controllayout="npxnabnsnfns01001000011" colorscheme="npnxabnsnfns01001000011" string_table="npnxabnsnfns01001000011" />
+    <layout name="npnxnanbnsnfns01001000011" font="Calibri" controllayout="npnxnanbnsnfns01001000011" colorscheme="npnxabnsnfns01001000011" string_table="npnxabnsnfns01001000011" />
+    <layout name="pxabnsnfns01001000010" font="Calibri" controllayout="pxabnsnfns01001000010" colorscheme="npnxabnsnfns01001000011" string_table="npnxabnsnfns01001000011" />
+    <layout name="npnxabnsnfns01001000011" font="Calibri" controllayout="npnxabnsnfns01001000011" colorscheme="npnxabnsnfns01001000011" string_table="npnxabnsnfns01001000011" />
+  </layouts>
+  <control_options>
+    <optiongroups>
+      <optiongroup name="sidebaroptions">
+        <options>
+          <option name="title_enabled" value="true">
+            <options>
+              <option name="title_text" value="Lab 20" />
+            </options>
+          </option>
+          <option name="logo_enabled" value="true">
+            <options>
+              <option name="logo_url" value="story_content/logo.swf">
+                <properties>
+                  <property name="width" value="1024" />
+                  <property name="height" value="229" />
+                </properties>
+              </option>
+              <option name="html5_logo_url" value="mobile/5Zs4SshoFSI.jpg" />
+            </options>
+          </option>
+          <option name="sidebar_enabled" value="true">
+            <options>
+              <option name="sidebarpos" value="left" />
+            </options>
+          </option>
+          <optionlist name="tabs">
+            <listitems>
+              <listitem name="customlink" value="true" group="linkleft">
+                <properties>
+                  <property name="title" value="Acknowledgments" />
+                  <property name="data" value="5toZT0PPlEg" />
+                  <property name="ignoreSlideLock" value="true" />
+                </properties>
+              </listitem>
+              <listitem name="resources" value="false" group="linkright" />
+              <listitem name="outline" value="true" group="sidebar" />
+              <listitem name="glossary" value="false" group="sidebar" />
+              <listitem name="transcript" value="false" group="sidebar" />
+            </listitems>
+          </optionlist>
+          <option name="time_enabled" value="false">
+            <options>
+              <option name="time_format" value="elapsed" />
+            </options>
+          </option>
+          <option name="video_enabled" value="false">
+            <options>
+              <option name="height" value="135" />
+            </options>
+          </option>
+        </options>
+      </optiongroup>
+      <optiongroup name="menuoptions">
+        <options>
+          <option name="flow" value="free" />
+          <option name="wraplistitems" value="false" />
+          <option name="tooltips" value="true" />
+          <option name="autocollapse" value="true" />
+          <option name="autonumber" value="false" />
+          <option name="enableresultsicons" value="true" />
+        </options>
+      </optiongroup>
+      <optiongroup name="controls">
+        <options>
+          <option name="volume" value="false" />
+          <option name="seekbar" value="false">
+            <options>
+              <option name="readonly" value="false" />
+              <option name="readonlyOnce" value="false" />
+            </options>
+          </option>
+          <option name="pauseplay" value="false" />
+          <option name="replay" value="false" />
+          <option name="search" value="true" />
+          <option name="closed_captions" value="false">
+            <options>
+              <option name="font" value="Calibri" />
+            </options>
+          </option>
+        </options>
+      </optiongroup>
+      <optiongroup name="bottombaroptions">
+        <options>
+          <option name="bottombar_enabled" value="false" />
+        </options>
+      </optiongroup>
+    </optiongroups>
+  </control_options>
+  <control_layouts>
+    <control_layout name="npnxnanbsnfns01001000011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="true" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns01001000011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npxnabnsnfns01001000011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npnxnanbnsnfns01001000011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns01001000010">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="false" />
+    </control_layout>
+    <control_layout name="npnxabnsnfns01001000011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+  </control_layouts>
+  <colorschemes>
+    <colorscheme name="npnxabnsnfns01001000011">
+      <color_group name="infopanel">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x7C2280" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0000EE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0E2A45" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="title_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x999999" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="infopanelpopup">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6A98C6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x374D64" alpha="100" stop="0" />
+                <color rgb="0x142D46" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0E2A45" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6A98C6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bio_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="timer">
+        <group_colors>
+          <color name="duration">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x00D7FF" alpha="100" stop="0" />
+                <color rgb="0x00ABFF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="elapsed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFEE347" alpha="100" stop="0" />
+                <color rgb="0xFCCC2A" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="stroke">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC7C7C7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="window">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x374D64" alpha="100" stop="0" />
+                <color rgb="0x142D46" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x5776A2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x496484" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x1F3752" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="20" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="editor">
+        <group_colors>
+          <color name="slide_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="html_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0E2A45" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0E2A46" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x4A6C98" alpha="100" stop="0" />
+                <color rgb="0x243C5C" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x294260" alpha="100" stop="0" />
+                <color rgb="0x426288" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x436388" alpha="100" stop="0" />
+                <color rgb="0x294260" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="listitem">
+        <group_colors>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0E2A46" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x5379A5" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="viewed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6CA5DE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x3F5A76" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="lines">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2F465C" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="glossary">
+        <group_colors>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x5379A5" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x3F5A76" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2D4258" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2D4258" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x5479A2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x4D6E9A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="resource">
+        <group_colors>
+          <color name="separator">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2A3C50" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="outline">
+        <group_colors>
+          <color name="search_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6A98C6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x31475E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x5479A2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x31475E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="transcript">
+        <group_colors>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="div">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x283C4E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="tabs">
+        <group_colors>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0E2A45" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6596C9" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6A98C6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x47658B" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="seekcontrol">
+        <group_colors>
+          <color name="btn_icon_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x99B2CC" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2D4765" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_position">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x476A95" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x14304D" alpha="100" stop="0" />
+                <color rgb="0x4C6B96" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0E2A46" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x436388" alpha="100" stop="0" />
+                <color rgb="0x2A4360" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="searchinput">
+        <group_colors>
+          <color name="text_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2D2D2D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2D2D2D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x3C5979" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x294260" alpha="100" stop="0" />
+                <color rgb="0x426288" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icon">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x405E82" alpha="100" stop="0" />
+                <color rgb="0x0E2A45" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="scrollarea">
+        <group_colors>
+          <color name="detailb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0E2A46" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="detaila">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x7698B4" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0E2A46" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icons">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0E2A46" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x587BA1" alpha="100" stop="0" />
+                <color rgb="0x496184" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x486B94" alpha="100" stop="0" />
+                <color rgb="0x3A5579" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x527CAD" alpha="100" stop="0" />
+                <color rgb="0x527CAD" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="0">
+              <colors>
+                <color rgb="0x405E81" alpha="100" stop="0" />
+                <color rgb="0x46678C" alpha="100" stop="128" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="menu">
+        <group_colors>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x1A324A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x47658B" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="logo">
+        <group_colors>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0E2A45" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="checkbox">
+        <group_colors>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6A98C6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="check">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2BC400" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x31475E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="button">
+        <group_colors>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0E2A45" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0E2A46" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x4A6C98" alpha="100" stop="0" />
+                <color rgb="0x243C5C" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x294260" alpha="100" stop="0" />
+                <color rgb="0x426288" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x436388" alpha="100" stop="0" />
+                <color rgb="0x294260" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x253C52" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="base">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x1F3752" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x496484" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="menu_shade">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x34495E" alpha="100" stop="0" />
+                <color rgb="0x142B42" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x47617F" alpha="100" stop="0" />
+                <color rgb="0x47617F" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x374D64" alpha="100" stop="0" />
+                <color rgb="0x142D46" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slide_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x374D64" alpha="100" stop="0" />
+                <color rgb="0x142D46" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="volume">
+        <group_colors>
+          <color name="thumb_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0E2A46" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x57799E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x46678E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x4D74A3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x314B68" alpha="100" stop="0" />
+                <color rgb="0x365374" alpha="100" stop="128" />
+                <color rgb="0x314B68" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="HTML">
+        <group_colors>
+          <color name="htmlpage_bg_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+    </colorscheme>
+  </colorschemes>
+  <string_tables>
+    <string_table name="npnxabnsnfns01001000011">
+      <string id="acc_active">active</string>
+      <string id="check_include">Check to include</string>
+      <string id="clear">Clear and return to menu</string>
+      <string id="close">Close</string>
+      <string id="acc_closed_captions">Closed captions. Press the spacebar to toggle captions on and off.</string>
+      <string id="continue">Continue</string>
+      <string id="continueresponsive">Continue</string>
+      <string id="exit">Exit</string>
+      <string id="filter">Filter</string>
+      <string id="finish">FINISH</string>
+      <string id="acc_finish">finish</string>
+      <string id="definition">Definition</string>
+      <string id="acc_definition">definition</string>
+      <string id="glossary">Glossary</string>
+      <string id="terms">Terms</string>
+      <string id="outline">Menu</string>
+      <string id="disabled_orientation">Please rotate your device</string>
+      <string id="next">NEXT</string>
+      <string id="acc_next">next</string>
+      <string id="transcript_chk">Notes</string>
+      <string id="transcript">Notes</string>
+      <string id="bio">Bio</string>
+      <string id="more_info">More info</string>
+      <string id="closed_captions">Captions</string>
+      <string id="acc_pause">pause</string>
+      <string id="acc_play">play</string>
+      <string id="send_an_email">Send an email</string>
+      <string id="prev">PREV</string>
+      <string id="acc_previous">previous</string>
+      <string id="question_list">Question List</string>
+      <string id="acc_replay">replay</string>
+      <string id="resources">Resources</string>
+      <string id="acc_resources">resources</string>
+      <string id="restart">Restart</string>
+      <string id="resume">Resume</string>
+      <string id="search">Search...</string>
+      <string id="acc_search_input">search</string>
+      <string id="search_in">Search in:</string>
+      <string id="search_results">Search Results</string>
+      <string id="acc_skipnavigation">Skip navigation. Press enter to return to the slide.</string>
+      <string id="slide_text_chk">Slide Text</string>
+      <string id="submitall">SUBMIT ALL</string>
+      <string id="acc_submitall">submit all</string>
+      <string id="submit">SUBMIT</string>
+      <string id="acc_submit">submit</string>
+      <string id="acc_volume">volume</string>
+    </string_table>
+  </string_tables>
+  <fonts>
+    <font name="Calibri">
+      <files>
+        <file bold="true" italic="false" />
+        <file bold="false" italic="false" />
+      </files>
+    </font>
+  </fonts>
+  <sounds enabled="true" />
+  <nav_data>
+    <outline>
+      <links>
+        <slidelink slideid="_player.6WPJoLsOIZn" displaytext="START" expand="false" type="slide">
+          <links>
+            <slidelink slideid="_player.6WPJoLsOIZn.5bVoVvU1Wsz" displaytext="Unit 6 Care of Human Brain Tissue" expand="false" type="slide" />
+            <slidelink slideid="_player.6WPJoLsOIZn.6fd626zjevw" displaytext="Unit 6 Overview" expand="false" type="slide" />
+            <slidelink slideid="_player.6WPJoLsOIZn.6qJPEVpbKsr" displaytext="Lab 19 Instructions" expand="false" type="slide" />
+            <slidelink slideid="_player.6WPJoLsOIZn.6JZaGEsFV0O" displaytext="Using the eModule" expand="false" type="slide" />
+            <slidelink slideid="_player.6WPJoLsOIZn.5bRnQLYxBGk" displaytext="Conventions Used in the eModule" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6Mji4Q6ibhV.6iS1i5S7VfA" displaytext="Lab 20 Station Selection" expand="false" type="slide" />
+        <slidelink slideid="_player.69JFIqF0FP8" displaytext="20A Prelab SLM The Cerebellum: Pathways and Functions" expand="false" type="slide">
+          <links>
+            <slidelink slideid="_player.69JFIqF0FP8.6WL7sjCH40q" displaytext="1. Objectives" expand="false" type="slide" />
+            <slidelink slideid="_player.69JFIqF0FP8.6l8wWFU4LOz" displaytext="2. Introduction" expand="false" type="slide" />
+            <slidelink slideid="_player.69JFIqF0FP8.5t99TxSltb0" displaytext="3. Anatomy and Functional Regions" expand="false" type="slide" />
+            <slidelink slideid="_player.69JFIqF0FP8.6ChdakQUHQh" displaytext="4. Cerebellar Inputs" expand="false" type="slide" />
+            <slidelink slideid="_player.69JFIqF0FP8.5XD0SKG8agY" displaytext="5. The Coordination of Balance, Posture and Stereotyped Mvts" expand="false" type="slide" />
+            <slidelink slideid="_player.69JFIqF0FP8.67UIyIGh8b5" displaytext="6. In the Clinic: Midline Cerebellar Lesions" expand="false" type="slide" />
+            <slidelink slideid="_player.69JFIqF0FP8.5tfS1AZ0E2p" displaytext="7. The Coordination of Skilled Voluntary Movements" expand="false" type="slide" />
+            <slidelink slideid="_player.69JFIqF0FP8.6p1ohLgVZ4n" displaytext="8. In the Clinic: Hemispheric Lesions of the Cerebellum" expand="false" type="slide" />
+            <slidelink slideid="_player.69JFIqF0FP8.64cIaQh7GP6" displaytext="9. Midbrain Lesions Can Cause Cerebellar Signs" expand="false" type="slide" />
+            <slidelink slideid="_player.69JFIqF0FP8.6EdAhmcRQnu" displaytext="10. Lesions of the Pons May Cause Cerebellar Signs" expand="false" type="slide" />
+            <slidelink slideid="_player.69JFIqF0FP8.63d5i1SP2IC" displaytext="11. Lesions of the Lateral Medulla Can Cause Cerebellar Signs" expand="false" type="slide" />
+            <slidelink slideid="_player.69JFIqF0FP8.6GIYLxjb0Lv" displaytext="12. Quiz" expand="false" type="slide" />
+            <slidelink slideid="_player.69JFIqF0FP8.5fqZ08bqnKW" displaytext="End of Lab 20A" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6ozSJ4ERp0V" displaytext="20B Prelab SLM CSF Dynamics and the BBB" expand="false" type="slide">
+          <links>
+            <slidelink slideid="_player.6ozSJ4ERp0V.6ZCSJZJQ0jv" displaytext="1. Objectives" expand="false" type="slide" />
+            <slidelink slideid="_player.6ozSJ4ERp0V.5pPuVFaKNmp" displaytext="2. Introduction to CSF" expand="false" type="slide" />
+            <slidelink slideid="_player.6ozSJ4ERp0V.6pyI5o15ie6" displaytext="3. Ventricular CSF and Brain ISF are Continuous" expand="false" type="slide" />
+            <slidelink slideid="_player.6ozSJ4ERp0V.6oHeve5iXGs" displaytext="4. The Blood-ISF Barrier" expand="false" type="slide" />
+            <slidelink slideid="_player.6ozSJ4ERp0V.6FKndn1sIvU" displaytext="5. Choroid Plexus forms the Blood-CSF Barrier" expand="false" type="slide" />
+            <slidelink slideid="_player.6ozSJ4ERp0V.69Gx76YJlx5" displaytext="6. The Formation of Choroid Plexus" expand="false" type="slide" />
+            <slidelink slideid="_player.6ozSJ4ERp0V.6lsw98Srk2d" displaytext="7. Choroid Plexus Secretes CSF" expand="false" type="slide" />
+            <slidelink slideid="_player.6ozSJ4ERp0V.6mxU2ohprmt" displaytext="8. Circulation of CSF" expand="false" type="slide" />
+            <slidelink slideid="_player.6ozSJ4ERp0V.6mrjAxIroxC" displaytext="9. Reabsorption of CSF" expand="false" type="slide" />
+            <slidelink slideid="_player.6ozSJ4ERp0V.5qwgLFjLBXT" displaytext="10. The Median and Lateral Apertures" expand="false" type="slide" />
+            <slidelink slideid="_player.6ozSJ4ERp0V.60qCAfCxQWQ" displaytext="11. Hydrocephalus" expand="false" type="slide" />
+            <slidelink slideid="_player.6ozSJ4ERp0V.5hXxFgHE0Yv" displaytext="12. BBB Breakdown" expand="false" type="slide" />
+            <slidelink slideid="_player.6ozSJ4ERp0V.6qmSwAmAMog" displaytext="13. Quiz" expand="false" type="slide" />
+            <slidelink slideid="_player.6ozSJ4ERp0V.5sRXpQCo5tQ" displaytext="End of Lab 20B" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6XDFNIU06jq" displaytext="20.1 Find the Lesion: Radiology" expand="false" type="slide">
+          <links>
+            <slidelink slideid="_player.6XDFNIU06jq.6kSWJ0DoQhM" displaytext="1. Objectives" expand="false" type="slide" />
+            <slidelink slideid="_player.6XDFNIU06jq.6ZSiMqGePAA" displaytext="2. Case 1 Meningioma" expand="false" type="slide" />
+            <slidelink slideid="_player.6XDFNIU06jq.64wD4JZEuA7" displaytext="3. Case 2" expand="false" type="slide" />
+            <slidelink slideid="_player.6XDFNIU06jq.6VyLxf4C22J" displaytext="4. Case 3 Cavernoma" expand="false" type="slide" />
+            <slidelink slideid="_player.6XDFNIU06jq.6DFeVWEOqDy" displaytext="5. Case 4 Syrinx" expand="false" type="slide" />
+            <slidelink slideid="_player.6XDFNIU06jq.61okouw8ZHG" displaytext="6. Case 5" expand="false" type="slide" />
+            <slidelink slideid="_player.6XDFNIU06jq.6Pv3U181aX5" displaytext="7.  Case 6, History" expand="false" type="slide" />
+            <slidelink slideid="_player.6XDFNIU06jq.6STeGNIx2bH" displaytext="8. Case 6, Questions" expand="false" type="slide" />
+            <slidelink slideid="_player.6XDFNIU06jq.6RHT3x7QXqJ" displaytext="9. Case 7: An Unusual Angiogram" expand="false" type="slide" />
+            <slidelink slideid="_player.6XDFNIU06jq.6GHk36JjmJO" displaytext="10. Case 8: History" expand="false" type="slide" />
+            <slidelink slideid="_player.6XDFNIU06jq.5wDDHeSHAcX" displaytext="11. Case 8: Questions" expand="false" type="slide" />
+            <slidelink slideid="_player.6XDFNIU06jq.6TsAN4qkmgU" displaytext="12. Case 8: Bonus FYI Questions" expand="false" type="slide" />
+            <slidelink slideid="_player.6XDFNIU06jq.6EJf375u13V" displaytext="End of Lab 20.1" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6esazq3ulHP" displaytext="20.2 Find the Lesion: Case Histories" expand="false" type="slide">
+          <links>
+            <slidelink slideid="_player.6esazq3ulHP.6WUrLoZFpfl" displaytext="1. Objectives" expand="false" type="slide" />
+            <slidelink slideid="_player.6esazq3ulHP.6i0orqdPYqZ" displaytext="2. Predict the Symptoms 1" expand="false" type="slide" />
+            <slidelink slideid="_player.6esazq3ulHP.6dBNPsY0L2Z" displaytext="3. Predict the Symptoms 2" expand="false" type="slide" />
+            <slidelink slideid="_player.6esazq3ulHP.6IifvwaLWux" displaytext="4. Find the Lesion 1" expand="false" type="slide" />
+            <slidelink slideid="_player.6esazq3ulHP.5h97ySBylU8" displaytext="5. Find the Lesion 2" expand="false" type="slide" />
+            <slidelink slideid="_player.6esazq3ulHP.66hxx0gWAKC" displaytext="6. Find the Lesion 3" expand="false" type="slide" />
+            <slidelink slideid="_player.6esazq3ulHP.697yxKmZrUx" displaytext="7. Find the Lesion 4 Case History" expand="false" type="slide" />
+            <slidelink slideid="_player.6esazq3ulHP.5lfyqzRlFEq" displaytext="8. Find the Lesion 4 Questions" expand="false" type="slide" />
+            <slidelink slideid="_player.6esazq3ulHP.5k2ltQUzaya" displaytext="9. Find the Lesion 5" expand="false" type="slide" />
+            <slidelink slideid="_player.6esazq3ulHP.5zt41mX4C0A" displaytext="10. Find the Lesion 6 Case History" expand="false" type="slide" />
+            <slidelink slideid="_player.6esazq3ulHP.6GUapbiTC3M" displaytext="11. Find the Lesion 6 Questions" expand="false" type="slide" />
+            <slidelink slideid="_player.6esazq3ulHP.6oBnzA0SlFF" displaytext="End of Lab 20.2" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6GNfkjEfjtK.681S4QWTOJ3" displaytext="Lab 20 Field Trip" expand="false" type="slide" />
+        <slidelink slideid="_player.5lEI8c43zhW" displaytext="Quizlandia" expand="false" type="slide">
+          <links>
+            <slidelink slideid="_player.5lEI8c43zhW.5kZk9mdy58X" displaytext="Quiz Selection" expand="false" type="slide" />
+            <slidelink slideid="_player.5lEI8c43zhW.5uad89p90AK" displaytext="20A Quiz" expand="false" type="slide">
+              <links>
+                <slidelink slideid="_player.5lEI8c43zhW.6FRuQbxORJD" displaytext="Question 1" expand="false" type="slide" />
+                <slidelink slideid="_player.5lEI8c43zhW.5lfCrCVt9Hn" displaytext="Question 2" expand="false" type="slide" />
+                <slidelink slideid="_player.5lEI8c43zhW.5ennp17YswP" displaytext="Question 3" expand="false" type="slide" />
+                <slidelink slideid="_player.5lEI8c43zhW.5y7vjEga22s" displaytext="Question 4" expand="false" type="slide" />
+                <slidelink slideid="_player.5lEI8c43zhW.6dcRbOgSlNS" displaytext="Question 5" expand="false" type="slide" />
+                <slidelink slideid="_player.5lEI8c43zhW.5gqlSAlPFs3" displaytext="Question 6" expand="false" type="slide" />
+                <slidelink slideid="_player.5lEI8c43zhW.638HkpLgxxA" displaytext="Question 7" expand="false" type="slide" />
+                <slidelink slideid="_player.5lEI8c43zhW.6EeFIOr098h" displaytext="Question 8" expand="false" type="slide" />
+                <slidelink slideid="_player.5lEI8c43zhW.6PZjoROcTJZ" displaytext="Question 9" expand="false" type="slide" />
+                <slidelink slideid="_player.5lEI8c43zhW.5qDOibiqoOE" displaytext="Question 10" expand="false" type="slide" />
+              </links>
+            </slidelink>
+            <slidelink slideid="_player.5lEI8c43zhW.5qEXANSFuW1" displaytext="20B Quiz" expand="false" type="slide">
+              <links>
+                <slidelink slideid="_player.5lEI8c43zhW.6cg4Bbq8R4R" displaytext="Question 1" expand="false" type="slide" />
+                <slidelink slideid="_player.5lEI8c43zhW.6ncqM9tsR3p" displaytext="Question 2" expand="false" type="slide" />
+                <slidelink slideid="_player.5lEI8c43zhW.6ag3u7coR0U" displaytext="Question 3" expand="false" type="slide" />
+                <slidelink slideid="_player.5lEI8c43zhW.5Yc0PfobU1Q" displaytext="Question 4" expand="false" type="slide" />
+                <slidelink slideid="_player.5lEI8c43zhW.5t4tpibo96q" displaytext="Question 5" expand="false" type="slide" />
+                <slidelink slideid="_player.5lEI8c43zhW.5WGRhjJD46m" displaytext="Question 6" expand="false" type="slide" />
+                <slidelink slideid="_player.5lEI8c43zhW.6EeROHsjEPk" displaytext="Question 7" expand="false" type="slide" />
+              </links>
+            </slidelink>
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6340jkryloG.6QMBC8nISRW" displaytext="Acknowledgements" expand="false" type="slide" />
+      </links>
+    </outline>
+    <search>
+      <slidetext slideid="6WPJoLsOIZn.6NLd1ckctfn" slidebank="false" type="slide">lab 20 unit 6: neuroanatomy click to begin click to begin click to begin </slidetext>
+      <slidetext slideid="6WPJoLsOIZn.5tIgPuUVAkS" slidebank="false" type="slide">unless otherwise noted, all figures in this emodule are from gray’s anatomy for students, 3e, by drake   , vogl, &amp; mitchell, © 2015 by elsevier. this is a recommended resource click to continue click to continue click to continue emodule tutorial emodule tutorial emodule tutorial </slidetext>
+      <slidetext slideid="6WPJoLsOIZn.5bVoVvU1Wsz" slidebank="false" type="slide">the brains with which you are supplied were fixed with formaldehyde, but they have been thoroughly rinsed with water to clear the formaldehyde, and are kept in water.   brain tissue dries out very rapidly. keep the parts you are not using in the bucket, covered completely with a cloth, and with the lid on the bucket. moisten the parts you are using from time to time with water (not embalming fluid). a brown colouration on the edges of the brain tissue is a cry for moisture.  look around yourself in the lab. you will see buckets labelled “human tissue only”. all waste tissue must be placed in the "human tissue only" buckets that are present in every laboratory.  do not put waste tissue in the trolleys under the tables; these are dedicated containers for the remains of the cadaver(s) on that table.  used paper towels and gloves go in the garbage, never in the “human tissue only” receptacles. trays, instruments and table tops are to be cleaned with cleaning fluid and paper towels. remember: the teaching labs are used by other student groups, and so must be left as you found them: clean and ready for student use. unit 6 care of human brain tissue previous next </slidetext>
+      <slidetext slideid="6WPJoLsOIZn.6fd626zjevw" slidebank="false" type="slide">we have been challenged with teaching / learning neuroanatomy over a short period of time. it’s critical that you learn what i teach, as i teach it. with neuroanatomy, more so than any other topic in anatomy, each lesson builds on the last. you will only frustrate yourself if you do delay learning. in unit 6, there is a lot more content that i’ll assign in the form of self-learning modules. i do, however, walk you through a fair bit of it using slide talks. clinical neuroanatomy is ultimately about two questions: 1) where is the lesion? and 2) what is the lesion? you first must learn some neuroanatomy before you can localize a lesion, so you’ll start with that. labs are run differently in unit 6. groups will be smaller (4-5 people) because the specimens you will study, brains and brainstems, are smaller.  at stg, each lab room is equipped with 8 stations, each of which includes a whole brain and a half brain. stg students will be divided into 8 groups as follows: pairs 1 (a1 &amp; b1) on the left side of the room go to one table, forming group ab1 pairs 2 (a2 &amp; b2) on the left side of the room go to the next table, forming group ab2 pairs 3 (a3 &amp; b3) on the left side of the room go to the third table, forming group ab3 pairs 4 (a4 &amp; b4) on the left side of the room go to the fourth table, forming group ab4 similarly, on the right side of the room, four groups are formed designated cd1, cd2, cd3 and cd4.  some resources are limited; you will rotate through the practical exercises in these groups so as to equitably share the specimens. at mam, students are divided into six groups of 4-5 students each. your ta will fill you in on the details. unit 6 overview previous next </slidetext>
+      <slidetext slideid="6WPJoLsOIZn.6qJPEVpbKsr" slidebank="false" type="slide">prior to the lab period, you will complete prelab slms 20a and 20b. a lab rat will be held at 9:00 am and 1:00 pm on these slms.  in addition, you will find problems to solve in exercises 20.1 and 20.2. students are not expected to come having solved all of the problems in these exercises, but are expected to come having prepared answers to the four problems that are assigned to them. in the table that follows are listed the slide numbers on which there are problems to solve, and the pairs that must come having attempted solved them. these pairs will arrive as the “experts” on these problems, and will teach the other students in their lettered groups. lab 20 instructions previous take me to exercise selection pairs 1 problems 20.1.2, 20.1.6, 20.2.2, 20.2.6 pairs 2 problems 20.1.3, 20.1.7 &amp; 8, 20.2.3, 20.2.7 &amp; 8 pairs 3 problems 20.1.4, 20.1.9, 20.2.4, 20.2.9 pairs 4 problems 20.1.5, 20.1.10-12, 20.2.5, 20.2.10 &amp; 11 when you arrive to the lab, experts will gather at a table and discuss their solutions to their assigned problems. tas will circulate to ensure that you’ve arrived at reasonable answers. this should take at least an hour. after this initial period, experts will disband to their lettered groups, thus forming groups of 8-9 students that contain 2-3 experts on each question. lettered groups will go through the questions in order with the experts leading the discussion of their assigned questions. </slidetext>
+      <slidetext slideid="6WPJoLsOIZn.6JZaGEsFV0O" slidebank="false" type="slide">previous next using the emodule use this emodule before labs to prepare for them, during labs to guide your studies, and after labs as a review tool. to complete each section, use the next button at the bottom each page, swipe right or press the right arrow key to move forward one page at a time.  use the menu, available by clicking “menu” at the top, to navigate to specific slides. use search to quickly find instances of relevant terms. use the previous button at the bottom of the page or swipe left or press the left arrow key to move back one page at a time. lab 20 20a prelab slm 20b prelab slm 20.1 find… </slidetext>
+      <slidetext slideid="6WPJoLsOIZn.5bRnQLYxBGk" slidebank="false" type="slide">previous got it, let’s move on conventions used in the emodule with age, wear and tear,  info information that has implications for health and disease is introduced on a blue bar and continued below the bar: and how the superior and inferior articular facets of adjacent vertebrae articulate with one another.  note how they fit together, tas k tasks, introduced on a pink bar and continued below the bar in bold, are actions that you should take to help you understand the content: an intervertebral disc can herniate, such that the nucleus pulposus…. the film button appears on the bottom bar of slides where a video accompanies tasks or explanations. the photo button appears at the bottom of slides where a photo accompanies tasks. some words are followed by an icon       ; click the icon to open related content. click the        icon to close it. some words are followed by an icon       ; click the icon to see a definition.  words / phrases in purple denote concepts with which you should become familiar.   the slide talk icon appears on the top bar of slides containing a recording of me explaining concepts </slidetext>
+      <slidetext slideid="6Mji4Q6ibhV.6iS1i5S7VfA" slidebank="false" type="slide">lab 20 exercise selection select an exercise to begin: pre-lab slms 20a the cerebellum 20a the cerebellum 20a the cerebellum 20.1 find the lesion: radiology 20.1 find the lesion: radiology 20.1 find the lesion: radiology 20.2 find the lesion: case histories 20.2 find the lesion: case histories 20.2 find the lesion: case histories if you finish early…  20.3 field trip  20.3 field trip  20.3 field trip 20b csf and the bbb 20b csf and the bbb 20b csf and the bbb exercises </slidetext>
+      <slidetext slideid="69JFIqF0FP8.6WL7sjCH40q" slidebank="false" type="slide">20a the cerebellum: pathways and functions back to station selection next objectives: when you have learned the material presented in this exercise, you will be able to: describe the functional divisions of the cerebellum, as well as its role in movement, speech and balance describe the major inputs and outputs of the cerebellum via the three cerebellar peduncles explain why focal cerebellar lesions produce ipsilateral symptoms and signs explain why brainstem lesions can produce cerebellar signs describe the clinical signs that can result from midline and hemispheric lesions in the cerebellum, and how to elicit these findings on the neurological examination </slidetext>
+      <slidetext slideid="69JFIqF0FP8.6l8wWFU4LOz" slidebank="false" type="slide">20a   introduction 2 previous next students can struggle with the connections and functions of the cerebellum, and by extension, the clinical effects of cerebellar lesions.  this module on the cerebellum is intended to introduce you to cerebellar structure and function and to extend your understanding by applying it to clinical scenarios that involve signs of cerebellar dysfunction.  the cerebellum functions in the maintenance of balance and posture, and in the coordination of highly skilled motor activity.  not unlike the cerebrum, the cerebellum consists of two hemispheres, each with a cortex, subcortical white matter and deep nuclei.  while the cerebral hemispheres have one pair of peduncles consisting of white matter attaching it to the brainstem, the cerebellum has three pairs of cerebellar peduncles: superior, middle and inferior. these consist of white matter conveying information into and out of the cerebellum.  </slidetext>
+      <slidetext slideid="69JFIqF0FP8.5t99TxSltb0" slidebank="false" type="slide">20a   anatomy and functional regions 3 previous next in the anatomy lab, you identified key anatomical features of the superior (a) and inferior (b) surfaces of the cerebellum.  in this figure, these features are co-related with the three functional subdivisions of the cerebellum. the vestibulocerebellum is comprised of the flocculus and nodule.  the spinocerebellum is comprised of the vermis and paravermal regions. the cerebrocerebellum is comprised of the lateral cerebellar hemispheres. in addition, you identified the three pairs of cerebellar peduncles: the superior cerebellar peduncles associated with the midbrain the middle cerebellar peduncles, associated with the pons the inferior cerebellar peduncles, associated with the medulla  </slidetext>
+      <slidetext slideid="69JFIqF0FP8.6ChdakQUHQh" slidebank="false" type="slide">20a   cerebellar inputs 4 previous next the cerebellum receives input from a number of sources, all ipsilateral, unless otherwise noted.  the vestibular apparatus provides information regarding the static position of the head and its acceleration through space via the inferior cerebellar peduncle. proprioceptors in the face and body provide information regarding joint position, and therefore our position in space, predominantly via the inferior cerebellar peduncles.  visual and auditory input reaches the cerebellum from the superior and inferior colliculi, respectively, via the superior cerebellar peduncle.  the only contralateral input to a given cerebellar hemisphere comes from motor planning areas of the contralateral cerebral hemispheres by way of the contralateral pontine nuclei. these pontocerebellar fibres constitute the whole of the middle cerebellar peduncle. corticopontocerebellar     input includes information regarding voluntary movement that is being planned or that is ongoing.  what does the cerebellum do with all this information? it coordinates balance, posture &amp; stereotyped mvts it coordinates skilled voluntary movements </slidetext>
+      <slidetext slideid="69JFIqF0FP8.5XD0SKG8agY" slidebank="false" type="slide">20a   the coordination of balance, posture and stereotyped mvts 5 previous next the cerebellum coordinates balance, posture and stereotyped movements such as locomotion, which involve axial      and proximal limb musculature. this function is dependent on three main sources of sensory input: proprioceptive, vestibular and visual.  the portions of the cerebellum involved in using this input to coordinate these types of activities are the flocculus, nodule, vermis and adjacent paravermal regions, i.e. midline structures, and their associated deep nuclei.  the output from these portions of the cerebellum pass through the inferior cerebellar peduncle. it influences balance and gait primarily through the ipsilateral vestibulospinal and reticulospinal pathways, respectively. thus midline lesions of the cerebellum, or lesions of the inferior cerebellar peduncle, lead to disorders of balance and gait.  output from these regions of the cerebellum, also passing through the inferior cerebellar peduncle, coordinates the movement of the eye in the orbit with that of the neck and head via the medial longitudinal fasciculus. an example of this is when you shake your head “no”, but maintain your gaze straight ahead. thus, another sign of such lesions is ataxic eye movements (i.e. ocular dysmetria). </slidetext>
+      <slidetext slideid="69JFIqF0FP8.67UIyIGh8b5" slidebank="false" type="slide">20a   in the clinic: midline cerebellar lesions 6 previous next what do these “disorders of balance and gait” look like? patients with midline cerebellar lesions, or lesions of the inferior cerebellar peduncle, have difficulty maintaining an upright posture, even when seated. they tend to fall toward the side of the lesion. they therefore have difficulty standing with their feet together, and tend to adopt a wide-based stance. the characteristic gait seen with a midline cerebellar lesion is called “cerebellar ataxia”. patients adopt a wide-based gait and their trunk often lurches from side to side. such lesions may affect speech. in “cerebellar dysarthria” patients speech is slurred; it sounds like their tongue is too big for their mouth. such lesions may cause nystagmus and vertigo (week 44) due to involvement of the vestibulocerebellum. </slidetext>
+      <slidetext slideid="69JFIqF0FP8.5tfS1AZ0E2p" slidebank="false" type="slide">20a   the coordination of skilled voluntary movements 7 previous next the coordination and accuracy of skilled voluntary movements, particularly of the hand, is dependent on a comparison of anticipated movement to ongoing movement.  an excellent example of skilled voluntary movements of the hand is seen here: the cerebellum is informed of anticipated movement through the cerebropontocerebellar inputs (blue) received from the contralateral motor and premotor cortices. pontocerebellar fibres make up the whole of the middle cerebellar peduncle. the portions of the cerebellum involved in this function are the lateral portions of the cerebellar hemispheres and their associated deep nuclei.  their output projects via the superior cerebellar peduncle to the contralateral motor cortex via the ventrolateral nucleus of the thalamus (red). thus the cerebellum influences the ongoing output of motor cortex via the cst (green).  signs of lesions of i) lateral portions of the cerebellar hemisphere, ii) the middle cerebellar peduncle or iii) the superior cerebellar peduncle are disordered fine movement of ipsilateral distal limb muscles. </slidetext>
+      <slidetext slideid="69JFIqF0FP8.6p1ohLgVZ4n" slidebank="false" type="slide">20a   in the clinic: hemispheric lesions of the cerebellum 8 previous next what do these “disordered fine movement of distal limb muscles” look like? in the clinic, patients with hemispheric cerebellar lesions, or lesions of the superior or middle cerebellar peduncle, may demonstrate: dysmetria: incoordination of multi-joint movement of the limbs. in the upper limb, this is elicited using the “finger-to-nose test” and is seen in the path between the finger and nose as repeated, side-to-side corrections of course. in the leg, this is elicited using the “heel-to-shin” test. intention tremor: in the finger-to-nose test, at the extreme of the movement (i.e. when the finger approaches the nose or the examiner’s finger), the finger moves up-and-down or side-to-side as the patient attempts to touch the target. dysdiadochokinesia: the patient is unable to perform rapid alternating hand movements. this is elicited by asking the patient to repeatedly tap the palm and dorsum of one hand into the palm of the other, as fast as they can.  remember, cerebrocerebellar lesions, i.e. lesions of the lateral cerebellar hemispheres, cause signs ipsilateral to the lesion. go back to the graphic on the previous slide, if you are unsure as to why this is. </slidetext>
+      <slidetext slideid="69JFIqF0FP8.64cIaQh7GP6" slidebank="false" type="slide">20a   midbrain lesions can cause cerebellar signs 9 previous next the cerebellar peduncles carry information to and from the cerebellum, which passes through the brainstem. therefore, brainstem lesions may cause cerebellar signs. depending on which side of the brainstem the lesion is on, in this case, the signs might be ipsilateral or contralateral to the lesion. midbrain lesions (1) may affect cerebrocerebellar efferents carried in the superior cerebellar peduncle projecting to the vl thalamus and motor areas of the cerebral cortex.  if a midbrain lesion occurs at the level of the superior colliculus, this may result, for instance, in contralateral ataxia coincident with ipsilateral third nerve palsy     . the ataxia is contralateral because the fibres projecting from the cerebellum to the thalamus cross in the decussation of the superior cerebellar peduncle at the level of the inferior colliculi      . the lesioned fibres are therefore contralateral to the cerebellar hemisphere of origin at the level of the superior colliculi.  </slidetext>
+      <slidetext slideid="69JFIqF0FP8.6EdAhmcRQnu" slidebank="false" type="slide">20a   lesions of the pons may cause cerebellar signs 10 previous next lesions of the lateral pons (2) may disrupt pontocerebellar fibres of the middle cerebellar peduncle and descending upper motor neurons in the corticospinal tract     , resulting in ipsilateral ataxia and contralateral hemiparesis     .  </slidetext>
+      <slidetext slideid="69JFIqF0FP8.63d5i1SP2IC" slidebank="false" type="slide">20a   lesions of the lateral medulla can cause cerebellar signs 11 previous next lesions in the cerebellopontine angle or in the lateral medulla (3) may involve the inferior cerebellar peduncle, giving rise to gait and truncal ataxia. depending on the location of the lesion, this may be coincident with cranial nerve and / or long tract signs.  an example is lateral medullary syndrome, caused by a stroke in the pica artery territory, in which gait ataxia occurs (with or without vertigo and nystagmus), coincident with, for instance, hoarseness and dysphagia (cn x) and long-tract signs such as an ipsilateral horner’s syndrome and loss of pain and temperature sensation in the ipsilateral face and contralateral body      .  this is the end of exercise 20.1. in exercises 20.3 and 20.4, you will have the opportunity to practice lesion localization.  some of these lesions will involve the cerebellum or its afferent or efferent fibres. look for the signs of cerebellar lesions described here. </slidetext>
+      <slidetext slideid="69JFIqF0FP8.6GIYLxjb0Lv" slidebank="false" type="slide">20a   quiz previous next 12 you’ve reached the end of this exercise. do you want to take the end-of-exercise quiz? oh, yeah! bring on the quiz! not yet! i’m not ready! </slidetext>
+      <slidetext slideid="69JFIqF0FP8.5fqZ08bqnKW" slidebank="false" type="slide">exercise 20a review 20a previous </slidetext>
+      <slidetext slideid="6ozSJ4ERp0V.6ZCSJZJQ0jv" slidebank="false" type="slide">20b csf dynamics and the blood brain barrier back to station selection next objectives: when you have learned the material in this lecture you will be able to: describe the secretion, circulation and drainage of csf describe the structural and functional features of neural capillaries that collectively constitute the blood-brain barrier define and explain hydrocephalus describe the causes and consequences of barrier breakdown </slidetext>
+      <slidetext slideid="6ozSJ4ERp0V.5pPuVFaKNmp" slidebank="false" type="slide">20b   introduction to csf 2 previous next cerebrospinal fluid (csf) provides buoyancy to the brain within the cranial cavity. the brain effectively “floats” within the cranium.  you know now that cranial nerves and major blood vessels are located at the base of the brain; csf prevents compression of these delicate structures.  csf also slows the movement of the brain within the cranial cavity, and thus protects the brain from impact against the cranial cavity. csf is constantly being derived from, and returned to, blood. in fact, it turns over three times each day. it functions in maintenance of homeostasis through removal of metabolites.  </slidetext>
+      <slidetext slideid="6ozSJ4ERp0V.6pyI5o15ie6" slidebank="false" type="slide">20b   ventricular csf and brain isf are continuous 3 previous next the ventricles and central canal of the spinal cord are lined by ependyma, a ciliated, cuboidal epithelium. the ependyma lining these surfaces are not joined by tight junctions, which means there is free movement of fluid between the ventricular csf and the interstitial fluid (isf) bathing cns cells. their composition is the same. csf and isf are produced from blood plasma, but are different in composition from blood plasma. csf and isf are isolated from blood by the blood-brain barrier (bbb). the blood brain barrier consists of two components: the blood-isf barrier, within the parenchyma of the brain, and the blood-csf barrier, within the choroid plexus, vascular structures located within the brain ventricles. these two components will be described in turn. </slidetext>
+      <slidetext slideid="6ozSJ4ERp0V.6oHeve5iXGs" slidebank="false" type="slide">20b   the blood-isf barrier 4 previous next the first component of the bbb to be described is the blood-isf barrier.  capillaries in neural tissue are of the continuous type, meaning that the endothelial cells lining these vessels are joined by tight junctions (tj). tight junctions block the movement of molecules by the paracellular route, i.e. they block the passage of molecules between adjacent endothelial cells.  this means that any molecules that pass between plasma and isf must pass through the endothelial cells, i.e. by the transcellular route (dotted arrows). such molecules must either be i) able to diffuse through the endothelial cell membrane, such as gases and lipid-soluble molecules, or ii) carried by specific transporters embedded in the endothelial cell membrane. the formation of tight junctions is induced by contact between astrocytic end-feet and brain capillaries. thus, intact tjs between endothelial cells, and selective molecular transporters determine the composition of brain isf. </slidetext>
+      <slidetext slideid="6ozSJ4ERp0V.6FKndn1sIvU" slidebank="false" type="slide">20b   choroid plexus forms the blood-csf barrier 5 previous next the second component of the bbb to be described is the blood-csf barrier.  choroid plexus secretes csf. it can be seen in all of the brain ventricles. here, it is seen in the lateral ventricles.  click here to see it in the third and fourth ventricles     . </slidetext>
+      <slidetext slideid="6ozSJ4ERp0V.69Gx76YJlx5" slidebank="false" type="slide">20b   the formation of choroid plexus 6 previous next choroid plexus forms the blood-csf barrier. it is suspended within the lateral, third and fourth ventricles and secretes csf into the ventricular spaces. choroid plexus develops with invagination of blood vessels through the ependyma lining the ventricles, into the ventricular space. in the accompanying figure, an artery grows from the roof of the fourth ventricle, through its ependymal lining, and into the fourth ventricle. the ultimate structure of the choroid plexus is shown on the right, with the villi of the choroid plexus being enclosed in ependyma and containing capillaries. </slidetext>
+      <slidetext slideid="6ozSJ4ERp0V.6lsw98Srk2d" slidebank="false" type="slide">20b   choroid plexus secretes csf 7 previous next most cerebral bvs in the parenchyma of the brain are of the continuous type, and form the blood-isf barrier. recall that the anatomical basis of the blood-isf barrier is the presence of tjs between adjacent endothelial cells of brain capillaries and selective molecular transporters within their cell membranes. in contrast, bvs of the choroid plexus are fenestrated. the extravasation of plasma components across their walls, into the sub-adjacent ct, is unimpeded by tight junctions between endothelial cells. this provides the raw material for csf production.  choroid ependymal cells stand between this ct fluid and the ventricular space. unlike the ependymal cells lining the walls of ventricles, choroid ependymal cells are joined by tjs. therefore, csf is produced by the active secretion of molecules into the ventricles by choroid ependymal cells. normal csf is clear, colourless, and low in protein, cells and igg. </slidetext>
+      <slidetext slideid="6ozSJ4ERp0V.6mxU2ohprmt" slidebank="false" type="slide">20b   circulation of csf 8 previous next csf is produced by choroid plexus (cp, red) in all brain ventricles. it flows from ventricle to ventricle, until it reaches the fourth ventricle. from the fourth ventricle, it enters the subarachnoid space via three openings, which you explored in your dissection: the midline median aperture (foramen of magendie), which opens into the cisterna     magna, located between the inferior surface of the cerebellum and the medulla, and the two lateral apertures (foramina of lushka), which open into the cerebellopontine cistern, at the cerebellopontine angle. csf circulates through the subarachnoid space, including the lumbar cistern. the total volume of csf at any one time is ~ 140 ml, most of which is in the subarachnoid space. csf is produced at a rate of 500 ml per day, and therefore turns over 3-4 times each day </slidetext>
+      <slidetext slideid="6ozSJ4ERp0V.6mrjAxIroxC" slidebank="false" type="slide">20b   reabsorption of csf 9 previous next csf is returned to the vascular system by 2 means: via arachnoid granulations, herniations of arachnoid through dura into the dural venous sinuses, and along the sheaths of cranial and spinal ns into the surrounding lymphatics.  </slidetext>
+      <slidetext slideid="6ozSJ4ERp0V.5qwgLFjLBXT" slidebank="false" type="slide">20b   the median and lateral apertures 10 previous next these pictures show choroid plexus in the median and lateral apertures. </slidetext>
+      <slidetext slideid="6ozSJ4ERp0V.60qCAfCxQWQ" slidebank="false" type="slide">20b   hydrocephalus 11 previous next hydrocephalus is characterized by: an increase in csf volume enlargement of one or more ventricles an increase in intracranial pressure hydrocephalus occurs with either: blockage of csf mvt; this is obstructive hydrocephalus. csf production continues regardless of a blockage of csf flow. blockage occurs most commonly at narrowings of the ventricular system, such as the cerebral aqueduct or one or both interventricular foramina.  the location of the blockage is indicated by pattern of ventricular enlargement; the ventricles upstream of the blockage are enlarged, those downstream are not. impaired absorption of csf; this is communicating hydrocephalus. this can occur with agenesis of the arachnoid granulations, blockage of the arachnoid villi, or blockage within subarachnoid space, for instance following a subarachnoid hemorrhage. all ventricles are enlarged in communicating hydrocephalus. see mri of normal brains, and those with hydrocephalus here: </slidetext>
+      <slidetext slideid="6ozSJ4ERp0V.5hXxFgHE0Yv" slidebank="false" type="slide">20b   bbb breakdown 12 previous next bbb breakdown results in increased permeability of brain capillaries. this causes vasogenic edema, in which fluid derived from plasma crosses the abnormally leaky vessel walls and accumulates in the interstitial space of the brain parenchyma. the excess fluid causes an increase in intracranial pressure, icp, and can act like a space occupying lesion, compressing adjacent brain tissue. in imaging, bbb breakdown can be seen with a contrast agent. a contrast agent gives a high signal in brain imaging. it can be given intravenously, and flows through the vascular system as images of the brain are taken. contrast agent does not cross the intact bbb, and therefore does not enter the brain parenchyma in normal brains. with bbb breakdown, however, a contrast agent crosses the leaky vessel walls and bathes the adjacent brain parenchyma, giving a high signal in the region of bbb breakdown. a contrast agent commonly used in mri is gadolinium. bbb breakdown occurs in tumors, arteriovenous malformations and in inflammation. inflammation occurs in multiple sclerosis, for instance, and in the later stages of stroke. gadolinium-enhanced mri showing bbb breakdown in a glioblastoma multiforme. gadolinium-enhanced mri showing bbb breakdown due to inflammation in active ms lesions.  images courtesy of dr. m. hohol, uoft. </slidetext>
+      <slidetext slideid="6ozSJ4ERp0V.6qmSwAmAMog" slidebank="false" type="slide">20b   quiz previous next 13 man, i am the quiz queen! let’s get ‘er done! hmmmm… maybe later… you’ve reached the end of this exercise. do you want to take the end-of-exercise quiz? </slidetext>
+      <slidetext slideid="6ozSJ4ERp0V.5sRXpQCo5tQ" slidebank="false" type="slide">exercise 20b! review 20b previous </slidetext>
+      <slidetext slideid="6XDFNIU06jq.6kSWJ0DoQhM" slidebank="false" type="slide">20.1 find the lesion: radiology back to station selection next objectives: when you have learned the material presented in this exercise, you will be able to: recognize that an image is a ct or a mri orient yourself when looking at a scan (i.e., right vs. left) recognize the plane of ct and mri scans (i.e., axial, sagittal, coronal) recognize images of basic mri sequences (e.g. t1 vs. t2, flair, dwi) explain the utility of flair and dwi explain the utility of contrast agents  identify sagittal images of an mri of the cervical vs. lumbar spine and be able to count the vertebral levels to localize a lesion identify intracranial hemorrhages (epidural, subdural, subarachnoid, intraparenchymal, intraventricular) and explain their associated anatomy identify lesions located in specific vascular territories (aca, mca, pca, basilar, pica, anterior spinal artery) </slidetext>
+      <slidetext slideid="6XDFNIU06jq.6ZSiMqGePAA" slidebank="false" type="slide">20.1   case 1 meningioma 2 previous next a meningioma is a tumor of the meninges that compresses the cns, in this case the spinal cord, from the outside.  images: sagittal and axial mr images of the cervical spine on one or more of the sagittal images, identify: foramen magnum, cerebellar tonsil, 4th ventricle, cervical spinal cord, vertebral bodies, dens and intervertebral discs. the meningioma is indicated by an arrow. on the axial images identify: spinal canal; vertebral arteries in the foramina transversaria; the compressed and displaced cervical cord; and the meningioma. why is the lesion so “bright” (high signal or hyperintense) after the injection of gadolinium? at what vertebral level is the meningioma located? (hint: count from the dens!) you are provided with a normal mri of the lumbar spine        . look at it. what bony landmark would you use to enumerate the vertebrae? go back to the first image showing the meningioma. presume that this compressive lesion has destroyed the right half of the spinal cord at this level.  what clinical symptoms and signs would be present? what would the distribution be? what side of the body would be affected? fyi, what is the name given to this clinical syndrome?    </slidetext>
+      <slidetext slideid="6XDFNIU06jq.64wD4JZEuA7" slidebank="false" type="slide">20.1   case 2: arrows point to lesion 3 previous next images: axial mr images of the posterior fossa case 2, page 1:        on both t2-weighted images, identify the vertebral arteries, the cerebellar tonsils, and on the lower t2-weighted image identify the inferior vermis of the cerebellum. case 2, page 1: the upper and lower images are taken at slightly different levels, but in the same brainstem region. from what region of the brainstem are these images taken?  midbrain, pons or medulla?  case 2, page 1: from your introductory neuroimaging module, assigned last week, what is the utility of the diffusion-weighted image? a link to this resource is provided here: intro to neuroimaging module case 2, page 2:         what is the utility of the flair image? one of the images have been enlarged for you on the second page. now, be more specific about the brainstem level affected in these images.  draw a cross-section of the brain stem at the same level as these images and label the major anatomical structures. refer to exercise 19.3 hatch in the lesioned area. what artery supplies blood to this area of the brain stem? refer to exercise 19.5. predict the patient’s clinical findings. the list is long! be sure to provide i) the deficit, ii) the distribution and iii) the side. </slidetext>
+      <slidetext slideid="6XDFNIU06jq.6VyLxf4C22J" slidebank="false" type="slide">20.1   case 3 cavernoma 4 previous next images: page 1: sagittal, axial and coronal mri        ;  page 2: mr angiogram fyi: a cavernoma is a vascular abnormality of the cns consisting of a cluster of abnormal, dilated vessels. they cannot be seen on a cerebral angiogram, therefore the angiogram is normal. on the mr angiogram, identify the vertebral, basilar, posterior cerebral arteries. identify the superior cerebellar arteries. identify the right anterior inferior cerebellar artery and the left posterior inferior cerebellar artery. why is only one of each seen? case 3, page 1: identify the following structures in one or more of the image planes:  the lateral, third, and fourth ventricles, cerebral aqueduct, cerebellum, middle cerebellar peduncle, corpus callosum, thalamus, fornix, the internal carotid arteries, the vertebral and basilar arteries, and the pituitary gland. describe the location of the lesion, including the side. draw a cross-section of the brainstem at the same level as the flair axial image and label the major anatomical structures. refer to exercise 19.3. hatch in the lesion. restrict your lesion to one side of the brainstem. what deficit(s) might the patient have due to involvement of cranial nerve nuclei? explain. what deficits might the patient have due to the involvement of white matter tracts? include deficit, distribution and side. </slidetext>
+      <slidetext slideid="6XDFNIU06jq.6DFeVWEOqDy" slidebank="false" type="slide">20.1   case 4 syrinx 5 previous next images: sagittal        and axial       mr images of the cervical spine, with and without gadolinium fyi: a syrinx is a cyst associated with the central canal of the spinal cord.  the cyst enlarges over time, destroying adjacent portions of the cord, from the inside outward. the specific symptoms in a given patient are determined by the location and size of the syrinx. find the lesion on both the sagittal and axial images. based on the sagittal images, describe the vertebral level of the lesion. (hint: use the dens as a landmark for counting vertebrae) draw a cross-section of the cord at the level of the lesion. include the grey matter horns and the three pathways discussed (lcst, dc/ml, stt). refer to exercises 19.1 and 19.2. add the lesion to your diagrams and predict the resulting symptoms and signs that would occur as the lesion expanded.  define a suspended sensory loss. does the term describe the outcome of this lesion? </slidetext>
+      <slidetext slideid="6XDFNIU06jq.61okouw8ZHG" slidebank="false" type="slide">a 65-year-old right-handed woman presented to the emergency department with left arm weakness that had developed abruptly two hours earlier.  on examination, she also had left facial weakness sparing the forehead.  the emergency physician ordered a ct head, which did not show any hemorrhage.  the patient was admitted to the hospital and sequential imaging was performed, including an mri scan at 72 hours. images: ct head, t = 2 hrs post onset of symptoms        , ct head, t = 24 hrs        , ct head, t = 72 hrs        , axial mri, t = 72 hrs what substances appear “bright” (white = high attenuation or hyperdense) on a ct scan? describe the anatomical location of the abnormality that has appeared in the second ct series.  what vascular territory is this? why did it not show up on the first ct series? describe the colour of the abnormal tissue in the later cts as compared to the surrounding normal brain tissue. is it brighter or darker? what does this suggest has occurred in the damaged tissue? comment on the shape of the ventricles and the location of the midline in the later ct series. describe the colour of the lesion compared to normal brain tissue on the t2-weighted mri. explain. what colour would you expect the lesion to be on a t1-weighted mri without contrast? explain.  20.1   case 5 6 previous next </slidetext>
+      <slidetext slideid="6XDFNIU06jq.6Pv3U181aX5" slidebank="false" type="slide">20.1   case 6: history 7 previous next a 46-year-old man was brought to the emergency department by his wife after a two-minute episode of involuntary jerking that started in his right arm and subsequently spread to the right side of his face.  on examination, the emergency physician noticed that the man had some difficulty understanding questions and directions, in that his responses appeared inappropriate. his wife explained that she had first noticed this a number of weeks previously, and that it had been getting progressively worse. the emergency physician observed that the man had difficulty moving his right arm.  on examination, he demonstrated spasticity in his right arm, weakness in the extensors of the right arm (e.g. deltoid, triceps, and wrist extensors), a right pronator drift, and increased right biceps and triceps reflexes.  furthermore, the physician also observed a slight droop at the right corner of his mouth and flattening of the right nasolabial fold.  however, when requested to do so, he was able to raise both his eyebrows symmetrically. </slidetext>
+      <slidetext slideid="6XDFNIU06jq.6STeGNIx2bH" slidebank="false" type="slide">20.1   case 6: questions 8 previous next images: sagittal        , coronal        and axial        t1-weighted mri what does the time course of symptom onset suggest you should consider as the pathology underlying the symptoms? is it more likely a tumour or a stroke? find the lesion on each of the image planes. describe the anatomical location of the lesion. in the sagittal t1-weighted image without contrast, what do the areas of the lesion that are “dark” (low signal) represent? hint: how does the fluid in the ventricles appear in these t1 images?  why do some parts of the lesion become bright with gadolinium?  list the possible causes for enhancement with contrast. estimate the location of primary motor cortex on the sagittal and coronal images. based on both imaging and clinical presentation, what functional portion of the motor cortex is being affected by the tumour? explain the patient’s drooping right side of mouth and flattened right nasolabial fold. why can he raise his right eyebrow? </slidetext>
+      <slidetext slideid="6XDFNIU06jq.6RHT3x7QXqJ" slidebank="false" type="slide">20.1   case 7: an unusual angiogram 9 previous next you examine a left carotid angiogram from the lateral view and see the image shown here. a normal left carotid angiogram looks like this:                 identify the vessels listed on the image. go back to the first image. what additional major vessel, not normally perfused by the ica, is seen in this image? explain your finding. would a right carotid angiogram from this patient necessarily show the same pattern?  a normal vertebral artery angiogram looks like this:         identify the vessels listed on the image. in this patient, presuming that the right carotid angiogram showed the normal pattern, how would an ap view of a vertebral artery fill differ from this norm? </slidetext>
+      <slidetext slideid="6XDFNIU06jq.6GHk36JjmJO" slidebank="false" type="slide">20.1   case 8: sudden-onset headache on the ttc, history 10 previous next ms. s is a 57 year old right-handed woman from toronto who lives with her husband and two children. she works as accountant for electronics supply company.  medical history is unremarkable except for migraines. she smokes ½ pack of cigarettes a day and does not drink alcohol or take any other recreational drugs. she is on no medications and has no allergies. her mother passed away suddenly at the age of 65 from an unknown cause.     while on the ttc coming home from work, ms. s complains of sudden-onset headache. the pain becomes so severe over the next minute, that she slides out of her seat and hits her head on the streetcar floor and moans in pain. she immediately experiences dizziness, nausea, and her severe headache continues to linger.  concerned passengers call 9-1-1 and an ambulance arrives to take her to st. michael’s hospital. during transport, she remains alert, but becomes confused and asks why she is being kidnapped.  once in the ed, ms. s is evaluated urgently by doctors and vitals are taken. her bp is 185/70, hr is 60, oxygen saturation is 89%, and rr is 20.  neurological exam reveals that ms. s has a decreased level of consciousness. she opens her eyes only when yelled at, could not obey commands. she could speak, but could not say what country she was in.  her arms and legs moved spontaneously while in her stretcher, but less so on the right.  pupils were reactive to light, although sluggish bilaterally.  reflexes were brisk bilaterally. further examination was impossible due to the patient’s lack of cooperation.  examination of the skin revealed a large bruise on the scalp on the left side. the patient complains of a severe headache and a neck ache.  however, palpation of the neck does not result in tenderness. abdominal/cardiac/resp exams were unremarkable. a ct was ordered. </slidetext>
+      <slidetext slideid="6XDFNIU06jq.5wDDHeSHAcX" slidebank="false" type="slide">20.1   case 8: questions 11 previous next sample plain ct images are seen here:        and here:       . a ct angiogram is seen here:       . what is the white substance seen on plain ct and indicated by the red arrow? based on the history, and on imaging, name the pathology. what in the description of the incident supports this diagnosis. what caused the patient’s sudden onset headache? i.e. what tissues were irritated and by what substance? explain why she later complained of neck pain, although not on palpation based on the history and on imaging, what is the most likely cause of this finding in this patient? what is the most likely culprit vessel? include the side in your answer. what fissure/sulcus/cistern did the bleed first leak into? what evidence of high intracranial pressure is seen on scan? describe the appearance of the accumulation of acute blood on ct in an epidural hematoma, and explain why. describe the appearance of the accumulation of acute blood on ct in a subdural hematoma, and explain why. </slidetext>
+      <slidetext slideid="6XDFNIU06jq.6TsAN4qkmgU" slidebank="false" type="slide">20.1   case 8: bonus fyi questions 11 previous next history identify four risk factors for the patient on history for this pathology. how do you know the impact of ms. s’s head on the streetcar floor did not cause the pathology? physical what on the physical exam reveals clues about high intracranial pressure? what could be responsible of the decreased movement of the right arm? </slidetext>
+      <slidetext slideid="6XDFNIU06jq.6EJf375u13V" slidebank="false" type="slide">previous exercise 20.1 review 20.1 </slidetext>
+      <slidetext slideid="6esazq3ulHP.6WUrLoZFpfl" slidebank="false" type="slide">20.2 find the lesion: case histories back to station selection next objectives: when you have learned the material presented in this exercise, you will be able to: predict the symptoms, given the location of a lesion identify the location of a lesion, given a case history </slidetext>
+      <slidetext slideid="6esazq3ulHP.6i0orqdPYqZ" slidebank="false" type="slide">20.2   predict the symptoms 1 2 previous next in answering the following questions, refer to the document, ”a summary of clinically-relevant dermatomes and myotomes”, found here. a meningioma expands to compress the right side of the spinal cord from the c7 to t1 levels, inclusive. it destroys both white and grey matter on the right side of the spinal cord at these levels, quite remarkably leaving the left side in pristine operating condition. you examine the motor functions of the patient’s right upper limb. which movement(s) at the elbow and wrist will be weakened? which deep tendon reflex will be affected, and how?  you examine the sensory functions of the patient’s right upper limb. what do you find, and in what distribution? you next examine the sensory functions of the patient’s body and into the legs. what do you find? include side and distribution. you examine the motor functions of the patient’s lower limbs. what do you find? be specific. </slidetext>
+      <slidetext slideid="6esazq3ulHP.6dBNPsY0L2Z" slidebank="false" type="slide">20.2   predict the symptoms 2 3 previous next in answering the following questions, refer to the document, ”a summary of clinically-relevant dermatomes and myotomes”, found here. herniated disc, left side.  which disc has herniated? which spinal nerve root would be affected? here’s a hint:  describe the sensory symptoms. describe the motor symptoms. </slidetext>
+      <slidetext slideid="6esazq3ulHP.6IifvwaLWux" slidebank="false" type="slide">20.2   find the lesion 1 4 previous next a 72-year old, right-handed woman with chronic hypertension is brought to the emergency room by ambulance. the usually ambulatory woman is unable to stand or walk. examination reveals paralysis of the right side of the face, tongue, arm and leg. all somatic sensory modalities are lost in the same distribution. cranial nerve testing is normal. she understands verbal instructions and her responses are appropriate.  is this lesion supratentorial, infratentorial, spinal or peripheral? why? what is the significance of the fact that her speech is intact? what anatomical structure is lesioned? include the side in your answer. what artery is implicated? include the side in your answer. </slidetext>
+      <slidetext slideid="6esazq3ulHP.5h97ySBylU8" slidebank="false" type="slide">a 67-year old, right-handed, diabetic man is brought to the emergency room by ambulance, unable to stand or walk and complaining about “seeing funny”. examination reveals paralysis of the right side of his face, tongue, arm and leg. sensation is normal throughout. at rest, his left eye adopts a “down and out” position, his left pupil is dilated and fixed and his left eyelid droops (“ptosis”). when asked to look to the right, his right eye abducts normally, but his left eye takes up a neutral position. is this lesion supratentorial, infratentorial, spinal or peripheral? why?  what term describes this pattern of deficits? explain the position of the patient’s left eye at rest. explain the  position of the patient’s left eye on attempted right gaze. explain the patient’s dilated left pupil and left-sided ptosis. what anatomical stucture is involved, that is responsible for the right-sided paralysis? where, anatomically, is the lesion? include the side in your answer. what artery is implicated? include the side in your answer. 20.2   find the lesion 2 5 previous next </slidetext>
+      <slidetext slideid="6esazq3ulHP.66hxx0gWAKC" slidebank="false" type="slide">20.2   find the lesion 3 6 previous next a 43-year-old man complains of chronic, insidious development of unsteadiness of gait, intermittent “dizziness” and impaired hearing in his left ear (which he noticed when using the telephone). examination revealed a mild left facial droop and decreased ability to wrinkle up the forehead on the left. his gait was slightly wide-based and ataxic. is this lesion supratentorial, infratentorial, spinal or peripheral? why? hint: are there any long-track signs? explain the significance of the fact that the patient noticed his impaired hearing when using the telephone. explain the significance of the patient’s dizziness. explain the significance of the patient’s decreased ability to wrinkle his forehead. summarize: which cranial nerves are affected by this lesion. include the side in your answer. what structure is involved that is responsible for the patient’s unsteady, wide-based, ataxic gait. where, anatomically, is the lesion? include the side in your answer. </slidetext>
+      <slidetext slideid="6esazq3ulHP.697yxKmZrUx" slidebank="false" type="slide">20.2   find the lesion 4: case history 7 previous next a 54-year old, right-handed hypertensive mechanic was driving home one evening and, while stuck in a traffic jam, experienced severe left-sided occipital and supraorbital headache and felt nauseated. he managed to drive his car (which had automatic transmission) the remaining short distance home, but when he got out of the car he staggered and fell. he refused to go to the hospital and for the next 24 hours he stayed in bed, vomiting repeatedly and complaining of “dizziness” and headache. finally, his family took him to the hospital against his wishes. when he was examined he was seen to be in great distress. he was repeatedly retching and holding his head in pain. he no longer complained of dizziness when still, but grabbed to hold onto something with any sudden change in position. he showed no postural abnormalities lying in bed, however he could not maintain a seated or standing posture, but fell off to this left.  there was no apparent change in muscle strength or obvious decrease in limb muscle tone. plantar responses were normal. when asked to walk, he could take a few steps on a very wide base, but showed a strong tendency to fall to the left. his left arm movements showed a severe coarse, jerky tremor, poor rhythm and poor accuracy. right limb movements were normal. his speech was thick and dysarthric but understandable. his blood pressure was 190/110 supine. </slidetext>
+      <slidetext slideid="6esazq3ulHP.5lfyqzRlFEq" slidebank="false" type="slide">20.2   find the lesion 4: questions 8 previous next where is the lesion? include the side in your answer. what specific region is responsible for the patient’s gait and tendency to fall to the left? what specific region is responsible for the patient’s nausea and vertigo? what two clinical signs might you see with finger-to-nose testing? which one of these signs might you also see with heel-to-shin testing? if you asked the patient to alternate tapping the dorsum and palm of one hand into the palm of the other, what might you hear / see? for a gold star, what is this sign called? speculate on the cause of the lesion given i) the patient’s hypertension, ii) the rapid onset and ii) the headache. </slidetext>
+      <slidetext slideid="6esazq3ulHP.5k2ltQUzaya" slidebank="false" type="slide">20.2   find the lesion 5 9 previous next a 67-year old, right-handed woman was admitted to hospital because of the sudden onset of left-sided weakness noted by her husband. examination revealed that she had a) left sided weakness of the arm and the face with sparing of the forehead, and b) left-sided sensory deficits restricted to the face and arm. however, when asked, both before and after the examination, what was bothering her, what if any trouble she was having, she denied any problem at all. when instructed to hold out both her arms, she held up only the right one, but insisted that both arms were out. when her physician picked up her limp, left arm and presented it in front of her, she asked him to please get his hand out of her face. later, she referred to her left arm as an artificial limb that the doctors had given her, but she could not imagine why. is this lesion supratentorial, infratentorial, spinal or peripheral? why? what anatomical region is affected? why? include the side in your answer. why did the woman deny her left arm? what is this syndrome called? what artery is implicated? include the side in your answer. </slidetext>
+      <slidetext slideid="6esazq3ulHP.5zt41mX4C0A" slidebank="false" type="slide">20.2   find the lesion 6: case history 10 previous next a 34-year old woman noticed a slight tingling on the sole of her right foot upon arising from the dinner table one evening. she passed it off, thinking that she had been sitting on a hard chair too long, however the next morning when she got up, her feet felt swollen and her soles did not seem to be making close contact with the floor. her feet did not look swollen. her family doctor noted no swelling or circulatory abnormalities and sent her to a neurologist for a detailed neurological examination. the neurologist found that she had decreased vibratory and position sense in both lower extremities and that light touch sensations were not as consistently felt on the right leg as on the left above the ankle. although the patient could perceive touch in her feet and lower legs, the touch felt strangely distant, as if her feet and legs were encased in cotton. over the next 3 days these abnormalities ascended to her abdomen, almost to the level of the umbilicus. subsequently the symptoms and signs stabilized and eventually resolved entirely. </slidetext>
+      <slidetext slideid="6esazq3ulHP.6GUapbiTC3M" slidebank="false" type="slide">20.2   find the lesion 6: questions 11 previous next is this lesion supratentorial, infratentorial, spinal or peripheral? why? what does the time-course of symptom onset, and subsequent resolution, suggest is the underlying pathology? where, anatomically, is the lesion? be specific. explain how you know. why does the woman perceive the symptoms to ascend up the body over time?  what would you expect to see in a t1-weighted mr image of the lesioned area?  what about a t2-weighted mr image?  would the t1-weighted mr image be different if gadolinium were injected intravenously before the image was acquired? if so, how? instead of t1 with contrast, what other sequence might you use to better see the lesion? </slidetext>
+      <slidetext slideid="6esazq3ulHP.6oBnzA0SlFF" slidebank="false" type="slide">previous exercise 20.2 review 20.2 </slidetext>
+      <slidetext slideid="6GNfkjEfjtK.681S4QWTOJ3" slidebank="false" type="slide">lab 20 field trip the specimens in grants museum are organized by body region. the museum section on the brain is relevant to lab 20. there are many brain specimens dissected to demonstrate all the structures outlined in lab 20. review them when you have time between exercises.  previous </slidetext>
+      <slidetext slideid="5lEI8c43zhW.5kZk9mdy58X" slidebank="false" type="slide">welcome to quizlandia! here you can choose to do the quiz for either prelab exercise from lab 20, or run through both of them. you will be given the results of each quiz as you go along, as well as the results of all of them at the end. prelab slm quizzes prelab slm 20a quiz prelab slm 20a quiz prelab slm 20a quiz prelab slm 20b quiz prelab slm 20b quiz prelab slm 20b quiz results overall results overall results overall results </slidetext>
+      <slidetext slideid="5lEI8c43zhW.5uad89p90AK" slidebank="false" type="slide">quiz: prelab slm 20a welcome to the quiz for slm 20a! click below to get started. begin begin begin review slm 20a review slm 20a review slm 20a review slm 20a review slm 20a quiz selection </slidetext>
+      <slidetext slideid="5lEI8c43zhW.6FRuQbxORJD" slidebank="false" type="slide">1. regarding the functional subdivisions of the cerebellum, the flocculus and nodule comprise the ____________________. submit 20a   quiz </slidetext>
+      <slidetext slideid="5lEI8c43zhW.5lfCrCVt9Hn" slidebank="false" type="slide">2. information regarding movements that are planned or ongoing enters the cerebellum via the _________________ cerebellar peduncle. submit 20a   quiz </slidetext>
+      <slidetext slideid="5lEI8c43zhW.5ennp17YswP" slidebank="false" type="slide">3. disorders of gait and balance can occur with damage to the _____________ cerebellar peduncle. submit 20a   quiz </slidetext>
+      <slidetext slideid="5lEI8c43zhW.5y7vjEga22s" slidebank="false" type="slide">4. information from the vestibular apparatus regarding our position in, and movement through, space enters the cerebellum via the _________________ cerebellar peduncle. submit 20a   quiz </slidetext>
+      <slidetext slideid="5lEI8c43zhW.6dcRbOgSlNS" slidebank="false" type="slide">5. midline cerebellar lesions cause disorders of ______________ and _______________. (two words separated by one space) submit 20a   quiz </slidetext>
+      <slidetext slideid="5lEI8c43zhW.5gqlSAlPFs3" slidebank="false" type="slide">6. regarding the functional subdivisions of the cerebellum, the vermis and paravermal regions comprise the ____________________. submit 20a   quiz </slidetext>
+      <slidetext slideid="5lEI8c43zhW.638HkpLgxxA" slidebank="false" type="slide">7. cerebellar outputs that project to motor areas of the contralateral cerebral cortex exit the cerebellum via the _______________ cerebellar peduncle. submit 20a   quiz </slidetext>
+      <slidetext slideid="5lEI8c43zhW.6EeFIOr098h" slidebank="false" type="slide">8. hemispheric cerebellar lesions cause disordered movement of ____________ ___________ musculature. (two words separated by one space) submit 20a   quiz </slidetext>
+      <slidetext slideid="5lEI8c43zhW.6PZjoROcTJZ" slidebank="false" type="slide">9. regarding the functional subdivisions of the cerebellum, the cerebellar hemispheres comprise the ____________________. submit 20a   quiz </slidetext>
+      <slidetext slideid="5lEI8c43zhW.5qDOibiqoOE" slidebank="false" type="slide">10. cerebellar outputs project to _________________ motor areas of the cerebral cortex. (ipsilateral / contralateral) submit 20a   quiz </slidetext>
+      <slidetext slideid="5lEI8c43zhW.5qEXANSFuW1" slidebank="false" type="slide">quiz: prelab slm 20b welcome to the quiz for slm 20b! click below to get started. begin begin begin review slm 20b review slm 20b review slm 20b review slm 20b review slm 20b quiz selection </slidetext>
+      <slidetext slideid="5lEI8c43zhW.6cg4Bbq8R4R" slidebank="false" type="slide">1. most brain capillaries are of the ______________ type. submit 20b   quiz </slidetext>
+      <slidetext slideid="5lEI8c43zhW.6ncqM9tsR3p" slidebank="false" type="slide">2. this image demonstrates an example of a(n) ______________ hydrocephalus. submit 20b   quiz </slidetext>
+      <slidetext slideid="5lEI8c43zhW.6ag3u7coR0U" slidebank="false" type="slide">3. at what point is the ventricular system blocked in this case? submit 20b   quiz </slidetext>
+      <slidetext slideid="5lEI8c43zhW.5Yc0PfobU1Q" slidebank="false" type="slide">4. fluid is free to move, unimpeded, across the ependymal lining of the choroid plexus. true true true true true true false false false false false false submit 20b   quiz </slidetext>
+      <slidetext slideid="5lEI8c43zhW.5t4tpibo96q" slidebank="false" type="slide">5. blood brain barrier breakdown occurs in which pathology / pathologies? choose all that apply. arteriovenous malformations arteriovenous malformations arteriovenous malformations arteriovenous malformations arteriovenous malformations arteriovenous malformations inflammation inflammation inflammation inflammation inflammation inflammation tumour tumour tumour tumour tumour tumour acute stroke acute stroke acute stroke acute stroke acute stroke acute stroke submit 20b   quiz hydrocephalus hydrocephalus hydrocephalus hydrocephalus hydrocephalus hydrocephalus </slidetext>
+      <slidetext slideid="5lEI8c43zhW.5WGRhjJD46m" slidebank="false" type="slide">6. in which brain ventricles is choroid plexus present? choose all that apply lateral lateral lateral lateral lateral lateral third third third third third third fourth fourth fourth fourth fourth fourth submit 20b   quiz </slidetext>
+      <slidetext slideid="5lEI8c43zhW.6EeROHsjEPk" slidebank="false" type="slide">7. capillaries of the choroid plexus are of the ______________ type. submit 20b   quiz </slidetext>
+      <slidetext slideid="6340jkryloG.6QMBC8nISRW" slidebank="false" type="slide">acknowledgements previous author &amp; emodule development barbara ballyk, ph.d. associate professor, teaching stream division of anatomy, department of surgery faculty of medicine, university of toronto brand design: janet koecher, discovery commons university of toronto © 2019 emodule production: kristy cheung, b.sc.h. m.sc. candidate, clinical anatomy, western university valera castanov, ph.d.  m.d. candidate, class of 2022 faculty of medicine, queen’s university albert gheorghita, m.d. candidate 2t0 faculty of medicine, university of toronto </slidetext>
+    </search>
+  </nav_data>
+  <resource_data description="" />
+  <transcript_data />
+  <glossary_data />
+</bwFrame>
