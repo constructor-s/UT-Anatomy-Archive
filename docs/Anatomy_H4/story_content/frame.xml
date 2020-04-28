@@ -1,0 +1,1333 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="npnxnanbnsnfns01001000011" textdirection="ltr" device="false" fontscale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="classic">
+  <layouts>
+    <layout name="npnxnanbsnfns01001000011" font="Calibri" controllayout="npnxnanbsnfns01001000011" colorscheme="npnxnanbnsnfns01001000011" string_table="npnxnanbnsnfns01001000011" />
+    <layout name="pxabnsnfns01001000011" font="Calibri" controllayout="pxabnsnfns01001000011" colorscheme="npnxnanbnsnfns01001000011" string_table="npnxnanbnsnfns01001000011" />
+    <layout name="npxnabnsnfns01001000011" font="Calibri" controllayout="npxnabnsnfns01001000011" colorscheme="npnxnanbnsnfns01001000011" string_table="npnxnanbnsnfns01001000011" />
+    <layout name="npnxnanbnsnfns01001000011" font="Calibri" controllayout="npnxnanbnsnfns01001000011" colorscheme="npnxnanbnsnfns01001000011" string_table="npnxnanbnsnfns01001000011" />
+    <layout name="pxabnsnfns01001000010" font="Calibri" controllayout="pxabnsnfns01001000010" colorscheme="npnxnanbnsnfns01001000011" string_table="npnxnanbnsnfns01001000011" />
+    <layout name="npnxabnsnfns01001000011" font="Calibri" controllayout="npnxabnsnfns01001000011" colorscheme="npnxnanbnsnfns01001000011" string_table="npnxnanbnsnfns01001000011" />
+  </layouts>
+  <control_options>
+    <optiongroups>
+      <optiongroup name="sidebaroptions">
+        <options>
+          <option name="title_enabled" value="true">
+            <options>
+              <option name="title_text" value="H04 Muscle Tissue" />
+            </options>
+          </option>
+          <option name="logo_enabled" value="true">
+            <options>
+              <option name="logo_url" value="story_content/logo.swf">
+                <properties>
+                  <property name="width" value="1024" />
+                  <property name="height" value="229" />
+                </properties>
+              </option>
+              <option name="html5_logo_url" value="mobile/5ZzXEN5FpXJ.jpg" />
+            </options>
+          </option>
+          <option name="sidebar_enabled" value="true">
+            <options>
+              <option name="sidebarpos" value="left" />
+            </options>
+          </option>
+          <optionlist name="tabs">
+            <listitems>
+              <listitem name="customlink" value="true" group="linkleft">
+                <properties>
+                  <property name="title" value="Acknowledgments" />
+                  <property name="data" value="5toZT0PPlEg" />
+                  <property name="ignoreSlideLock" value="true" />
+                </properties>
+              </listitem>
+              <listitem name="resources" value="false" group="linkright" />
+              <listitem name="outline" value="true" group="sidebar" />
+              <listitem name="glossary" value="false" group="sidebar" />
+              <listitem name="transcript" value="false" group="sidebar" />
+            </listitems>
+          </optionlist>
+          <option name="time_enabled" value="false">
+            <options>
+              <option name="time_format" value="elapsed" />
+            </options>
+          </option>
+          <option name="video_enabled" value="false">
+            <options>
+              <option name="height" value="135" />
+            </options>
+          </option>
+        </options>
+      </optiongroup>
+      <optiongroup name="menuoptions">
+        <options>
+          <option name="flow" value="free" />
+          <option name="wraplistitems" value="false" />
+          <option name="tooltips" value="true" />
+          <option name="autocollapse" value="true" />
+          <option name="autonumber" value="false" />
+          <option name="enableresultsicons" value="true" />
+        </options>
+      </optiongroup>
+      <optiongroup name="controls">
+        <options>
+          <option name="volume" value="false" />
+          <option name="seekbar" value="false">
+            <options>
+              <option name="readonly" value="false" />
+              <option name="readonlyOnce" value="false" />
+            </options>
+          </option>
+          <option name="pauseplay" value="false" />
+          <option name="replay" value="false" />
+          <option name="search" value="true" />
+          <option name="closed_captions" value="false">
+            <options>
+              <option name="font" value="Calibri" />
+            </options>
+          </option>
+        </options>
+      </optiongroup>
+      <optiongroup name="bottombaroptions">
+        <options>
+          <option name="bottombar_enabled" value="true" />
+        </options>
+      </optiongroup>
+    </optiongroups>
+  </control_options>
+  <control_layouts>
+    <control_layout name="npnxnanbsnfns01001000011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="true" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns01001000011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npxnabnsnfns01001000011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npnxnanbnsnfns01001000011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns01001000010">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="false" />
+    </control_layout>
+    <control_layout name="npnxabnsnfns01001000011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+  </control_layouts>
+  <colorschemes>
+    <colorscheme name="npnxnanbnsnfns01001000011">
+      <color_group name="infopanel">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x7C2280" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0000EE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC73013" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="title_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x999999" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="infopanelpopup">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFC4A2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xED5736" alpha="100" stop="0" />
+                <color rgb="0xD44120" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFC4A2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bio_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="timer">
+        <group_colors>
+          <color name="duration">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x00D7FF" alpha="100" stop="0" />
+                <color rgb="0x00ABFF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="elapsed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFEE347" alpha="100" stop="0" />
+                <color rgb="0xFCCC2A" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="stroke">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC7C7C7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="window">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xED5736" alpha="100" stop="0" />
+                <color rgb="0xD44120" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xEB8964" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF49277" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD63F21" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="20" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="editor">
+        <group_colors>
+          <color name="slide_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="html_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC23115" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC93518" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE15429" alpha="100" stop="0" />
+                <color rgb="0xC42D16" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD84121" alpha="100" stop="0" />
+                <color rgb="0xDE4C27" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE1512A" alpha="100" stop="0" />
+                <color rgb="0xD63A1D" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="listitem">
+        <group_colors>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x671B6B" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF98E6E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="viewed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFC4A2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF17D5E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="lines">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDA563A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="glossary">
+        <group_colors>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF98E6E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE85F39" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD96244" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD96244" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF98B6A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xEC7B59" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="resource">
+        <group_colors>
+          <color name="separator">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD35338" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="outline">
+        <group_colors>
+          <color name="search_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFC4A2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD35338" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xEB9471" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCF5336" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="transcript">
+        <group_colors>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="div">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD35338" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="tabs">
+        <group_colors>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC73013" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFC4A2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xED7254" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="seekcontrol">
+        <group_colors>
+          <color name="btn_icon_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFE1D0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_position">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE97D65" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD33F1F" alpha="100" stop="0" />
+                <color rgb="0xCA3416" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC32E13" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE65832" alpha="100" stop="0" />
+                <color rgb="0xDF3F23" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="searchinput">
+        <group_colors>
+          <color name="text_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2D2D2D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2D2D2D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xEB9471" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE76E52" alpha="100" stop="0" />
+                <color rgb="0xE2694D" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icon">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD7654B" alpha="100" stop="0" />
+                <color rgb="0xC42F13" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="scrollarea">
+        <group_colors>
+          <color name="detailb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCA3518" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="detaila">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xEA7C5D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCB3519" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icons">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCA3417" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE55D3B" alpha="100" stop="0" />
+                <color rgb="0xDB4D32" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE2522C" alpha="100" stop="0" />
+                <color rgb="0xD93E20" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF8795B" alpha="100" stop="0" />
+                <color rgb="0xF8795B" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="0">
+              <colors>
+                <color rgb="0xED6546" alpha="100" stop="0" />
+                <color rgb="0xEE6948" alpha="100" stop="128" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="menu">
+        <group_colors>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD35235" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xED7254" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="logo">
+        <group_colors>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC73013" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="checkbox">
+        <group_colors>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6BF8FF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="check">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2BC400" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD35338" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="button">
+        <group_colors>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC23115" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC93518" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE15429" alpha="100" stop="0" />
+                <color rgb="0xC42D16" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD84121" alpha="100" stop="0" />
+                <color rgb="0xDE4C27" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE1512A" alpha="100" stop="0" />
+                <color rgb="0xD63A1D" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="10" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="base">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD63F21" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF49277" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="menu_shade">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDD5233" alpha="100" stop="0" />
+                <color rgb="0xC53D1E" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF5674A" alpha="100" stop="0" />
+                <color rgb="0xF5674A" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xED5736" alpha="100" stop="0" />
+                <color rgb="0xD44120" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slide_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xED5736" alpha="100" stop="0" />
+                <color rgb="0xD44120" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="volume">
+        <group_colors>
+          <color name="thumb_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCB361A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE55E3B" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDB4524" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF26E50" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE75E36" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="HTML">
+        <group_colors>
+          <color name="htmlpage_bg_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x018CB0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+    </colorscheme>
+  </colorschemes>
+  <string_tables>
+    <string_table name="npnxnanbnsnfns01001000011">
+      <string id="acc_active">active</string>
+      <string id="check_include">Check to include</string>
+      <string id="clear">Clear and return to menu</string>
+      <string id="close">Close</string>
+      <string id="acc_closed_captions">Closed captions. Press the spacebar to toggle captions on and off.</string>
+      <string id="continue">Continue</string>
+      <string id="continueresponsive">Continue</string>
+      <string id="exit">Exit</string>
+      <string id="filter">Filter</string>
+      <string id="finish">FINISH</string>
+      <string id="acc_finish">finish</string>
+      <string id="definition">Definition</string>
+      <string id="acc_definition">definition</string>
+      <string id="glossary">Glossary</string>
+      <string id="terms">Terms</string>
+      <string id="outline">Menu</string>
+      <string id="disabled_orientation">Please rotate your device</string>
+      <string id="next">NEXT</string>
+      <string id="acc_next">next</string>
+      <string id="transcript_chk">Notes</string>
+      <string id="transcript">Notes</string>
+      <string id="bio">Bio</string>
+      <string id="more_info">More info</string>
+      <string id="closed_captions">Captions</string>
+      <string id="acc_pause">pause</string>
+      <string id="acc_play">play</string>
+      <string id="send_an_email">Send an email</string>
+      <string id="prev">PREV</string>
+      <string id="acc_previous">previous</string>
+      <string id="question_list">Question List</string>
+      <string id="acc_replay">replay</string>
+      <string id="resources">Resources</string>
+      <string id="acc_resources">resources</string>
+      <string id="restart">Restart</string>
+      <string id="resume">Resume</string>
+      <string id="search">Search...</string>
+      <string id="acc_search_input">search</string>
+      <string id="search_in">Search in:</string>
+      <string id="search_results">Search Results</string>
+      <string id="acc_skipnavigation">Skip navigation. Press enter to return to the slide.</string>
+      <string id="slide_text_chk">Slide Text</string>
+      <string id="submitall">SUBMIT ALL</string>
+      <string id="acc_submitall">submit all</string>
+      <string id="submit">SUBMIT</string>
+      <string id="acc_submit">submit</string>
+      <string id="acc_volume">volume</string>
+    </string_table>
+  </string_tables>
+  <fonts>
+    <font name="Calibri">
+      <files>
+        <file bold="true" italic="false" />
+        <file bold="false" italic="false" />
+      </files>
+    </font>
+  </fonts>
+  <sounds enabled="true" />
+  <nav_data>
+    <outline>
+      <links>
+        <slidelink slideid="_player.6HTFG359OBF" displaytext="Start" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6HTFG359OBF.6fg17kTHFuu" displaytext="Using the emodule" expand="false" type="slide" />
+            <slidelink slideid="_player.6HTFG359OBF.5amnTpsr4vW" displaytext="Conventions Used in the eModule" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.5z9r51a7Icv" displaytext="H04 Muscle Tissue" expand="false" type="slide">
+          <links>
+            <slidelink slideid="_player.5z9r51a7Icv.6UnRfFkIDib" displaytext="1. References" expand="false" type="slide" />
+            <slidelink slideid="_player.5z9r51a7Icv.6HnURH8aGmp" displaytext="2. Objectives" expand="false" type="slide" />
+            <slidelink slideid="_player.5z9r51a7Icv.5oTTOnDymmK" displaytext="3. Muscle Tissue is Specialized to Contract" expand="false" type="slide" />
+            <slidelink slideid="_player.5z9r51a7Icv.6XAYJSmypzA" displaytext="4. Skeletal (Voluntary Striated) Muscle" expand="false" type="slide" />
+            <slidelink slideid="_player.5z9r51a7Icv.6FkaRPiWQ64" displaytext="5. Skeletal Muscle: Organization &amp; CT Coverings" expand="false" type="slide" />
+            <slidelink slideid="_player.5z9r51a7Icv.6qaajkCr1kI" displaytext="6. Organization of Skeletal Muscle, cont." expand="false" type="slide" />
+            <slidelink slideid="_player.5z9r51a7Icv.5nQmGySohDS" displaytext="7. Skeletal Muscle Fibres" expand="false" type="slide" />
+            <slidelink slideid="_player.5z9r51a7Icv.6hGS86YAUsh" displaytext="8. Skeletal Muscle Fibres: Internal Organization I" expand="false" type="slide" />
+            <slidelink slideid="_player.5z9r51a7Icv.5y4I2lXFLIg" displaytext="9. Skeletal Muscle Fibres: Internal Organization II" expand="false" type="slide" />
+            <slidelink slideid="_player.5z9r51a7Icv.5lFbP5c2VQb" displaytext="10. Myofilaments I" expand="false" type="slide" />
+            <slidelink slideid="_player.5z9r51a7Icv.5iJ2FxM76iQ" displaytext="11. Myofilaments II" expand="false" type="slide" />
+            <slidelink slideid="_player.5z9r51a7Icv.5Z0pby1KTS8" displaytext="12. The Sarcomere" expand="false" type="slide" />
+            <slidelink slideid="_player.5z9r51a7Icv.5zlM9mXK55f" displaytext="13. The Molecular Basis of Contraction" expand="false" type="slide" />
+            <slidelink slideid="_player.5z9r51a7Icv.6AfGyVtM0ZL" displaytext="14. The Neuromuscular Junction I" expand="false" type="slide" />
+            <slidelink slideid="_player.5z9r51a7Icv.5bhrXMdKmIt" displaytext="15. The Neuromuscular Junction II" expand="false" type="slide" />
+            <slidelink slideid="_player.5z9r51a7Icv.6fs18QjqHqA" displaytext="16. Muscle Contraction I" expand="false" type="slide" />
+            <slidelink slideid="_player.5z9r51a7Icv.6PEUa4bbuPt" displaytext="17. Muscle Contraction II" expand="false" type="slide" />
+            <slidelink slideid="_player.5z9r51a7Icv.63CQm1RzBKh" displaytext="18. Motor Units and Muscle Control" expand="false" type="slide" />
+            <slidelink slideid="_player.5z9r51a7Icv.6QTzJFwEaW8" displaytext="19. Hypertrophy vs. Atrophy" expand="false" type="slide" />
+            <slidelink slideid="_player.5z9r51a7Icv.6rLyq1LOG5J" displaytext="20. Cardiac (Involuntary Striated) Muscle" expand="false" type="slide" />
+            <slidelink slideid="_player.5z9r51a7Icv.5fMAEdGLhFC" displaytext="21. Cardiac Muscle Tissue" expand="false" type="slide" />
+            <slidelink slideid="_player.5z9r51a7Icv.6reQYUGQEjk" displaytext="22. Intercalated Discs Join Adjacent Cardiocytes" expand="false" type="slide" />
+            <slidelink slideid="_player.5z9r51a7Icv.6plLphkOrYb" displaytext="23. Smooth (Involuntary Nonstriated) Muscle" expand="false" type="slide" />
+            <slidelink slideid="_player.5z9r51a7Icv.6hyjz3pJXi4" displaytext="24. Smooth Muscle Tissue" expand="false" type="slide" />
+            <slidelink slideid="_player.5z9r51a7Icv.6hyq0m2OZnA" displaytext="25. Summary" expand="false" type="slide" />
+            <slidelink slideid="_player.5z9r51a7Icv.5WyAHfyAwyz" displaytext="26. Comparison of Muscle Types" expand="false" type="slide" />
+            <slidelink slideid="_player.5z9r51a7Icv.68p0vkrgIh1" displaytext="26. Quiz Start" expand="false" type="slide">
+              <links>
+                <slidelink slideid="_player.5z9r51a7Icv.6KXMkpgCcTp" displaytext="Question 1" expand="false" type="slide" />
+                <slidelink slideid="_player.5z9r51a7Icv.5cbF1WCisgf" displaytext="Question 2" expand="false" type="slide" />
+                <slidelink slideid="_player.5z9r51a7Icv.5uQ8K86hsZP" displaytext="Question 3" expand="false" type="slide" />
+                <slidelink slideid="_player.5z9r51a7Icv.5wpzDK3xrFR" displaytext="Question 4" expand="false" type="slide" />
+                <slidelink slideid="_player.5z9r51a7Icv.6gxfwGg3hIs" displaytext="Question 5" expand="false" type="slide" />
+                <slidelink slideid="_player.5z9r51a7Icv.5iLY2QIFDMP" displaytext="Question 6" expand="false" type="slide" />
+                <slidelink slideid="_player.5z9r51a7Icv.5zabM2eJIhI" displaytext="Question 7" expand="false" type="slide" />
+                <slidelink slideid="_player.5z9r51a7Icv.6nQP1DCZV6G" displaytext="Question 8" expand="false" type="slide" />
+                <slidelink slideid="_player.5z9r51a7Icv.6d0Z6SY0jke" displaytext="Question 9" expand="false" type="slide" />
+                <slidelink slideid="_player.5z9r51a7Icv.5ibEHHcYlSy" displaytext="Question 10" expand="false" type="slide" />
+                <slidelink slideid="_player.5z9r51a7Icv.5pn6dA7Hm8z" displaytext="Question 11" expand="false" type="slide" />
+                <slidelink slideid="_player.5z9r51a7Icv.5fLh0Hd526M" displaytext="Question 12" expand="false" type="slide" />
+                <slidelink slideid="_player.5z9r51a7Icv.5tcUXOCc5hp" displaytext="Question 13" expand="false" type="slide" />
+                <slidelink slideid="_player.5z9r51a7Icv.60L49VOEk3A" displaytext="Question 14" expand="false" type="slide" />
+                <slidelink slideid="_player.5z9r51a7Icv.6QwSQz6Hs35" displaytext="Question 15" expand="false" type="slide" />
+                <slidelink slideid="_player.5z9r51a7Icv.6ks0Fns15QU" displaytext="Question 16" expand="false" type="slide" />
+                <slidelink slideid="_player.5z9r51a7Icv.6BAnvsB84bu" displaytext="Question 17" expand="false" type="slide" />
+                <slidelink slideid="_player.5z9r51a7Icv.6frw921drDH" displaytext="Question 18" expand="false" type="slide" />
+              </links>
+            </slidelink>
+            <slidelink slideid="_player.5z9r51a7Icv.62SGGokGsFZ" displaytext="End of H4" expand="false" type="slide" />
+          </links>
+        </slidelink>
+      </links>
+    </outline>
+    <search>
+      <slidetext slideid="6HTFG359OBF.604AHAGuDGf" slidebank="false" type="slide">muscle tissue click to begin click to begin click to begin  histology emodule tutorial emodule tutorial emodule tutorial </slidetext>
+      <slidetext slideid="6HTFG359OBF.6fg17kTHFuu" slidebank="false" type="slide">to complete each section, use the next button at the bottom of the pages or press the right arrow key to move forward one page at a time.  use the menu, available by clicking “menu”at the top, to navigate to specific slides. use search to quickly find instances of relevant terms. use the previous button at the bottom of the pages or press the left arrow key to move back one page at a time. note: you can also swipe right and left in order to navigate forward and backward, respectively. previous next using the emodule h5 muscle tissue     1. references     2. objectives      3. muscle…  </slidetext>
+      <slidetext slideid="6HTFG359OBF.5amnTpsr4vW" slidebank="false" type="slide">previous start with age, wear and tear,  info an intervertebral disc can herniate, such that the nucleus pulposus…. information that has implications for health and disease is introduced on a blue bar and continued below: conventions used in the emodule some slides contain the “slide talk” icon on the title bar. click this icon to hear me explain or elaborate on slide content.  some words are followed by an icon      ; click the icon to jump to related slides. some words are followed by an icon      ; click the icon to see a definition or explanation.  words / phrases in purple denote concepts with which you should make a point of becoming familiar. some slides contain the icon        which means that you are within a “layer” of the original slide, simply click this button in order to navigate back to the original layer of the slide. </slidetext>
+      <slidetext slideid="5z9r51a7Icv.6UnRfFkIDib" slidebank="false" type="slide">h4 muscle tissue: references previous next images from human anatomy 8th ed., © 2015, by martini, timmins and talitsch, denoted by “ma”. images from wheater’s functional histology 6th ed., © 2014 by young et al. denoted by “w”. images from junquiera’s basic histology, 14th ed., 2016, by mescher denoted by “j”. images from atlas of histology © 2011 by cui denoted by “c”. images from histology: a text and atlas 7th ed., © 2016 by ross and pawlina denoted by “rp”. recommended online resources: university of minnesota histology guide university of leeds histology guide university of michigan virtual microscopy western university virtual slide box university of illinois cell and tissue biology </slidetext>
+      <slidetext slideid="5z9r51a7Icv.6HnURH8aGmp" slidebank="false" type="slide">next previous h4   objectives when you have learned the material presented here, you will be able to:  describe the basic structural differences between striated and smooth muscle describe the banding pattern of striated muscle describe the structure of thick and thin myofilaments describe the organization of muscle fibres and connective tissues in a typical skeletal muscle describe the roles of sarcoplasmic reticulum and t-tubules in skeletal muscle contraction describe the basic processes mediating contraction in striated muscle describe the structure and functional implications of a motor unit describe the basic structure of a neuromuscular junction describe the structural differences between skeletal, cardiac muscle and smooth muscle and identify each in light micrographs describe the control of muscular contraction in the different types of muscle tissue 2 </slidetext>
+      <slidetext slideid="5z9r51a7Icv.5oTTOnDymmK" slidebank="false" type="slide">next previous h4   muscle tissue is specialized to contract certain word roots are used in reference to muscle tissue, and so are worth learning: sarcos (gr. “flesh”); e.g. sarcolemma; sarcoplasm mys (gr. “muscle”); e.g. endomysium, perimysium, epimysium muscle tissue is specialized for contraction. each individual cell can shorten along its longitudinal axis. depending on the arrangement of the cells in the tissue, different forces can be generated: a)  tensile forces: the biceps contract and shorten to generate the tension required to flex the elbow b)  compressive force: e.g. the abdominal muscles contract to compress the abdominal contents, as in when you exhale forcefully so as to blow out your birthday candles; another example is the muscle that encircles the heart chambers: when it contracts, the volume of the chamber gets smaller and the resultant increased pressure in the chamber forces blood to leave some muscle tissue is voluntary, while others are involuntary. voluntary muscle requires neural input to contract, while involuntary muscle contracts spontaneously, in the absence of neural input.  under a microscope, some muscle tissue is seen to be striated     , others are nonstriated or “smooth”. striations are the result of a highly ordered arrangement of the cytoskeletal proteins actin and myosin in some muscle tissues. there are three types of muscle tissue       3 </slidetext>
+      <slidetext slideid="5z9r51a7Icv.6XAYJSmypzA" slidebank="false" type="slide">skeletal (voluntary striated) muscle h4   skeletal (voluntary striated) muscle next previous 4 </slidetext>
+      <slidetext slideid="5z9r51a7Icv.6FkaRPiWQ64" slidebank="false" type="slide">next previous h4   skeletal muscle: organization &amp; ct coverings the ct associated with skeletal muscle binds the individual cells together and transfers the tension generated by the contraction of muscle cells to the points of attachment of the muscle.  as illustrated in this figure, a skeletal muscle is an organ that: is surrounded by a ct layer, the epimysium is composed of multiple muscle fascicles… a muscle fascicle: is surrounded by a ct layer, the perimysium is composed of multiple individual muscle cells, called muscle fibres… a muscle fibre:  is surrounded by a ct layer, the endomysium contains filamentous proteins, myofibrils within its sarcoplasm tendons &amp; aponeuroses collagen fibres of epi-, peri-, endomysium blend with those of the deep fascia and tendon or aponeurosis for muscular attachment.  5 </slidetext>
+      <slidetext slideid="5z9r51a7Icv.6qaajkCr1kI" slidebank="false" type="slide">next previous h4   organization of skeletal muscle, cont. bony attachment collagen fibres of the tendon are interwoven with those of the periosteum surrounding the bone.  collagen fibres of the periosteum are cemented into the matrix of the circumferential lamellate as perforating (sharpey’s) fibres. thus, the ct layers, the endomysium, perimysium, and epimysium blend with each other, and with the tendon or aponeurosis, which blend with the periosteum and bone matrix. this ct framework harnesses the power generated by muscular contraction and allows the muscle to do work for us. blood and nerve supply the bvs &amp; ns that serve a given organ form neurovascular bundles. a neurovascular bundle will approach a skeletal muscle and pierce its ct coverings.  the bvs and ns of the neurovascular bundle branch within ct coverings, and ultimately reach individual muscle fibres.  ultimately a nerve terminal contacts each individual muscle fibre at the motor endplate (mep) and each individual muscle fibre is surrounded by a capillary network     . 6 </slidetext>
+      <slidetext slideid="5z9r51a7Icv.5nQmGySohDS" slidebank="false" type="slide">next previous h4   skeletal muscle fibres skeletal muscle fibres are shown in longitudinal section (a) and in cross section (b). they are unbranched, cylindrical, striated cells. each individual skeletal muscle fibre can be very long, up to a metre (!) in length in the longest muscle of the thigh, the sartorius. skeletal muscle fibres are multinucleate, and can contain up to 100 nuclei. notice the numerous nuclei in the individual cells, as seen in longitudinal section. in cross section, the nuclei are seen to be positioned at the periphery of the cell, adjacent to the cell membrane. also note the small size of the nuclei relative to the large cross sectional diameter of the cells. these characteristics help identify skeletal muscle and differentiate it from cardiac and smooth muscle. they are long and multinucleate because they form embryologically from the fusion of numerous precursor cells called myoblasts. a small number of myoblasts persist as satellite cells, which give skeletal muscle a limited ability to repair following damage. they are not in direct contact with adjacent cells; i.e. they are not joined by cell junctions. these cells are bound together by the ct layer, the endomysium, that surrounds them. remember from the last slide that in skeletal muscle, it’s the connective tissue elements that join the individual cells, harnessing them together and making them pull as a team that can do work for us. 7 </slidetext>
+      <slidetext slideid="5z9r51a7Icv.6hGS86YAUsh" slidebank="false" type="slide">next previous h4   skeletal muscle fibres: internal organization i identify the following features in the accompanying diagram: sarcoplasm is the cytoplasm of skeletal muscle fibres. sarcolemma is the cell membrane of skeletal muscle fibres; it comes from the term plasmalemma. transverse tubules (t-tubules) are tubular extensions of sarcolemma perpendicular to cell surface; they penetrate deep within the cell. sarcoplasmic reticulum (sr) is the endoplasmic reticulum of skeletal muscle fibre. it acts as a ca2+ reservoir. constitutively-active ca2+ pumps in its membrane keep cytoplasmic [ca2+] low. terminal cisternae are expansions of sr on either side of the t-tubule. 8 </slidetext>
+      <slidetext slideid="5z9r51a7Icv.5y4I2lXFLIg" slidebank="false" type="slide">next previous h4   skeletal muscle fibres: internal organization ii triad refers to a t-tubule and the pair of adjacent terminal cisternae. mitochondria &amp; glycogen granules produce the atp required for muscular contraction either aerobically or anaerobically. myofibrils consist of bundles of cytoskeletal proteins, myofilaments. myofibrils run the length of a muscle fibre, and are bound by cell junctions to the sarcolemma at each end. myofibrils shorten, thus decreasing the overall length of the cell. myofilaments are filamentous polymers of two types, actin (thin filaments) and myosin (thick filaments) that make up the myofibrils. sarcomeres     are the contractile units of striated muscle. 9 </slidetext>
+      <slidetext slideid="5z9r51a7Icv.5lFbP5c2VQb" slidebank="false" type="slide">next previous h4   myofilaments i thin filaments are composed of actin and its associated proteins. g actin: globular actin subunits, illustrated here as individual yellow balls. each g actin molecule has an active site      that binds to the heads of thick filaments (next slide). f actin: filamentous polymer of 300-400 g actin molecules that form two strands wound around each other. tropomyosin is a regulatory molecule that covers the active site of the g actin molecules, thus preventing “crossbridge binding”, the binding between the active site and the heads of the thick filaments. troponin: holds the tropomyosin molecules in place. see figure a. with an increase in intracellular ca2+, a conformational change in troponin occurs that allows tropomyosin to shift, revealing the active site of the g actin molecules. see figure b.  10 a b </slidetext>
+      <slidetext slideid="5z9r51a7Icv.5iJ2FxM76iQ" slidebank="false" type="slide">next previous h4   myofilaments ii thick filaments are composed of hundreds of myosin molecules. a myosin molecule consist of two elongated proteins wound together. each myosin molecule has a tail, and a head (“crossbridge”). the head of the myosin molecule binds the active site of the g-actin molecule 500 myosin molecules bundle together to form a thick filament: the myosin molecules are joined at, and extend outward from, the centre. the myosin heads project radially in a regular helical pattern, as illustrated above. 11 tail head </slidetext>
+      <slidetext slideid="5z9r51a7Icv.5Z0pby1KTS8" slidebank="false" type="slide">next previous h4   the sarcomere each thick filament is surrounded by 6 thin filaments. the thin filaments are organized into a regular, hexagonal array by proteins that form the z-disc, as illustrated in green, below. these organized arrays of myofilaments are bundled together to form the cylindrical myofibril. in two dimensions, the sarcomere is illustrated as below. the three-dimensional organization of the myofilaments within a myofibril is illustrated with the cross sections a, b and c. notice that a cross section at a shows only thick filaments, a cross section at b shows only thin filaments, and a cross section at c shows both. c illustrates the area of overlap of thick and thin filaments, where actin and myosin can bind. 12 </slidetext>
+      <slidetext slideid="5z9r51a7Icv.5zlM9mXK55f" slidebank="false" type="slide">next previous h4   the molecular basis of contraction the length of the overlapping region between the thick and thin filaments changes with contraction and relaxation. as each sarcomere shortens, the myofibrils and therefore the muscle fibre shorten overall. 13 </slidetext>
+      <slidetext slideid="5z9r51a7Icv.6AfGyVtM0ZL" slidebank="false" type="slide">next previous h4   the neuromuscular junction i the soma of a motor neuron is located in the spinal cord or brain stem     . its nerve fibre (axon), as a component of a peripheral nerve, extends directly to its target muscle     . the peripheral nerve pierces the muscle belly and splays out, branching within the epi-, peri-, and endomysium until the axon terminal of an individual motor neuron contacts a muscle fibre. the synapse is the point of communication between a neuron and its target cell, be it another neuron, a muscle cell or secretory cell. the specific name for the synapse between a motor neuron and its target muscle fibre is neuromuscular junction, nmj.  the nmj includes the axon terminal, synaptic cleft, &amp; the motor end plate each muscle fibre has one nmj. the motor end plate is that region of the sarcolemma immediately under the axon terminal. unlike the rest of the sarcolemma, it is rich in nicotinic acetylcholine receptors (achrs). junctional folds increase the surface area of the motor end plate, thereby accommodating more achrs. 14 </slidetext>
+      <slidetext slideid="5z9r51a7Icv.5bhrXMdKmIt" slidebank="false" type="slide">next previous h4   the neuromuscular junction ii synaptic vesicles in the synaptic terminal contain acetylcholine (ach). the arrival of an action potential     (ap) at the axon terminal triggers the exocytosis of ach into the synaptic cleft. ach diffuses across the cleft and binds with nicotinic achrs (receptors) on the motor end plate. nicotinic achrs are ligand-gated ion channels that open with ach binding. the sarcolemma is depolarized. this activates voltage-gated channels in the sarcolemma that initiate aps in the muscle fibre. the enzyme acetylcholinesterase (ache) is present in the synaptic cleft. it degrades released ach, but as long as ach continues to be released, achr activation and aps in the muscle fibres continue. ach release ends when aps in the motor neuron cease. now ache can clear the synaptic cleft of ach, and activation of achrs stops. aps in the muscle fibres cease. 15 </slidetext>
+      <slidetext slideid="5z9r51a7Icv.6fs18QjqHqA" slidebank="false" type="slide">next previous h4   muscle contraction i a nerve impulse arrives at the nmj. ach is released, binds nicotinic achrs of the motor end plate, causing local depolarization of the sarcolemma. this local depolarization activates voltage-gated channels and an ap is triggered in the muscle fibre. the ap spreads over the sarcolemma. the action potential is conducted along the sarcolemma lining the t-tubules. voltage-sensor proteins in the sarcolemma of the t-tubule alter their conformation with depolarization of the membrane. the conformational change in the voltage-sensory proteins triggers the opening of ca2+ channels in the sarcoplasmic reticulum. ca2+ flows down its concentration gradient, out of the sr, and the cytosolic [ca2+] rises. 16 muscle contraction is illustrated in the accompanying diagram in a stepwise fashion. </slidetext>
+      <slidetext slideid="5z9r51a7Icv.6PEUa4bbuPt" slidebank="false" type="slide">next previous h4   muscle contraction ii ca2+ binds troponin, changing its conformation. this allows tropomyosin to shift and exposes the active sites of the thin filaments, allowing cross bridge binding. with binding to the active site (as), a conformational change occurs in the myosin head that pulls the actin filaments toward the centre of the sarcomere. the myosin head returns to its original conformation and this happens repeatedly, as long as ca2+ levels are elevated, thereby shortening the myofibril and the muscle fibre as a whole. 17 when muscle aps cease, ca2+ channels in the sr close. cytosolic ca2+ is returned into the sr by the constitutively active ca2+ pumps in its membrane. cytosolic [ca2+] returns to normal levels, and the ass are again covered. without cross bridge binding, the sarcomere, myofibrils and muscle fibre as a whole, can lengthen. </slidetext>
+      <slidetext slideid="5z9r51a7Icv.63CQm1RzBKh" slidebank="false" type="slide">next previous h4   motor units and muscle control the number of muscle fibres / motor unit varies in different muscles. in the extraocular eye muscles, which control the subtle movements of the eye in the orbit, there are 2-3 muscle fibres per motor unit. recruitment of a single motor unit makes a small incremental increase in the tension generated by the muscle as a whole. in the antigravity muscles of the legs, which hold us up all day, there are ~2000 muscle fibres per motor unit. recruitment of a single motor unit in these muscles makes a large incremental increase in the tension generated by the muscle as a whole. thus, the number of muscle fibres per motor unit is an indication of the level of precision with which the nervous system can control the contraction of a particular muscle. the smaller the motor units, the more precisely a muscle can be controlled.  18 there is one nmj for each muscle fibre. the contraction of a given muscle fibre is controlled by the input from a single motor neuron. however, a single motor neuron can innervate multiple muscle fibres. a motor unit is a single motor neuron and all the muscle fibres it innervates. aps conducted along the axon of a motor neuron invade all its axon collaterals and causes ach release at all its synaptic terminals. this causes all muscle fibres in the motor unit contract. the total force developed is proportional to the number of motor units activated. </slidetext>
+      <slidetext slideid="5z9r51a7Icv.6QTzJFwEaW8" slidebank="false" type="slide">next previous h4   hypertrophy vs. atrophy with repeated stimulation of muscle fibres to near maximal tension, there is an   ↑ # mitochondria  ↑ glycogen reserves  ↑ [glycolytic enzymes]  ↑ # myofibrils and myofilaments these cause an increase in total cross-bridge binding and in the maximum tension that can be generated by an individual cell. result? larger individual muscle fibres with more myofibrils and energy, and therefore able to generate greater tension. this is reflected in an increase in the size of the muscle as a whole, and the tension it can generate. with disuse, there is a ¯ # myofibrils and myofilaments ¯ # mitochondria, glycogen reserves and glycolytic enzymes \ individual muscle fibres become smaller, weaker \ ¯ in overall muscle tone, mass, power  result? muscle as a whole becomes smaller, weaker. muscle hypertrophy muscle atrophy 19 skeletal muscle fibres change size in response to use and disuse. an increase in the size of a cell is hypertrophy. a decrease in the size of a cell is atrophy. ↑ in the atp-generating capacity of the cell </slidetext>
+      <slidetext slideid="5z9r51a7Icv.6rLyq1LOG5J" slidebank="false" type="slide">next previous h4   cardiac (involuntary striated) muscle 20 cardiac (involuntary striated) muscle </slidetext>
+      <slidetext slideid="5z9r51a7Icv.5fMAEdGLhFC" slidebank="false" type="slide">next previous h4   cardiac muscle tissue cardiac muscle tissue is found only in the heart. it is striated involuntary muscle. it is incapable of repair following injury; damaged cardiac muscle is replaced by scar tissue, which affects cardiac function. the myofilaments in cardiocytes are organized into sarcomeres, resulting in striations. it is involuntary; i.e. it is intrinsically contractile, and contracts without neural input. the autonomic nervous system only modifies its contractions. cardiocytes are smaller than skeletal muscle fibres, as seen by the relatively proportional sizes of the cells and their nuclei. skeletal muscle fibres are large; their nuclei are small relative to the size of the cells. cardiocytes are mononuclear    . their nuclei are centrally-located. recall that skeletal muscle fibres are multinuclear and their nuclei are located peripherally, adjacent to the sarcolemma. cardiocytes form branching networks joined at intercalated discs. in comparison, skeletal muscle fibres are straight and are held together by ct     . these attributes help you to identify cardiac muscle. 21 </slidetext>
+      <slidetext slideid="5z9r51a7Icv.6reQYUGQEjk" slidebank="false" type="slide">next previous h4  intercalated discs join adjacent cardiocytes unlike skeletal muscle fibres, which are joined by their associated ct elements, cardiocytes are joined by cell junctions that function to coordinate their contraction. cell junctions convert the contraction of individual cells into the contraction of the tissue as a whole. cell junctions are clustered together at intercalated discs, which occur at the junction between adjacent cardiocytes. intercalated discs include gap junctions, which provide for intercellular communication and synchronization of contraction. fascia adherens anchor the actin filaments of the terminal sarcomeres in adjacent cells to provide mechanical strength. desmosomes provide anchorage for intermediate filaments of the cytoskeleton, providing more mechanical strength between adjacent cells. pacemaker cells set the basic rate of contraction of the heart. the impulse is conducted between cells via the gap junctions at the intercalated discs. the rate of contraction is modulated by input from the autonomic nervous system and hormones. 22 </slidetext>
+      <slidetext slideid="5z9r51a7Icv.6plLphkOrYb" slidebank="false" type="slide">next previous h4   smooth (involuntary nonstriated) muscle 23 smooth  (involuntary nonstriated) muscle </slidetext>
+      <slidetext slideid="5z9r51a7Icv.6hyjz3pJXi4" slidebank="false" type="slide">next previous h4   smooth muscle tissue smooth muscle is present, for instance, in visceral organs, other than the heart. smooth muscle cells are small and spindle-shaped     . they are nonstriated because of the irregular arrangement of their myofilaments. in longitudinal section, their nuclei are seen to be elongated, like the cells. in cross section, their nuclei are seen to be centrally located and appear large relative to the cell diameter     . it is involuntary muscle, i.e. it is intrinsically contractile. pacesetter cells set basic rate of contraction. its contraction is modulated by the autonomic nervous system and hormones. like cardiac muscle tissue, the signal is spread via gap junctions which coordinate the contraction of the cells. smooth muscle is the one type of muscle tissue that can regenerate; it is capable of significant repair. think of the growth and subsequent involution of the uterus with pregnancy. this growth occurs by hyperplasia     rather than hypertrophy      . 24 </slidetext>
+      <slidetext slideid="5z9r51a7Icv.6hyq0m2OZnA" slidebank="false" type="slide">next previous h4   summary this module has described the:  basic structural differences between striated and smooth muscle banding pattern of striated muscle structure of thick and thin myofilaments organization of muscle fibres and connective tissues in a typical skeletal muscle roles of sarcoplasmic reticulum and t-tubules in skeletal muscle contraction basic processes mediating contraction in striated muscle structure and functional implications of a motor unit basic structure of a neuromuscular junction structural differences between skeletal, cardiac muscle and smooth muscle and how to identify each in light micrographs control of muscular contraction in the different types of muscle tissue 25 </slidetext>
+      <slidetext slideid="5z9r51a7Icv.5WyAHfyAwyz" slidebank="false" type="slide">next previous h4   comparison of muscle types 26 skeletal muscle: striated, straight, multinucleate cells. nuclei peripherally located. nuclei small relative to the cell. cardiac muscle: striated, branching mononucleate cells joined at intercalated discs. nuclei centrally located. nuclei proportionate to the cell size. smooth muscle: nonstriated, tapering, mononucleate cells. nuclei centrally located. in cross section, the nuclei of many cells are not seen. nuclei, when seen, are large relative to the cell. </slidetext>
+      <slidetext slideid="5z9r51a7Icv.68p0vkrgIh1" slidebank="false" type="slide">next previous h4   quiz press or swipe next to start the quiz or skip to end h4. skip 26 welcome to the quiz for h4!  review h4 muscle tissue review h4 muscle tissue review h4 muscle tissue review h4 muscle tissue review h4 muscle tissue </slidetext>
+      <slidetext slideid="5z9r51a7Icv.6KXMkpgCcTp" slidebank="false" type="slide">at a neuromuscular junction, the synaptic terminal of a neuron communicates with the motor end plate of a skeletal muscle fibre at a neuromuscular junction, the synaptic terminal of a neuron communicates with the motor end plate of a skeletal muscle fibre at a neuromuscular junction, the synaptic terminal of a neuron communicates with the motor end plate of a skeletal muscle fibre at a neuromuscular junction, the synaptic terminal of a neuron communicates with the motor end plate of a skeletal muscle fibre at a neuromuscular junction, the synaptic terminal of a neuron communicates with the motor end plate of a skeletal muscle fibre at a neuromuscular junction, the synaptic terminal of a neuron communicates with the motor end plate of a skeletal muscle fibre acetylcholine is the neurotransmitter at skeletal muscle neuromuscular junctions acetylcholine is the neurotransmitter at skeletal muscle neuromuscular junctions acetylcholine is the neurotransmitter at skeletal muscle neuromuscular junctions acetylcholine is the neurotransmitter at skeletal muscle neuromuscular junctions acetylcholine is the neurotransmitter at skeletal muscle neuromuscular junctions acetylcholine is the neurotransmitter at skeletal muscle neuromuscular junctions acetylcholinesterase is an enzyme that is responsible for the production of acetylcholine in the synaptic terminal acetylcholinesterase is an enzyme that is responsible for the production of acetylcholine in the synaptic terminal acetylcholinesterase is an enzyme that is responsible for the production of acetylcholine in the synaptic terminal acetylcholinesterase is an enzyme that is responsible for the production of acetylcholine in the synaptic terminal acetylcholinesterase is an enzyme that is responsible for the production of acetylcholine in the synaptic terminal acetylcholinesterase is an enzyme that is responsible for the production of acetylcholine in the synaptic terminal the binding of acetylcholine to receptors on the surface of a muscle fibre initiates an electrical signal in the sarcolemma the binding of acetylcholine to receptors on the surface of a muscle fibre initiates an electrical signal in the sarcolemma the binding of acetylcholine to receptors on the surface of a muscle fibre initiates an electrical signal in the sarcolemma the binding of acetylcholine to receptors on the surface of a muscle fibre initiates an electrical signal in the sarcolemma the binding of acetylcholine to receptors on the surface of a muscle fibre initiates an electrical signal in the sarcolemma the binding of acetylcholine to receptors on the surface of a muscle fibre initiates an electrical signal in the sarcolemma an electrical signal along the transverse tubules causes the sarcoplasmic reticulum to actively take up ca2+ an electrical signal along the transverse tubules causes the sarcoplasmic reticulum to actively take up ca2+ an electrical signal along the transverse tubules causes the sarcoplasmic reticulum to actively take up ca2+ an electrical signal along the transverse tubules causes the sarcoplasmic reticulum to actively take up ca2+ an electrical signal along the transverse tubules causes the sarcoplasmic reticulum to actively take up ca2+ an electrical signal along the transverse tubules causes the sarcoplasmic reticulum to actively take up ca2+ in order for cross bridge binding to take place, the active sites on actin filaments must be uncovered in order for cross bridge binding to take place, the active sites on actin filaments must be uncovered in order for cross bridge binding to take place, the active sites on actin filaments must be uncovered in order for cross bridge binding to take place, the active sites on actin filaments must be uncovered in order for cross bridge binding to take place, the active sites on actin filaments must be uncovered in order for cross bridge binding to take place, the active sites on actin filaments must be uncovered 1. from the options listed below, choose the correct statement(s) regarding the neuromuscular junction and excitation-contraction coupling in skeletal muscle. submit h4   quiz </slidetext>
+      <slidetext slideid="5z9r51a7Icv.5cbF1WCisgf" slidebank="false" type="slide">multiple motor neurons synapse onto each muscle fibre multiple motor neurons synapse onto each muscle fibre multiple motor neurons synapse onto each muscle fibre multiple motor neurons synapse onto each muscle fibre multiple motor neurons synapse onto each muscle fibre multiple motor neurons synapse onto each muscle fibre the force generated by a muscle is proportional to the number of motor units recruited the force generated by a muscle is proportional to the number of motor units recruited the force generated by a muscle is proportional to the number of motor units recruited the force generated by a muscle is proportional to the number of motor units recruited the force generated by a muscle is proportional to the number of motor units recruited the force generated by a muscle is proportional to the number of motor units recruited larger motor units contain more motor neurons larger motor units contain more motor neurons larger motor units contain more motor neurons larger motor units contain more motor neurons larger motor units contain more motor neurons larger motor units contain more motor neurons muscles that must be precisely controlled have smaller motor units muscles that must be precisely controlled have smaller motor units muscles that must be precisely controlled have smaller motor units muscles that must be precisely controlled have smaller motor units muscles that must be precisely controlled have smaller motor units muscles that must be precisely controlled have smaller motor units all muscle fibres in a given motor unit contract at the same time all muscle fibres in a given motor unit contract at the same time all muscle fibres in a given motor unit contract at the same time all muscle fibres in a given motor unit contract at the same time all muscle fibres in a given motor unit contract at the same time all muscle fibres in a given motor unit contract at the same time 2. from the options listed below, choose the correct statement(s) regarding motor units in skeletal muscle. submit h4   quiz </slidetext>
+      <slidetext slideid="5z9r51a7Icv.5uQ8K86hsZP" slidebank="false" type="slide">gap junctions gap junctions gap junctions gap junctions gap junctions gap junctions tight junctions tight junctions tight junctions tight junctions tight junctions tight junctions fascia adherens fascia adherens fascia adherens fascia adherens fascia adherens fascia adherens hemidesmosomes hemidesmosomes hemidesmosomes hemidesmosomes hemidesmosomes hemidesmosomes desmosomes desmosomes desmosomes desmosomes desmosomes desmosomes 3. which cell junctions are present at intercalated discs? submit h4   quiz </slidetext>
+      <slidetext slideid="5z9r51a7Icv.5wpzDK3xrFR" slidebank="false" type="slide">4. identify the class of tissue. be specific. submit h4   quiz </slidetext>
+      <slidetext slideid="5z9r51a7Icv.6gxfwGg3hIs" slidebank="false" type="slide">5. identify the class of tissue. be specific. submit h4   quiz </slidetext>
+      <slidetext slideid="5z9r51a7Icv.5iLY2QIFDMP" slidebank="false" type="slide">6. identify the class of tissue. be specific. submit h4   quiz </slidetext>
+      <slidetext slideid="5z9r51a7Icv.5zabM2eJIhI" slidebank="false" type="slide">7. identify a. be specific. submit h4   quiz </slidetext>
+      <slidetext slideid="5z9r51a7Icv.6nQP1DCZV6G" slidebank="false" type="slide">8. identify the class of tissue. be specific. submit h4   quiz </slidetext>
+      <slidetext slideid="5z9r51a7Icv.6d0Z6SY0jke" slidebank="false" type="slide">9. identify the class of tissue. be specific. submit h4   quiz </slidetext>
+      <slidetext slideid="5z9r51a7Icv.5ibEHHcYlSy" slidebank="false" type="slide">10. identify a. be specific. submit h4   quiz </slidetext>
+      <slidetext slideid="5z9r51a7Icv.5pn6dA7Hm8z" slidebank="false" type="slide">11. identify the class of tissue. be specific. submit h4   quiz </slidetext>
+      <slidetext slideid="5z9r51a7Icv.5fLh0Hd526M" slidebank="false" type="slide">12. identify the structures at the tips of the arrows. submit h4   quiz </slidetext>
+      <slidetext slideid="5z9r51a7Icv.5tcUXOCc5hp" slidebank="false" type="slide">13. identify cardiac muscle tissue in longitudinal section and click on the letter of the corresponding image below.  h4   quiz </slidetext>
+      <slidetext slideid="5z9r51a7Icv.60L49VOEk3A" slidebank="false" type="slide">14. identify smooth muscle tissue in longitudinal section and click on the letter of the corresponding image below.  h4   quiz </slidetext>
+      <slidetext slideid="5z9r51a7Icv.6QwSQz6Hs35" slidebank="false" type="slide">15. identify skeletal muscle tissue in longitudinal section and click on the letter of the corresponding image below.  h4   quiz </slidetext>
+      <slidetext slideid="5z9r51a7Icv.6ks0Fns15QU" slidebank="false" type="slide">16. identify smooth muscle tissue in cross-section and click on the letter of the corresponding image below.  h4   quiz </slidetext>
+      <slidetext slideid="5z9r51a7Icv.6BAnvsB84bu" slidebank="false" type="slide">17. identify skeletal muscle tissue in cross section and click on the letter of the corresponding image below.  h4   quiz </slidetext>
+      <slidetext slideid="5z9r51a7Icv.6frw921drDH" slidebank="false" type="slide">18. identify cardiac muscle tissue in cross section and click on the letter of the corresponding image below.  h4   quiz </slidetext>
+      <slidetext slideid="5z9r51a7Icv.62SGGokGsFZ" slidebank="false" type="slide">congratulations on finishing h4 muscle tissue! review h4 review h4 review h4 previous h4   end of h4 </slidetext>
+      <slidetext slideid="6SpHYr8KLgU.5ehnvux3cMR" slidebank="false" type="slide">acknowledgements previous © 2019 author and emodule developer: barbara ballyk, ph.d. associate professor, teaching stream division of anatomy, department of surgery faculty of medicine, university of toronto emodule production: kristy cheung, b.sc.h., m.sc. candidate, clinical anatomy, western university gianluca sampieri, m.sc.md candidate class of 2021faculty of medicine, university of toronto albert gheorghita, m.sc.md candidate class of 2020faculty of medicine, university of toronto julian manzone, m.sc. md candidate class of 2019 faculty of medicine, university of toronto </slidetext>
+    </search>
+  </nav_data>
+  <resource_data description="" />
+  <transcript_data />
+  <glossary_data />
+</bwFrame>
